@@ -1,0 +1,56 @@
+10
+12
+1. Christiana Care Health Services, Inc.
+	4755 Ogletown-Stanton Road Newark 19718 (CMS:yes)
+	2.91 Christiana Hospital
+	 4755 Ogleton-Stanton Road Newark 19713
+2. Delaware Psychiatric Center
+	1901 N Dupont Highway New Castle 19720 (CMS:no)
+	0.84 Veterans Affairs Medical Center Wilmington
+	 1601 Kirkwood Highway Wilmington 19805
+3. Sun Behavioral Delaware Llc
+	21655 Biden Avenue Georgetown 19947 (CMS:no)
+	0.98 Nanticoke Memorial Hospital
+	 801 Middleford Road Seaford 19973
+4. Alfred I Dupont Hospital For Children
+	1600 Rockland Rd Po Box 269 Wilmington 19899 (CMS:yes)
+	2.66 Nemours/Alfred I. duPont Hospital for Children
+	 1600 Rockland Road Wilmington 19803
+5. Saint Francis Hospital
+	7Th And Clayton Sts Wilmington 19805 (CMS:yes)
+	2.91 Saint Francis Healthcare
+	 701 North Clayton Street Wilmington 19805
+6. Dover Behavioral Health System
+	725 Horsepond Road Dover 19901 (CMS:no)
+	1.27 Bayhealth Kent General
+	 640 South State Street Kent 19901
+7. Bayhealth Hospital, Sussex Campus
+	100 Wellness Way Milford 19963 (CMS:yes)
+	1.27 Nanticoke Memorial Hospital
+	 801 Middleford Road Seaford 19973
+8. Bayhealth Hospital, Kent Campus
+	640 S State Street Dover 19901 (CMS:yes)
+	2.22 Bayhealth Kent General
+	 640 South State Street Kent 19901
+9. Meadowwood Behavioral Health System
+	575 South Dupont Highway New Castle 19720 (CMS:no)
+	0.75 Christiana Hospital
+	 4755 Ogleton-Stanton Road Newark 19713
+10. Rockford Center
+	100 Rockford Drive Newark 19713 (CMS:yes)
+	2.07 Christiana Hospital
+	 4755 Ogleton-Stanton Road Newark 19713
+Found 10 issues.
+Unmatched emergency=yes
+Bayhealth Kent General (2.22)
+	 640 South State Street Kent 19901
+Unmatched emergency=yes
+Nemours/Alfred I. duPont Hospital for Children (2.66)
+	 1600 Rockland Road Wilmington 19803
+Unmatched emergency=yes
+Saint Francis Healthcare (2.91)
+	 701 North Clayton Street Wilmington 19805
+Unmatched emergency=yes
+Christiana Hospital (2.07)
+	 4755 Ogleton-Stanton Road Newark 19713
+Found 4 unmatched emergency.
