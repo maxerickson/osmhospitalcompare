@@ -1,0 +1,117 @@
+114
+97
+1. Beacon Children's Hospital
+	150 Hospital Drive Luverne 36049 (CMS:no)
+	2.21 Crenshaw Community Hospital
+	 101 Hospital Circle Luverne 36037
+Saint Vincents Blount
+	 150 Gilbreath Drive Oneonta 35121
+	 Emergency Mismatch (CMS:no)
+	 Saint Vincent's Blount
+2. Regional Medical Center Of Central Alabama
+	29 L V Stabler Drive Greenville 36037 (CMS:yes)
+	3.01 L. V. Stabler Memorial Hospital
+	 29 LV Stabler Drive Greenville 36037
+3. Medical West, An Affiliate Of Uab Health System
+	995 9Th Avenue Southwest Bessemer 35021 (CMS:yes)
+	2.78 Medical West Hospital
+	 995 9th Avenue Southwest Bessemer 35022
+4. Baypointe Behavioral Health
+	5800 Southland Drive Mobile 36693 (CMS:no)
+	1.66 Providence Hospital
+	 6801 Airport Boulevard Mobile 36685
+5. Unity Psychiatric Care - Huntsville
+	5315 Millenium Drive, Nw Huntsville 35806 (CMS:no)
+	1.99 Crestwood Medical Center
+	 1 Hospital Drive Southwest Huntsville 35801
+6. Baptist Medical Center East
+	400 Taylor Road Montgomery 36117 (CMS:yes)
+	2.59 Baptist Medical Center South
+	 2105 East South Boulevard Montgomery 36116
+7. North Alabama Medical Center
+	1701 Veterans Drive Florence 35630 (CMS:yes)
+	2.13 Eliza Coffee Memorial Hospital
+	 205 South Marengo Street Florence 35630
+8. Mobile Infirmary Medical Center
+	5 Mobile Infirmary Circle Mobile 36652 (CMS:yes)
+	1.81 Providence Hospital
+	 6801 Airport Boulevard Mobile 36685
+9. Mary S Harper Geriatric Psychiatry Center
+	201 University Blvd Tuscaloosa 35401 (CMS:yes)
+	2.63 DCH Regional Medical Center
+	 809 University Boulevard East Tuscaloosa 35401
+10. Eastpointe Hospital
+	7400 Roper Lane Daphne 36526 (CMS:yes)
+	1.28 Thomas Hospital
+	 750 Morphy Avenue Thomas 36532
+11. Thomas Hospital
+	750 Morphy Avenue Fairhope 36532 (CMS:yes)
+	3.08 Thomas Hospital
+	 750 Morphy Avenue Thomas 36532
+12. Community Hospital Inc
+	805 Friendship Road Tallassee 36078 (CMS:yes)
+	1.39 Lake Martin Community Hospital
+	 201 Mariarden Road Dadeville 36853
+13. Walker Baptist Medical Center
+	3400 Highway 78 East Jasper 35502 (CMS:yes)
+	2.92 Walker Baptist Medical Center
+	 3400 US 78 Jasper 35501
+14. Sanctuary At The Woodlands, The
+	1910 Cherokee Avenue, Sw Cullman 35055 (CMS:no)
+	3.09 The Sanctuary at the Woodlands
+	 1910 Cherokee Avenue Southwest Cullman 35056
+15. University Of Alabama Hospital
+	619 South 19Th Street Birmingham 35233 (CMS:yes)
+	2.44 UAB Hospital
+	 1802 6th Avenue South Birmingham 35233
+16. Bryce Hospital
+	200 University Blvd Tuscaloosa 35401 (CMS:no)
+	3.01 Bryce Hospital
+	 - - Tuscaloosa 35401
+Found 16 issues.
+Unmatched emergency=yes
+Georgiana Medical Center (0.00)
+	 515 Miranda Avenue Georgiana 36033
+Unmatched emergency=yes
+Parkway Campus (0.00)
+	 1874 Beltline Road Southwest Decatur 35603
+Unmatched emergency=yes
+Northport Medical Center (0.00)
+	 2700 Hospital Drive Northport 35476
+Unmatched emergency=yes
+Northeast Alabama Regional Medical Center-Jacksonville (0.00)
+	 1701 Pelham Road South Jacksonville 36265
+Unmatched emergency=yes
+Mobile Infirmary (0.00)
+	 5 Mobile Infirmary Circle - -
+Unmatched emergency=yes
+Eliza Coffee Memorial Hospital (2.13)
+	 205 South Marengo Street Florence 35630
+Unmatched emergency=yes
+Madison Hospital (0.00)
+	 8375 Highway 72 West Madison 35758
+Unmatched emergency=yes
+UAB Hospital (2.44)
+	 1802 6th Avenue South Birmingham 35233
+Unmatched emergency=yes
+UAB Hospital Highlands (0.00)
+	 1201 11th Avenue South Birmingham 35205
+Unmatched emergency=yes
+Walker Baptist Medical Center (2.92)
+	 3400 US 78 Jasper 35501
+Unmatched emergency=yes
+Medical West Hospital (2.78)
+	 995 9th Avenue Southwest Bessemer 35022
+Unmatched emergency=yes
+Thomas Hospital (3.08)
+	 750 Morphy Avenue Thomas 36532
+Unmatched emergency=yes
+L. V. Stabler Memorial Hospital (3.01)
+	 29 LV Stabler Drive Greenville 36037
+Unmatched emergency=yes
+Lanier Health Services (0.00)
+	 4800 48th Street Valley 36854
+Unmatched emergency=yes
+Marshall Medical Center North (0.00)
+	 8000 AL 69 Guntersville 35976
+Found 15 unmatched emergency.
