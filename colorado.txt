@@ -1,4 +1,4 @@
-164
+165
 91
 1. Southwest Memorial Hospital
 	1311 N Mildred Rd Cortez 81321 (CMS:yes)
@@ -8,15 +8,7 @@
 	4747 Arapahoe Avenue Boulder 80303 (CMS:yes)
 	1.11 Penrose Hospital
 	 2222 North Nevada Avenue Colorado Springs 80907
-3. Centennial Peaks Hospital
-	2255 S 88Th St Louisville 80027 (CMS:no)
-	2.11 Avista Adventist Campus
-	 100 Health Park Drive Louisville 80027
-4. Uchealth Grandview Hospital
-	5623 Pulpit Peak View Colorado Springs 80918 (CMS:yes)
-	1.82 Flying Horse Medical & Aesthetics Center
-	 1615 Silversmith Road Colorado Springs 80921
-5. Peak View Behavioral Health
+3. Peak View Behavioral Health
 	7353 Sisters Grove Colorado Springs 80923 (CMS:no)
 	1.96 Memorial Hospital North
 	 4050 Briargate Parkway Colorado Springs 80920
@@ -24,7 +16,7 @@ Orthocolorado Hospital At Saint Anthony Med Campus
 	 11650 West 2nd Place Lakewood 80228
 	 Emergency Mismatch (CMS:yes)
 	 OrthoColorado Hospital
-6. University Of Colorado Hospital Authority
+4. University Of Colorado Hospital Authority
 	12605 E 16Th Ave Aurora 80045 (CMS:yes)
 	2.61 Children's Hospital Colorado Anschutz Medical Campus, Aurora
 	 13123 East 16th Avenue Aurora 80045
@@ -36,35 +28,35 @@ Sedgwick County Memorial Hospital
 	 900 Cedar Street Julesburg 80737
 	 Emergency Mismatch (CMS:no)
 	 Sedgwick County Memorial Hospital
-7. Longs Peak Hospital
+5. Longs Peak Hospital
 	1750 East Ken Pratt Boulevard Longmont 80504 (CMS:yes)
 	2.19 Longmont United Hospital
 	 1950 Mountain View Avenue Longmont 80501
-8. West Springs Hospital
+6. West Springs Hospital
 	515 28 3/4 Rd Grand Junction 81501 (CMS:no)
 	2.20 Saint Mary's Medical Center
 	 2635 North 7th Street Grand Junction 81501
-9. Colorado Mental Health Institute At Fort Logan
+7. Colorado Mental Health Institute At Fort Logan
 	3520 W Oxford Ave Denver 80236 (CMS:no)
 	2.00 Memory Care at The Gardens
 	 10200 East Harvard Avenue Denver 80231
-10. Colorado Mental Health Institute At Pueblo-Psych
+8. Colorado Mental Health Institute At Pueblo-Psych
 	1600 W 24Th St Pueblo 81003 (CMS:yes)
 	2.38 Parkview Medical Center
 	 400 West 16th Street Pueblo 81003
-11. Saint Vincent General Hospital District
+9. Saint Vincent General Hospital District
 	822 W 4Th St Leadville 80461 (CMS:yes)
 	2.93 St Vincent Hospital
 	 822 West 4th Street Leadville 80461
-12. Denver Springs
+10. Denver Springs
 	8835 American Way Englewood 80112 (CMS:no)
 	1.85 Craig Hospital
 	 3425 South Clarkson Street Englewood 80113
-13. Centura Health-Penrose-Saint Francis Health Services
+11. Centura Health-Penrose-Saint Francis Health Services
 	2222 North Nevada Ave Colorado Springs 80907 (CMS:yes)
 	2.98 Penrose Hospital
 	 2222 North Nevada Avenue Colorado Springs 80907
-14. Vail Health Hospital
+12. Vail Health Hospital
 	181 W Meadow Dr Vail 81657 (CMS:yes)
 	3.06 Vail Health Vail Campus
 	 181 West Meadow Drive Vail 81657
@@ -72,23 +64,23 @@ Saint Anthony Summit Medical Center
 	 340 Peak One Drive Frisco 80443
 	 Emergency Mismatch (CMS:no)
 	 Saint Anthony Summit Medical Center
-15. Cedar Springs Behavioral Health System
+13. Cedar Springs Behavioral Health System
 	2135 Southgate Rd Colorado Springs 80906 (CMS:yes)
 	1.90 Memorial Hospital North
 	 4050 Briargate Parkway Colorado Springs 80920
-16. Children's Hospital Colorado
+14. Children's Hospital Colorado
 	13123 E 16Th Ave Aurora 80045 (CMS:yes)
 	3.03 Children's Hospital Colorado Anschutz Medical Campus, Aurora
 	 13123 East 16th Avenue Aurora 80045
-17. Clear View Behavioral Health
+15. Clear View Behavioral Health
 	4770 Larimer Pkwy Johnstown 80534 (CMS:no)
 	1.04 Highlands Behavioral Health
 	 8565 South Poplar Way Littleton 80130
-18. Evans Ach (Fort Carson)
+16. Evans Ach (Fort Carson)
 	Fort Carson Meddac 1650 Cochrane Circle Fort Carson Fort Carson 80913 (CMS:yes)
 	2.46 Evans Army Community Hospital
 	 1650 West Cochrane Circle Fort Carson 80913
-Found 18 issues.
+Found 16 issues.
 Unmatched emergency=yes
 University of Colorado Hospital (0.00)
 	 12605 East 16th Avenue - 80045
@@ -197,7 +189,4 @@ East Morgan County Hospital (0.00)
 Unmatched emergency=yes
 Lutheran Medical Center (0.00)
 	 8300 West 38th Avenue Wheat Ridge 80033
-Unmatched emergency=yes
-UCHealth Grandview Hospital (0.00)
-	 - - - -
-Found 37 unmatched emergency.
+Found 36 unmatched emergency.

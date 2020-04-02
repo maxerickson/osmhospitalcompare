@@ -1,0 +1,178 @@
+200
+147
+1. Riverwoods Behavioral Health System
+	223 Medical Center Drive Riverdale 30274 (CMS:no)
+	2.26 Southern Regional Medical Center
+	 11 Upper Riverdale Road Southwest Riverdale 30274
+2. Children's Healthcare Of Atlanta At Scottish Rite
+	1001 Johnson Ferry Road Atlanta 30342 (CMS:yes)
+	2.80 Scottish Rite Hospital
+	 1001 Johnson Ferry Parkway Atlanta 30342
+3. Piedmont Walton Hospital, Inc
+	2151 W Spring Street Monroe 30655 (CMS:yes)
+	3.02 Clearview Regional Medical Center
+	 2151 West Spring Street Monroe 30655
+4. Greenleaf Center
+	2209 Pineview Drive Valdosta 31602 (CMS:no)
+	2.34 South Georgia Medical Center
+	 2501 North Patterson Street Valdosta 31602
+Candler Hospital
+	 5353 Reynolds Street Savannah 31405
+	 Emergency Mismatch (CMS:yes)
+	 Candler Hospital
+5. Southwell Medical, A Campus Of Trmc
+	260 Mj Taylor Road Adel 31620 (CMS:yes)
+	2.31 Cook Medical Center
+	 706 North Parrish Avenue Adel 31620
+6. Morgan Medical Center
+	1740 Lions Club Road Madison 30650 (CMS:yes)
+	2.50 Morgan Memorial Hospital
+	 1077 South Main Street Madison 30650
+7. Ridgeview Institute
+	3995 S Cobb Drive, Se Smyrna 30080 (CMS:no)
+	2.47 Ridgeview Institute - Smyrna
+	 3995 South Cobb Drive Smyrna 30311
+8. Children's Healthcare Of Atlanta At Egleston
+	1405 Clifton Road, Ne Atlanta 30322 (CMS:yes)
+	2.76 Egleston Hospital
+	 1405 Clifton Road Northeast Atlanta 30322
+9. Piedmont Rockdale Hospital
+	1412 Milstead Avenue, Ne Conyers 30012 (CMS:no)
+	2.97 Rockdale Medical Center
+	 1412 Milstead Avenue Northeast Conyers 30012
+10. Piedmont Columbus Regional Midtown
+	710 Center Street Columbus 31901 (CMS:yes)
+	2.70 Midtown Medical Center
+	 710 Center Street Columbus 31904
+Peachford Behavioral Health System Of Atlanta
+	 2151 Peachford Road Atlanta 30338
+	 Emergency Mismatch (CMS:yes)
+	 Peachford Hospital
+Irwin County Hospital
+	 710 North Irwin Avenue Ocilla 31774
+	 Emergency Mismatch (CMS:no)
+	 Irwin County Hospital
+Georgia Regional Hosp Savannah
+	 1915 Eisenhower Drive Savannah 31406
+	 Emergency Mismatch (CMS:yes)
+	 Georgia Regional Hospital
+11. Dwight Eisenhower Amc (Fort Gordon)
+	300 East Hospital Road Fort Gordon 30905 (CMS:yes)
+	3.00 Eisenhower Army Medical Center
+	 300 Hospital Road Fort Gordon 30905
+12. Grady Memorial Hospital
+	80 Jesse Hill, Jr Drive Se Atlanta 30303 (CMS:yes)
+	2.86 Hughes Spalding Hospital
+	 35 Jesse Hill Junior Drive Southeast Atlanta 30303
+Wellstar Sylvan Grove Hospital
+	 1040 McDonough Road Jackson 30233
+	 Emergency Mismatch (CMS:no)
+	 WellStar Sylvan Grove Hospital
+13. Mountain Lakes Medical Center
+	162 Legacy Point Clayton 30525 (CMS:yes)
+	3.07 Mountain Lakes Medical Center
+	 196 Ridgecrest Circle Clayton 30525
+14. Polk Medical Center
+	2360 Rockmart Highway Cedartown 30125 (CMS:yes)
+	1.74 Mountain Lakes Medical Center
+	 196 Ridgecrest Circle Clayton 30525
+Piedmont Columbus Regional Northside
+	 100 Frist Court Columbus 31909
+	 Emergency Mismatch (CMS:no)
+	 Piedmont Columbus Regional Northside Campus
+15. Floyd Medical Center
+	304 Turner Mccall Blvd P O Box 233 Rome 30162 (CMS:yes)
+	3.03 Floyd Medical Center
+	 304 Turner McCall Boulevard Rome 30165
+16. Martin Ach (Fort Benning)
+	7950 Martin Loop Fort Benning 31905 (CMS:yes)
+	1.04 Eisenhower Army Medical Center
+	 300 Hospital Road Fort Gordon 30905
+17. Northside Hospital Gwinnett
+	1000 Medical Center Boulevard Lawrenceville 30045 (CMS:yes)
+	2.74 Gwinnett Medical Center
+	 1000 Medical Center Boulevard Lawrenceville 30046
+18. Appling Hospital
+	163 E Tollison Street Baxley 31513 (CMS:yes)
+	2.80 Appling HealthCare System
+	 163 East Tollison Street Baxley 31515
+19. So Crescent Beh Hlth Sys - Anchor Hospital Campus
+	5454 Yorktowne Drive College Park 30349 (CMS:no)
+	1.17 WellStar Douglas Hospital
+	 8954 Hospital Drive Douglasville 30134
+Flint River Community Hospital
+	 509 Sumter Street Montezuma 31063
+	 Emergency Mismatch (CMS:no)
+	 Flint River Hospital
+20. Emory Decatur Hospital
+	2701 N Decatur Road Decatur 30033 (CMS:yes)
+	2.90 DeKalb Medical
+	 2701 North Decatur Road Decatur 30033
+Found 20 issues.
+Unmatched emergency=yes
+Eisenhower Army Medical Center (1.04)
+	 300 Hospital Road Fort Gordon 30905
+Unmatched emergency=yes
+Bowdon animal hospital (0.00)
+	 145 City Hall Avenue Bowdon 30108
+Unmatched emergency=yes
+Clearview Regional Medical Center (3.02)
+	 2151 West Spring Street Monroe 30655
+Unmatched emergency=yes
+Rockdale Medical Center (2.97)
+	 1412 Milstead Avenue Northeast Conyers 30012
+Unmatched emergency=yes
+DeKalb Medical (2.90)
+	 2701 North Decatur Road Decatur 30033
+Unmatched emergency=yes
+Gwinnett Medical Center (2.74)
+	 1000 Medical Center Boulevard Lawrenceville 30046
+Unmatched emergency=yes
+Floyd Medical Center (3.03)
+	 304 Turner McCall Boulevard Rome 30165
+Unmatched emergency=yes
+Cook Medical Center (2.31)
+	 706 North Parrish Avenue Adel 31620
+Unmatched emergency=yes
+Mountain Lakes Medical Center (1.74)
+	 196 Ridgecrest Circle Clayton 30525
+Unmatched emergency=yes
+Charlie Norwood VA Medical Center -Downtown Division (0.00)
+	 950 15th Street Augusta 30901
+Unmatched emergency=yes
+Children's Hospital of Georgia (0.00)
+	 1446 Harper Street Augusta 30912
+Unmatched emergency=yes
+Trinity Hospital (0.00)
+	 2260 Wrightsboro Road Augusta 30904
+Unmatched emergency=yes
+Memorial University Medical Center (0.00)
+	 4700 Waters Avenue Savannah 31404
+Unmatched emergency=yes
+Phoebe Putney Memorial Hospital North Campus (0.00)
+	 2000 Palmyra Road Albany 31701
+Unmatched emergency=yes
+Appling HealthCare System (2.80)
+	 163 East Tollison Street Baxley 31515
+Unmatched emergency=yes
+Midtown Medical Center (2.70)
+	 710 Center Street Columbus 31904
+Unmatched emergency=yes
+Morgan Memorial Hospital (2.50)
+	 1077 South Main Street Madison 30650
+Unmatched emergency=yes
+WellStar Atlanta Medical Center South (0.00)
+	 1170 East Cleveland Avenue East Point 30344
+Unmatched emergency=yes
+Scottish Rite Hospital (2.80)
+	 1001 Johnson Ferry Parkway Atlanta 30342
+Unmatched emergency=yes
+Egleston Hospital (2.76)
+	 1405 Clifton Road Northeast Atlanta 30322
+Unmatched emergency=yes
+Hughes Spalding Hospital (2.86)
+	 35 Jesse Hill Junior Drive Southeast Atlanta 30303
+Unmatched emergency=yes
+Grady Health System (0.00)
+	 - - - -
+Found 22 unmatched emergency.
