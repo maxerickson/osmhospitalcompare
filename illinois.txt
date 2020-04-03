@@ -1,0 +1,307 @@
+244
+194
+1. Choate Mental Health & Development Ctr
+	1000 N Main St Anna 62906 (CMS:no)
+	2.44 Union County Hospital
+	 517 North Main Street Anna 62906
+2. Mercy Harvard Hospital
+	901 S Grant Street Harvard 60033 (CMS:yes)
+	2.46 Mercyhealth Hospital and Medical Center-Harvard
+	 901 Grant Street Harvard 60410
+Midwestern Region Med Center
+	 2520 Elisha Avenue Zion 60099
+	 Emergency Mismatch (CMS:yes)
+	 Cancer Treatment Centers of America at Midwestern Regional Medical Center
+3. Presence Saints Mary And Elizabeth Medical Center
+	2233 W Division St Chicago 60622 (CMS:yes)
+	3.05 Presence Saint Mary Campus
+	 2233 West Division Street Chicago 60622
+4. Presence Saint Joseph Hospital - Chicago
+	2900 North Lake Shore Drive Chicago 60657 (CMS:yes)
+	3.09 Presence Saint Joseph Hospital
+	 2900 North Lake Shore Drive Chicago 60613
+Adventist Glenoaks
+	 701 Winthrop Avenue Glendale Heights 60139
+	 Emergency Mismatch (CMS:no)
+	 AMITA Health Adventist Medical Center
+5. Community Memorial Hospital
+	400 N Caldwell St Staunton 62088 (CMS:yes)
+	3.09 Community Hospital of Staunton
+	 400 Caldwell Street Staunton 62088
+6. Morris Hospital & Healthcare Centers
+	150 W High St Morris 60450 (CMS:yes)
+	2.97 Morris Hospital
+	 150 West High Street Morris 60450
+7. Metro-East Services Inc
+	1404 Cross Street Shiloh 62269 (CMS:yes)
+	3.10 Memorial Hospital East
+	 1404 Cross Street Shiloh 62269
+8. Illini Community Hospital
+	640 W Washington Pittsfield 62363 (CMS:yes)
+	2.94 Illini Community Hospital
+	 640 West Washington Street Pittsfield 61036
+9. Proctor Hospital
+	5409 N Knoxville Ave Peoria 61614 (CMS:yes)
+	2.83 UnityPoint Health - Proctor
+	 5409 North Knoxville Avenue Peoria 61614
+10. Memorial Medical Center
+	701 N First St Springfield 62702 (CMS:yes)
+	2.78 Memorial Medical Center
+	 701 North 1st Street Springfield 62781
+11. Adventist La Grange Memorial Hospital
+	5101 S Willow Springs Rd La Grange 60525 (CMS:yes)
+	2.99 AMITA Health Adventist Medical Center La Grange
+	 5101 South Willow Springs Road La Grange 60525
+12. Andrew Mcfarland Mental Hlth Ctr
+	901 Southwind Rd Springfield 62703 (CMS:no)
+	2.16 West Lake Recovery Center
+	 200 West Lake Shore Drive Springfield 62703
+13. Greenville Regional Hospital
+	200 Health Care Dr Greenville 62246 (CMS:yes)
+	3.06 Holy Family Hospital
+	 200 Health Care Drive Greenville 62246
+14. Bhc Streamwood Hospital Inc
+	1400 E Irving Park Road Streamwood 60107 (CMS:yes)
+	1.30 Thorek Memorial Hospital
+	 850 West Irving Park Road Chicago 60613
+15. Chicago Behavioral Hospital
+	555 Wilson Lane Des Plaines 60016 (CMS:no)
+	2.12 Presence Holy Family Medical Center
+	 100 North River Road Des Plaines 60016
+Saint James Hospital
+	 2500 West Reynolds Street Pontiac 61764
+	 Emergency Mismatch (CMS:no)
+	 OSF Saint James - John W. Albrecht Medical Center
+16. John H Stroger Jr Hospital
+	1901 W Harrison St Chicago 60612 (CMS:yes)
+	2.67 John H. Stroger, Jr. Hospital of Cook County
+	 1969 West Ogden Avenue Chicago 60612
+17. Blessing Hospital
+	Broadway St & N 11Th St Quincy 62305 (CMS:yes)
+	2.81 Blessing Hospital
+	 - 11th & Broadway Quincy 62301
+18. Northwestern Medicine Mchenry Hospital
+	4201 Medical Center Drive Mchenry 60050 (CMS:no)
+	2.91 Centegra Hospital-McHenry
+	 4201 Medical Center Drive McHenry 60050
+19. Methodist Medical Center Of Illinois
+	221 N E Glen Oak Ave Peoria 61636 (CMS:yes)
+	2.62 UnityPoint Health - Methodist
+	 221 Northeast Glen Oak Avenue Peoria 61636
+20. Trinity Rock Island
+	2701 17Th St Rock Island 61201 (CMS:yes)
+	2.71 UnityPoint Health - Trinity
+	 2701 17th Street Rock Island 61201
+21. Saint Margarets Hospital
+	600 E 1St St Spring Valley 61362 (CMS:yes)
+	2.62 Saint Margaret's Hospital
+	 600 East 1st Street Spring Valley 60420
+22. Lake Behavioral Hospital
+	2615 W Washington St Waukegan 60085 (CMS:yes)
+	2.82 Vista Medical Center West
+	 2615 Washington Street Waukegan 60085
+23. Northshore University Healthsystem Evanston Hosp
+	2650 Ridge Ave Evanston 60201 (CMS:yes)
+	2.98 Evanston Hospital
+	 2650 Ridge Avenue Evanston 60201
+24. Linden Oaks Hospital
+	852 S West Street Naperville 60540 (CMS:no)
+	2.80 Edward Hospital
+	 801 South Washington Street Naperville 60540
+25. Adventist Hinsdale Hospital
+	120 North Oak St Hinsdale 60521 (CMS:yes)
+	3.03 AMITA Health Adventist Medical Center, Hinsdale
+	 120 North Oak Street Hinsdale 60521
+26. Gibson Community Hospital
+	1120 N Melvin Street Gibson City 60936 (CMS:yes)
+	3.08 Gibson Area Hospital & Health Services
+	 1120 North Melvin Street Gibson City 60936
+27. Advocate Condell Medical Center
+	801 S Milwaukee Ave Libertyville 60048 (CMS:yes)
+	3.00 Condell Memorial Hospital
+	 801 South Milwaukee Avenue Libertyville 60048
+28. Mt Sinai Hospital Medical Center
+	15Th Street At California Chicago 60608 (CMS:yes)
+	2.58 Mount Sinai Hospital
+	 1500 South Fairfield Avenue Chicago 60608
+29. Saint Josephs Hospital
+	9515 Holy Cross Ln Breese 62230 (CMS:yes)
+	2.50 HSHS St. Joseph's Hospital - Breese
+	 9515 Holy Cross Lane Breese 60050
+30. Larabida Childrens Hospital I
+	E 65Th St At Lake Michigan Chicago 60649 (CMS:no)
+	2.30 La Rabida Children's Hospital
+	 6501 South Promontory Drive Chicago 60637
+Aurora Chicago Lakeshore Hospital
+	 4840 North Marine Drive Chicago 60640
+	 Emergency Mismatch (CMS:yes)
+	 Chicago Lakeshore Hospital
+31. Osf Sacred Heart Medical Center
+	812 N Logan Ave Danville 61832 (CMS:yes)
+	3.03 Presence United Samaritans Medical Center
+	 812 North Logan Avenue Danville 61832
+32. Kishwaukee Community Hospital
+	1 Kish Hospital Drive Dekalb 60115 (CMS:yes)
+	2.99 Northwestern Medicine Kishwaukee Hospital
+	 1 Kish Hospital Drive DeKalb 60115
+Vista Medical Center East
+	 1324 North Sheridan Road Waukegan 60085
+	 Emergency Mismatch (CMS:no)
+	 Vista Medical Center East
+33. Advocate Bromenn Medical Center
+	1304 Franklin Avenue Normal 61761 (CMS:yes)
+	3.01 Advocate BroMenn Medical Center
+	 - - Normal 61761
+34. Pavilion Foundation, The
+	809 W Church St Champaign 61820 (CMS:no)
+	2.93 The Pavilion Behavioral Health System
+	 809 West Church Street Champaign 61820
+Found 34 issues.
+Unmatched emergency=yes
+Ronald McDonald ® Children's Hospital (0.00)
+	 2160 South 1st Avenue Maywood 60153
+Unmatched emergency=yes
+Springfield Clinic Wabash (0.00)
+	 2200 Wabash Avenue Springfield 62705
+Unmatched emergency=yes
+Advocate Condell Medical Center: Emergency Room (0.00)
+	 639 South Stewart Avenue Libertyville 60048
+Unmatched emergency=yes
+Advocate Children's Hospital (0.00)
+	 4440 West 95th Street Oak Lawn 60453
+Unmatched emergency=yes
+Northwestern Medicine (0.00)
+	 870 Milwaukee Avenue Vernon Hills 60061
+Unmatched emergency=yes
+Evanston Hospital (2.98)
+	 2650 Ridge Avenue Evanston 60201
+Unmatched emergency=yes
+Skokie Hospital (0.00)
+	 9600 Gross Point Road Skokie 60076
+Unmatched emergency=yes
+Presence Saint Mary Campus (3.05)
+	 2233 West Division Street Chicago 60622
+Unmatched emergency=yes
+Edward Outpatient Center - Plainfield (0.00)
+	 24600 West 127th Street Plainfield 60451
+Unmatched emergency=yes
+John H. Stroger, Jr. Hospital of Cook County (2.67)
+	 1969 West Ogden Avenue Chicago 60612
+Unmatched emergency=yes
+Presence Saint Joseph Hospital (3.09)
+	 2900 North Lake Shore Drive Chicago 60613
+Unmatched emergency=yes
+Blessing Hospital (2.81)
+	 - 11th & Broadway Quincy 62301
+Unmatched emergency=yes
+AMITA Health Adventist Medical Center, Hinsdale (3.03)
+	 120 North Oak Street Hinsdale 60521
+Unmatched emergency=yes
+Trinity Medical Center (0.00)
+	 500 John Deere Road Moline 61265
+Unmatched emergency=yes
+Northwestern Medicine Grayslake Outpatient Center (0.00)
+	 1475 East Belvidere Road Grayslake 60030
+Unmatched emergency=yes
+Mount Sinai Hospital (2.58)
+	 1500 South Fairfield Avenue Chicago 60608
+Unmatched emergency=yes
+UnityPoint Health - Trinity (2.71)
+	 2701 17th Street Rock Island 61201
+Unmatched emergency=yes
+Hines Veterans Administration Hospital (0.00)
+	 5000 South 5th Avenue Hines 60141
+Unmatched emergency=yes
+AMITA Health Adventist Medical Center La Grange (2.99)
+	 5101 South Willow Springs Road La Grange 60525
+Unmatched emergency=yes
+Centegra Hospital-Woodstock (0.00)
+	 3701 Doty Road Woodstock 60098
+Unmatched emergency=yes
+Condell Memorial Hospital (3.00)
+	 801 South Milwaukee Avenue Libertyville 60048
+Unmatched emergency=yes
+OSF Center for Health - Streator (0.00)
+	 111 Spring Street Streator 61364
+Unmatched emergency=yes
+Captain James A. Lovell Federal Health Care Center (0.00)
+	 3001 Green Bay Road North Chicago 60064
+Unmatched emergency=yes
+Centegra Hospital-McHenry (2.91)
+	 4201 Medical Center Drive McHenry 60050
+Unmatched emergency=yes
+Illini Community Hospital (2.94)
+	 640 West Washington Street Pittsfield 61036
+Unmatched emergency=yes
+Mercyhealth Hospital and Medical Center-Harvard (2.46)
+	 901 Grant Street Harvard 60410
+Unmatched emergency=yes
+Franciscan Health Dyer (0.00)
+	 24 Joliet Street Dyer 46311
+Unmatched emergency=yes
+Jesse Brown VA Medical Center (0.00)
+	 820 South Damen Avenue Chicago 60612
+Unmatched emergency=yes
+Highland Park Hospital (0.00)
+	 777 Park Avenue West Highland Park 60035
+Unmatched emergency=yes
+Holy Family Hospital (3.06)
+	 200 Health Care Drive Greenville 62246
+Unmatched emergency=yes
+Memorial Hospital (0.00)
+	 4500 Memorial Drive Belleville 62226
+Unmatched emergency=yes
+Community Hospital of Staunton (3.09)
+	 400 Caldwell Street Staunton 62088
+Unmatched emergency=yes
+Presence United Samaritans Medical Center (3.03)
+	 812 North Logan Avenue Danville 61832
+Unmatched emergency=yes
+Memorial Medical Center (2.78)
+	 701 North 1st Street Springfield 62781
+Unmatched emergency=yes
+Gibson Area Hospital & Health Services (3.08)
+	 1120 North Melvin Street Gibson City 60936
+Unmatched emergency=yes
+Advocate BroMenn Medical Center (3.01)
+	 - - Normal 61761
+Unmatched emergency=yes
+UnityPoint Health - Methodist (2.62)
+	 221 Northeast Glen Oak Avenue Peoria 61636
+Unmatched emergency=yes
+UnityPoint Health - Proctor (2.83)
+	 5409 North Knoxville Avenue Peoria 61614
+Unmatched emergency=yes
+Saint Margaret's Hospital (2.62)
+	 600 East 1st Street Spring Valley 60420
+Unmatched emergency=yes
+Northwestern Medicine Kishwaukee Hospital (2.99)
+	 1 Kish Hospital Drive DeKalb 60115
+Unmatched emergency=yes
+Morris Hospital (2.97)
+	 150 West High Street Morris 60450
+Unmatched emergency=yes
+Northwestern Medicine Huntley Hospital (0.00)
+	 10400 Haligus Road Huntley 60142
+Unmatched emergency=yes
+Vista Lindenhurst Campus (0.00)
+	 1050 Red Oak Lane Lindenhurst 60046
+Unmatched emergency=yes
+Vista Medical Center West (2.82)
+	 2615 Washington Street Waukegan 60085
+Unmatched emergency=yes
+Glenbrook Hospital (0.00)
+	 2100 Pfingsten Road Glenbrook 60026
+Unmatched emergency=yes
+Presence Holy Family Medical Center (2.12)
+	 100 North River Road Des Plaines 60016
+Unmatched emergency=yes
+Loretto Hospital (0.00)
+	 645 South Central Avenue Chicago 60644
+Unmatched emergency=yes
+HSHS St. Joseph's Hospital - Breese (2.50)
+	 9515 Holy Cross Lane Breese 60050
+Unmatched emergency=yes
+Memorial Hospital East (3.10)
+	 1404 Cross Street Shiloh 62269
+Found 49 unmatched emergency.

@@ -1,0 +1,40 @@
+26
+25
+1. Kaiser Foundation Hospital
+	3288 Moanalua Rd Honolulu 96819 (CMS:yes)
+	2.99 Kaiser Permanente Moanalua Medical Center
+	 3288 Moanalua Road Honolulu 96819
+2. Kahi Mohala
+	91-2301 Fort Weaver Road Ewa Beach 96706 (CMS:no)
+	2.85 The Queen's Medical Center - West Oahu
+	 91-2141 Fort Weaver Road Ewa Beach 96706
+3. Tripler Amc (Fort Shafter)
+	1 Jarrett White Rd Honolulu 96859 (CMS:yes)
+	1.82 Kaiser Permanente Moanalua Medical Center
+	 3288 Moanalua Road Honolulu 96819
+Maui Memorial Medical Center
+	 221 Mahalani Street Wailuku 96793
+	 Emergency Mismatch (CMS:no)
+	 Maui Memorial Medical Center
+4. Shriners Hospital For Children
+	1310 Punahou Street Honolulu 96826 (CMS:no)
+	3.09 Kapi'olani Medical Center for Women and Children
+	 1319 Punahou Street Honolulu 96826
+5. Adventist Health Castle
+	640 Ulukahiki St Kailua 96734 (CMS:yes)
+	2.86 Castle Medical Center
+	 640 Ulukahiki Street Kailua 96734
+Found 5 issues.
+Unmatched emergency=yes
+Kaiser Permanente Moanalua Medical Center (1.82)
+	 3288 Moanalua Road Honolulu 96819
+Unmatched emergency=yes
+Hana Health (0.00)
+	 - - - -
+Unmatched emergency=yes
+Castle Medical Center (2.86)
+	 640 Ulukahiki Street Kailua 96734
+Unmatched emergency=yes
+The Queen's Medical Center - West Oahu (2.85)
+	 91-2141 Fort Weaver Road Ewa Beach 96706
+Found 4 unmatched emergency.

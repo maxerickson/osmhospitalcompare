@@ -1,0 +1,119 @@
+136
+118
+1. Compass Memorial Healthcare
+	300 W May St Marengo 52301 (CMS:yes)
+	2.89 Marengo Memorial Hospital
+	 300 West May Street Marengo 52301
+2. Hancock County Health System
+	532 1St St Nw Britt 50423 (CMS:yes)
+	2.82 Hancock County Memorial Hospital
+	 532 1st Street Northwest Britt 50423
+3. Mercy Medical Center - Cedar Rapids
+	701 10Th Street Se Cedar Rapids 52403 (CMS:yes)
+	3.08 Mercy Medical Center
+	 701 10th Street Northeast Cedar Rapids 52403
+4. Genesis Medical Center-Dewitt
+	1118 11Th Street Dewitt 52742 (CMS:yes)
+	2.89 Genesis Medical Center, DeWitt Campus
+	 1118 11th Avenue DeWitt 52742
+5. Unitypoint Health-Marshalltown
+	3 S 4Th Ave Marshalltown 50158 (CMS:yes)
+	2.65 Central Iowa Healthcare
+	 3 South 4th Avenue Marshalltown 50158
+6. Mercyone Clinton Medical Center
+	1410 North 4Th Street Clinton 52732 (CMS:yes)
+	1.45 Lucas County Health Center
+	 1200 North 7th Street Chariton 50049
+7. Avera Merrill Pioneer Hospital
+	1100 S 10Th Ave Rock Rapids 51246 (CMS:yes)
+	2.25 Sanford Rock Rapids Medical Center
+	 801 South Green Street Rock Rapids 51246
+Mental Health Institute
+	 1251 West Cedar Loop Cherokee 51012
+	 Emergency Mismatch (CMS:yes)
+	 Cherokee Mental Health Institute
+8. Mercy Medical Center-North Iowa
+	1000 Fourth Street Sw Mason City 50401 (CMS:yes)
+	2.93 MercyOne North Iowa Medical Center
+	 1000 4th Street Southwest Mason City 50401
+9. Saint Lukes Regional Medical Center
+	2720 Stone Park Boulevard Sioux City 51104 (CMS:yes)
+	3.08 UnityPoint Health | St. Luke's
+	 2720 Stone Park Boulevard Sioux City 51104
+10. Sioux Center Health
+	1101 9Th Street Se Sioux Center 51250 (CMS:yes)
+	3.03 Sioux Center Community Hospital
+	 1101 9th Street Southeast Sioux Center 51250
+11. Mercyone Dyersville Medical Center
+	1111 3Rd Street Sw Dyersville 52040 (CMS:yes)
+	2.98 Mercy Medical Center - Dyersville
+	 1111 3rd Street Southwest Dyersville 52040
+12. Unitypoint Health - Keokuk
+	1600 Morgan Street Keokuk 52632 (CMS:yes)
+	3.07 Keokuk Area Hospital
+	 1600 Morgan Street Keokuk 52632
+Found 12 issues.
+Unmatched emergency=yes
+Emergency Department (0.00)
+	 1221 South Gear Avenue Burlington 52655
+Unmatched emergency=yes
+Mercy Medical Center (3.08)
+	 701 10th Street Northeast Cedar Rapids 52403
+Unmatched emergency=yes
+Methodist West Hospital (0.00)
+	 1660 Westown Parkway West Des Moines 50266
+Unmatched emergency=yes
+Genesis Medical Center (0.00)
+	 1401 West Central Park Avenue Davenport 52804
+Unmatched emergency=yes
+VA Medical Center (0.00)
+	 3600 30th Street Des Moines 50310
+Unmatched emergency=yes
+Central Iowa Healthcare (2.65)
+	 3 South 4th Avenue Marshalltown 50158
+Unmatched emergency=yes
+University of Iowa Stead Family Children’s Hospital (0.00)
+	 200 Hawkins Drive Iowa City 52242
+Unmatched emergency=yes
+UnityPoint Health | St. Luke's (3.08)
+	 2720 Stone Park Boulevard Sioux City 51104
+Unmatched emergency=yes
+Mercy Medical Center-West Lakes (0.00)
+	 1755 59th Place West Des Moines 50266
+Unmatched emergency=yes
+Keokuk Area Hospital (3.07)
+	 1600 Morgan Street Keokuk 52632
+Unmatched emergency=yes
+Mercy Medical Center - Dyersville (2.98)
+	 1111 3rd Street Southwest Dyersville 52040
+Unmatched emergency=yes
+MercyOne (0.00)
+	 - - - -
+Unmatched emergency=yes
+Iowa City VA Health Care System (0.00)
+	 601 Highway 6 West Iowa City 52246
+Unmatched emergency=yes
+MercyOne North Iowa Medical Center (2.93)
+	 1000 4th Street Southwest Mason City 50401
+Unmatched emergency=yes
+Marengo Memorial Hospital (2.89)
+	 300 West May Street Marengo 52301
+Unmatched emergency=yes
+Sioux Center Community Hospital (3.03)
+	 1101 9th Street Southeast Sioux Center 51250
+Unmatched emergency=yes
+Sanford Rock Rapids Medical Center (2.25)
+	 801 South Green Street Rock Rapids 51246
+Unmatched emergency=yes
+Hancock County Memorial Hospital (2.82)
+	 532 1st Street Northwest Britt 50423
+Unmatched emergency=yes
+Genesis Medical Center, DeWitt Campus (2.89)
+	 1118 11th Avenue DeWitt 52742
+Unmatched emergency=yes
+Jefferson County Health Center (0.00)
+	 2000 South Main Street Fairfield 52556
+Unmatched emergency=yes
+Great River Medical Center (0.00)
+	 1221 South Gear Avenue Burlington 52655
+Found 21 unmatched emergency.
