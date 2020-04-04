@@ -1,0 +1,15 @@
+38 OSM hospitals
+28 Medicare hospitals
+1. New Hampshire Hosp-Psych Unit
+	36 Clinton Street Concord 03301 (CMS:yes)
+	2.53 Concord Hospital
+	250 Pleasant Street Concord 03301
+2. Exeter Hospital Inc
+	5 Alumni Drive Exeter 03833 (CMS:yes)
+	1.12 Elliot Hospital
+	1 Elliot Way Manchester 03103
+Found 2 issues.
+Unmatched emergency=yes
+Exeter Hospital (0.00)
+	- - - -
+Found 1 unmatched emergency.

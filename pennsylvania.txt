@@ -1,0 +1,298 @@
+275 OSM hospitals
+190 Medicare hospitals
+1. Barix Clinics Of Pennsylvania
+	280 Middletown Road Langhorne 19047 (CMS:no)
+	3.08 Barix Clinics
+	280 Middletown Boulevard Langhorne 19047
+2. Acmh Hospital
+	One Nolte Drive Kittanning 16201 (CMS:yes)
+	3.00 Armstrong County Memorial Hospital
+	1 Nolte Drive Kittanning 16201
+3. Brooke Glen Behavioral Hospital
+	7170 Lafayette Avenue Fort Washington 19034 (CMS:no)
+	1.25 Valley Forge Medical Center and Hospital
+	1033 West Germantown Pike Norristown 19403
+4. Haven Behavioral Hospital Of Philadelphia
+	3301 Scotts Lane, Four Falls Building Philadelphia 19129 (CMS:no)
+	2.07 Children's Hospital of Philadelphia
+	3401 Civic Center Boulevard Philadelphia 19104
+5. Ohio Valley General Hospital
+	25 Heckel Road Mckees Rocks 15136 (CMS:yes)
+	2.74 Ohio Valley Hospital
+	25 Heckel Road Kennedy Township 15136
+Horsham Clinic
+	722 Butler Pike Ambler 19002
+	 Emergency Mismatch (CMS:yes)
+	The Horsham Clinic
+6. Upmc Cole
+	1001 East Second Street Coudersport 16915 (CMS:yes)
+	3.09 Charles Cole Memorial Hospital
+	1001 East Second Street Coudersport 16915
+7. Upmc Susquehanna Muncy
+	215 East Water Street Muncy 17756 (CMS:yes)
+	3.05 Muncy Valley Hospital
+	215 East Water Street Muncy 17756
+Wills Eye Hospital
+	840 Walnut Street Philadelphia 19107
+	 Emergency Mismatch (CMS:no)
+	Wills Eye Hospital
+8. Philhaven Hospital
+	283 South Butler Road Mt Gretna 17064 (CMS:no)
+	2.98 WellSpan Philhaven
+	283 South Butler Road Mount Gretna 17064
+9. Roxbury Treatment Center
+	601 Roxbury Road Shippensburg 17257 (CMS:no)
+	1.16 Gettysburg Hospital ER Entrance
+	147 Gettys Street Gettysburg 17325
+10. Upmc Presbyterian Shadyside
+	200 Lothrop Street Pittsburgh 15213 (CMS:yes)
+	2.42 Magee-Womens Hospital of UPMC
+	300 Halket Street Pittsburgh 15213
+11. Upmc Susquehanna Soldiers & Sailors
+	32-36 Central Avenue Wellsboro 16901 (CMS:yes)
+	3.07 Soldiers + Sailors Memorial Hospital
+	32 Central Avenue Wellsboro 16901
+12. Lifecare Behavioral Health Hospital
+	225 Penn Avenue 2Nd Floor Pittsburgh 15221 (CMS:no)
+	2.83 Lifecare Hospital of Pittsburgh
+	225 Penn Avenue Pittsburgh 15221
+13. Wernersville State Hospital
+	160 Main Street Wernersville 19565 (CMS:no)
+	3.02 Wernersville State Hospital
+	- - Wernersville 19565
+Milton S Hershey Medical Center
+	500 University Drive Hershey 17033
+	 Emergency Mismatch (CMS:no)
+	Hershey Medical Center
+14. Penn Highlands Huntindon
+	1225 Warm Springs Ave Huntingdon 16652 (CMS:yes)
+	2.91 J.C. Blair Memorial Hospital
+	1225 Warm Springs Avenue Huntingdon 16652
+15. Upmc Children's Hospital Of Pittsburgh
+	One Children'S Hospital Drive Pittsburgh 15224 (CMS:yes)
+	3.07 UPMC Children's Hospital of Pittsburgh
+	4401 Penn Avenue Pittsburgh 15224
+16. Fairmount Behavioral Health System
+	561 Fairthorne Avenue Philadelphia 19128 (CMS:no)
+	2.44 Roxborough Memorial Hospital
+	5800 Ridge Avenue Philadelphia 19128
+17. Jeanes Hospital
+	7600 Central Avenue Philadelphia 19111 (CMS:yes)
+	2.30 Kindred Hospital Philadelphia
+	6129 Palmetto Street Philadelphia 19111
+18. Main Line Hospital Bryn Mawr Campus
+	130 South Bryn Mawr Ave Bryn Mawr 19010 (CMS:yes)
+	3.05 Bryn Mawr Hospital
+	130 South Bryn Mawr Avenue Bryn Mawr 19010
+19. Pennsylvania Psychiatric Institute
+	2501 North Third Street Harrisburg 17110 (CMS:yes)
+	2.99 UPMC Pinnacle Polyclinic Campus
+	2501 North 3rd Street Harrisburg 17110
+20. Meadows Psychiatric Center
+	132 Meadows Drive Centre Hall 16828 (CMS:yes)
+	1.01 UPMC Horizon - Shenango Valley
+	2200 Memorial Drive Farrell 16121
+21. Upmc Pinnacle Hanover
+	300 Highland Ave Hanover 17331 (CMS:yes)
+	2.98 Hanover Hospital
+	300 Highland Avenue Hanover 17331
+22. Torrance State Hospital
+	121 Longview Drive Torrance 15779 (CMS:no)
+	3.07 Torrance State Hospital
+	121 Longview Drive Derry Township 15779
+23. Mercy Catholic Medical Center- Mercy Fitzgerald
+	1500 Lansdowne Ave Darby 19023 (CMS:yes)
+	2.84 Mercy Fitzgerald Hospital
+	1500 South Lansdowne Avenue Darby 19023
+24. Haven Behavioral Hospital Of Eastern Pennsylvania
+	145 North 6Th Street Reading 19601 (CMS:no)
+	1.90 HealthSouth Reading Rehabilitation Hospital
+	1623 Morgantown Road Reading 19607
+25. Pinnacle Health Hospitals
+	409 South Second Street Harrisburg 17105 (CMS:yes)
+	2.35 Harrisburg Hospital
+	111 South Front Street Harrisburg 17101
+26. Clarion Psychiatric Center
+	Two Hospital Dr Rd#3 Box 188 Clarion 16214 (CMS:yes)
+	2.57 Clarion Hospital
+	1 Hospital Drive Clarion 16214
+27. Main Line Hospital Lankenau
+	100 Lancaster Ave Wynnewood 19096 (CMS:yes)
+	2.76 Lankenau Medical Center
+	100 East Lancaster Avenue Wynnewood 19096
+28. Aria Health
+	10800 Knights Road Philadelphia 19114 (CMS:yes)
+	3.06 Jefferson Torresdale Hospital
+	10800 Knights Road Philadelphia 19114
+29. Ellwood City Medical Center
+	724 Pershing Street Ellwood City 16117 (CMS:yes)
+	2.80 Ellwood City Hospital
+	724 Pershing Street Ellwood City 16057
+30. Titusville Hospital
+	406 West Oak Street Titusville 16354 (CMS:yes)
+	2.78 Titusville Area Hospital
+	406 West Oak Street Titusville -
+31. Belmont Behavioral Hospital
+	4200 Monument Avenue Philadelphia 19131 (CMS:no)
+	2.34 Chestnut Hill Hospital
+	8835 Germantown Avenue Philadelphia 19118
+32. Sunbury Community Hospital
+	350 North 11Th Street Sunbury 17801 (CMS:no)
+	2.99 UPMC Susquehanna Sunbury
+	350 North 11th Street Sunbury 17801
+33. Foundations Behavioral Health
+	833 East Butler Ave Doylestown 18901 (CMS:no)
+	2.20 Doylestown Hospital
+	595 West State Street Doylestown 18901
+34. Carlisle Regional Medical Center
+	361 Alexander Spring Road Carlisle 17015 (CMS:yes)
+	2.45 UPMC Pinnacle Carlisle
+	361 Alexander Spring Road Carlisle 17030
+Children's Home Of Pittsburgh
+	4401 Penn Avenue Pittsburgh 15224
+	 Emergency Mismatch (CMS:no)
+	UPMC Children's Hospital of Pittsburgh
+Found 34 issues.
+
+Unmatched emergency=yes
+Gettysburg Hospital ER Entrance (1.16)
+	147 Gettys Street Gettysburg 17325
+Unmatched emergency=yes
+UPMC Shadyside (0.00)
+	5230 Centre Avenue Pittsburgh 15232
+Unmatched emergency=yes
+Lehigh Valley Hospital - 17th Street (0.00)
+	1627 West Chew Street Allentown 18102
+Unmatched emergency=yes
+Springfield Hospital (0.00)
+	190 West Sproul Road Springfield 19064
+Unmatched emergency=yes
+Lankenau Medical Center (2.76)
+	100 East Lancaster Avenue Wynnewood 19096
+Unmatched emergency=yes
+Bryn Mawr Hospital (3.05)
+	130 South Bryn Mawr Avenue Bryn Mawr 19010
+Unmatched emergency=yes
+Bradford Regional Medical Center (0.00)
+	116 Interstate Parkway Bradford 16701
+Unmatched emergency=yes
+Einstein Medical Center Elkins Park (0.00)
+	60 Township Line Road Elkins Park 19027
+Unmatched emergency=yes
+Penn State Health Children's Hospital (0.00)
+	600 University Drive Hershey 17033
+Unmatched emergency=yes
+Charles Cole Memorial Hospital (3.09)
+	1001 East Second Street Coudersport 16915
+Unmatched emergency=yes
+Methodist Hospital (0.00)
+	2301 South Broad Street Philadelphia 19145
+Unmatched emergency=yes
+Temple University Hospital - Episcopal Campus (0.00)
+	100 East Lehigh Avenue Philadelphia 19125
+Unmatched emergency=yes
+UPMC Oakland (0.00)
+	- - - -
+Unmatched emergency=yes
+Mercy Philadelphia Hospital (0.00)
+	501 South 54th Street Philadelphia 19143
+Unmatched emergency=yes
+Saint Joseph's Hospital (0.00)
+	1600 West Girard Avenue Philadelphia 19130
+Unmatched emergency=yes
+Jefferson Frankford Hospital (0.00)
+	4900 Frankford Avenue Philadelphia 19124
+Unmatched emergency=yes
+Titusville Area Hospital (2.78)
+	406 West Oak Street Titusville -
+Unmatched emergency=yes
+Jefferson Torresdale Hospital (3.06)
+	10800 Knights Road Philadelphia 19114
+Unmatched emergency=yes
+Lehigh Valley Hospital–Schuylkill E. Norwegian Street (0.00)
+	700 East Norwegian Street Pottsville 17901
+Unmatched emergency=yes
+Community General Osteopathic Hospital (0.00)
+	4300 Londonderry Road Harrisburg 17109
+Unmatched emergency=yes
+Soldiers + Sailors Memorial Hospital (3.07)
+	32 Central Avenue Wellsboro 16901
+Unmatched emergency=yes
+Muncy Valley Hospital (3.05)
+	215 East Water Street Muncy 17756
+Unmatched emergency=yes
+UPMC Horizon - Shenango Valley (1.01)
+	2200 Memorial Drive Farrell 16121
+Unmatched emergency=yes
+Ellwood City Hospital (2.80)
+	724 Pershing Street Ellwood City 16057
+Unmatched emergency=yes
+Armstrong County Memorial Hospital (3.00)
+	1 Nolte Drive Kittanning 16201
+Unmatched emergency=yes
+UPMC Passavant – Cranberry (0.00)
+	1 Saint Francis Way Cranberry Township 16066
+Unmatched emergency=yes
+Ohio Valley Hospital (2.74)
+	25 Heckel Road Kennedy Township 15136
+Unmatched emergency=yes
+VA Pittsburgh Healthcare System - University Drive (0.00)
+	- University Drive Pittsburgh 15240
+Unmatched emergency=yes
+J.C. Blair Memorial Hospital (2.91)
+	1225 Warm Springs Avenue Huntingdon 16652
+Unmatched emergency=yes
+UPMC Pinnacle Carlisle (2.45)
+	361 Alexander Spring Road Carlisle 17030
+Unmatched emergency=yes
+UPMC Susquehanna Sunbury (2.99)
+	350 North 11th Street Sunbury 17801
+Unmatched emergency=yes
+Geisinger Shamokin Area Community Hospital (0.00)
+	4200 Hospital Road Coal Township 17866
+Unmatched emergency=yes
+Easton Hospital (0.00)
+	250 South 21st Street Easton 18042
+Unmatched emergency=yes
+Lehigh Valley Hospital Muhlenberg (0.00)
+	2545 Schoenersville Road Bethlehem 18017
+Unmatched emergency=yes
+UPMC Pinnacle West Shore Hospital (0.00)
+	1995 Technology Parkway Mechanicsburg 17050
+Unmatched emergency=yes
+Harrisburg Hospital (2.35)
+	111 South Front Street Harrisburg 17101
+Unmatched emergency=yes
+Lebanon VA Medical Center (0.00)
+	1700 South Lincoln Avenue Lebanon 17042
+Unmatched emergency=yes
+Jefferson Bucks Hospital (0.00)
+	380 North Oxford Valley Road Langhorne 19047
+Unmatched emergency=yes
+Community Hospital (0.00)
+	2600 West 9th Street Chester 19013
+Unmatched emergency=yes
+Taylor Hospital (0.00)
+	175 East Chester Pike Ridley Park 19078
+Unmatched emergency=yes
+Mercy Fitzgerald Hospital (2.84)
+	1500 South Lansdowne Avenue Darby 19023
+Unmatched emergency=yes
+Hanover Hospital (2.98)
+	300 Highland Avenue Hanover 17331
+Unmatched emergency=yes
+Crozer-Keystone Health (0.00)
+	30 Lawrence Road Broomall 19007
+Unmatched emergency=yes
+St. Luke's Hosp. (0.00)
+	- - - -
+Unmatched emergency=yes
+St. Luke's Hospital Allentown (0.00)
+	- - - -
+Unmatched emergency=yes
+The Germantown Hospital and Medical Center (0.00)
+	- - - -
+Unmatched emergency=yes
+Corporal Michael J. Crescenz Veterans Affairs Medical Center (0.00)
+	3900 Woodland Avenue Philadelphia 19104
+Found 47 unmatched emergency.

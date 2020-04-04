@@ -1,0 +1,12 @@
+17 OSM hospitals
+12 Medicare hospitals
+Emma Pendleton Bradley Hospital
+	1011 Veterans Memorial Parkway East Providence 02915
+	 Emergency Mismatch (CMS:yes)
+	Bradley Hospital
+Found 0 issues.
+
+Unmatched emergency=yes
+Hasbro Children's Hospital (0.00)
+	593 Eddy Street Providence 02903
+Found 1 unmatched emergency.

@@ -1,0 +1,97 @@
+120 OSM hospitals
+91 Medicare hospitals
+1. Bellevue Medical Center
+	2500 Bellevue Medical Center Dr Bellevue 68123 (CMS:yes)
+	3.01 Nebraska Medicine – Bellevue
+	2500 Bellevue Medical Center Drive Bellevue 68123
+2. Community Hospital
+	P O Box 1328, 1301 East H St Mccook 69001 (CMS:yes)
+	3.06 Community Hospital
+	1301 East H Street McCook 69001
+3. Chi Health Good Samaritan
+	P O Box 1990, 10 East 31St St Kearney 68848 (CMS:yes)
+	2.98 CHI Health Good Samaritan
+	10 East 31st Street Kearney 68847
+4. Tri Valley Health System
+	1305 West Highway 6/34 Cambridge 69022 (CMS:yes)
+	2.88 Cambridge Memorial Hospital
+	1305 Highway 6/34 Cambridge 69022
+5. Douglas County Health Center
+	4102 Woolworth Ave Omaha 68105 (CMS:no)
+	2.95 Omaha VA Medical Center
+	4101 Woolworth Avenue Omaha 68105
+6. The Nebraska Medical Center
+	987400 Nebraska Medical Center Omaha 68198 (CMS:yes)
+	2.00 Omaha VA Medical Center
+	4101 Woolworth Avenue Omaha 68105
+7. Memorial Community Hospital Mch & Health System
+	810 North 22Nd St Blair 68008 (CMS:yes)
+	3.08 Memorial Community Hospital
+	822 North 22nd Street Blair 68008
+8. Lincoln Regional Center
+	Po Box 94949 Folsom And Prospector Lincoln 68509 (CMS:no)
+	1.97 Lincoln Surgery Hospital
+	1710 South 70th Street Lincoln 68506
+9. Bryan Medical Center
+	1600 South 48Th St Lincoln 68506 (CMS:yes)
+	2.89 Bryan Health East Campus
+	1600 South 48th Street Lincoln 68506
+10. Mercyone Oakland Medical Center
+	601 East Second St Oakland 68045 (CMS:yes)
+	2.86 Oakland Memorial Hospital
+	601 East 2nd Street Oakland 68045
+11. Memorial Hospital
+	1423 Seventh St Aurora 68818 (CMS:yes)
+	2.89 Memorial Community Health
+	1423 7th Street Aurora 68818
+12. Methodist Fremont Health
+	450 East 23Rd St Fremont 68025 (CMS:yes)
+	2.92 Fremont Area Medical Center
+	450 East 23rd Street Fremont 68025
+Found 12 issues.
+Unmatched emergency=yes
+CHI Health Good Samaritan (2.98)
+	10 East 31st Street Kearney 68847
+Unmatched emergency=yes
+Methodist Women's Hospital (0.00)
+	700 North 190th Plaza - 68022
+Unmatched emergency=yes
+Omaha VA Medical Center (2.00)
+	4101 Woolworth Avenue Omaha 68105
+Unmatched emergency=yes
+University of Nebraska Medical Center (0.00)
+	- - - -
+Unmatched emergency=yes
+Community Hospital (3.06)
+	1301 East H Street McCook 69001
+Unmatched emergency=yes
+Bryan Health East Campus (2.89)
+	1600 South 48th Street Lincoln 68506
+Unmatched emergency=yes
+Fremont Area Medical Center (2.92)
+	450 East 23rd Street Fremont 68025
+Unmatched emergency=yes
+Cambridge Memorial Hospital (2.88)
+	1305 Highway 6/34 Cambridge 69022
+Unmatched emergency=yes
+Memorial Community Health (2.89)
+	1423 7th Street Aurora 68818
+Unmatched emergency=yes
+Community Memorial Hospital (0.00)
+	1579 Midland Street Syracuse 68446
+Unmatched emergency=yes
+Winnebago Hospital (0.00)
+	- South Bluff Street Winnebago 68071
+Unmatched emergency=yes
+Oakland Memorial Hospital (2.86)
+	601 East 2nd Street Oakland 68045
+Unmatched emergency=yes
+Memorial Community Hospital (3.08)
+	822 North 22nd Street Blair 68008
+Unmatched emergency=yes
+Nebraska Medicine – Bellevue (3.01)
+	2500 Bellevue Medical Center Drive Bellevue 68123
+Unmatched emergency=yes
+CHI Health Creighton University Medical Center - University Campus (0.00)
+	2412 Cuming Street Omaha 68131
+Found 15 unmatched emergency.

@@ -1,0 +1,107 @@
+48 OSM hospitals
+47 Medicare hospitals
+1. Sanford Medical Center Mayville
+	42 6Th Avenue Se Mayville 58257 (CMS:yes)
+	3.10 Sanford Mayville Medical Center
+	42 6th Avenue Southeast Mayville 58257
+2. Standing Rock Indian Health Service Hospital
+	10 North River Road Fort Yates 58538 (CMS:yes)
+	2.11 Fort Yates Hospital
+	- - Fort Yates 58538
+3. Carrington Health Center
+	Po Box 461 Carrington 58421 (CMS:yes)
+	2.14 CHI St. Alexius Health Carrington
+	800 4th Street North Carrington 58421
+4. Sanford Medical Center Bismarck
+	300 N 7Th St Bismarck 58506 (CMS:yes)
+	2.80 Sanford Medical Center
+	300 North 7th Street Bismarck 58501
+5. Mckenzie County Healthcare Systems Inc
+	709 4Th Ave Ne Watford City 58854 (CMS:yes)
+	2.92 Mckenzie County Healthcare Systems
+	516 North Main Street Watford City 58854
+6. Kenmare Community Hospital
+	Po Box 697 Kenmare 58746 (CMS:yes)
+	2.75 Trinity Kenmare Community Hospital
+	317 1st Avenue Northwest Kenmare 58746
+7. Saint Luke's Hospital
+	702 1St St Sw Crosby 58730 (CMS:yes)
+	2.81 Saint Luke’s Medical Center
+	702 1st Street Southwest Crosby 58730
+8. Garrison Memorial Hospital
+	407 3Rd Ave Se Garrison 58540 (CMS:yes)
+	2.54 CHI Saint Alexius Health Garrison
+	407 3rd Avenue Southeast Garrison 58540
+9. Pembina County Memorial Hospital
+	Box 380 Cavalier 58220 (CMS:yes)
+	3.02 Pembina County Memorial Hospital
+	301 Mountain Street East Cavalier 58220
+10. Northwood Deaconess Health Center
+	Po Box 190 Northwood 58267 (CMS:yes)
+	3.04 Northwood Deaconess Health Center
+	4 North Park Street Northwood 58267
+11. Sanford
+	801 Broadway North Fargo 58122 (CMS:yes)
+	2.42 Sanford Broadway Medical Center
+	801 Broadway Fargo 58102
+12. P H S Indian Hosp At Belcourt-Quentin N Burdick
+	Po Box 160 Belcourt 58316 (CMS:yes)
+	2.16 Quentin N. Burdick Memorial Health Care Facility
+	- - Belcourt 58316
+13. Sanford Medical Center Hillsboro
+	12 Third Street Se Hillsboro 58045 (CMS:yes)
+	3.01 Sanford Hillsboro Medical Center
+	12 3rd Street Southeast Hillsboro 58045
+14. Red River Behavioral Health System
+	1451 44Th Avenue S Grand Forks 58201 (CMS:no)
+	2.08 Altru Hospital
+	1200 South Columbia Road Grand Forks 58201
+15. Trinity Hospitals
+	407 3Rd St Se Minot 58701 (CMS:yes)
+	2.62 Trinity Hospital
+	1 Burdick Expressway West Minot 58702
+Found 15 issues.
+
+Unmatched emergency=yes
+Sanford Medical Center (2.80)
+	300 North 7th Street Bismarck 58501
+Unmatched emergency=yes
+Trinity Hospital (2.62)
+	1 Burdick Expressway West Minot 58702
+Unmatched emergency=yes
+Sanford Mayville Medical Center (3.10)
+	42 6th Avenue Southeast Mayville 58257
+Unmatched emergency=yes
+Sanford Medical Center Fargo (0.00)
+	5225 23rd Avenue South Fargo 58122
+Unmatched emergency=yes
+Quentin N. Burdick Memorial Health Care Facility (2.16)
+	- - Belcourt 58316
+Unmatched emergency=yes
+Fort Yates Hospital (2.11)
+	- - Fort Yates 58538
+Unmatched emergency=yes
+Sanford Hillsboro Medical Center (3.01)
+	12 3rd Street Southeast Hillsboro 58045
+Unmatched emergency=yes
+Mckenzie County Healthcare Systems (2.92)
+	516 North Main Street Watford City 58854
+Unmatched emergency=yes
+CHI Saint Alexius Health Garrison (2.54)
+	407 3rd Avenue Southeast Garrison 58540
+Unmatched emergency=yes
+Trinity Kenmare Community Hospital (2.75)
+	317 1st Avenue Northwest Kenmare 58746
+Unmatched emergency=yes
+Northwood Deaconess Health Center (3.04)
+	4 North Park Street Northwood 58267
+Unmatched emergency=yes
+CHI St. Alexius Health Carrington (2.14)
+	800 4th Street North Carrington 58421
+Unmatched emergency=yes
+Pembina County Memorial Hospital (3.02)
+	301 Mountain Street East Cavalier 58220
+Unmatched emergency=yes
+Saint Luke’s Medical Center (2.81)
+	702 1st Street Southwest Crosby 58730
+Found 14 unmatched emergency.

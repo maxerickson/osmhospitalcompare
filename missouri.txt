@@ -1,0 +1,179 @@
+153
+123
+1. Lakeland Behavioral Health System
+	440 S Market Springfield 65806 (CMS:yes)
+	1.88 Select Speciality Hospital
+	 1630 East Primrose Street Springfield 65804
+2. Mercy Hospital Saint Louis
+	615 New Ballas Road Saint Louis 63141 (CMS:yes)
+	2.92 Saint Johns Mercy Medical Center
+	 615 South New Ballas Road Saint Louis 63141
+3. General Leonard Wood Ach (Fort Leonard Wood)
+	126 Missouri Avenue Fort Leonard Wood 65473 (CMS:yes)
+	0.92 Golden Valley Memorial Hospital
+	 1600 North 2nd Street Clinton 64735
+4. Ssm Health Saint Mary's Hospital - Saint Louis
+	6420 Clayton Rd Richmond Heights 63117 (CMS:yes)
+	2.44 SSM Health St. Mary's Hospital - St. Louis
+	 6420 Clayton Avenue St. Louis 63117
+5. Northwest Missouri Psychiatric Rehab Ctr
+	3505 Frederick Avenue Saint Joseph 64502 (CMS:no)
+	3.07 Northwest Missouri Psychiatric Rehabilitation Center
+	 3505 Frederick Avenue St. Joseph 64506
+6. Osage Beach Center For Cognitive Disorders
+	840 Passover Road Osage Beach 65065 (CMS:no)
+	2.15 Lake Regional Health System
+	 54 Hospital Drive Osage Beach 65065
+7. Ssm Health Depaul Hospital Saint Louis
+	12303 Depaul Drive Bridgeton 63044 (CMS:yes)
+	3.07 SSM Health Rehabilitation – Bridgeton
+	 12380 DePaul Drive Bridgeton 63044
+8. Southeast Missouri Mental Hlth Ctr
+	1010 West Columbia Street Farmington 63640 (CMS:no)
+	2.57 Parkland Health Center - Farmington
+	 1101 West Liberty Street Farmington 63640
+9. Salem Memorial District Hospital
+	Po Box 774, Salem 65560 (CMS:yes)
+	3.05 Salem Memorial District Hospital
+	 35629 Highway 72 Salem 65560
+10. University Of Missouri Health Care
+	One Hospital Drive Columbia 65212 (CMS:yes)
+	3.10 University Hospital
+	 1 Hospital Drive Columbia 65212
+11. Perimeter Behavioral Hospital Of Springfield
+	2828 N National Springfield 65803 (CMS:no)
+	2.13 Mercy Hospital Springfield
+	 1235 East Cherokee Street Springfield 65804
+Signature Psychiatric Hospital
+	 2800 Clay Edwards Drive North Kansas City 64116
+	 Emergency Mismatch (CMS:no)
+	 North Kansas City Hospital
+12. Community Hospital Association
+	26136 Us Highway 59, Po Box 107 Fairfax 64446 (CMS:yes)
+	2.76 Community Hospital - Fairfax
+	 26146 US 59 Fairfax 64446
+13. Fulton State Hospital
+	600 East 5Th Street Fulton 65251 (CMS:no)
+	2.37 Fulton Medical Center
+	 10 South Hospital Drive Fulton 65251
+14. Centerpointe Hospital
+	4801 Weldon Spring Parkway Saint Charles 63304 (CMS:no)
+	1.86 SSM Health St. Joseph Hospital - St. Charles
+	 300 First Capitol Drive Saint Charles 63301
+15. Saint Louis Psychiatric Rehab Center
+	5400 Arsenal St Saint Louis 63139 (CMS:no)
+	2.01 Metropolitan Saint Louis Psychiatric Center
+	 5351 Delmar Boulevard Saint Louis 63112
+Citizens Memorial Hospital
+	 1500 North Oakland Avenue Bolivar 65613
+	 Emergency Mismatch (CMS:no)
+	 Citizens Memorial Hospital
+16. Wright Memorial Hospital
+	191 Iowa Boulevard Trenton 64683 (CMS:yes)
+	1.63 Texas County Memorial Hospital
+	 1333 South Sam Houston Boulevard Houston 65483
+17. Ssm Health Saint Clare Hospital - Fenton
+	1015 Bowles Fenton 63026 (CMS:yes)
+	2.78 SSM St. Clare Health Center
+	 1015 Bowles Avenue Fenton 63026
+18. Phelps Health
+	1000 W 10Th St Rolla 65401 (CMS:yes)
+	2.75 Phelps County Regional Medical Center
+	 1000 West 10th Street Rolla 65401
+19. Missouri Baptist Medical Center
+	3015 N Ballas Rd Town And Country 63131 (CMS:yes)
+	2.80 Missouri Baptist Medical Center
+	 3015 North Ballas Road Saint Louis 63131
+20. Royal Oaks Hospital
+	307 N Main Windsor 65360 (CMS:no)
+	1.10 Mercy Hospital Aurora
+	 500 South Porter Avenue Aurora 65605
+21. Southeasthealth Center Of Stoddard County
+	1200 N One Mile Rd Dexter 63841 (CMS:yes)
+	2.82 SoutheastHEALTH Center of Stoddard County
+	 1200 North One Mile Road Sikeston 63841
+22. Cox Medical Center Branson
+	525 Branson Landing Blvd, Po Box 650 Branson 65615 (CMS:yes)
+	3.10 Cox Medical Center Branson
+	 525 Branson Landing Boulevard Branson 65616
+23. Mercy Hospital South
+	10010 Kennerly Road Saint Louis 63128 (CMS:yes)
+	3.09 St. Anthony's Medical Center
+	 10010 Kennerly Road Saint Louis 63128
+Found 23 issues.
+Unmatched emergency=yes
+Salem Memorial District Hospital (3.05)
+	 35629 Highway 72 Salem 65560
+Unmatched emergency=yes
+SSM Health Cardinal Glennon Children’s Hospital (0.00)
+	 1465 South Grand Boulelvard St. Louis 63104
+Unmatched emergency=yes
+SoutheastHEALTH Center of Stoddard County (2.82)
+	 1200 North One Mile Road Sikeston 63841
+Unmatched emergency=yes
+Twin Rivers Regional Medical Center (0.00)
+	 1301 1st Street Kennett 63857
+Unmatched emergency=yes
+Saint Johns Mercy Medical Center (2.92)
+	 615 South New Ballas Road Saint Louis 63141
+Unmatched emergency=yes
+Missouri Baptist Medical Center (2.80)
+	 3015 North Ballas Road Saint Louis 63131
+Unmatched emergency=yes
+SSM Health St. Mary's Hospital - St. Louis (2.44)
+	 6420 Clayton Avenue St. Louis 63117
+Unmatched emergency=yes
+Saint Luke's North Hospital - Smithville (0.00)
+	 601 South 169 Highway Smithville 64089
+Unmatched emergency=yes
+Phelps County Regional Medical Center (2.75)
+	 1000 West 10th Street Rolla 65401
+Unmatched emergency=yes
+Harry S. Truman Memorial Veterans’ Hospital (0.00)
+	 800 Hospital Drive Columbia 65201
+Unmatched emergency=yes
+Kansas City VA Medical Center (0.00)
+	 4801 Linwood Boulevard Kansas City 64133
+Unmatched emergency=yes
+SSM St. Clare Health Center (2.78)
+	 1015 Bowles Avenue Fenton 63026
+Unmatched emergency=yes
+Northwest HealthCare (0.00)
+	 1225 Graham Road Florissant 63031
+Unmatched emergency=yes
+John Cochran Division - VA St. Louis Health Care System (0.00)
+	 915 North Grand Boulevard Saint Louis 63106
+Unmatched emergency=yes
+St. Anthony's Medical Center (3.09)
+	 10010 Kennerly Road Saint Louis 63128
+Unmatched emergency=yes
+Cox North Hospital (0.00)
+	 1423 North Jefferson Avenue Springfield 65802
+Unmatched emergency=yes
+University Hospital (3.10)
+	 1 Hospital Drive Columbia 65212
+Unmatched emergency=yes
+Women's and Children's Hospital (0.00)
+	 404 Keene Street Columbia 65201
+Unmatched emergency=yes
+Research Medical Center Brookside Campus (0.00)
+	 6601 Rockhill Road Kansas City 64131
+Unmatched emergency=yes
+DePaul Health Center (0.00)
+	 12303 DePaul Drive Bridgeton 63044
+Unmatched emergency=yes
+Liberty Hospital (0.00)
+	 2521 Glenn Hendren Drive Liberty 64068
+Unmatched emergency=yes
+Southeast Health Center Of Ripley County (0.00)
+	 109 Plum Street Doniphan 63935
+Unmatched emergency=yes
+Cox Medical Center Branson (3.10)
+	 525 Branson Landing Boulevard Branson 65616
+Unmatched emergency=yes
+Community Hospital - Fairfax (2.76)
+	 26146 US 59 Fairfax 64446
+Unmatched emergency=yes
+John J. Pershing VA Medical Center (0.00)
+	 1500 North Westwood Boulevard Poplar Bluff 63901
+Found 25 unmatched emergency.

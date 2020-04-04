@@ -1,0 +1,111 @@
+62 OSM hospitals
+58 Medicare hospitals
+1. Regional Health Spearfish Hospital
+	1440 N Main St Spearfish 57783 (CMS:yes)
+	2.92 Spearfish Regional Hospital
+	1440 North Main Street Spearfish 57783
+2. Avera Heart Hospital Of South Dakota
+	4500 W 69Th St Sioux Falls 57108 (CMS:yes)
+	3.06 Avera Heart Hospital
+	4500 West 69th Street Sioux Falls 57108
+3. Freeman Medical Center
+	510 E 8Th St Post Office Box 370 Freeman 57029 (CMS:yes)
+	2.53 Freeman Regional Health Services
+	510 East 8th Street Freeman 57029
+4. Wagner Community Memorial Hospital
+	513 3Rd St Sw Post Office Box 280 Wagner 57380 (CMS:yes)
+	3.02 Wagner Community Memorial Hospital Avera
+	513 3rd Street Southwest Wagner 57380
+5. Avera Mckennan Hospital & University Health Center
+	1325 S Cliff Ave Post Office Box 5045 Sioux Falls 57117 (CMS:yes)
+	2.60 Avera McKennan Hospital and University Health Center
+	1325 South Cliff Avenue Sioux Falls 57105
+6. South Dakota Human Services Center
+	3515 Broadway Ave Post Office Box 7600 Yankton 57078 (CMS:no)
+	2.06 Avera Sacred Heart Hospital
+	501 Summit Street Yankton 57078
+7. Bennett County Hospital And Nursing Home
+	102 Major Allen Post Office Box 70D Martin 57551 (CMS:yes)
+	2.93 Bennett County Hospital
+	102 Major Allen Street Martin 57551
+8. Sanford Hospital Webster
+	1401 W First St Post Office Box 489 Webster 57274 (CMS:yes)
+	2.53 Sanford Webster Medical Center
+	1401 West 1st Street Webster 57274
+9. Phs Indian Hospital At Eagle Butte
+	24276 166Th Airport Road Eagle Butte 57625 (CMS:yes)
+	2.80 Cheyenne River Health Center
+	24276 166th Street, Airport Road Eagle Butte 57625
+10. Black Hills Surgical Hospital Llp
+	216 Anamaria Dr Rapid City 57703 (CMS:no)
+	3.06 Black Hills Surgical Hospital
+	216 Anamaria Drive Rapid City 57105
+11. Platte Health Center
+	601 E 7Th St Post Office Box 200 Platte 57369 (CMS:yes)
+	2.98 Platte Health Center Avera
+	601 East 7th Street Platte 57369
+12. Avera Saint Lukes
+	305 S State St Post Office Box 4450 Aberdeen 57401 (CMS:yes)
+	2.90 Avera Saint Lukes Hospital
+	305 South State Street Aberdeen 57401
+13. Sanford Usd Medical Center
+	1305 W 18Th St Post Office Box 5039 Sioux Falls 57117 (CMS:yes)
+	2.69 Sanford USD Medical Center
+	1305 West 18th Street Sioux Falls 57117-5039
+14. Eureka Community Health Services
+	200 J Ave Post Office Box 517 Eureka 57437 (CMS:yes)
+	2.89 Eureka Community Health Services Avera
+	410 9th Street Eureka 57437
+15. Phs Indian Hospital At Rosebud
+	400 Soldier Creek Road Rosebud 57570 (CMS:yes)
+	2.24 Rosebud Hospital
+	- - Rosebud 57570
+16. Lifescape
+	2501 W 26Th St Sioux Falls 57105 (CMS:no)
+	2.26 Sioux Falls Specialty Hospital
+	910 East 20th Street Sioux Falls 57105
+Found 16 issues.
+
+Unmatched emergency=yes
+Sanford USD Medical Center (2.69)
+	1305 West 18th Street Sioux Falls 57117-5039
+Unmatched emergency=yes
+Bennett County Hospital (2.93)
+	102 Major Allen Street Martin 57551
+Unmatched emergency=yes
+Freeman Regional Health Services (2.53)
+	510 East 8th Street Freeman 57029
+Unmatched emergency=yes
+Avera McKennan Hospital and University Health Center (2.60)
+	1325 South Cliff Avenue Sioux Falls 57105
+Unmatched emergency=yes
+Avera Saint Lukes Hospital (2.90)
+	305 South State Street Aberdeen 57401
+Unmatched emergency=yes
+Avera Heart Hospital (3.06)
+	4500 West 69th Street Sioux Falls 57108
+Unmatched emergency=yes
+Cheyenne River Health Center (2.80)
+	24276 166th Street, Airport Road Eagle Butte 57625
+Unmatched emergency=yes
+Rosebud Hospital (2.24)
+	- - Rosebud 57570
+Unmatched emergency=yes
+Platte Health Center Avera (2.98)
+	601 East 7th Street Platte 57369
+Unmatched emergency=yes
+Eureka Community Health Services Avera (2.89)
+	410 9th Street Eureka 57437
+Unmatched emergency=yes
+Sanford Webster Medical Center (2.53)
+	1401 West 1st Street Webster 57274
+Unmatched emergency=yes
+Wagner Community Memorial Hospital Avera (3.02)
+	513 3rd Street Southwest Wagner 57380
+Unmatched emergency=yes
+Pine Ridge Hospital (0.00)
+	- East Highway 18 Pine Ridge 57770
+Unmatched emergency=yes
+Spearfish Regional Hospital (2.92)
+	1440 North Main Street Spearfish 57783
+Found 14 unmatched emergency.

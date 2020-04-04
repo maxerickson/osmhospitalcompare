@@ -1,0 +1,93 @@
+67 OSM hospitals
+64 Medicare hospitals
+1. Big Horn Hospital
+	17 N Miles Hardin 59034 (CMS:yes)
+	2.88 Big Horn County Memorial Hospital
+	17 North Miles Avenue Hardin 59034
+2. Ruby Valley Medical Center
+	321 Madison St Sheridan 59749 (CMS:yes)
+	2.25 Ruby Valley Hospital
+	220 East Crofoot Street Sheridan 59759
+3. Benefis Hospitals Inc
+	1101 26Th St S Great Falls 59405 (CMS:yes)
+	2.89 Benefis East
+	1101 26th Street South Great Falls 59405
+4. The Healthcenter
+	320 Sunnyview Lane Kalispell 59901 (CMS:no)
+	3.02 Kalispell Regional Medical Center
+	310 Sunnyview Lane Kalispell 59901
+5. Northern Montana Hospital
+	30 13Th St Havre 59501 (CMS:yes)
+	2.95 Northern Montana Health Care
+	30 13th Street West Havre 59501
+6. P H S Indian Hospital Crow / Northern Cheyenne
+	1010 South 7650 East, Post Office Box 9 Crow Agency 59022 (CMS:yes)
+	2.39 Crow/Northern Cheyenne Hospital
+	237 Hospital Loop Crow Agency 59022
+7. Big Sandy Medical Center
+	166 Montana Ave E Big Sandy 59520 (CMS:yes)
+	1.72 Big Sky Medical Center
+	334 Town Center Avenue Big Sky 59716
+8. Wheatland Memorial Hospital
+	530 3Rd St Nw Harlowton 59036 (CMS:yes)
+	3.04 Wheatland Memorial Healthcare
+	530 3rd Street Northwest Harlowton 59036
+9. P H S Indian Hospital At Browning - Blackfeet
+	760 Hospital Circle, Post Office Box 760 Browning 59417 (CMS:yes)
+	2.09 Blackfeet Community Hospital
+	- - Browning 59417
+10. P H S Indian Hospital-Fort Belknap At Harlem
+	456 Gros Ventre Ave, Rr 1 Harlem 59526 (CMS:yes)
+	2.33 Fort Belknap Hospital
+	669 Agency Main Street Harlem 59526
+11. Daniels Memorial Hospital
+	105 5Th Ave E Scobey 59263 (CMS:yes)
+	3.02 Daniels Memorial Healthcare Center
+	105 5th Avenue East Scobey 59263
+12. Phillips County Medical Center
+	311 S 8Th Ave E Malta 59538 (CMS:yes)
+	2.80 Phillips County Hospital and Family Health Clinic
+	311 South 8th Avenue East Malta 59538
+13. Saint Peters Hospital
+	2475 Broadway Helena 59601 (CMS:yes)
+	3.08 Saint Peter's Health
+	2475 East Broadway Street Helena 59601
+14. Montana State Hospital
+	100 Garnet Way Warm Springs 59756 (CMS:no)
+	2.38 Montana State Hospital
+	- - Warm Springs 59425
+Found 14 issues.
+Unmatched emergency=yes
+Benefis East (2.89)
+	1101 26th Street South Great Falls 59405
+Unmatched emergency=yes
+Saint Peter's Health (3.08)
+	2475 East Broadway Street Helena 59601
+Unmatched emergency=yes
+Daniels Memorial Healthcare Center (3.02)
+	105 5th Avenue East Scobey 59263
+Unmatched emergency=yes
+Crow/Northern Cheyenne Hospital (2.39)
+	237 Hospital Loop Crow Agency 59022
+Unmatched emergency=yes
+Big Horn County Memorial Hospital (2.88)
+	17 North Miles Avenue Hardin 59034
+Unmatched emergency=yes
+Phillips County Hospital and Family Health Clinic (2.80)
+	311 South 8th Avenue East Malta 59538
+Unmatched emergency=yes
+Northern Montana Health Care (2.95)
+	30 13th Street West Havre 59501
+Unmatched emergency=yes
+Wheatland Memorial Healthcare (3.04)
+	530 3rd Street Northwest Harlowton 59036
+Unmatched emergency=yes
+Ruby Valley Hospital (2.25)
+	220 East Crofoot Street Sheridan 59759
+Unmatched emergency=yes
+Blackfeet Community Hospital (2.09)
+	- - Browning 59417
+Unmatched emergency=yes
+Fort Belknap Hospital (2.33)
+	669 Agency Main Street Harlem 59526
+Found 11 unmatched emergency.

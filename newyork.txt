@@ -1,0 +1,344 @@
+305 OSM hospitals
+194 Medicare hospitals
+1. New York State Psychiatric Institute
+	722 W 168Th St New York 10032 (CMS:no)
+	2.21 Morgan Stanley Children's Hospital
+	3959 Broadway New York 10032
+2. Mount Sinai South Nassau
+	One Healthy Way Oceanside 11572 (CMS:yes)
+	2.91 South Nassau Communities Hospital
+	1 Healthy Way Oceanside 11572
+3. Western Ny Childrens Psychiatric Center
+	1010 East & West Road West Seneca 14224 (CMS:yes)
+	1.12 Rochester Psychiatric Center
+	1111 Elmwood Avenue Rochester 14620
+Mid Hudson Forensic Psychiatric Ctr
+	2834 Route 17M New Hampton 10958
+	 Emergency Mismatch (CMS:yes)
+	Mid-Hudson Forensic Psychiatric Center
+4. Keller Ach (West Point)
+	900 Washington Rd West Point 10996 (CMS:yes)
+	1.02 Helen Hayes Hospital
+	- Route 9W North West Haverstraw 10993
+5. Kaleida Health
+	100 High Street Buffalo 14210 (CMS:yes)
+	2.82 Buffalo General Hospital
+	100 High Street Buffalo 14203
+6. Mount Sinai Beth Israel
+	First Avenue At 16Th Street New York 10003 (CMS:yes)
+	3.01 Mount Sinai Beth Israel
+	- - New York 10003
+7. Metropolitan Hospital Center
+	1901 First Avenue New York 10029 (CMS:yes)
+	2.55 NYC Health + Hospitals/Metropolitan
+	1901 1st Avenue New York 10129
+Hospital For Special Surgery
+	535 East 70th Street New York 10021
+	 Emergency Mismatch (CMS:yes)
+	Hospital for Special Surgery
+Mohawk Valley Psychiatric Center
+	1400 Noyes Street Utica 13502
+	 Emergency Mismatch (CMS:yes)
+	Mohawk Valley Psychiatric Center
+8. Jacobi Medical Center
+	1400 Pelham Parkway South Bronx 10461 (CMS:yes)
+	3.06 NYC Health + Hospitals/Jacobi
+	1400 Pelham Parkway South Bronx 10461
+9. Faxton-Saint Luke's Healthcare
+	1656 Champlin Avenue Utica 13503 (CMS:yes)
+	2.97 Saint Lukes Memorial Hospital
+	1656 Champlin Avenue Utica 13502
+10. Monroe Community Hospital
+	435 East Henrietta Road Rochester 14620 (CMS:no)
+	2.32 Highland Hospital
+	1000 South Avenue Rochester 14620
+11. N Y Eye And Ear Infirmary
+	230 Second Ave New York 10003 (CMS:no)
+	2.60 New York Eye and Ear Infirmary of Mount Sinai
+	310 East 14th Street New York 10003
+Greater Binghamton Health Center
+	425 Robinson Street Binghamton 13904
+	 Emergency Mismatch (CMS:yes)
+	Greater Binghamton Health Center
+12. Nyu Langone Hospitals
+	550 First Avenue New York 10016 (CMS:yes)
+	2.38 NYU Langone Outpatient Surgery Center
+	339 East 38th Street New York 10016
+13. Samaritan Hospital-Saint Mary's Campus
+	1300 Massachusetts Avenue Troy 12180 (CMS:yes)
+	2.87 Saint Mary's Hospital
+	1300 Massachusetts Avenue Troy 12182
+14. Woodhull Medical & Mental Health Center
+	760 Broadway Brooklyn 11206 (CMS:yes)
+	3.05 NYC Health + Hospitals/Woodhull
+	760 Broadway Brooklyn 11206
+15. Community Memorial Hospital, Inc
+	150 Broad Street Hamilton 13346 (CMS:yes)
+	1.46 Little Falls Hospital
+	130 Burwell Street Little Falls 13365
+16. Margaretville Memorial Hospital
+	42084 State Highway 28 Margaretville 12455 (CMS:yes)
+	2.35 Margaretville Hospital
+	42084 NY 28 Margaretville 12428
+Ira Davenport Memorial Hospital, Inc
+	7571 State Route 54 Bath 14810
+	 Emergency Mismatch (CMS:no)
+	Ira Davenport Memorial Hospital
+17. South Beach Psychiatric Center
+	777 Seaview Ave Staten Island 10305 (CMS:no)
+	3.08 Staten Island Children and Youth Day Treatment Center and South Beach Psychiatric Center
+	777 Seaview Avenue Staten Island 10305
+18. Bertrand Chaffee Hospital
+	224 East Main Street Springville 14141 (CMS:yes)
+	1.51 Sisters of Charity Hospital
+	2157 Main Street Buffalo 14214
+19. Manhattan Psychiatric Center
+	Ward'S Island New York 10035 (CMS:no)
+	3.02 Manhattan Psychiatric Center
+	- - New York 10035
+20. Nassau University Medical Center
+	2201 Hempstead Turnpike East Meadow 11554 (CMS:yes)
+	1.07 Flushing Hospital Medical Center
+	45-00 Parsons Boulevard Flushing 11354
+Pilgrim Psychiatric Center
+	998 Crooked Hill Road West Brentwood 11717
+	 Emergency Mismatch (CMS:yes)
+	Pilgrim Psychiatric Center
+21. Stony Brook University Hospital
+	Health Sciences Center Suny Stony Brook 11794 (CMS:yes)
+	3.05 Stony Brook University Hospital
+	101 Nicolls Road Stony Brook 11794
+22. Four Winds Of Saratoga
+	30 Crescent Ave Saratoga Springs 12866 (CMS:yes)
+	2.31 Saratoga Hospital
+	211 Church Street Saratoga Springs 12866
+Interfaith Medical Center
+	1545 Atlantic Avenue Brooklyn 11213
+	 Emergency Mismatch (CMS:no)
+	Interfaith Medical Center
+23. South Oaks Hosp
+	400 Sunrise Highway Amityville 11701 (CMS:no)
+	2.17 Brunswick Hospital Center
+	81 Louden Avenue Amityville 11701
+24. The Burdett Care Center
+	2215 Burdett Ave Troy 12180 (CMS:no)
+	2.88 Samaritan Hospital
+	2215 Burdett Avenue Troy 12180
+25. Saint Joseph Hospital
+	4295 Hempstead Turnpike Bethpage 11714 (CMS:yes)
+	1.52 Syosset Hospital
+	221 Jericho Turnpike Syosett 11791
+Saint Lawrence Psych Center
+	1 Chimney Point Drive Ogdensburg 13669
+	 Emergency Mismatch (CMS:yes)
+	Saint Lawrence Psychiatric Center
+26. Strong Memorial Hospital
+	601 Elmwood Ave Rochester 14642 (CMS:yes)
+	2.32 Rochester Psychiatric Center
+	1111 Elmwood Avenue Rochester 14620
+27. Kirby Forensic Psychiatric Center
+	Ward Island New York 10035 (CMS:no)
+	2.46 Manhattan Psychiatric Center
+	- - New York 10035
+28. Mary Imogene Bassett Hospital
+	One Atwell Road Cooperstown 13326 (CMS:yes)
+	2.92 Bassett Medical Center
+	1 Atwell Road Cooperstown 13326
+29. Bellevue Hospital Center
+	462 First Avenue New York 10016 (CMS:yes)
+	2.61 NYC Health + Hospitals/Bellevue
+	462 1st Avenue New York 10010
+30. Brunswick Psych Center
+	366 Broadway Amityville 11701 (CMS:no)
+	2.63 Brunswick Hospital Center
+	81 Louden Avenue Amityville 11701
+31. Brylin Hosp
+	1263 Delaware Ave Buffalo 14209 (CMS:no)
+	1.95 Buffalo General Hospital
+	100 High Street Buffalo 14203
+32. Long Island Jewish Medical Center
+	270 - 05 76Th Avenue New Hyde Park 11040 (CMS:yes)
+	2.93 Long Island Jewish Medical Center
+	270-05 76th Avenue Glen Oaks 11040
+Creedmoor Psychiatric Center
+	79-25 Winchester Boulevard Queens Village 11427
+	 Emergency Mismatch (CMS:yes)
+	Creedmoor Psychiatric Center
+33. Catskill Regional Medical Center - G Hermann Site
+	8081 Route 97 Callicoon 12723 (CMS:no)
+	2.58 Grover M. Hermann Hospital
+	8881 NY 97 Callicoon 12723
+Found 33 issues.
+
+Unmatched emergency=yes
+Cohen’s Children’s Medical Center (0.00)
+	269-01 76th Avenue New Hyde Park 11040
+Unmatched emergency=yes
+Lenox Health Greenwich Village (0.00)
+	30 7th Avenue New York 10011
+Unmatched emergency=yes
+Syracuse Veterans Affairs Medical Center (0.00)
+	800 Irving Avenue Syracuse 13210
+Unmatched emergency=yes
+Upstate Golisano Children's Hospital (0.00)
+	1 Children's Circle Syracuse 13210
+Unmatched emergency=yes
+Maria Fareri Children's Hospital (0.00)
+	100 Woods Road Valhalla 10595
+Unmatched emergency=yes
+Stony Brook Southampton Hospital (0.00)
+	240 Meeting House Lane Southampton 11968
+Unmatched emergency=yes
+Samuel S. Stratton Veterans Affairs Medical Center (0.00)
+	113 Holland Avenue Albany 12208
+Unmatched emergency=yes
+Saint Lukes Memorial Hospital (2.97)
+	1656 Champlin Avenue Utica 13502
+Unmatched emergency=yes
+Columbia University Irving Medical Center (0.00)
+	630 West 168th Street New York 10031
+Unmatched emergency=yes
+Veteran Affairs New York Harbor Healthcare System (0.00)
+	423 East 23rd Street New York 10010
+Unmatched emergency=yes
+NYC Health + Hospitals/Bellevue (2.61)
+	462 1st Avenue New York 10010
+Unmatched emergency=yes
+NYU Langone Medical Center (0.00)
+	- - New York -
+Unmatched emergency=yes
+Millard Fillmore Suburban Hospital (0.00)
+	1540 Maple Road Williamsville 14221
+Unmatched emergency=yes
+VA New York Harbor Healthcare System Brooklyn Campus (0.00)
+	800 Poly Place BrookLyn 11209
+Unmatched emergency=yes
+Lincoln Hospital (0.00)
+	234 Eugenio Maria De Hostos Boulevard Bronx 10455
+Unmatched emergency=yes
+Syosset Hospital (1.52)
+	221 Jericho Turnpike Syosett 11791
+Unmatched emergency=yes
+Mount Sinai Brooklyn (0.00)
+	3201 Kings Highway Brooklyn 11234
+Unmatched emergency=yes
+Morgan Stanley Children's Hospital (2.21)
+	3959 Broadway New York 10032
+Unmatched emergency=yes
+NewYork Presbyterian/Lower Manhattan Hospital (0.00)
+	170 William Street New York 10038
+Unmatched emergency=yes
+Northport Veterans Hospital (0.00)
+	79 Middleville Road Northport 11768
+Unmatched emergency=yes
+South Nassau Communities Hospital (2.91)
+	1 Healthy Way Oceanside 11572
+Unmatched emergency=yes
+John R. Oishei Children’s Hospital (0.00)
+	818 Ellicott Street Buffalo 14203
+Unmatched emergency=yes
+Buffalo General Hospital (1.95)
+	100 High Street Buffalo 14203
+Unmatched emergency=yes
+Long Island Jewish Forest Hills (0.00)
+	102-01 66th Avenue Forest Hills 11375
+Unmatched emergency=yes
+NYC Health + Hospitals/Jacobi (3.06)
+	1400 Pelham Parkway South Bronx 10461
+Unmatched emergency=yes
+Jack D. Weiler Hospital (0.00)
+	1825 Eastchester Road Bronx 10461
+Unmatched emergency=yes
+Long Island Jewish Medical Center (2.93)
+	270-05 76th Avenue Glen Oaks 11040
+Unmatched emergency=yes
+UHS Wilson Medical Center (0.00)
+	33-57 Harrison Street Johnson City 13790
+Unmatched emergency=yes
+Upstate University Hospital Community Campus (0.00)
+	4900 Broad Road Syracuse 13215
+Unmatched emergency=yes
+Moses-Ludington Hospital (0.00)
+	1019 Wicker Street Ticonderoga 12883
+Unmatched emergency=yes
+Medical Center of Clifton Park (0.00)
+	103 Sitterly Road Clifton Park 12065
+Unmatched emergency=yes
+Bassett Medical Center (2.92)
+	1 Atwell Road Cooperstown 13326
+Unmatched emergency=yes
+Lake Shore Health Care Center (0.00)
+	845 Routes 5 & 20 Irving 14081
+Unmatched emergency=yes
+-- (0.00)
+	- - - -
+Unmatched emergency=yes
+Buffalo VA Medical Center (0.00)
+	3495 Bailey Avenue Buffalo 14215
+Unmatched emergency=yes
+DeGraff Memorial Hospital (0.00)
+	445 Tremont Street North Tonawanda 14120
+Unmatched emergency=yes
+University of Rochester Medical Center (0.00)
+	601 Elmwood Avenue Rochester 14611
+Unmatched emergency=yes
+MidHudson Regional Hospital (0.00)
+	241 North Road Poughkeepsie 12601
+Unmatched emergency=yes
+Saint John's Riverside Hospital - Dobbs Ferry Pavilion (0.00)
+	128 Ashford Avenue Dobbs Ferry 10522
+Unmatched emergency=yes
+NewYork-Presbyterian - Lawrence Hospital (0.00)
+	55 Palmer Avenue Bronxville 10708
+Unmatched emergency=yes
+Montefiore Medical Center - Wakefield Campus (0.00)
+	600 East 233rd Street Bronx 10466
+Unmatched emergency=yes
+Stony Brook University Hospital (3.05)
+	101 Nicolls Road Stony Brook 11794
+Unmatched emergency=yes
+Long Island Jewish Valley Stream (0.00)
+	900 Franklin Avenue Valley Stream 11580
+Unmatched emergency=yes
+Staten Island University Hospital South (0.00)
+	375 Seguine Avenue Staten Island 10309
+Unmatched emergency=yes
+Mount Sinai Queens (0.00)
+	25-10 30th Avenue Astoria 11102
+Unmatched emergency=yes
+NYC Health + Hospitals/Woodhull (3.05)
+	760 Broadway Brooklyn 11206
+Unmatched emergency=yes
+Mount Sinai Beth Israel (3.01)
+	- - New York 10003
+Unmatched emergency=yes
+NYC Health + Hospitals/Metropolitan (2.55)
+	1901 1st Avenue New York 10129
+Unmatched emergency=yes
+Mount Sinai St. Luke's (0.00)
+	1111 Amsterdam Avenue New York 10029
+Unmatched emergency=yes
+NewYork-Presbyterian/Allen Hospital (0.00)
+	5141 Broadway New York 10040
+Unmatched emergency=yes
+James J Peters Veterans Affairs Medical Center (0.00)
+	130 West Kingsbridge Road Bronx 10468
+Unmatched emergency=yes
+Bronx-Lebanon Hospital Center Concourse Division (0.00)
+	1650 Grand Concourse Bronx 10457
+Unmatched emergency=yes
+Montefiore Westchester Square Campus (0.00)
+	2475 Saint Raymonds Avenue Bronx 10461
+Unmatched emergency=yes
+A.O. Fox Hospital - Tri-Town Campus (0.00)
+	43 Pearl Street West Sidney 13838
+Unmatched emergency=yes
+Grover M. Hermann Hospital (2.58)
+	8881 NY 97 Callicoon 12723
+Unmatched emergency=yes
+Margaretville Hospital (2.35)
+	42084 NY 28 Margaretville 12428
+Unmatched emergency=yes
+NYU Langone Hospital-Brooklyn (0.00)
+	150 55th Street Brooklyn 11220
+Found 57 unmatched emergency.
