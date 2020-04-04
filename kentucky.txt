@@ -1,0 +1,96 @@
+128
+102
+1. Norton Hospital / Norton Healthcare Pavilion / Nor
+	200 East Chestnut Street Louisville 40202 (CMS:yes)
+	2.29 University of Louisville Hospital
+	 530 South Jackson Street Louisville 40202
+2. Blanchfield Ach (Fort Campbell)
+	650 Joel Drive Fort Campbell 42223 (CMS:yes)
+	0.87 Central State Hospital
+	 10510 La Grange Road Louisville 40223
+3. Lincoln Trail Behavioral Health System
+	3909 S Wilson Road Radcliff 40160 (CMS:no)
+	1.04 KentuckyOne Health Medical Center Jewish South
+	 1903 West Hebron Lane Hillview 40165
+4. Arh Our Lady Of The Way
+	11203 Main Street Martin 41649 (CMS:yes)
+	3.02 Saint Joseph Martin
+	 11203 Main Street Martin 41649
+5. University Of Kentucky Hospital
+	800 Rose Street Lexington 40536 (CMS:yes)
+	2.23 UK Healthcare
+	 1000 South Limestone Lexington 40536
+6. Breckinridge Memorial Hospital
+	1011 Old Highway 60 Hardinsburg 40143 (CMS:yes)
+	2.88 Breckinridge Health
+	 1011 Old US 60 East Hardinsburg 40143
+7. Sun Behavioral Health
+	820 Dolwick Drive Erlanger 41018 (CMS:no)
+	1.15 Fleming County Hospital
+	 55 Foundation Drive Flemingsburg 41041
+8. The Medical Center At Franklin
+	1100 Brookhaven Road Franklin 42135 (CMS:yes)
+	2.99 The Medical Center
+	 - Brookhaven Road Franklin 42134
+9. Georgetown Community Hospital
+	1140 Lexington Road Georgetown 40324 (CMS:yes)
+	1.22 Marshall County Hospital
+	 615 Old Symsonia Road Benton 42025
+10. The Brook Hospital - Kmi
+	8521 Lagrange Road Louisville 40242 (CMS:yes)
+	2.41 Central State Hospital
+	 10510 La Grange Road Louisville 40223
+11. Rivendell Behavioral Health Services
+	1035 Porter Pike Bowling Green 42103 (CMS:no)
+	1.94 TriStar Greenview Regional Hospital
+	 1801 Ashley Circle Bowling Green 42101
+Found 11 issues.
+Unmatched emergency=yes
+UK Healthcare (2.23)
+	 1000 South Limestone Lexington 40536
+Unmatched emergency=yes
+Saint Joseph Martin (3.02)
+	 11203 Main Street Martin 41649
+Unmatched emergency=yes
+Good Samaritan Hospital (0.00)
+	 310 South Limestone Lexington 40508
+Unmatched emergency=yes
+Lexington VA Medical Center (0.00)
+	 1101 Veterans Drive Lexington 40536
+Unmatched emergency=yes
+Norton Audubon Hospital (0.00)
+	 1 Audubon Plaza Drive Louisville 40217
+Unmatched emergency=yes
+Norton Hospital Campus (0.00)
+	 - - - -
+Unmatched emergency=yes
+Saint Elizabeth Covington (0.00)
+	 - - - -
+Unmatched emergency=yes
+Norton Women's and Children's Hospital (0.00)
+	 4001 Dutchmans Lane St Matthews 40207
+Unmatched emergency=yes
+Medical Center Jewish Southwest (0.00)
+	 - - - -
+Unmatched emergency=yes
+The Medical Center (2.99)
+	 - Brookhaven Road Franklin 42134
+Unmatched emergency=yes
+Norton Children’s Medical Center (0.00)
+	 4910 Chamberlain Lane Louisville 40241
+Unmatched emergency=yes
+Norton Brownsboro Hospital (0.00)
+	 4960 Norton Healthcare Boulevard Louisville 40241
+Unmatched emergency=yes
+Robley Rex VA Medical Center (0.00)
+	 800 Zorn Avenue Louisville 40206
+Unmatched emergency=yes
+Saints Mary and Elizabeth Hospital (0.00)
+	 - - - -
+Unmatched emergency=yes
+KentuckyOne Health Medical Center Jewish South (1.04)
+	 1903 West Hebron Lane Hillview 40165
+Unmatched emergency=yes
+Breckinridge Health (2.88)
+	 1011 Old US 60 East Hardinsburg 40143
+Found 16 unmatched emergency.

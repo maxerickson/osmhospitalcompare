@@ -1,0 +1,66 @@
+44
+36
+1. Spring Harbor Hospital
+	123 Andover Road Westbrook 04092 (CMS:yes)
+	1.27 Saint Joseph Hospital
+	 360 Broadway Bangor 04402
+2. Penobscot Bay Medical Center
+	6 Glen Cove Drive Rockport 04856 (CMS:yes)
+	2.93 Pen Bay Medical Center
+	 6 Glen Cove Drive Rumford 04856
+3. Northern Light A R Gould Hospital
+	Po Box 151 Presque Isle 04769 (CMS:yes)
+	2.16 The Aroostook Medical Center
+	 140 Academy Street Presque Isle 04769
+4. Charles A Dean Memorial Hospital
+	Po Box 1129 Greenville 04441 (CMS:no)
+	3.02 Charles A Dean Memorial Hospital
+	 364 Pritham Avenue Greenville 04441
+5. Northern Light Acadia Hospital
+	268 Stillwater Ave Bangor 04401 (CMS:no)
+	2.94 Acadia Hospital
+	 268 Stillwater Avenue Bangor 04402
+6. Northern Light Health
+	144 State Street Portland 04101 (CMS:yes)
+	2.76 Mercy Hospital
+	 144 State Street Portland 04102
+7. Eastern Maine Medical Center
+	Po Box 404 Bangor 04401 (CMS:yes)
+	3.01 Eastern Maine Medical Center
+	 489 State Street Bangor 04401
+8. York Hospital
+	15 Hospital Drive York 03909 (CMS:yes)
+	3.05 York Hospital
+	 - Loving Kindness Way York 03909
+Found 8 issues.
+Unmatched emergency=yes
+Thayer Center for Health (0.00)
+	 149 North Street Waterville 04901
+Unmatched emergency=yes
+Parkview Adventist Medical Center (0.00)
+	 329 Maine Street Brunswick 04011
+Unmatched emergency=yes
+Togus Veterans Affairs Medical Center (0.00)
+	 1 VA Center Augusta 04330
+Unmatched emergency=yes
+SMHC Medical Center Sanford (0.00)
+	 25 June Street Sanford 04073
+Unmatched emergency=yes
+Eastern Maine Medical Center (3.01)
+	 489 State Street Bangor 04401
+Unmatched emergency=yes
+The Aroostook Medical Center (2.16)
+	 140 Academy Street Presque Isle 04769
+Unmatched emergency=yes
+Charles A Dean Memorial Hospital (3.02)
+	 364 Pritham Avenue Greenville 04441
+Unmatched emergency=yes
+York Hospital (3.05)
+	 - Loving Kindness Way York 03909
+Unmatched emergency=yes
+Mercy Hospital (2.76)
+	 144 State Street Portland 04102
+Unmatched emergency=yes
+Pen Bay Medical Center (2.93)
+	 6 Glen Cove Drive Rumford 04856
+Found 10 unmatched emergency.

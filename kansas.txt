@@ -1,0 +1,154 @@
+169
+139
+Children's Mercy Hospital Kansas
+	 5808 West 110th Street Overland Park 66211
+	 Emergency Mismatch (CMS:no)
+	 Children's Mercy Hospital Kansas
+1. Ascension Via Christi Hospitals Wichita, Inc.
+	929 North St Francis Street Wichita 67214 (CMS:yes)
+	2.94 Via Christi Hospital Saint Francis
+	 929 North Saint Francis Street Wichita 66214
+Kiowa County Memorial Hospital
+	 721 West Kansas Avenue Greensburg 67054
+	 Emergency Mismatch (CMS:no)
+	 Kiowa County Memorial Hospital
+2. Adair Acute Care At Osawatomie State Hospital
+	500 State Hospital Drive Osawatomie 66064 (CMS:no)
+	1.15 McPherson Hospital
+	 1000 Hospital Drive McPherson 67460
+3. Adventhealth Shawnee Mission
+	9100 W 74Th Street Shawnee Mission 66204 (CMS:yes)
+	3.03 Shawnee Mission Medical Center
+	 9100 West 74th Street Shawnee Mission 66204
+4. Smith County Memorial Hospital
+	921 E. Highway 36 Smith Center 66967 (CMS:yes)
+	3.00 Smith County Memorial Hospital
+	 614 South Main Street Smith Center 66967
+5. Cottonwood Springs Llc
+	13351 S Arapaho Drive Olathe 66062 (CMS:no)
+	1.79 Olathe Medical Center
+	 20333 West 151st Street Olathe 66061
+Hillsboro Community Hospital
+	 101 Industrial Road Hillsboro 67063
+	 Emergency Mismatch (CMS:no)
+	 Hillsboro Community Hospital
+6. Greenwood County Hospital
+	100 W 16Th Street Eureka 67045 (CMS:yes)
+	2.75 --
+	 100 West 16th Street Eureka 67045
+7. Community Hospital, Onaga And Saint Marys Campus
+	120 West 8Th Street Onaga 66521 (CMS:yes)
+	3.06 Community HealthCare System Onaga Hospital
+	 120 West 8th Street Onaga 66521
+Lincoln County Hospital
+	 624 North 2nd Street Lincoln 67455
+	 Emergency Mismatch (CMS:no)
+	 Lincoln County Hospital
+8. Prairie View Inc
+	1901 E First Street Po Box 467 Newton 67114 (CMS:no)
+	3.01 Prairie View
+	 - East 1st Street Newton 67114
+9. Stanton County Hospital
+	404 N Chestnut Johnson 67855 (CMS:yes)
+	2.52 --
+	 404 North Chestnut Street Johnson 67855
+10. University Of Kansas Hlth System Saint Francis Campus
+	1700 Sw 7Th Street Topeka 66606 (CMS:yes)
+	2.72 St. Francis Health Center
+	 1700 Southwest 7th Street Topeka 66606
+11. Stevens County Hospital
+	1006 S Jackson Hugoton 67951 (CMS:yes)
+	3.02 Stevens County Hospital and Medical Clinic
+	 1006 South Jackson Street Hugoton 67951
+12. Adventhealth Ottawa
+	1301 S Main Street Ottawa 66067 (CMS:no)
+	2.95 Ransom Memorial Hospital
+	 1301 South Main Street Ottawa 66067
+Rush County Memorial Hospital
+	 801 Locust Street La Crosse 67548
+	 Emergency Mismatch (CMS:no)
+	 Rush County Memorial Hospital
+Morris County Hospital
+	 600 North Washington Street Council Grove 66846
+	 Emergency Mismatch (CMS:no)
+	 Morris County Hospital
+13. Patterson Health Center
+	485 N. Ks Hwy 2 Anthony 67003 (CMS:yes)
+	2.49 Anthony Medical Center
+	 1101 East Spring Street Anthony 67003
+14. University Of Kansas Hospital
+	4000 Cambridge Street Kansas City 66160 (CMS:yes)
+	2.64 University of Kansas Medical Center
+	 3901 Rainbow Boulevard Kansas City 66160
+15. Freedom Behavioral Hospital Of Topeka, Llc
+	1334 Sw Buchanan Street Topeka 66604 (CMS:no)
+	2.34 Kansas Neurological Institute
+	 3107 Southwest 21st Street Topeka 66604
+Found 15 issues.
+Unmatched emergency=yes
+Smith County Memorial Hospital (3.00)
+	 614 South Main Street Smith Center 66967
+Unmatched emergency=yes
+AdventHealth College Boulevard ER (0.00)
+	 7025 College Boulevard Overland Park 66211
+Unmatched emergency=yes
+AdventHealth South Overland Park (0.00)
+	 7820 West 165th Street Overland Park 66223
+Unmatched emergency=yes
+University of Kansas Medical Center (2.64)
+	 3901 Rainbow Boulevard Kansas City 66160
+Unmatched emergency=yes
+Wesley Woodlawn Hospital & ER (0.00)
+	 2610 North Woodlawn Boulevard Wichita 67220
+Unmatched emergency=yes
+St. Francis Health Center (2.72)
+	 1700 Southwest 7th Street Topeka 66606
+Unmatched emergency=yes
+Via Christi Hospital Saint Francis (2.94)
+	 929 North Saint Francis Street Wichita 66214
+Unmatched emergency=yes
+Stevens County Hospital and Medical Clinic (3.02)
+	 1006 South Jackson Street Hugoton 67951
+Unmatched emergency=yes
+-- (2.75)
+	 100 West 16th Street Eureka 67045
+Unmatched emergency=yes
+Coffey County Hospital (0.00)
+	 801 North 4th Street Burlington 66839
+Unmatched emergency=yes
+Ransom Memorial Hospital (2.95)
+	 1301 South Main Street Ottawa 66067
+Unmatched emergency=yes
+Shawnee Mission Medical Center (3.03)
+	 9100 West 74th Street Shawnee Mission 66204
+Unmatched emergency=yes
+Dwight D. Eisenhower VA Medical Center (0.00)
+	 4101 South 4th Street Leavenworth 66048
+Unmatched emergency=yes
+Shawnee Mission Health (0.00)
+	 23401 Prairie Star Parkway Lenexa 66204
+Unmatched emergency=yes
+Via Christi St. Joseph (0.00)
+	 3600 East Harry Street Wichita 67218
+Unmatched emergency=yes
+Horton Community Hospital (0.00)
+	 240 West 18th Street Horton 66439
+Unmatched emergency=yes
+-- (2.52)
+	 404 North Chestnut Street Johnson 67855
+Unmatched emergency=yes
+Anthony Medical Center (2.49)
+	 1101 East Spring Street Anthony 67003
+Unmatched emergency=yes
+Community HealthCare System Onaga Hospital (3.06)
+	 120 West 8th Street Onaga 66521
+Unmatched emergency=yes
+Saint Marys Health Center (0.00)
+	 206 Grand Avenue Saint Marys 66067
+Unmatched emergency=yes
+Harper Hospital (0.00)
+	 700 West 13th Street Harper 67058
+Unmatched emergency=yes
+Coffeyville regional Medical Center (0.00)
+	 1400 West 4th Street Coffeyville 67337
+Found 22 unmatched emergency.
