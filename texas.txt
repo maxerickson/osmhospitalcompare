@@ -1,0 +1,831 @@
+645 OSM hospitals
+457 Medicare hospitals
+1. Darnall Amc (Fort Hood)
+	36000 Darnall Loop Fort Hood 76544 (CMS:yes)
+	2.37 Carl R. Darnall Army Medical Center
+	36065 Santa Fe Avenue Fort Hood 76544
+2. Adventhealth Central Texas
+	2201 S Clear Creek Road Killeen 76542 (CMS:yes)
+	2.69 Metroplex Health System
+	2201 South Clear Creek Road Killeen 76549
+3. Hca Houston Healthcare Pearland
+	11100 Shadow Creek Parkway Pearland 77584 (CMS:yes)
+	2.94 Pearland Meidcal Center
+	10970 Shadow Creek Parkway Pearland 77584
+4. Ascension Seton Edgar B Davis
+	130 Hays Street Luling 78648 (CMS:yes)
+	3.07 Seton Edgar B. Davis Hospital
+	130 Hays Street Luling 78468
+5. Baylor Surgical Hospital At Las Colinas
+	400 West Interstate 635 Suite 101 Irving 75063 (CMS:yes)
+	3.05 Baylor Surgical Hospital at Las Colinas
+	440 Lyndon B Johnson Freeway Irving 75063
+Culberson Hospital
+	- Eisenhower & FM 2185 Van Horn 79855
+	 Emergency Mismatch (CMS:no)
+	Culberson Hospital
+6. Georgetown Behavioral Health Institute
+	3101 S Austin Avenue Georgetown 78626 (CMS:no)
+	2.28 Saint David's Georgetown Hospital
+	2000 Scenic Drive Georgetown 78626
+7. Dell Seton Med Center At The University Of Tx
+	601 E 15Th Street Austin 78701 (CMS:yes)
+	3.09 Dell Seton Medical Center at The University of Texas
+	1500 Red River Street Austin 78701
+8. William Beaumont Amg (Fort Bliss)
+	5005 N. Piedras St. El Paso 79920 (CMS:yes)
+	2.61 William Beaumont Army Medical Center
+	5005 North Piedras Street El Paso 79930
+9. Seton Highland Lakes
+	Highway 281 South Burnet 78611 (CMS:yes)
+	2.62 Ascension Seton Highland Lakes Hospital
+	3201 South Water Street Burnet 78611
+10. Scott & White Hospital-Round Rock
+	300 University Blvd Round Rock 78664 (CMS:yes)
+	2.87 Baylor Scott & White Medical Center – Round Rock
+	300 University Boulevard Round Rock 78665
+11. San Antonio Behavioral Healthcare Hospital
+	8550 Huebner Road San Antonio 78240 (CMS:no)
+	2.92 Methodist Surgery Ambulatory Hospital
+	9150 Huebner Road San Antonio 78240
+Brooke Army Medical Center (Fort Sam Houston)
+	3551 Roger Brooke Drive Fort Sam Houston 78234
+	 Emergency Mismatch (CMS:yes)
+	Center for the Intrepid
+12. Carrollton Springs
+	2225 Parker Road Carrollton 75010 (CMS:no)
+	2.12 Baylor Scott & White Medical Center – Carrollton
+	4343 North Josey Lane Carrollton 75010
+13. Baylor Scott & White Medical Center Pflugerville
+	2600 East Pflugerville Parkway Pflugerville 78660 (CMS:yes)
+	1.42 Baylor Scott & White Medical Center – Grapevine
+	1650 West College Street Grapevine 76051
+14. Chi Saint Luke's Health Baylor College Of Medicine Me
+	7200 Cambridge, 11Th Floor Houston 77030 (CMS:yes)
+	2.30 Michael E. DeBakey VA Medical Center
+	2002 Holcombe Boulevard Houston 77030
+15. Rock Prairie Behavioral Health
+	3550 Normand Drive College Station 77845 (CMS:no)
+	2.31 Baylor Scott & White Medical Center – College Station
+	700 Scott & White Drive College Station 77845
+Ut Health East Texas Henderson Hospital
+	300 Wilson Street Henderson 75652
+	 Emergency Mismatch (CMS:no)
+	UT Health - Henderson
+16. Oceans Behavioral Hospital Of San Marcos
+	1106 N Ih 35 San Marcos 78666 (CMS:no)
+	2.18 Central Texas Medical Center
+	1301 Wonder World Drive San Marcos 78666
+Rio Grande State Center
+	1401 South Rangerville Road Harlingen 78552
+	 Emergency Mismatch (CMS:yes)
+	Rio Grande State Center
+17. Baylor Scott And White Emergency Hospital Burleson
+	12500 South Freeway Suite 100 Burleson 76028 (CMS:yes)
+	2.92 Baylor Emergency Medical Center
+	12500 South Freeway Burleson 76028
+18. Hca Houston Healthcare Clear Lake
+	500 Medical Center Blvd Webster 77598 (CMS:yes)
+	2.90 Clear Lake Regional Medical Center
+	500 Medical Center Boulevard Webster 77598
+19. The Medical Center Of Southeast Texas
+	2555 Jimmy Johnson Blvd Port Arthur 77640 (CMS:yes)
+	2.01 CHRISTUS Southeast Texas - Saint Mary
+	3600 Gates Boulevard Port Arthur 77642
+20. Christus Mother Frances Hospital- Winnsboro
+	719 West Coke Road Winnsboro 75494 (CMS:yes)
+	2.98 CHRISTUS Mother Frances Hospital - Winnsboro
+	719 West Coke Road Winnsboro -
+21. Corpus Christi Medical Center,The
+	6629 Woodridge Road Corpus Christi 78414 (CMS:no)
+	2.99 Bayview Behavioral Hospital
+	6629 Wooldridge Road Corpus Christi 78414
+22. Baylor Scott And White Emergency Hospital Aubrey
+	26791 Highway 380 Aubrey 76227 (CMS:yes)
+	1.33 Mid Jefferson Extended Care Hospital
+	2600 Highway 365 Nederland 77627
+23. Christus Saint Michael Health System
+	2600 St Michael Dr Texarkana 75504 (CMS:yes)
+	2.95 Christus Saint Michael
+	2600 Saint Michael Drive Texarkana 75503
+24. Christus Southeast Texas- Saint Elizabeth
+	2830 Calder Avenue Beaumont 77702 (CMS:yes)
+	2.78 CHRISTUS Dubuis Hospital of Beaumont
+	2830 Calder Street Beaumont 77702
+Baylor Scott And White Medical Center Carrollton
+	4343 North Josey Lane Carrollton 75010
+	 Emergency Mismatch (CMS:no)
+	Baylor Scott & White Medical Center – Carrollton
+Saint Joseph Regional Health Center
+	2801 Franciscan Drive Bryan 77802
+	 Emergency Mismatch (CMS:no)
+	CHI Saint Joseph Health Regional Hospital
+Sun Behavioral Houston
+	7601 Fannin Street Houston 77054
+	 Emergency Mismatch (CMS:yes)
+	Sun Behavioral Houston
+25. Memorial Medical Center Livingston
+	1717 Hwy 59 Bypass Livingston 77351 (CMS:yes)
+	3.05 CHI Sainit Luke's Health-Memorial Livingston
+	1717 Highway 59 Bypass Livingston 77351
+Texas Health Heart & Vascular Hospital Arlington
+	811 Wright Street Arlington 76012
+	 Emergency Mismatch (CMS:no)
+	Texas Health Heart & Vascular Hospital Arlington
+26. Hca Houston Healthcare Kingwood
+	22999 Us Hwy 59 Kingwood 77325 (CMS:yes)
+	1.97 Columbia Kingwood Medical Center
+	22999 US Highway 59 North Kingwood 77339
+27. University Behavioral Health
+	2026 West University Drive Denton 76201 (CMS:no)
+	2.13 Texas Health Presbyterian Hospital Denton
+	3000 North I-35 Denton 76201
+28. Wellbridge Healthcare Of Plano
+	4301 Mapleshade Lane Plano 75093 (CMS:no)
+	2.35 The Heart Hospital Baylor Plano
+	1100 Allied Drive Plano 75093
+29. Austin Lakes Hospital
+	1025 East 32Nd Street Austin 78705 (CMS:no)
+	2.85 Saint David's Medical Center
+	919 East 32nd Street Austin 78705
+30. West Oaks Hospital
+	6500 Hornwood Houston 77074 (CMS:no)
+	2.33 Memorial Hermann Southwest Hospital
+	7600 Beechnut Street Houston 77074
+31. Ut Health East Texas Jacksonville Hospital
+	501 S Ragsdale Jacksonville 75766 (CMS:yes)
+	2.83 East Texas Medical Center - Jacksonville
+	501 South Ragsdale Street Jacksonville 75766
+32. Crane County Hospital District
+	1310 S Alford St Crane 79731 (CMS:yes)
+	3.00 Crane Memorial Hospital
+	1310 South Alford Street Crane 79731
+33. Lillian M Hudspeth Memorial Hospital
+	308 Hudspeth Sonora 76950 (CMS:yes)
+	3.00 Lillian M. Hudspeth Memorial Hospital
+	- - Sonora 76950
+34. Memorial Hospital
+	1204 Mound St Nacogdoches 75961 (CMS:yes)
+	3.07 Nacogdoches Memorial Hospital
+	1204 North Mound Street Nacogdoches 75961
+35. Ut Southwestern University Hospital-Zale Lipshy
+	5151 Harry Hines Blvd Dallas 75390 (CMS:no)
+	3.00 Zale Lipshy University Hospital
+	5201 Harry Hines Boulevard Dallas 75390
+36. Dallas Behavioral Healthcare Hospital Llc
+	800 Kirnwood Drive De Soto 75115 (CMS:no)
+	1.08 UTMB Health Angleton Danbury Campus
+	132 Hospital Drive Angleton 77515
+37. Brazosport Regional Health System
+	100 Medical Drive Lake Jackson 77566 (CMS:yes)
+	3.09 CHI Saint Luke's Health Brazosport
+	100 Medical Drive Lake Jackson 77566
+38. Devereux Texas Treatment Network
+	1150 Devereux Dr League City 77573 (CMS:no)
+	1.08 Liberty - Dayton Regional Medical Center
+	1353 North Travis Street Liberty 77575
+39. El Paso Ltac Hosptial
+	1221 N Cotton St 3Rd Floor El Paso 79902 (CMS:no)
+	2.40 Providence Memorial Hospital
+	2001 North Oregon Street El Paso 79902
+40. Vhs Harlingen Hospital Company Llc
+	2101 Pease St Harlingen 78550 (CMS:yes)
+	2.83 Valley Baptist Medical Center
+	2101 Pease Street Harlingen 78550
+41. River Crest Hosp
+	1636 Hunters Glen Road San Angelo 76901 (CMS:no)
+	1.89 San Angelo Community Medical Center
+	3501 Knickerbocker Road San Angelo 76904
+42. Memorial Hermann Hospital System
+	1635 North Loop West Houston 77008 (CMS:yes)
+	2.31 Pine Valley Specialty Hospital
+	6160 South Loop East Houston 77087
+San Antonio State Hospital
+	6711 South New Braunfels Avenue San Antonio 78223
+	 Emergency Mismatch (CMS:no)
+	San Antonio State Hospital
+43. Emil J Freireich Cancer Center
+	9201 Pinecroft Shenandoah 77380 (CMS:yes)
+	2.00 Memorial Hermann The Woodlands Medical Center
+	9250 Pinecroft Drive The Woodlands 77380
+44. Crockett Medical Center
+	1100 E Loop 304 Crockett 75835 (CMS:yes)
+	1.21 Pine Creek Medical Center
+	9032 Harry Hines Boulevard Dallas 75235
+45. Oceans Behavioral Hospital Of Katy
+	455 Park Grove Lane Katy 77450 (CMS:no)
+	2.18 Houston Methodist Saint Catherine Hospital
+	701 South Fry Road Katy 77450
+46. Lone Star Behavioral Health Cypress
+	16303 Grant Road Cypress 77429 (CMS:no)
+	2.34 HCA Houston North Cypress
+	21214 Northwest Freeway Cypress 77429
+47. Detar Healthcare System
+	506 E San Antonio St Victoria 77902 (CMS:yes)
+	2.60 DeTar Hospital Navarro
+	506 East San Antonio Street Victoria 77901
+48. Hca Houston Healthcare Conroe
+	504 Medical Center Blvd Conroe 77304 (CMS:yes)
+	2.85 Conroe Regional Medical Center
+	504 Medical Center Boulevard Conroe 77304
+Ut Southwestern University Hospital
+	5201 Harry Hines Boulevard Dallas 75390
+	 Emergency Mismatch (CMS:yes)
+	Zale Lipshy University Hospital
+49. South Texas Health System
+	1102 W Trenton Road Edinburg 78539 (CMS:yes)
+	2.88 Edinburg Regional Medical Center
+	1102 West Trenton Road Edinburg 78539
+50. Rankin Hospital Medical Clinic
+	1611 Spur 576 Rankin 79778 (CMS:no)
+	2.79 Rankin County Hospital District
+	1611 Spur 576 Rankin 79731
+Grace Medical Center
+	2412 50th Street Lubbock 79412
+	 Emergency Mismatch (CMS:yes)
+	Grace Medical Center
+51. Palms Behavioral Health
+	613 Victoria Lane Harlingen 78550 (CMS:no)
+	2.21 Valley Baptist Medical Center
+	2101 Pease Street Harlingen 78550
+52. Northwest Texas Hospital
+	1501 S Coulter St Amarillo 79106 (CMS:yes)
+	3.08 North West Texas Healthcare System
+	1501 South Coulter Street Amarillo 79106
+53. United Memorial Medical Center
+	510 W Tidwell Houston 77091 (CMS:yes)
+	2.94 United Memorial Medical Center
+	510 West Tidwell Road Houston 77026
+54. Oceans Behavioral Hospital Of Lufkin Llc
+	302 Gobblers Knob Rd Lufkin 75904 (CMS:no)
+	2.26 CHI Saint Luke's Health-Memorial Lufkin
+	1201 West Frank Avenue Lufkin 75904
+55. North Runnels Hospital
+	7821 East Highway 153 Winters 79567 (CMS:yes)
+	2.96 North Runnels Hospital
+	7821 TX 153 Winters 79467
+56. Oceans Behavioral Hospital Of Longview
+	615 Clinic Dr Longview 75605 (CMS:no)
+	2.46 Magnolia Behavioral Hospital
+	22 Bermuda Lane Longview 75605
+57. Aspire Behavioral Health Of Conroe, Llc
+	2006 South Loop 336 West, Suite 500 Conroe 77304 (CMS:no)
+	2.83 Aspire Hospital
+	2006 South Loop 336 West Conroe 77304
+58. Ut Health East Texas Athens Hospital
+	2000 South Palestine St Athens 75751 (CMS:yes)
+	3.08 East Texas Medical Center - Athens
+	2000 South Palestine Street Athens 75751
+59. Legent Orthopedic + Spine
+	5330 North Loop 1604 West San Antonio 78249 (CMS:yes)
+	3.09 Cumberland Surgical Hospital
+	5330 North Loop 1604 West San Antonio 78249
+60. Rock Springs
+	700 Southeast Inner Loop Georgetown 78626 (CMS:no)
+	2.19 Saint David's Georgetown Hospital
+	2000 Scenic Drive Georgetown 78626
+61. Ut Health East Texas Pittsburg Hospital
+	2701 Us Hwy 271 N Pittsburg 75686 (CMS:yes)
+	2.94 UT Health Pittsburg
+	2701 US 271 Pittsburg 75686
+62. Burleson Saint Joseph Health Center
+	1101 Woodson Drive Caldwell 77836 (CMS:no)
+	2.46 CHI Saint Joseph Health Burleson Hospital
+	1101 Woodson Drive Burleson 77836
+Paris Regional Medical Center
+	820 Clarksville Street Paris 75460
+	 Emergency Mismatch (CMS:yes)
+	Paris Regional Medical Center – South Campus
+63. The Hospitals Of Providence Horizon City Campus
+	13600 Horizon Street, Suite 100 Horizon City 79928 (CMS:yes)
+	1.40 The Hospitals of Providence - East Campus
+	3280 Joe Battle Boulevard El Paso 79998
+64. Ad Hospital East, Llc
+	12950 East Freeway, Suite 100 Houston 77015 (CMS:yes)
+	2.70 Advanced Diagnostics East Hospital & 24 Hour Emergency Center
+	12950 East Freeway Houston 77015
+65. Little River Healthcare
+	1700 Brazos Rockdale 76567 (CMS:yes)
+	2.42 Little River Healthcare – Rockdale Hospital
+	1700 Brazos Avenue Rockdale 76520
+66. Hca Houston Healthcare Tomball
+	605 Holderrieth Tomball 77375 (CMS:yes)
+	2.62 Tomball Regional Medical Center
+	605 Holderrieth Boulevard Tomball 77375
+67. Harris Health System
+	2525 Holly Hall Houston 77054 (CMS:yes)
+	2.18 The Woman's Hospital of Texas
+	7600 Fannin Street Houston 77054
+68. Memorial Hospital
+	1110 North Sarah Dewitt Drive Gonzales 78629 (CMS:yes)
+	3.02 Gonzales Healthcare Systems
+	1110 North Sarah Dewitt Drive Gonzales 78629
+69. Ut Health East Texas Tyler Regional Hospital
+	1000 South Beckham Ave Tyler 75701 (CMS:yes)
+	2.88 --
+	1000 South Beckham Avenue Tyler 75701
+70. Jackson Healthcare Center
+	1013 S Wells Edna 77957 (CMS:yes)
+	2.68 Jackson County Hospital
+	1013 South Wells Street Edna 77957
+71. The Hospitals Of Providence Memorial Campus
+	2001 N Oregon St El Paso 79902 (CMS:yes)
+	3.03 Providence Memorial Hospital
+	2001 North Oregon Street El Paso 79902
+72. Nix Health Care System
+	414 Navarro, Suite 600 San Antonio 78205 (CMS:yes)
+	2.92 Nix Medical Center
+	414 Navarro Street San Antonio 78205
+73. Sabine County Hospital
+	Po Box 750, 2301 Hwy 83 W Hemphill 75948 (CMS:yes)
+	3.08 Sabine County Hospital
+	2301 Worth Street Hemphill 75948
+74. Covenant Childrens Hospital
+	4015 22Nd Place Lubbock 79410 (CMS:yes)
+	2.76 Covenant Children’s
+	4002 24th Street Lubbock 79410
+El Paso Psychiatric Center
+	4615 Alameda Avenue El Paso 79905
+	 Emergency Mismatch (CMS:yes)
+	El Paso Psychiatric Center
+75. Jps Health Network
+	1500 S Main St Fort Worth 76104 (CMS:yes)
+	2.71 John Peter Smith Hospital
+	1500 South Main Street Fort Worth 76104
+76. Oceans Behavioral Hospital Of Abilene
+	6401 Directors Parkway Abilene 79606 (CMS:no)
+	2.10 Abilene Regional Medical Center
+	6250 US 83 Abilene 79606
+Intracare North Hospital
+	1120 Cypress Station Drive Houston 77090
+	 Emergency Mismatch (CMS:yes)
+	Intracare North Hospital
+77. Hca Houston Healthcare Southeast
+	4000 Spencer Hwy Pasadena 77504 (CMS:yes)
+	2.87 Bayshore Medical Center
+	4000 Spencer Highway Pasadena 77504
+78. Mccamey Hospital
+	2500 Hwy 305 South Mccamey 79752 (CMS:yes)
+	2.43 McCamey County Hospital District
+	2500 South Highway 305 McCamey 79752
+79. Grimes Saint Joseph Health Center
+	210 Judson St Navasota 77868 (CMS:yes)
+	2.97 CHI Saint Joseph Health Grimes Hospital
+	210 South Judson Street Navasota 77868
+80. Methodist Ambulatory Surgery Hospital Nw
+	9150 Huebner Rd Suite 100 San Antonio 78240 (CMS:yes)
+	3.08 Methodist Surgery Ambulatory Hospital
+	9150 Huebner Road San Antonio 78240
+81. Mesa Springs
+	5560 Mesa Springs Drive Fort Worth 76123 (CMS:no)
+	1.91 Harris Methodist Southwest Hospital
+	6100 Harris Parkway Fort Worth 76132
+82. Cedar Crest Hospital & Rtc
+	3500 South Ih-35 Belton 76513 (CMS:no)
+	1.69 Texas Health Presbyterian Hospital Denton
+	3000 North I-35 Denton 76201
+83. Haven Behavioral Hospital Of Frisco
+	5680 Frisco Square Blvd, Suite 3000 Frisco 75034 (CMS:no)
+	2.23 Baylor Scott & White Medical Center – Frisco
+	5601 Warren Parkway Frisco 75034
+84. Madison Saint Joseph Health Center
+	100 West Cross Street Madisonville 77864 (CMS:yes)
+	2.96 CHI Saint Joseph Health Madison Hospital
+	100 West Cross Street Madison 77864
+Memorial Hermann First Colony Hospital
+	24429 Tomball Parkway Tomball 77375
+	 Emergency Mismatch (CMS:no)
+	Memorial Hermann Tomball Hospital
+85. Baylor Scott & White Medical Center- Waxahachie
+	2400 N Interstate Highway 35E Waxahachie 75165 (CMS:yes)
+	3.06 Baylor Scott & White Medical Center – Waxahachie
+	2400 I 35 Frontage Road Waxahachie 75165
+86. Hickory Trail Hospital
+	2000 N Old Hickory Trail Desoto 75115 (CMS:no)
+	1.10 Navarro Regional Hospital
+	3201 West Highway 22 Corsicana 75110
+87. Bellville Saint Joseph Health Center
+	44 N Cummings St Bellville 77418 (CMS:yes)
+	2.92 CHI Saint Joseph Health Bellville Hospital
+	44 North Cummings Road Bellville 77418
+88. Laredo Medical Center
+	1700 East Saunders Laredo 78044 (CMS:yes)
+	3.04 Laredo Medical Center
+	1700 East Saunders Street Loredo 78041
+89. Quail Creek Surgical Hospital
+	6819 Plum Creek Amarillo 79124 (CMS:yes)
+	3.05 Quail Creek Surgical Hospital
+	6819 Plum Creek Drive Amarillo 79106
+University Of Texas Medical Branch
+	301 University Boulevard Galveston 77555
+	 Emergency Mismatch (CMS:yes)
+	Texas Department of Criminal Justice Hospital
+90. Woodland Springs
+	15860 Old Conroe Road Conroe 77384 (CMS:no)
+	1.91 Conroe Regional Medical Center
+	504 Medical Center Boulevard Conroe 77304
+Kell West Regional Hospital
+	5420 Kell Boulevard Wichita Falls 76310
+	 Emergency Mismatch (CMS:no)
+	Kell West Regional Hospital
+91. El Campo Memorial Hospital
+	303 Sandy Corner Rd El Campo 77437 (CMS:yes)
+	2.92 El Campo Memorial Hospital
+	303 Sandy Corners Road Angleton 77437
+92. Westpark Springs Llc
+	6902 S Peek Road Richmond 77407 (CMS:yes)
+	1.61 Richmond State Supported Living Center
+	2100 Preston Street Richmond 77469
+93. Allegiance Behavioral Health Center Of Plainview
+	2601 Dimmitt Road, Suite 400 Plainview 79072 (CMS:no)
+	2.87 Covenant Health Plainview
+	2601 Dimmitt Road Plainview 79072
+94. Parmer County Community Hospital
+	1307 Cleveland Street Friona 79035 (CMS:yes)
+	2.80 Parmer Medical Center
+	1307 Cleveland Avenue Friona 79035
+95. First Texas Hospital Carrollton Llc
+	1401 E Trinity Mills Road Carrollton 75006 (CMS:yes)
+	1.99 Baylor Scott & White Medical Center – Carrollton
+	4343 North Josey Lane Carrollton 75010
+96. Our Childrens House
+	8 Prestige Circle 101 Allen 75002 (CMS:no)
+	1.53 Our Children's House
+	1340 Empire Central Dallas 75247
+97. Garland Behavioral Hospital
+	2300 Marie Curie Blvd 5Th Floor Garland 75042 (CMS:no)
+	2.71 Sundance Behavioral Hospital
+	2696 West Walnut Street Garland 75042
+98. Glen Oaks Hospital
+	301 E Division Box 1885 Greenville 75401 (CMS:no)
+	2.11 Hunt Regional Medical Center
+	4215 Joe Ramsey Boulevard Greenville 75401
+Found 98 issues.
+
+Unmatched emergency=yes
+Methodist Children's Hospital (0.00)
+	7700 Floyd Curl Drive San Antonio 78229
+Unmatched emergency=yes
+Heart Hospital of Austin (0.00)
+	3801 North Lamar Boulevard Austin 78756
+Unmatched emergency=yes
+UMC Emergency Center (0.00)
+	602 Indiana Avenue Lubbock 79415
+Unmatched emergency=yes
+Emergency Room (0.00)
+	2600 Saint Michael Drive Texarkana 75503
+Unmatched emergency=yes
+Ben Taub General Hospital (0.00)
+	1504 Taub Loop Houston 77030
+Unmatched emergency=yes
+Children's Memorial Hermann Hospital (0.00)
+	6411 Fannin Street Houston 77030
+Unmatched emergency=yes
+Saint Luke's Baptist Hospital (0.00)
+	7930 Floyd Curl Drive San Antonio 78229
+Unmatched emergency=yes
+Methodist Specialty and Transplant Hospital (0.00)
+	8026 Floyd Curl Drive San Antonio 78229
+Unmatched emergency=yes
+Veterans Affairs Medical Center (0.00)
+	7400 Merton Minter San Antonio 78229
+Unmatched emergency=yes
+Nix Medical Center (2.92)
+	414 Navarro Street San Antonio 78205
+Unmatched emergency=yes
+CHRISTUS Santa Rosa - Westover Hills (0.00)
+	11212 State Highway 151 San Antonio 78251
+Unmatched emergency=yes
+Memorial Hermann The Woodlands Medical Center (2.00)
+	9250 Pinecroft Drive The Woodlands 77380
+Unmatched emergency=yes
+Mission Trail Baptist Hospital (0.00)
+	3333 Research Plaza San Antonio 78235
+Unmatched emergency=yes
+Metropolitan Methodist Hospital (0.00)
+	1310 McCullough Avenue San Antonio 78212
+Unmatched emergency=yes
+US Pain & Spine Hospital (0.00)
+	5445 La Branch Street Houston 77004
+Unmatched emergency=yes
+CHRISTUS Santa Rosa Hospital - Alamo Heights (0.00)
+	403 Treeline Park San Antonio 78209
+Unmatched emergency=yes
+Corpus Christi Medical Center - Bay Area (0.00)
+	7101 South Padre Island Drive Corpus Christi 78412
+Unmatched emergency=yes
+CHRISTUS Spohn Hospital Corpus Christi - South (0.00)
+	5950 Saratoga Boulevard Corpus Christi 78414
+Unmatched emergency=yes
+Corpus Christi Medical Center - Doctors Regional (0.00)
+	3315 South Alameda Street Corpus Christi 78411
+Unmatched emergency=yes
+Memorial Hermann Greater Heights Hospital (0.00)
+	- - - -
+Unmatched emergency=yes
+Dell Seton Medical Center at The University of Texas (3.09)
+	1500 Red River Street Austin 78701
+Unmatched emergency=yes
+Baptist Emergency Hospital (0.00)
+	8230 North Loop 1604 West San Antonio 78249
+Unmatched emergency=yes
+Methodist Texsan Heart Hospital (0.00)
+	6700 Interstate Highway 10 San Antonio 78201
+Unmatched emergency=yes
+Riverside General Hospital (0.00)
+	3204 Ennis Street Houston 77004
+Unmatched emergency=yes
+Parmer Medical Center (2.80)
+	1307 Cleveland Avenue Friona 79035
+Unmatched emergency=yes
+Crane Memorial Hospital (3.00)
+	1310 South Alford Street Crane 79731
+Unmatched emergency=yes
+Allegiance Specialty Hospital (0.00)
+	1612 South Henderson Boulevard Kilgore 75662
+Unmatched emergency=yes
+Cumberland Surgical Hospital (3.09)
+	5330 North Loop 1604 West San Antonio 78249
+Unmatched emergency=yes
+Quail Creek Surgical Hospital (3.05)
+	6819 Plum Creek Drive Amarillo 79106
+Unmatched emergency=yes
+CHRISTUS Good Shepherd Medical Center - Marshall (0.00)
+	811 South Washington Avenue Marshall 75670
+Unmatched emergency=yes
+Dallas VA Medical Center (0.00)
+	4500 South Lancaster Road Dallas 75216
+Unmatched emergency=yes
+Del Sol Medical Center (0.00)
+	10301 Gateway Boulevard West El Paso 79925
+Unmatched emergency=yes
+Paris Regional Medical Center (0.00)
+	865 Deshong Drive Paris 75460
+Unmatched emergency=yes
+CHRISTUS Southeast Texas - Saint Mary (2.01)
+	3600 Gates Boulevard Port Arthur 77642
+Unmatched emergency=yes
+Tomball Regional Medical Center (2.62)
+	605 Holderrieth Boulevard Tomball 77375
+Unmatched emergency=yes
+UTMB Health Angleton Danbury Campus (1.08)
+	132 Hospital Drive Angleton 77515
+Unmatched emergency=yes
+Northeast Baptist Hospital (0.00)
+	8811 Village Drive San Antonio 78217
+Unmatched emergency=yes
+Gonzales Healthcare Systems (3.02)
+	1110 North Sarah Dewitt Drive Gonzales 78629
+Unmatched emergency=yes
+Baylor Scott & White Medical Center – Waxahachie (3.06)
+	2400 I 35 Frontage Road Waxahachie 75165
+Unmatched emergency=yes
+Corpus Christi Medical Center - Northwest Regional (0.00)
+	13725 Northwest Boulevard Corpus Christi 78410
+Unmatched emergency=yes
+Jackson County Hospital (2.68)
+	1013 South Wells Street Edna 77957
+Unmatched emergency=yes
+El Campo Memorial Hospital (2.92)
+	303 Sandy Corners Road Angleton 77437
+Unmatched emergency=yes
+Memorial Hermann Southeast Hospital (0.00)
+	11800 Astoria Boulevard Houston 77089
+Unmatched emergency=yes
+-- (2.88)
+	1000 South Beckham Avenue Tyler 75701
+Unmatched emergency=yes
+East Texas Medical Center - Athens (3.08)
+	2000 South Palestine Street Athens 75751
+Unmatched emergency=yes
+East Texas Medical Center - Jacksonville (2.83)
+	501 South Ragsdale Street Jacksonville 75766
+Unmatched emergency=yes
+UT Health Pittsburg (2.94)
+	2701 US 271 Pittsburg 75686
+Unmatched emergency=yes
+Columbia Kingwood Medical Center (1.97)
+	22999 US Highway 59 North Kingwood 77339
+Unmatched emergency=yes
+Baylor Scott & White Medical Center – Round Rock (2.87)
+	300 University Boulevard Round Rock 78665
+Unmatched emergency=yes
+Valley Baptist Medical Center (2.21)
+	2101 Pease Street Harlingen 78550
+Unmatched emergency=yes
+John Peter Smith Hospital (2.71)
+	1500 South Main Street Fort Worth 76104
+Unmatched emergency=yes
+Providence Memorial Hospital (3.03)
+	2001 North Oregon Street El Paso 79902
+Unmatched emergency=yes
+William Beaumont Army Medical Center (2.61)
+	5005 North Piedras Street El Paso 79930
+Unmatched emergency=yes
+Laredo Medical Center (3.04)
+	1700 East Saunders Street Loredo 78041
+Unmatched emergency=yes
+McAllen Heart Hospital (0.00)
+	1900 South D Street McAllen 78503
+Unmatched emergency=yes
+Edinburg Regional Medical Center (2.88)
+	1102 West Trenton Road Edinburg 78539
+Unmatched emergency=yes
+CHRISTUS Spohn Hospital Corpus Christi - Memorial (0.00)
+	2606 Hospital Boulevard Corpus Christi 78405
+Unmatched emergency=yes
+North West Texas Healthcare System (3.08)
+	1501 South Coulter Street Amarillo 79106
+Unmatched emergency=yes
+Thomas E. Creek VA Medical Center (0.00)
+	6010 Amarillo Boulevard West Amarillo 79106
+Unmatched emergency=yes
+Covenant Children’s (2.76)
+	4002 24th Street Lubbock 79410
+Unmatched emergency=yes
+Rankin County Hospital District (2.79)
+	1611 Spur 576 Rankin 79731
+Unmatched emergency=yes
+Lillian M. Hudspeth Memorial Hospital (3.00)
+	- - Sonora 76950
+Unmatched emergency=yes
+Central Hospital of Bowie (0.00)
+	705 East Greenwood Avenue Bowie 76230
+Unmatched emergency=yes
+Carl R. Darnall Army Medical Center (2.37)
+	36065 Santa Fe Avenue Fort Hood 76544
+Unmatched emergency=yes
+Metroplex Health System (2.69)
+	2201 South Clear Creek Road Killeen 76549
+Unmatched emergency=yes
+Methodist Surgery Ambulatory Hospital (3.08)
+	9150 Huebner Road San Antonio 78240
+Unmatched emergency=yes
+Northeast Methodist Hospital (0.00)
+	12412 Judson Road Live Oak 78233
+Unmatched emergency=yes
+North Central Baptist Hospital (0.00)
+	520 Madison Oak Drive San Antonio 78258
+Unmatched emergency=yes
+CHRISTUS Santa Rosa - New Braunfels (0.00)
+	600 North Union Avenue New Braunfels 78130
+Unmatched emergency=yes
+Seton Edgar B. Davis Hospital (3.07)
+	130 Hays Street Luling 78468
+Unmatched emergency=yes
+DeTar Hospital North (0.00)
+	101 Medical Drive Victoria 77904
+Unmatched emergency=yes
+DeTar Hospital Navarro (2.60)
+	506 East San Antonio Street Victoria 77901
+Unmatched emergency=yes
+CHI Saint Luke's Health Brazosport (3.09)
+	100 Medical Drive Lake Jackson 77566
+Unmatched emergency=yes
+Weimar Medical Center (0.00)
+	400 Youens Drive Weimar 78962
+Unmatched emergency=yes
+Saint David's Georgetown Hospital (2.19)
+	2000 Scenic Drive Georgetown 78626
+Unmatched emergency=yes
+Olin E. Teague Veterans' Medical Center (0.00)
+	1901 Veterans Memorial Drive Temple 76504
+Unmatched emergency=yes
+Cameron Hospital (0.00)
+	806 North Crockett Avenue Cameron 76520
+Unmatched emergency=yes
+Little River Healthcare – Rockdale Hospital (2.42)
+	1700 Brazos Avenue Rockdale 76520
+Unmatched emergency=yes
+CHI Saint Joseph Health Burleson Hospital (2.46)
+	1101 Woodson Drive Burleson 77836
+Unmatched emergency=yes
+CHI Saint Joseph Health Bellville Hospital (2.92)
+	44 North Cummings Road Bellville 77418
+Unmatched emergency=yes
+CHI Saint Joseph Health Madison Hospital (2.96)
+	100 West Cross Street Madison 77864
+Unmatched emergency=yes
+CHI Sainit Luke's Health-Memorial Livingston (3.05)
+	1717 Highway 59 Bypass Livingston 77351
+Unmatched emergency=yes
+Baptist Hospitals of Southeast Texas, Orange Campus (0.00)
+	608 Strickland Drive Orange 77630
+Unmatched emergency=yes
+CHRISTUS Southeast Texas - Saint Elizabeth (0.00)
+	- - - -
+Unmatched emergency=yes
+Texas Emergency Hospital (0.00)
+	300 East Crockett Street Cleveland 77327
+Unmatched emergency=yes
+Mainland Medical Center (0.00)
+	6801 Emmett F Lowry Expressway Texas City 77591
+Unmatched emergency=yes
+Bay Area Regional Medical Center (0.00)
+	200 Blossom Street Webster 77598
+Unmatched emergency=yes
+Clear Lake Regional Medical Center (2.90)
+	500 Medical Center Boulevard Webster 77598
+Unmatched emergency=yes
+Bayshore Medical Center (2.87)
+	4000 Spencer Highway Pasadena 77504
+Unmatched emergency=yes
+Michael E. DeBakey VA Medical Center (2.30)
+	2002 Holcombe Boulevard Houston 77030
+Unmatched emergency=yes
+Texas Children's Hospital West Campus (0.00)
+	18200 Katy Freeway Houston 77094
+Unmatched emergency=yes
+Memorial Hermann Southwest Hospital (2.33)
+	7600 Beechnut Street Houston 77074
+Unmatched emergency=yes
+Saint Joseph's Medical Center (0.00)
+	1917 Ashland Street Houston 77008
+Unmatched emergency=yes
+Lyndon B. Johnson General Hospital (0.00)
+	5656 Kelley Street Houston 77026
+Unmatched emergency=yes
+Cypress Fairbanks Medical Center (0.00)
+	10655 Steepletop Drive Houston 77065
+Unmatched emergency=yes
+HCA Houston North Cypress (2.34)
+	21214 Northwest Freeway Cypress 77429
+Unmatched emergency=yes
+Memorial Hermann Cypress Hospital (0.00)
+	27800 Northwest Freeway Cypress 77433
+Unmatched emergency=yes
+Conroe Regional Medical Center (1.91)
+	504 Medical Center Boulevard Conroe 77304
+Unmatched emergency=yes
+Nacogdoches Memorial Hospital (3.07)
+	1204 North Mound Street Nacogdoches 75961
+Unmatched emergency=yes
+CHRISTUS Saint Michael Hospital-Atlanta (0.00)
+	1007 South Williams Street Atlanta 75551
+Unmatched emergency=yes
+Christus Saint Michael (2.95)
+	2600 Saint Michael Drive Texarkana 75503
+Unmatched emergency=yes
+Cook Children's Northeast (0.00)
+	6316 Precinct Line Road Hurst 76054
+Unmatched emergency=yes
+Texas General Hospital (0.00)
+	2709 Hospital Boulevard Grand Prairie 75051
+Unmatched emergency=yes
+Baylor Surgical Hospital at Las Colinas (3.05)
+	440 Lyndon B Johnson Freeway Irving 75063
+Unmatched emergency=yes
+Methodist Campus for Continuing Care (0.00)
+	401 West Campbell Road Richardson 75080
+Unmatched emergency=yes
+William P. Clements Jr. University Hospital (0.00)
+	6201 Harry Hines Boulevard Dallas 75390
+Unmatched emergency=yes
+Stamford Memorial Hospital (0.00)
+	1601 Columbia Street Stamford 79553
+Unmatched emergency=yes
+The Women's Hospital at Renaissance (0.00)
+	5502 South McColl Road Edinburg 78539
+Unmatched emergency=yes
+McCamey County Hospital District (2.43)
+	2500 South Highway 305 McCamey 79752
+Unmatched emergency=yes
+North Runnels Hospital (2.96)
+	7821 TX 153 Winters 79467
+Unmatched emergency=yes
+CHI Saint Joseph Health Grimes Hospital (2.97)
+	210 South Judson Street Navasota 77868
+Unmatched emergency=yes
+Sabine County Hospital (3.08)
+	2301 Worth Street Hemphill 75948
+Unmatched emergency=yes
+Ascension Seton Highland Lakes Hospital (2.62)
+	3201 South Water Street Burnet 78611
+Unmatched emergency=yes
+Baylor Emergency Medical Center (0.00)
+	1975 Alpha Drive Rockwall 75087
+Unmatched emergency=yes
+Advanced Diagnostics East Hospital & 24 Hour Emergency Center (2.70)
+	12950 East Freeway Houston 77015
+Unmatched emergency=yes
+Baylor Emergency Medical Center (2.92)
+	12500 South Freeway Burleson 76028
+Unmatched emergency=yes
+Texas Children's Hospital The Woodlands (0.00)
+	17600 Interstate 45 South The Woodlands 77384
+Unmatched emergency=yes
+United Memorial Medical Center (2.94)
+	510 West Tidwell Road Houston 77026
+Unmatched emergency=yes
+CHRISTUS Mother Frances Hospital - South Tyler (0.00)
+	8389 South Broadway Avenue Tyler -
+Unmatched emergency=yes
+CHRISTUS Mother Frances Hospital - Winnsboro (2.98)
+	719 West Coke Road Winnsboro -
+Unmatched emergency=yes
+John Sealy Hospital (0.00)
+	301 8th Street Galveston 77555
+Unmatched emergency=yes
+San Antonio Military Medical Center (0.00)
+	- - - -
+Found 122 unmatched emergency.

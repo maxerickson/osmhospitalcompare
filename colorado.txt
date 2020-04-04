@@ -1,192 +1,184 @@
-165
-91
+162 OSM hospitals
+91 Medicare hospitals
 1. Southwest Memorial Hospital
 	1311 N Mildred Rd Cortez 81321 (CMS:yes)
 	2.72 Southwest Memorial Hospital
-	 1311 North Mildred Road Cortez -
+	1311 North Mildred Road Cortez -
 2. Foothills Hospital
 	4747 Arapahoe Avenue Boulder 80303 (CMS:yes)
 	1.11 Penrose Hospital
-	 2222 North Nevada Avenue Colorado Springs 80907
+	2222 North Nevada Avenue Colorado Springs 80907
 3. Peak View Behavioral Health
 	7353 Sisters Grove Colorado Springs 80923 (CMS:no)
 	1.96 Memorial Hospital North
-	 4050 Briargate Parkway Colorado Springs 80920
+	4050 Briargate Parkway Colorado Springs 80920
 Orthocolorado Hospital At Saint Anthony Med Campus
-	 11650 West 2nd Place Lakewood 80228
+	11650 West 2nd Place Lakewood 80228
 	 Emergency Mismatch (CMS:yes)
-	 OrthoColorado Hospital
+	OrthoColorado Hospital
 4. University Of Colorado Hospital Authority
 	12605 E 16Th Ave Aurora 80045 (CMS:yes)
 	2.61 Children's Hospital Colorado Anschutz Medical Campus, Aurora
-	 13123 East 16th Avenue Aurora 80045
+	13123 East 16th Avenue Aurora 80045
 National Jewish Health
-	 1400 Jackson Street Denver 80206
+	1400 Jackson Street Denver 80206
 	 Emergency Mismatch (CMS:yes)
-	 National Jewish Health
+	National Jewish Health
 Sedgwick County Memorial Hospital
-	 900 Cedar Street Julesburg 80737
+	900 Cedar Street Julesburg 80737
 	 Emergency Mismatch (CMS:no)
-	 Sedgwick County Memorial Hospital
+	Sedgwick County Memorial Hospital
 5. Longs Peak Hospital
 	1750 East Ken Pratt Boulevard Longmont 80504 (CMS:yes)
 	2.19 Longmont United Hospital
-	 1950 Mountain View Avenue Longmont 80501
+	1950 Mountain View Avenue Longmont 80501
 6. West Springs Hospital
 	515 28 3/4 Rd Grand Junction 81501 (CMS:no)
 	2.20 Saint Mary's Medical Center
-	 2635 North 7th Street Grand Junction 81501
+	2635 North 7th Street Grand Junction 81501
 7. Colorado Mental Health Institute At Fort Logan
 	3520 W Oxford Ave Denver 80236 (CMS:no)
 	2.00 Memory Care at The Gardens
-	 10200 East Harvard Avenue Denver 80231
+	10200 East Harvard Avenue Denver 80231
 8. Colorado Mental Health Institute At Pueblo-Psych
 	1600 W 24Th St Pueblo 81003 (CMS:yes)
 	2.38 Parkview Medical Center
-	 400 West 16th Street Pueblo 81003
+	400 West 16th Street Pueblo 81003
 9. Saint Vincent General Hospital District
 	822 W 4Th St Leadville 80461 (CMS:yes)
 	2.93 St Vincent Hospital
-	 822 West 4th Street Leadville 80461
+	822 West 4th Street Leadville 80461
 10. Denver Springs
 	8835 American Way Englewood 80112 (CMS:no)
 	1.85 Craig Hospital
-	 3425 South Clarkson Street Englewood 80113
+	3425 South Clarkson Street Englewood 80113
 11. Centura Health-Penrose-Saint Francis Health Services
 	2222 North Nevada Ave Colorado Springs 80907 (CMS:yes)
 	2.98 Penrose Hospital
-	 2222 North Nevada Avenue Colorado Springs 80907
+	2222 North Nevada Avenue Colorado Springs 80907
 12. Vail Health Hospital
 	181 W Meadow Dr Vail 81657 (CMS:yes)
 	3.06 Vail Health Vail Campus
-	 181 West Meadow Drive Vail 81657
+	181 West Meadow Drive Vail 81657
 Saint Anthony Summit Medical Center
-	 340 Peak One Drive Frisco 80443
+	340 Peak One Drive Frisco 80443
 	 Emergency Mismatch (CMS:no)
-	 Saint Anthony Summit Medical Center
+	Saint Anthony Summit Medical Center
 13. Cedar Springs Behavioral Health System
 	2135 Southgate Rd Colorado Springs 80906 (CMS:yes)
 	1.90 Memorial Hospital North
-	 4050 Briargate Parkway Colorado Springs 80920
+	4050 Briargate Parkway Colorado Springs 80920
 14. Children's Hospital Colorado
 	13123 E 16Th Ave Aurora 80045 (CMS:yes)
 	3.03 Children's Hospital Colorado Anschutz Medical Campus, Aurora
-	 13123 East 16th Avenue Aurora 80045
+	13123 East 16th Avenue Aurora 80045
 15. Clear View Behavioral Health
 	4770 Larimer Pkwy Johnstown 80534 (CMS:no)
 	1.04 Highlands Behavioral Health
-	 8565 South Poplar Way Littleton 80130
+	8565 South Poplar Way Littleton 80130
 16. Evans Ach (Fort Carson)
 	Fort Carson Meddac 1650 Cochrane Circle Fort Carson Fort Carson 80913 (CMS:yes)
 	2.46 Evans Army Community Hospital
-	 1650 West Cochrane Circle Fort Carson 80913
+	1650 West Cochrane Circle Fort Carson 80913
 Found 16 issues.
+
 Unmatched emergency=yes
 University of Colorado Hospital (0.00)
-	 12605 East 16th Avenue - 80045
+	12605 East 16th Avenue - 80045
 Unmatched emergency=yes
 Concentra Urgent Care (0.00)
-	 10355 East Iliff Avenue Denver 80247
+	10355 East Iliff Avenue Denver 80247
 Unmatched emergency=yes
 Children's Hospital Colorado at Parker Adventist Hospital, Emergency Care, Parker (0.00)
-	 9395 Crown Crest Boulevard Parker 80138
+	9395 Crown Crest Boulevard Parker 80138
 Unmatched emergency=yes
 Denver Health Medical Center Emergency Department Trauma Center (0.00)
-	 777 Bannock Street Denver 80204
+	777 Bannock Street Denver 80204
 Unmatched emergency=yes
 Denver Health Medical Emergency Center for Children (0.00)
-	 777 Bannock Street Denver 80204
+	777 Bannock Street Denver 80204
 Unmatched emergency=yes
 Founders Family Medicine and Urgent Care (0.00)
-	 4386 Trail Boss Drive Castle Rock 80104
+	4386 Trail Boss Drive Castle Rock 80104
 Unmatched emergency=yes
 UCHealth Highlands Ranch Hospital (0.00)
-	 1500 Park Central Drive Highlands Ranch 80129
-Unmatched emergency=yes
-Cedar Point Health - Urgent Care (0.00)
-	 569 32 Rd Grand Junction 81504
+	1500 Park Central Drive Highlands Ranch 80129
 Unmatched emergency=yes
 UCHealth Emergency Room (0.00)
-	 9475 South University Boulevard Highlands Ranch 80126
+	9475 South University Boulevard Highlands Ranch 80126
 Unmatched emergency=yes
 Saint Francis Medical Center (0.00)
-	 6001 East Woodmen Road - 80923
+	6001 East Woodmen Road - 80923
 Unmatched emergency=yes
 Memorial Hospital North (1.90)
-	 4050 Briargate Parkway Colorado Springs 80920
+	4050 Briargate Parkway Colorado Springs 80920
 Unmatched emergency=yes
 Telluride Regional Medical Center (0.00)
-	 500 West Pacific Avenue Telluride 81435
+	500 West Pacific Avenue Telluride 81435
 Unmatched emergency=yes
 Grand Junction Veterans Health Care System (0.00)
-	 2121 North Avenue Grand Junction 81501
-Unmatched emergency=yes
-After Ours Urgent Care (0.00)
-	 6895 East Hampden Avenue - 80224
+	2121 North Avenue Grand Junction 81501
 Unmatched emergency=yes
 Northeast Emergency Room (0.00)
-	 12793 Holly Street Thornton 80602
+	12793 Holly Street Thornton 80602
 Unmatched emergency=yes
 Platte Valley Medical Center (0.00)
-	 1600 Prairie Center Parkway Brighton 80601
+	1600 Prairie Center Parkway Brighton 80601
 Unmatched emergency=yes
 Children's Hospital Colorado Emergency Department (ED) (0.00)
-	 13123 East 16th Avenue - 80045
+	13123 East 16th Avenue - 80045
 Unmatched emergency=yes
 Children's Hospital Colorado Anschutz Medical Campus, Aurora (3.03)
-	 13123 East 16th Avenue Aurora 80045
+	13123 East 16th Avenue Aurora 80045
 Unmatched emergency=yes
 Anschutz Inpatient Pavilion 2 & Emergency Department (University Hospital) (0.00)
-	 12505 East 16th Avenue - 80045
+	12505 East 16th Avenue - 80045
 Unmatched emergency=yes
 Children's Hospital Colorado Uptown Denver (0.00)
-	 1830 Franklin Street Denver 80218
+	1830 Franklin Street Denver 80218
 Unmatched emergency=yes
 Colorado Plains Medical Center (0.00)
-	 1000 Lincoln Street Fort Morgan 80701
+	1000 Lincoln Street Fort Morgan 80701
 Unmatched emergency=yes
 Foothills Hospital (0.00)
-	 - - - -
+	- - - -
 Unmatched emergency=yes
 SCL Health Community Hospital - Northglenn (0.00)
-	 11900 Grant Street Northglenn 80233
+	11900 Grant Street Northglenn 80233
 Unmatched emergency=yes
 Southwest Memorial Hospital (2.72)
-	 1311 North Mildred Road Cortez -
+	1311 North Mildred Road Cortez -
 Unmatched emergency=yes
 St Vincent Hospital (2.93)
-	 822 West 4th Street Leadville 80461
+	822 West 4th Street Leadville 80461
 Unmatched emergency=yes
 Evans Army Community Hospital (2.46)
-	 1650 West Cochrane Circle Fort Carson 80913
+	1650 West Cochrane Circle Fort Carson 80913
 Unmatched emergency=yes
 Penrose Hospital (2.98)
-	 2222 North Nevada Avenue Colorado Springs 80907
+	2222 North Nevada Avenue Colorado Springs 80907
 Unmatched emergency=yes
 84th Avenue Neighborhood Health Center (0.00)
-	 2551 West 84th Avenue Westminster 80031
+	2551 West 84th Avenue Westminster 80031
 Unmatched emergency=yes
 Centennial Medical Plaza (0.00)
-	 14200 East Arapahoe Road Centennial 80112
+	14200 East Arapahoe Road Centennial 80112
 Unmatched emergency=yes
 Saint Anthony Medical Campus (0.00)
-	 11600 West 2nd Place Lakewood 80228
+	11600 West 2nd Place Lakewood 80228
 Unmatched emergency=yes
 Children's Hospital Colorado South Campus, Highlands Ranch (0.00)
-	 1811 Plaza Drive Highlands Ranch 80129
-Unmatched emergency=yes
--- (0.00)
-	 25551 East Smoky Hill Road Aurora 80016
+	1811 Plaza Drive Highlands Ranch 80129
 Unmatched emergency=yes
 Denver Veterans Affairs Medical Center (0.00)
-	 1055 Clermont Street Denver 80220
+	1055 Clermont Street Denver 80220
 Unmatched emergency=yes
 Vail Health Vail Campus (3.06)
-	 181 West Meadow Drive Vail 81657
+	181 West Meadow Drive Vail 81657
 Unmatched emergency=yes
 East Morgan County Hospital (0.00)
-	 2400 Edison Street Brush 80723
+	2400 Edison Street Brush 80723
 Unmatched emergency=yes
 Lutheran Medical Center (0.00)
-	 8300 West 38th Avenue Wheat Ridge 80033
-Found 36 unmatched emergency.
+	8300 West 38th Avenue Wheat Ridge 80033
+Found 33 unmatched emergency.

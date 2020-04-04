@@ -1,0 +1,12 @@
+1 OSM hospitals
+1 Medicare hospitals
+1. Lbj Tropical Medical Center
+	Fagaalu Village Pago Pago 96799 (CMS:yes)
+	2.58 Lyndon Baines Johnson Tropical Medical Center
+	- - Pago Pago 96799
+Found 1 issues.
+
+Unmatched emergency=yes
+Lyndon Baines Johnson Tropical Medical Center (2.58)
+	- - Pago Pago 96799
+Found 1 unmatched emergency.
