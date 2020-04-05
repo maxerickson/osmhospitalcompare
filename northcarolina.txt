@@ -1,4 +1,4 @@
-188 OSM hospitals
+186 OSM hospitals
 120 Medicare hospitals
 1. Unmatched medicare hospital
   Medicare name: Maria Parham Medical Center
@@ -197,10 +197,6 @@ Unmatched emergency=yes in OSM
   Score of best match: 0.00
   OSM address: 200 Hawthorne Lane Charlotte 28204
 Unmatched emergency=yes in OSM
-  OSM name: Vidant Family Medicine - Wallace
-  Score of best match: 0.00
-  OSM address: - - - -
-Unmatched emergency=yes in OSM
   OSM name: Bladen Medical Associates
   Score of best match: 0.00
   OSM address: 273 White Lake Drive White Lake -
@@ -210,10 +206,6 @@ Unmatched emergency=yes in OSM
   OSM address: 388-I Venture Drive Smithfield 27577
 Unmatched emergency=yes in OSM
   OSM name: Princeton Pediatrics
-  Score of best match: 0.00
-  OSM address: - - - -
-Unmatched emergency=yes in OSM
-  OSM name: M Sherill Glover PA
   Score of best match: 0.00
   OSM address: - - - -
 Unmatched emergency=yes in OSM
@@ -348,4 +340,4 @@ Unmatched emergency=yes in OSM
   OSM name: UNC Medical Center
   Score of best match: 3.03
   OSM address: 101 Manning Drive Chapel Hill 27514
-Found 40 unmatched emergency.
+Found 38 unmatched emergency.
