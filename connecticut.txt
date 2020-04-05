@@ -1,28 +1,45 @@
 70 OSM hospitals
-0 Medicare hospitals
-Found 0 issues.
+37 Medicare hospitals
+1. Saint Vincent's Medical Center
+	2800 Main St Bridgeport 06606 (CMS:yes)
+	2.31 St. Vincent's Medical Center
+	- Main Street Bridgeport -
+2. Connecticut Hospice Inc,The
+	100 Double Beach Road Branford 06405 (CMS:no)
+	1.24 Saint Francis Hospital and Medical Center
+	114 Woodland Street Hartford 06105
+3. Southwest Connecticut Mental Health
+	1635 Central Ave Bridgeport 06610 (CMS:no)
+	2.23 Bridgeport Hospital
+	267 Grant Street Bridgeport 06610
+4. Silver Hill Hospital Inc
+	208 Valley Road New Canaan 06840 (CMS:no)
+	1.21 Greenwich Hospital
+	5 Perryridge Road Greenwich 06830
+5. Connecticut Valley Hosp
+	Silver St Middletown 06457 (CMS:no)
+	2.89 Connecticut Valley Hospital
+	- - Middletown 06457
+6. Rockville General Hospital
+	31 Union St Rockville 06066 (CMS:yes)
+	2.73 Rockville General Hospital
+	31 Union Street Vernon 06066
+Connecticut Childrens Medical Center
+	282 Washington Street Hartford 06106
+	 Emergency Mismatch (CMS:yes)
+	Connecticut Children's Medical Center
+7. John Dempsey Hospital
+	263 Farmington Ave Farmington 06032 (CMS:yes)
+	2.56 University of Connecticut Health Center
+	263 Farmington Avenue Farmington 06030
+Found 7 issues.
 
 Unmatched emergency=yes
 Yale New Haven Children's Hospital (0.00)
 	1 Park Street New Haven 06510
 Unmatched emergency=yes
-Danbury Hospital (0.00)
-	24 Hospital Avenue Danbury 06810
-Unmatched emergency=yes
-St. Vincent's Medical Center (0.00)
+St. Vincent's Medical Center (2.31)
 	- Main Street Bridgeport -
-Unmatched emergency=yes
-Griffin Hospital (0.00)
-	130 Division Street Derby 06418-1326
-Unmatched emergency=yes
-Backus Hospital (0.00)
-	326 Washington Street Norwich 06360
-Unmatched emergency=yes
-Norwalk Hospital (0.00)
-	34 Maple Street Norwalk 06856
-Unmatched emergency=yes
-Bridgeport Hospital Milford Campus (0.00)
-	300 Seaside Avenue Milford 06460
 Unmatched emergency=yes
 Shoreline Medical Center (0.00)
 	- - - -
@@ -30,78 +47,21 @@ Unmatched emergency=yes
 Shoreline Medical Center (0.00)
 	250 Flat Rock Place Westbrook 06498
 Unmatched emergency=yes
-Windham Hospital (0.00)
-	112 Mansfield Avenue Williamantic 06226
-Unmatched emergency=yes
-Hartford Hospital (0.00)
-	80 Seymour Street Hartford 06102
-Unmatched emergency=yes
-Saint Francis Hospital and Medical Center (0.00)
-	114 Woodland Street Hartford 06105
-Unmatched emergency=yes
-Day Kimball Hospital (0.00)
-	320 Pomfret Street Putnam 06260
-Unmatched emergency=yes
-Middlesex Hospital (0.00)
-	28 Crescent Street Middletown 06457
-Unmatched emergency=yes
 Yale New Haven Hospital Saint Raphael Campus (0.00)
 	1450 Chapel Street New Haven 06511
 Unmatched emergency=yes
-Lawrence+Memorial Hospital (0.00)
-	365 Montauk Avenue New London 06320
-Unmatched emergency=yes
-Rockville General Hospital (0.00)
+Rockville General Hospital (2.73)
 	31 Union Street Vernon 06066
-Unmatched emergency=yes
-Greenwich Hospital (0.00)
-	5 Perryridge Road Greenwich 06830
-Unmatched emergency=yes
-Manchester Memorial Hospital (0.00)
-	71 Haynes Street Manchester 06040
-Unmatched emergency=yes
-Stamford Hospital (0.00)
-	1 Hospital Plaza Stamford 06904
-Unmatched emergency=yes
-Charlotte Hungerford Hospital (0.00)
-	540 Litchfield Street Torrington 06790
-Unmatched emergency=yes
-Bridgeport Hospital (0.00)
-	267 Grant Street Bridgeport 06610
-Unmatched emergency=yes
-Waterbury Hospital (0.00)
-	64 Robbins Street Waterbury 06708
-Unmatched emergency=yes
-Bristol Hospital (0.00)
-	41 Brewster Road Bristol 06010
 Unmatched emergency=yes
 Bradley Memorial Campus (0.00)
 	81 Meriden Avenue Southington 06489
 Unmatched emergency=yes
-The Hospital of Central Connecticut - New Britain General Campus (0.00)
-	100 Grand Street New Britain 06052
-Unmatched emergency=yes
-University of Connecticut Health Center (0.00)
+University of Connecticut Health Center (2.56)
 	263 Farmington Avenue Farmington 06030
-Unmatched emergency=yes
-Mid State Medical Center (0.00)
-	435 Lewis Avenue Meriden 06451
-Unmatched emergency=yes
-Johnson Memorial Hospital (0.00)
-	201 Chestnut Hill Road Stafford Springs 06076
 Unmatched emergency=yes
 Middlesex Hospital (0.00)
 	28 Crescent Street Middletown 06457
 Unmatched emergency=yes
-Yale New Haven Hospital (0.00)
-	20 York Street New Haven 06510
-Unmatched emergency=yes
 New Milford Hospital (0.00)
 	21 Elm Street New Milford 06776
-Unmatched emergency=yes
-Sharon Hospital (0.00)
-	50 Hospital Hill Road Sharon 06069
-Unmatched emergency=yes
-Saint Mary's Hospital (0.00)
-	56 Franklin Street Waterbury 06706
-Found 34 unmatched emergency.
+Found 10 unmatched emergency.

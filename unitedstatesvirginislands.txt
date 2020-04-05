@@ -1,11 +1,12 @@
 3 OSM hospitals
-0 Medicare hospitals
-Found 0 issues.
+2 Medicare hospitals
+1. Gov Juan F Luis Hospital & Medical Ctr
+	#4007 Est Diamond Ruby, Christiansted Saint Croix 00820 (CMS:yes)
+	2.26 Governor Juan F. Luis Hospital and Medical Center
+	4007 Estate Diamond Ruby Christiansted 00820
+Found 1 issues.
 
 Unmatched emergency=yes
-Governor Juan F. Luis Hospital and Medical Center (0.00)
+Governor Juan F. Luis Hospital and Medical Center (2.26)
 	4007 Estate Diamond Ruby Christiansted 00820
-Unmatched emergency=yes
-Roy Lester Schneider Hospital (0.00)
-	9048 Sugar Estate Saint Thomas 00802
-Found 2 unmatched emergency.
+Found 1 unmatched emergency.

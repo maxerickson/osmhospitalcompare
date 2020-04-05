@@ -1,412 +1,228 @@
 191 OSM hospitals
-0 Medicare hospitals
-Found 0 issues.
+144 Medicare hospitals
+Memorial Healthcare
+	826 West King Street Owosso 48867
+	 Emergency Mismatch (CMS:no)
+	Memorial Healthcare
+1. The Behavioral Center Of Michigan
+	4050 E 12 Mile Road Warren 48092 (CMS:no)
+	2.38 Saint John Macomb-Oakland Hospital, Warren
+	11800 East 12 Mile Road Warren 48093
+2. Ascension River District Hospital
+	4100 River Rd East China 48054 (CMS:no)
+	3.04 Saint John River District Hospital
+	4100 River Road East China Township 48054
+Munson Healthcare Otsego Memorial Hospital
+	825 North Center Avenue Gaylord 49735
+	 Emergency Mismatch (CMS:no)
+	Otsego Memorial Hospital
+3. Caro Center
+	2000 Chambers, Box A Caro 48723 (CMS:yes)
+	2.30 Caro Community Hospital
+	401 North Hooper Street Caro 48723
+4. Ascension Providence Hospital
+	16001 W Nine Mile Rd Southfield 48075 (CMS:yes)
+	2.84 Providence-Providence Park Hospital, Southfield Campus
+	16001 West 9 Mile Road Southfield 48075
+Healthsource Saginaw
+	3340 Hospital Road Saginaw 48603
+	 Emergency Mismatch (CMS:yes)
+	HealthSource Saginaw
+Spectrum Health Zeeland Community Hospital
+	8333 Felch Street Zeeland 49464
+	 Emergency Mismatch (CMS:no)
+	Spectrum Health Zeeland Community Hospital
+5. Ascension Borgess Lee Hospital
+	420 W High St Dowagiac 49047 (CMS:yes)
+	3.08 Borgess Lee Memorial Hospital
+	420 West High Street Dowagiac 49047
+6. Cedar Creek Hospital
+	101 West Townsend Road Saint Johns 48879 (CMS:no)
+	2.42 Sparrow Clinton Hospital
+	805 South Oakland Street Saint Johns 48879
+7. Saint Joseph Mercy Hospital
+	5301 E Huron River Dr Ann Arbor 48106 (CMS:yes)
+	1.84 VA Ann Arbor Healthcare System
+	2215 Fuller Road Ann Arbor 48105
+8. Covenant Medical Center
+	1447 N Harrison Saginaw 48602 (CMS:yes)
+	2.46 Aleda E. Lutz VA Medical Center
+	1500 Weiss Street Saginaw 48602
+9. Midmichigan Medical Center - Alpena
+	1501 W Chisholm St Alpena 49707 (CMS:yes)
+	2.97 Alpena Regional Medical Center
+	1501 West Chisholm Street Alpena 49707
+10. Beaumont Hospital - Trenton
+	5450 Fort Street Trenton 48183 (CMS:yes)
+	3.04 Beaumont Hospital - Trenton
+	5450 Fort Street Trenton 49224
+11. University Of Michigan Health System
+	1500 E Medical Center Drive, Spc 5474 Ann Arbor 48109 (CMS:yes)
+	2.63 University of Michigan Medical Center
+	- - Ann Arbor 48109
+12. Sparrow Ionia Hospital
+	3565 S State Road Ionia 48846 (CMS:yes)
+	2.96 Sparrow Ionia Hospital
+	3565 South State Road Ionia 49417
+13. Walter P Reuther Psychiatric Hospital
+	30901 Palmer Rd Westland 48185 (CMS:no)
+	1.11 Henry Ford Health Center - Brownstown
+	23050 West Road Brownstown 48183
+14. Dickinson County Memorial Hospital
+	1721 S Stephenson Ave Iron Mountain 49801 (CMS:yes)
+	3.05 Dickinson County Healthcare System
+	1721 South Stephenson Avenue Iron Mountain 49801
+15. Samaritan Behavioral Center
+	5555 Conner Avenue, Suite 3N Detroit 48213 (CMS:no)
+	2.98 Samaritan Center
+	5555 Conner Street Detroit 48213
+16. Mercy Health Muskegon
+	1700 Clinton Street Muskegon 49442 (CMS:yes)
+	3.08 Mercy Health Hackley Campus
+	1700 Clinton Street Muskegon 49444
+17. Forest View Psychiatric Hospital
+	1055 Medical Park Se Grand Rapids 49546 (CMS:no)
+	2.06 Blodgett Hospital
+	1840 Wealthy Street Southeast Grand Rapids 49506
+Spectrum Health United Hospital
+	615 South Bower Street Greenville 48838
+	 Emergency Mismatch (CMS:no)
+	Spectrum Health United Hospital
+Three Rivers Health
+	701 South Health Parkway Three Rivers 49093
+	 Emergency Mismatch (CMS:no)
+	Three Rivers Health
+18. Harbor Oaks Hospital
+	35031 23 Mile Rd New Baltimore 48047 (CMS:no)
+	1.34 Beaumont Hospital - Royal Oak
+	3601 West 13 Mile Road Royal Oak 48073
+Midmichigan Medical Center-Clare
+	703 North McEwan Street Clare 48617
+	 Emergency Mismatch (CMS:no)
+	MidMichigan Medical Center - Clare
+Lakeland Hospital Watervliet
+	400 Medical Park Drive Watervliet 49098
+	 Emergency Mismatch (CMS:no)
+	Lakeland Hospital, Watervliet
+19. Surgeons Choice Medical Center
+	22401 Foster Winter Drive Southfield 48075 (CMS:no)
+	3.08 Oakland Regional Hospital
+	22401 Foster Winter Drive Southfield 48075
+20. The Center For Forensic Psychiatry
+	8303 Platt Road Saline 48176 (CMS:no)
+	1.16 Ascension Brighton Center for Recovery
+	12851 Grand River Road Brighton 48116
+21. Saint Mary's Health Care
+	200 Jefferson Avenue Se Grand Rapids 49503 (CMS:yes)
+	2.99 Mercy Health Saint Mary's
+	200 Jefferson Avenue Southeast Grand Rapids 49503
+22. Mclaren Caro Region
+	401 N Hooper St Caro 48723 (CMS:yes)
+	2.73 Caro Community Hospital
+	401 North Hooper Street Caro 48723
+23. Pine Rest Christian Mental Health Services
+	300 - 68Th Street, Se Grand Rapids 49548 (CMS:no)
+	1.78 Spectrum Health Butterworth Hospital
+	100 Michigan Street Northeast Grand Rapids 49503
+24. Promedica Coldwater Regional Hospital
+	274 E Chicago St Coldwater 49036 (CMS:yes)
+	2.81 Community Health Center of Branch County
+	274 East Chicago Street Coldwater 49036
+Kalamazoo Regional Psychiatric Hospital
+	1312 Oakland Drive Kalamazoo 49008
+	 Emergency Mismatch (CMS:yes)
+	Kalamazoo Psychiatric Hospital
+25. Henry Ford Kingswood Hospital
+	10300 W Eight Mile Road Ferndale 48220 (CMS:no)
+	2.67 Henry Ford Kingswood Hospital
+	10300 8 Mile Road Royal Oak Charter Township 48220
+26. Ascension Genesys Hospital
+	One Genesys Parkway Grand Blanc 48439 (CMS:yes)
+	2.44 Genesys Regional Medical Center
+	1 Genesys Parkway Grand Blanc Township 48439
+Found 26 issues.
 
 Unmatched emergency=yes
 Mercy Health Mercy Campus (0.00)
 	1500 East Sherman Boulevard Muskegon 49444
 Unmatched emergency=yes
-Three Rivers Health (0.00)
-	701 South Health Parkway Three Rivers 49093
-Unmatched emergency=yes
-MidMichigan Medical Center - Gladwin (0.00)
-	515 Quarter Street Gladwin 48624
-Unmatched emergency=yes
-Sparrow Clinton Hospital (0.00)
-	805 South Oakland Street Saint Johns 48879
-Unmatched emergency=yes
-Harper University Hospital (0.00)
-	3990 John R Street Detroit 48201
-Unmatched emergency=yes
-OSF Healthcare Saint Francis Hospital & Medical Group (0.00)
-	3401 Ludington Street Escanaba 49829
-Unmatched emergency=yes
-Sparrow Hospital (0.00)
-	1215 East Michigan Avenue Lansing 48912
-Unmatched emergency=yes
-McLaren Bay Region (0.00)
-	1900 Columbus Avenue Bay City 48708
-Unmatched emergency=yes
-Children's Hospital of Michigan (0.00)
-	3901 Beaubien Street Detroit 48201
-Unmatched emergency=yes
-Detroit Receiving Hospital and University Health Center (0.00)
-	4201 Saint Antoine Street Detroit 48201
-Unmatched emergency=yes
-McLaren Macomb (0.00)
-	1000 Harrington Street Mount Clemens 48043
-Unmatched emergency=yes
-Borgess Medical Center (0.00)
-	1521 Gull Road Kalamazoo 49048
-Unmatched emergency=yes
 Mackinac Island Medical Center (0.00)
 	7474 Market Street Mackinac Island 49757
 Unmatched emergency=yes
-Munson Medical Center (0.00)
-	1105 Sixth Street Traverse City 49684
-Unmatched emergency=yes
-Mercy Health Hackley Campus (0.00)
+Mercy Health Hackley Campus (3.08)
 	1700 Clinton Street Muskegon 49444
 Unmatched emergency=yes
-Beaumont Hospital - Royal Oak (0.00)
-	3601 West 13 Mile Road Royal Oak 48073
-Unmatched emergency=yes
-Beaumont Hospital - Trenton (0.00)
+Beaumont Hospital - Trenton (3.04)
 	5450 Fort Street Trenton 49224
 Unmatched emergency=yes
-Blodgett Hospital (0.00)
+Blodgett Hospital (2.06)
 	1840 Wealthy Street Southeast Grand Rapids 49506
 Unmatched emergency=yes
-Mercy Health Saint Mary's (0.00)
+Mercy Health Saint Mary's (2.99)
 	200 Jefferson Avenue Southeast Grand Rapids 49503
-Unmatched emergency=yes
-Lakeland Hospital, Watervliet (0.00)
-	400 Medical Park Drive Watervliet 49098
-Unmatched emergency=yes
-Bronson LakeView Hospital (0.00)
-	408 Hazen Street Paw Paw 49070
-Unmatched emergency=yes
-Bronson Methodist Hospital (0.00)
-	601 John Street Kalamazoo 49007
 Unmatched emergency=yes
 Sparrow Hospital - Saint Lawrence Campus (0.00)
 	1210 West Saginaw Street Lansing 48915
 Unmatched emergency=yes
-ProMedica Monroe Regional Hospital (0.00)
-	718 North Macomb Street Monroe 48162
-Unmatched emergency=yes
-Munson Healthcare Cadillac Hospital (0.00)
-	400 Hobart Street Cadillac 49601
-Unmatched emergency=yes
 Providence Park Hospital (0.00)
 	47601 Grand River Avenue Novi 48374
 Unmatched emergency=yes
-Sturgis Hospital (0.00)
-	916 Myrtle Avenue Sturgis 49091
-Unmatched emergency=yes
-MidMichigan Medical Center (0.00)
-	4000 Wellness Drive Midland 48640
-Unmatched emergency=yes
-Spectrum Health Butterworth Hospital (0.00)
-	100 Michigan Street Northeast Grand Rapids 49503
-Unmatched emergency=yes
-Saint Mary's Standish Hospital (0.00)
-	805 West Cedar Street Standish 48658
-Unmatched emergency=yes
-Dickinson County Healthcare System (0.00)
+Dickinson County Healthcare System (3.05)
 	1721 South Stephenson Avenue Iron Mountain 49801
-Unmatched emergency=yes
-Aspirus Grand View Hospital (0.00)
-	N10561 Grandview Lane Ironwood 49938
-Unmatched emergency=yes
-Aspirus Ontonagon Hospital (0.00)
-	601 7th Street Ontonagon 49953
-Unmatched emergency=yes
-Baraga County Memorial Hospital (0.00)
-	18341 US 41 L'Anse 49946
-Unmatched emergency=yes
-UP Health System – Portage (0.00)
-	500 Campus Drive Hancock 49930
-Unmatched emergency=yes
-Bell Hospital (0.00)
-	901 Lakeshore Drive Ishpeming 49849
-Unmatched emergency=yes
-Munsing Memorial Hospital (0.00)
-	1500 Sand Point Road Munising 49862
-Unmatched emergency=yes
-Schoolcraft Memorial Hospital (0.00)
-	7870W US 2 Manistique 49854
-Unmatched emergency=yes
-Helen Newberry Joy Hospital (0.00)
-	502 West Harrie Street Newberry 49868
-Unmatched emergency=yes
-War Memorial Hospital (0.00)
-	500 Osborn Boulevard Sault Sainte Marie 49783
-Unmatched emergency=yes
-Mackinac Straits Health System (0.00)
-	1140 North State Street Saint Ignace 49781
 Unmatched emergency=yes
 McLaren Northern Michigan-Cheboygan Campus (0.00)
 	748 South Main Street Cheboygan 49721
 Unmatched emergency=yes
-McLaren Northern Michigan (0.00)
-	416 Connable Avenue Petoskey 49770
-Unmatched emergency=yes
-Otsego Memorial Hospital (0.00)
-	825 North Center Avenue Gaylord 49735
-Unmatched emergency=yes
-Alpena Regional Medical Center (0.00)
+Alpena Regional Medical Center (2.97)
 	1501 West Chisholm Street Alpena 49707
 Unmatched emergency=yes
-Charlevoix Area Hospital (0.00)
-	14700 Lake Shore Drive Charlevoix 49720
-Unmatched emergency=yes
-Munson Hospital Grayling (0.00)
-	1100 East Michigan Avenue Grayling 49738
-Unmatched emergency=yes
-West Branch Regional Medical Center (0.00)
-	2463 South M-30 West Branch 48661
-Unmatched emergency=yes
-Kalkaska Memorial Health Center (0.00)
-	419 South Coral Street Kalkaska 49646
-Unmatched emergency=yes
-Paul Oliver Memorial Hospital (0.00)
-	224 Park Avenue Frankfort 49635
-Unmatched emergency=yes
-Saint Joseph Hospital (0.00)
-	200 Hemlock Street Tawas City 48764
-Unmatched emergency=yes
-Munson Healthcare Manistee Hospital (0.00)
-	1465 East Parkdale Avenue Manistee 49660
-Unmatched emergency=yes
-Spectrum Health Big Rapids Hospital (0.00)
-	605 Oak Street Big Rapids 49307
-Unmatched emergency=yes
-Spectrum Health Reed City Hospital (0.00)
-	300 North Patterson Road Reed City 49677
-Unmatched emergency=yes
-Mercy Health Lakeshore Campus (0.00)
-	72 South State Street Shelby 49455
-Unmatched emergency=yes
-Caro Community Hospital (0.00)
+Caro Community Hospital (2.73)
 	401 North Hooper Street Caro 48723
 Unmatched emergency=yes
-Saint Mary's of Michigan (0.00)
-	800 South Washington Avenue Saginaw 48601
-Unmatched emergency=yes
-Borgess Lee Memorial Hospital (0.00)
+Borgess Lee Memorial Hospital (3.08)
 	420 West High Street Dowagiac 49047
 Unmatched emergency=yes
-Hillsdale Community Health Center (0.00)
-	168 South Howell Street Hillsdale 49242
-Unmatched emergency=yes
-Community Health Center of Branch County (0.00)
+Community Health Center of Branch County (2.81)
 	274 East Chicago Street Coldwater 49036
-Unmatched emergency=yes
-Lakeland Medical Center (0.00)
-	1234 Napier Avenue Saint Joseph 49085
 Unmatched emergency=yes
 Lakeland Hospital (0.00)
 	31 North Saint Joseph Avenue Niles 49120
 Unmatched emergency=yes
-ProMedica Bixby Hospital (0.00)
-	818 Riverside Avenue Adrian 49221
-Unmatched emergency=yes
-ProMedica Herrick Hospital (0.00)
-	500 East Pottawatamie Street Tecumseh 49286
-Unmatched emergency=yes
-McLaren Port Huron (0.00)
-	1221 Pine Grove Avenue Port Huron 48060
-Unmatched emergency=yes
-Lake Huron Medical Center (0.00)
-	2601 Electric Avenue Port Huron 48060
-Unmatched emergency=yes
-Saint Joseph Mercy Livingston Hospital (0.00)
-	620 Byron Road Howell 48843
-Unmatched emergency=yes
-Hurley Medical Center (0.00)
-	1 Hurley Plaza Flint 48532
-Unmatched emergency=yes
-McLaren Flint (0.00)
-	401 South Ballenger Highway Flint 48532
-Unmatched emergency=yes
-Spectrum Health Pennock (0.00)
-	1009 West Green Street Hastings 49058
-Unmatched emergency=yes
-Allegiance Health (0.00)
-	205 North East Avenue Jackson 49201
-Unmatched emergency=yes
-Bronson Battle Creek Hospital (0.00)
-	300 North Avenue Battle Creek 49017
-Unmatched emergency=yes
-Ascension Providence Rochester Hospital (0.00)
-	1101 West University Drive Rochester 48307
-Unmatched emergency=yes
-Henry Ford Macomb Hospital (0.00)
-	15855 19 Mile Road Clinton Township 48038
-Unmatched emergency=yes
-Metro Health Hospital (0.00)
-	5900 Byron Center Avenue Southwest Wyoming 49519
-Unmatched emergency=yes
-Garden City Hospital (0.00)
-	6245 Inkster Road Garden City 48135
-Unmatched emergency=yes
-Beaumont Hospital - Dearborn (0.00)
-	18101 Oakwood Boulevard Dearborn 48124
-Unmatched emergency=yes
-Beaumont Hospital - Farmington Hills (0.00)
-	28050 Grand River Avenue Farmington Hills 48336
-Unmatched emergency=yes
-Henry Ford West Bloomfield Hospital (0.00)
-	6777 West Maple Road West Bloomfield 48322
-Unmatched emergency=yes
-Saint John River District Hospital (0.00)
+Saint John River District Hospital (3.04)
 	4100 River Road East China Township 48054
-Unmatched emergency=yes
-Spectrum Health Kelsey Hospital (0.00)
-	418 Washington Avenue Lakeview 48850
-Unmatched emergency=yes
-Huron Valley-Sinai Hospital (0.00)
-	1 William Carls Drive Commerce 48382
-Unmatched emergency=yes
-Saint Joseph Mercy Oakland (0.00)
-	44405 Woodward Avenue Pontiac 48341
-Unmatched emergency=yes
-William Beaumont Hospital (Troy campus) (0.00)
-	44201 Dequindre Road Troy 48085
-Unmatched emergency=yes
-DMC Sinai-Grace Hospital (0.00)
-	6071 West Outer Drive Detroit 48235
-Unmatched emergency=yes
-St. John Hospital and Medical Center (0.00)
-	22101 Moross Road Detroit 48236
-Unmatched emergency=yes
-Beaumont Hospital, Wayne (0.00)
-	33155 Annapolis Street Wayne 48184
-Unmatched emergency=yes
-Hill & Dales General Hospital (0.00)
-	4675 Hill Street Cass City 48726
-Unmatched emergency=yes
-Oaklawn Hospital (0.00)
-	200 North Madison Street Marshall 49068
 Unmatched emergency=yes
 St. Joseph Mercy Brighton (0.00)
 	7575 Grand River Brighton 48114
 Unmatched emergency=yes
-Spectrum Health United Hospital (0.00)
-	615 South Bower Street Greenville 48838
-Unmatched emergency=yes
-McLaren Greater Lansing (0.00)
-	401 West Greenlawn Avenue Lansing 48910
-Unmatched emergency=yes
 Covenant Medical Center (0.00)
 	- - - -
 Unmatched emergency=yes
-MidMichigan Medical Center - Clare (0.00)
-	703 North McEwan Street Clare 48617
-Unmatched emergency=yes
-Holland Hospital (0.00)
-	602 Michigan Avenue Holland 49423
-Unmatched emergency=yes
-Genesys Regional Medical Center (0.00)
+Genesys Regional Medical Center (2.44)
 	1 Genesys Parkway Grand Blanc Township 48439
-Unmatched emergency=yes
-North Ottawa Community Hospital (0.00)
-	1309 Sheldon Road Grand Haven 49417
-Unmatched emergency=yes
-Henry Ford Hospital (0.00)
-	2799 West Grand Boulevard Detroit 48202
-Unmatched emergency=yes
-Forest Health Medical Center (0.00)
-	135 South Prospect Street Ypsilanti 48198
-Unmatched emergency=yes
-Spectrum Health Zeeland Community Hospital (0.00)
-	8333 Felch Street Zeeland 49464
-Unmatched emergency=yes
-Mclaren Central Michigan (0.00)
-	1221 South Drive Mount Pleasant 48858
-Unmatched emergency=yes
-UP Health System - Marquette (0.00)
-	450 West Baraga Avenue Marquette 49855
-Unmatched emergency=yes
-St. Joseph Mercy Chelsea (0.00)
-	775 South Main Street Chelsea 48118
-Unmatched emergency=yes
-Beaumont Hospital, Grosse Pointe (0.00)
-	468 Cadieux Road Grosse Pointe 48230
 Unmatched emergency=yes
 John D. Dingell VA Medical Center (0.00)
 	4646 John R Street Detroit 48201
 Unmatched emergency=yes
-Sparrow Ionia Hospital (0.00)
+Sparrow Ionia Hospital (2.96)
 	3565 South State Road Ionia 49417
-Unmatched emergency=yes
-Bronson South Haven Hospital (0.00)
-	955 South Bailey Avenue South Haven 49090
 Unmatched emergency=yes
 Saint John Macomb-Oakland Hospital, Madison Heights (0.00)
 	27351 Dequindre Road Madison Heights 48071
 Unmatched emergency=yes
-Saint John Macomb-Oakland Hospital, Warren (0.00)
-	11800 East 12 Mile Road Warren 48093
-Unmatched emergency=yes
 Children's Hospital of Michigan Troy (0.00)
 	350 West Big Beaver Road Troy 48084
 Unmatched emergency=yes
-Henry Ford Wyandotte Hospital (0.00)
-	2333 Biddle Avenue Wyandotte 48192
-Unmatched emergency=yes
-Henry Ford Health Center - Brownstown (0.00)
+Henry Ford Health Center - Brownstown (1.11)
 	23050 West Road Brownstown 48183
 Unmatched emergency=yes
 Henry Ford Medical Center - Fairlane (0.00)
 	19401 Hubbard Drive Dearborn 48126
 Unmatched emergency=yes
-University of Michigan Medical Center (0.00)
+University of Michigan Medical Center (2.63)
 	- - Ann Arbor 48109
 Unmatched emergency=yes
-MidMichigan Medical Center - Gratiot (0.00)
-	300 East Warwick Drive Alma 48801
-Unmatched emergency=yes
-Huron Medical Center (0.00)
-	1100 South Van Dyke Road Bad Axe 48413
-Unmatched emergency=yes
-Memorial Healthcare (0.00)
-	826 West King Street Owosso 48867
-Unmatched emergency=yes
-Mclaren Lapeer Region (0.00)
-	1375 North Main Street Lapeer 48446
-Unmatched emergency=yes
-Sparrow Carson Hospital (0.00)
-	406 East Elm Street Carson City 48811
-Unmatched emergency=yes
-Beaumont Hospital, Taylor (0.00)
-	10000 Telegraph Road Taylor 48180
-Unmatched emergency=yes
-Spectrum Health Gerber Memorial (0.00)
-	212 South Sullivan Avenue Fremont 49412
-Unmatched emergency=yes
-Marlette Regional Hospital (0.00)
-	2770 Main Street Marlette 48453
-Unmatched emergency=yes
-Allegan General Hospital (0.00)
-	555 Linn Street Allegan 49010
-Unmatched emergency=yes
-Hayes Green Beach Memorial Hospital (0.00)
-	321 East Harris Street Charlotte 48813
-Unmatched emergency=yes
-Eaton Rapids Medical Center (0.00)
-	1500 South Main Street Eaton Rapids 48827
-Unmatched emergency=yes
-Aspirus Iron River Hospital (0.00)
-	1400 West Ice Lake Road Iron River 49935
-Unmatched emergency=yes
-Mckenzie Health System (0.00)
-	120 North Delaware Street Sandusky 48471
-Unmatched emergency=yes
-Harbor Beach Community Hospital (0.00)
-	210 South 1st Street Harbor Beach 48441
-Unmatched emergency=yes
-Sheridan Community Hospital (0.00)
-	301 North Main Street Sheridan 48884
-Unmatched emergency=yes
-Deckerville Community Hospital (0.00)
-	3559 Pine Street Deckerville 48427
-Unmatched emergency=yes
-Scheurer Hospital (0.00)
-	170 North Caseville Road Pigeon 48755
-Unmatched emergency=yes
-Providence-Providence Park Hospital, Southfield Campus (0.00)
+Providence-Providence Park Hospital, Southfield Campus (2.84)
 	16001 West 9 Mile Road Southfield 48075
-Unmatched emergency=yes
-Aspirus Keweenaw Hospital (0.00)
-	205 Osceola Street Laurium 49913
-Unmatched emergency=yes
-McLaren Oakland (0.00)
-	50 North Perry Street Pontiac 48342
-Unmatched emergency=yes
-Spectrum Health Ludington Hospital (0.00)
-	1 North Atkinson Drive Ludington 49431
 Unmatched emergency=yes
 Borgess-Pipp Hospital (0.00)
 	411 Naomi Street Plainwell 49080
@@ -419,4 +235,4 @@ Henry Ford Medical Center-Cottage (0.00)
 Unmatched emergency=yes
 Saint Joseph Mercy Ann Arbor (0.00)
 	5301 McAuley Drive Ypsilanti 48197
-Found 139 unmatched emergency.
+Found 31 unmatched emergency.

@@ -1,38 +1,12 @@
 17 OSM hospitals
-0 Medicare hospitals
+12 Medicare hospitals
+Emma Pendleton Bradley Hospital
+	1011 Veterans Memorial Parkway East Providence 02915
+	 Emergency Mismatch (CMS:yes)
+	Bradley Hospital
 Found 0 issues.
 
 Unmatched emergency=yes
-Rhode Island Hospital (0.00)
-	593 Eddy Street Providence 02903
-Unmatched emergency=yes
 Hasbro Children's Hospital (0.00)
 	593 Eddy Street Providence 02903
-Unmatched emergency=yes
-Women & Infants Hospital of Rhode Island (0.00)
-	101 Dudley Street Providence 02905
-Unmatched emergency=yes
-Our Lady of Fatima Hospital (0.00)
-	200 High Service Avenue North Providence 02904
-Unmatched emergency=yes
-Newport Hospital (0.00)
-	11 Friendship Street Newport 02840
-Unmatched emergency=yes
-Landmark Medical Center (0.00)
-	115 Cass Avenue Woonsocket 02895
-Unmatched emergency=yes
-Westerly Hospital (0.00)
-	25 Wells Street Westerly 02891
-Unmatched emergency=yes
-South County Hospital (0.00)
-	100 Kenyon Avenue Wakefield 02879
-Unmatched emergency=yes
-Kent Hospital (0.00)
-	455 Toll Gate Road Warwick 02886
-Unmatched emergency=yes
-Miriam Hospital (0.00)
-	164 Summit Avenue Providence 02906
-Unmatched emergency=yes
-Roger Williams Medical Center (0.00)
-	825 Chalkstone Avenue Providence 02908
-Found 11 unmatched emergency.
+Found 1 unmatched emergency.

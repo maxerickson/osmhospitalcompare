@@ -1,103 +1,500 @@
 546 OSM hospitals
-0 Medicare hospitals
-Found 0 issues.
+383 Medicare hospitals
+Mission Community Hospital
+	14850 Roscoe Boulevard Panorama City 91402
+	 Emergency Mismatch (CMS:no)
+	Mission Community Hospital
+1. Dept Of State Hospitals - Napa
+	2100 Napa-Vallejo Highway Napa 94558 (CMS:no)
+	1.54 Queen of the Valley Medical Center
+	1000 Trancas Street Napa 95678
+2. Zuckerberg San Francisco General Hosp & Trauma Ctr
+	1001 Potrero Avenue San Francisco 94110 (CMS:yes)
+	2.85 San Francisco General Hospital
+	1001 Potrero Avenue San Francisco 94158
+3. Ocean View Psychiatric Health Facility
+	2600 Redondo Avenue, Suite 500 Long Beach 90806 (CMS:no)
+	2.30 Long Beach Memorial Hospital
+	2801 Atlantic Avenue Long Beach 90806
+Adventist Health Saint Helena
+	10 Woodland Road Saint Helena 94574
+	 Emergency Mismatch (CMS:no)
+	Adventist Health Saint Helena
+4. Kaiser Foundation Hospital Fontana
+	9961 Sierra Ave Fontana 92335 (CMS:yes)
+	3.04 Kaiser Permanente Fontana Medical Center
+	9961 Sierra Avenue Fontana 92335
+5. Kaiser Permanente Medical Center Redwood City
+	1100 Veterans Boulevard Redwood City 94063 (CMS:yes)
+	2.05 Cordilleras Mental Health Center
+	200 Edmonds Road Redwood City 94062
+6. Joyce Eisenberg Keefer Medical Center
+	7150 Tampa Avenue Reseda 91335 (CMS:no)
+	1.32 Kaiser Permanente Fontana Medical Center
+	9961 Sierra Avenue Fontana 92335
+Encino Hospital Medical Center
+	16237 Ventura Boulevard Encino 91436
+	 Emergency Mismatch (CMS:no)
+	Encino Hospital Medical Center
+Monterey Park Hospital
+	900 South Atlantic Boulevard Monterey Park 91754
+	 Emergency Mismatch (CMS:no)
+	Monterey Park Hospital
+Olympia Medical Center
+	5900 West Olympic Boulevard Los Angeles 90036
+	 Emergency Mismatch (CMS:no)
+	Olympia Medical Center
+7. Goleta Valley Cottage Hospital
+	351 S Patterson Ave Santa Barbara 93111 (CMS:yes)
+	2.76 Goleta Valley Cottage Hospital
+	351 South Patterson Avenue Goleta 93111
+Kaiser Permanente Medical Center South Bay
+	25825 South Vermont Avenue Harbor City 90710
+	 Emergency Mismatch (CMS:no)
+	Kaiser Permanente South Bay Medical Center
+West Hills Hospital & Medical Center
+	7300 Medical Center Drive West Hills 91307
+	 Emergency Mismatch (CMS:no)
+	West Hills Hospital & Medical Center
+8. Kaiser Permanente Medical Center Panorama City
+	13652 Cantara St Panorama City 91402 (CMS:no)
+	2.79 Kaiser Permanente Panorama City Medical Center
+	13651 Willard Street Panorama City 91402
+9. Shriners Hospitals For Children
+	3160 Geneva Street Los Angeles 90020 (CMS:no)
+	2.18 Gateways Hospital
+	1891 Effie Street Los Angeles 90026
+White Memorial Medical Center
+	1720 Cesar E. Chavez Avenue Los Angeles 90033
+	 Emergency Mismatch (CMS:no)
+	White Memorial Medical Center
+10. Adventist Health Tulare
+	869 North Cherry Street Tulare 93274 (CMS:yes)
+	1.30 Adventist Health Selma
+	1141 Rose Avenue Selma 93662
+Adventist Health Lodi Memorial
+	975 South Fairmont Avenue Lodi 95240
+	 Emergency Mismatch (CMS:no)
+	Adventist Health Lodi Memorial
+Adventist Health Reedley
+	327 West Cypress Avenue Reedley 93654
+	 Emergency Mismatch (CMS:no)
+	Adventist Health Reedley
+Adventist Health Sonora
+	900 Greenley Road Sonora 95370
+	 Emergency Mismatch (CMS:no)
+	Adventist Health Sonora
+11. Tarzana Treatment Center
+	18646 Oxnard Street Tarzana 91356 (CMS:no)
+	2.78 Providence Tarzana Medical Center
+	18321 Clark Street Tarzana 91356
+12. Aurora San Diego
+	11878 Avenue Of Industry San Diego 92128 (CMS:no)
+	1.95 Sharp Mesa Vista Hospital
+	7850 Vista Hill Avenue San Diego 92123
+13. Memorialcare Orange Coast Medical Center
+	9920 Talbert Avenue Fountain Valley 92708 (CMS:yes)
+	2.59 Orange Coast Memorial Medical Center
+	18111 Brookhurst Street Fountain Valley 92708
+Foothill Regional Medical Center
+	14662 Newport Avenue Tustin 92780
+	 Emergency Mismatch (CMS:no)
+	Foothill Regional Medical Center
+Kaiser Permanente Medical Center Baldwin Park
+	1011 Baldwin Park Boulevard Baldwin Park 91706
+	 Emergency Mismatch (CMS:no)
+	Kaiser Permanente Baldwin Park Medical Center
+14. Marinhealth Medical Center
+	250 Bon Air Road, Po Box 8010 Greenbrae 94904 (CMS:yes)
+	2.72 Marin General Hospital
+	250 Bon Air Road Greenbrae 94904
+Long Beach Memorial Medical Center
+	2801 Atlantic Avenue Long Beach 90806
+	 Emergency Mismatch (CMS:no)
+	Long Beach Memorial Hospital
+15. Santa Cruz County Psychiatric Health Facility
+	2250 Soquel Avenue, Suite 150 Santa Cruz 95062 (CMS:no)
+	1.90 Sutter Maternity & Surgery Center
+	2900 Chanticleer Avenue Santa Cruz 95065
+16. California Pacific Medical Center- Van Ness Campus
+	1101 Van Ness Avenue San Francisco 94109 (CMS:yes)
+	2.27 Saint Francis Memorial Hospital
+	900 Hyde Street San Francisco 94109
+Kaiser Permanente Medical Center West La
+	6041 Cadillac Avenue Los Angeles 90034
+	 Emergency Mismatch (CMS:no)
+	Kaiser Permanente West Los Angeles Medical Center
+17. Bhc Alhambra Hosp
+	4619 N Rosemead Blvd Rosemead 91770 (CMS:no)
+	1.02 Pomona Valley Hospital Medical Center
+	1798 North Garey Avenue Pomona 91767
+18. Santa Barbara Cottage Hospital
+	400 West Pueblo Santa Barbara 93102 (CMS:yes)
+	2.78 Cottage Hospital
+	400 West Pueblo Street Santa Barbara 93105
+19. Southwest Healthcare System
+	25500 Medical Center Drive Murrieta 92562 (CMS:yes)
+	3.08 Rancho Springs Medical Center
+	25500 Medical Center Drive Murrieta 92562
+Henry Mayo Newhall Hospital
+	23845 McBean Parkway Valencia 91355
+	 Emergency Mismatch (CMS:no)
+	Henry Mayo Newhall Hospital
+20. Santa Barbara County Psychiatric Health Facility
+	315 Camino Del Remedio Santa Barbara 93110 (CMS:no)
+	1.73 Cottage Hospital
+	400 West Pueblo Street Santa Barbara 93105
+21. Lucile Salter Packard Children's Hsp At Stanford
+	725 Welch Road Palo Alto 94304 (CMS:no)
+	2.06 VA Palo Alto Health Care System
+	3801 Miranda Avenue Palo Alto 94304
+22. Willow Rock Center
+	2050 Fairmont Drive San Leandro 94578 (CMS:no)
+	2.90 John George Psychiatric Hospital
+	2060 Fairmont Drive San Leandro 94578
+23. Menifee Global Medical Center
+	28400 Mccall B0Ulevard Sun City 92585 (CMS:no)
+	2.56 Menifee Valley Medical Center
+	28400 McCall Boulevard Menifee 92585
+24. John Muir Medical Center - Walnut Creek Campus
+	1601 Ygnacio Valley Rd Walnut Creek 94598 (CMS:yes)
+	2.95 John Muir Medical Center
+	1601 Ygnacio Canal Trail Walnut Creek 94598
+25. Adventist Health Vallejo
+	525 Oregon St Vallejo 94590 (CMS:no)
+	1.93 Kaiser Permanente Vallejo Hospital & Medical Offices
+	975 Sereno Drive Vallejo 94589
+26. Torrance Memorial Medical Center
+	3330 Lomita Blvd Torrance 90509 (CMS:yes)
+	2.45 Del Amo Hospital
+	3330 Lomita Boulevard Torrance 90505
+27. Cedar-Sinai Marina Del Rey Hospital
+	4650 Lincoln Blvd Marina Del Rey 90291 (CMS:no)
+	3.03 Marina Del Rey Hospital
+	4650 Lincoln Boulevard Marina Del Rey 90292
+28. Saint Joseph's Medical Center Of Stockton
+	1800 N California St Stockton 95204 (CMS:yes)
+	2.99 Saint Joseph's Behavioral Health Center
+	2510 North California Street Stockton 95204
+Mark Twain Medical Center
+	768 Mountain Ranch Road San Andreas 95249
+	 Emergency Mismatch (CMS:no)
+	Mark Twain Medical Center
+29. Palomar Health Downtown Campus
+	555 East Valley Parkway Escondido 92025 (CMS:yes)
+	0.96 Naval Hospital Camp Pendleton
+	200 Mercy Circle Oceanside 92055
+East Los Angeles Doctors Hospital
+	4060 Whittier Boulevard Los Angeles 90023
+	 Emergency Mismatch (CMS:no)
+	East Los Angeles Doctors Hospital
+30. Langley Porter Psychiatric Institute
+	401 Parnassus Avenue San Francisco 94143 (CMS:no)
+	1.84 CPMC Davies Campus
+	45 Castro Street San Francisco 94114
+31. Emanate Health Foothill Presbyterian Hospital
+	250 S Grand Ave Glendora 91740 (CMS:no)
+	2.94 Foothill Presbyterian Hospital
+	250 South Grand Avenue Glendora 91741
+32. Sutter Center For Psychiatry
+	7700 Folsom Blvd Sacramento 95826 (CMS:no)
+	2.02 Valley Recovery Center of California
+	2221 Fair Oaks Boulevard Sacramento 95825
+33. Colusa Medical Center
+	199 E Webster Street Colusa 95932 (CMS:yes)
+	1.47 Enloe Medical Center
+	1531 Esplanade Chico 95926
+34. Nh Camp Pendleton
+	200 Mercy Circle Camp Pendleton Camp Pendleton 92055 (CMS:yes)
+	2.04 Naval Hospital Camp Pendleton
+	200 Mercy Circle Oceanside 92055
+Kaiser Permanente Medical Center Woodland Hills
+	5601 De Soto Avenue Woodland Hills 91365
+	 Emergency Mismatch (CMS:no)
+	Kaiser Permanente Woodland Hills Medical Center
+Children's Hospital Of Orange County
+	1201 West la Veta Avenue Orange 92868
+	 Emergency Mismatch (CMS:no)
+	Children's Hospital of Orange County
+35. Pomerado Hospital
+	15615 Pomerado Road Poway 92064 (CMS:yes)
+	3.02 Palomar Medical Center Poway
+	15615 Pomerado Road Poway 92064
+36. Dept Of State Hospitals - Metropolitan - Psy
+	11401 S Norwalk Blvd Norwalk 90650 (CMS:yes)
+	2.43 Metropolitan State Hospital
+	11401 Bloomfield Avenue Norwalk 90650
+37. Adventist Health Tehachapi Valley
+	1100 Magellan Tehachapi 93561 (CMS:yes)
+	3.07 Adventist Health Tehachapi Valley
+	115 West E Street Tehachapi 93561
+38. Aurora Behavioral Healthcare-Santa Rosa, Llc
+	1287 Fulton Road Santa Rosa 95401 (CMS:yes)
+	1.96 Sutter Santa Rosa Regional Hospital
+	30 Mark West Springs Road Santa Rosa 95403
+Kaiser Permanente Medical Center Los Angeles
+	4867 Sunset Boulevard Los Angeles 90027
+	 Emergency Mismatch (CMS:no)
+	Kaiser Permanente Los Angeles Medical Center
+Greater El Monte Community Hospital
+	1701 Santa Anita Avenue South El Monte 91733
+	 Emergency Mismatch (CMS:no)
+	Greater El Monte Community Hospital
+39. Kern Valley Healthcare District
+	6412 Laurel Ave Lake Isabella 93240 (CMS:yes)
+	2.27 Kern Valley Hospital
+	6412 Laurel Avenue Mountain Mesa 93240
+40. 60Th Medical Group (Travis Afb)
+	103 Bodin Circle Fairfield Fairfield 94533 (CMS:yes)
+	2.36 NorthBay Medical Center
+	1200 B Gale Wilson Boulevard Fairfield 94533
+Valley Presbyterian Hospital
+	15107 Vanowen Street Van Nuys 91405
+	 Emergency Mismatch (CMS:no)
+	Valley Presbyterian Hospital
+41. Kaiser Permanente Medical Center Orange County - Anahe
+	3440 E La Palma Ave Anaheim 92806 (CMS:yes)
+	3.08 Kaiser Permanente Orange County – Anaheim Medical Center
+	3440 East La Palma Avenue Anaheim 92806
+42. Huntington Memorial Hospital
+	100 W California Blvd Pasadena 91109 (CMS:yes)
+	3.00 Huntington Hospital
+	100 West California Boulevard Pasadena 91105
+43. Sempervirens
+	720 Wood St Eureka 95501 (CMS:no)
+	2.27 Saint Josephs Hospital
+	2700 Dolbeer Street Eureka 95501
+44. Bakersfield Behavioral Healthcare Hospital, Llc
+	5201 White Lane Bakersfield 93309 (CMS:no)
+	2.38 Good Samaritan Hospital
+	901 Olive Drive Bakersfield 93309
+Madera Community Hospital
+	1250 East Almond Avenue Madera 93637
+	 Emergency Mismatch (CMS:no)
+	Madera Community Hospital
+Bear Valley Community Hospital
+	41870 Garstin Drive Big Bear Lake 92315
+	 Emergency Mismatch (CMS:no)
+	Bear Valley Community Hospital
+45. University Of California Irvine Med Center
+	101 City Drive South Orange 92868 (CMS:yes)
+	3.01 UCI Medical Center
+	101 The City Drive South Orange 92868
+46. California Pacific Medical Ctr-Davies Campus Hosp
+	601 Duboce Avenue San Francisco 94117 (CMS:no)
+	2.25 California Pacific Medical Center
+	2333 Buchanan Street San Francisco 94115
+Hazel Hawkins Memorial Hospital
+	911 Sunset Drive Hollister 95023
+	 Emergency Mismatch (CMS:no)
+	Hazel Hawkins Memorial Hospital
+Alhambra Hospital Medical Center
+	100 South Raymond Avenue Alhambra 91801
+	 Emergency Mismatch (CMS:no)
+	Alhambra Hospital Medical Center
+47. Aurora Charter Oak
+	1161 E Covina Blvd Covina 91724 (CMS:no)
+	1.81 Inter-Community Hospital
+	210 West San Bernardino Road Covina 91723
+48. Sierra Vista Hospital, Inc
+	8001 Bruceville Road Sacramento 95823 (CMS:no)
+	2.90 Kaiser Permanente South Sacramento Medical Center
+	6600 Bruceville Road Sacramento 95823
+49. Nh Twenty Nine Palms
+	1145 Sturgis Road Twentynine Palms 92278 (CMS:yes)
+	3.06 Robert E. Bush Naval Hospital
+	1145 Sturgis Road Twentynine Palms 92278
+Memorial Hospital Of Gardena
+	1145 West Redondo Beach Boulevard Gardena 90247
+	 Emergency Mismatch (CMS:no)
+	Memorial Hospital of Gardena
+50. Kaiser Permanente Psychiatric Health Facility-Sant
+	3840 Homestead Road Santa Clara 95051 (CMS:yes)
+	2.28 Kaiser Permanente Santa Clara Medical Center
+	710 Lawrence Expressway Santa Clara 95051
+Heritage Oaks Hospital
+	4250 Auburn Boulevard Sacramento 95841
+	 Emergency Mismatch (CMS:yes)
+	Heritage Oaks Hospital
+51. Southern California Hospital At Hollywood
+	6245 De Longpre Ave Hollywood 90028 (CMS:yes)
+	2.82 Southern California Hospital Hollywood
+	6245 De Longpre Avenue Los Angeles 90028
+52. Resnick Neuropsychiatric Hospital At Ucla
+	150 Medical Plaza-Rm-4230C Los Angeles 90095 (CMS:yes)
+	2.41 Mattel Children's Hospital
+	757 Westwood Plaza Los Angeles 90095
+Los Robles Hospital & Medical Center
+	215 West Janns Road Thousand Oaks 91360
+	 Emergency Mismatch (CMS:no)
+	Los Robles Hospital & Medical Center
+Marian Regional Medical Center
+	1400 East Church Street Santa Maria 93454
+	 Emergency Mismatch (CMS:no)
+	Marian Medical Center
+Rady Children's Hospital - San Diego
+	3020 Children's Way San Diego 92123
+	 Emergency Mismatch (CMS:no)
+	Rady Children's Hospital-San Diego
+53. Nmc San Diego
+	34800 Bob Wilson Drive San Diego 92134 (CMS:yes)
+	2.73 Naval Medical Center San Diego
+	34800 Bob Wilson Drive San Diego 92101
+54. Newport Bay Hospital
+	1501 E 16Th St Newport Beach 92663 (CMS:no)
+	2.28 Hoag Memorial Hospital Presbyterian
+	1 Hoag Drive Newport Beach 92663
+55. Lac+Usc Medical Center
+	1200 N State St, Room C2K100 Los Angeles 90033 (CMS:yes)
+	2.43 White Memorial Medical Center
+	1720 Cesar E. Chavez Avenue Los Angeles 90033
+56. Kaiser Permanente Medical Center Oakland/Richmond
+	275 West Macarthur Boulevard Oakland 94611 (CMS:yes)
+	2.56 Kaiser Permanente Oakland Medical Center
+	3600 Broadway Oakland 94611
+57. Miraclemile Medical Center
+	6000 San Vicente Blvd Los Angeles 90036 (CMS:no)
+	2.77 Olympia Medical Center
+	5900 West Olympic Boulevard Los Angeles 90036
+58. Children's Hospital At Mission
+	27700 Medical Center Rd, 5Th Floor Mission Viejo 92691 (CMS:yes)
+	2.84 Mission Hospital
+	27700 Medical Center Road Mission Viejo 92691
+59. Aurora Vista Del Mar Hospital
+	801 Seneca St Ventura 93001 (CMS:no)
+	2.05 Community Memorial Hospital
+	147 North Brent Street Ventura 93003
+Anaheim Global Medical Center
+	1025 South Anaheim Boulevard Anaheim 92805
+	 Emergency Mismatch (CMS:no)
+	Anaheim Global Medical Center
+60. Fresno Surgical Hospital
+	6125 North Fresno St Fresno 93710 (CMS:no)
+	2.43 Fresno Heart & Surgical Hospital
+	15 East Audubon Drive Fresno 93720
+61. John Muir Behavioral Health Center
+	2740 Grant Street Concord 94524 (CMS:yes)
+	2.65 John Muir Medical Center, Concord
+	2540 East Street Concord 94520
+La Palma Intercommunity Hospital
+	7901 Walker Street La Palma 90623
+	 Emergency Mismatch (CMS:no)
+	La Palma Intercommunity Hospital
+Hoag Orthopedic Institute
+	16200 Sand Canyon Avenue Irvine 92618
+	 Emergency Mismatch (CMS:no)
+	Hoag Hospital Irvine
+62. College Hospital
+	10802 College Pl Cerritos 90703 (CMS:no)
+	1.14 Keck Hospital of USC
+	1500 San Pablo Street Los Angeles 90033
+Centinela Hospital Medical Center
+	555 East Hardy Street Inglewood 90301
+	 Emergency Mismatch (CMS:no)
+	Centinela Hospital Medical Center
+Kaiser Permanente Medical Center Downey
+	9333 East Imperial Highway Downey 90242
+	 Emergency Mismatch (CMS:no)
+	Kaiser Permanente Downey Medical Center
+63. Weed Ach (Fort Irwin)
+	166 4Th Street Fort Irwin 92310 (CMS:yes)
+	2.20 Weed Army Community Hospital
+	390 North Loop Road Fort Irwin 92310
+64. San Jose Behavioral Health
+	455 Silicon Valley Boulevard San Jose 95138 (CMS:no)
+	1.78 O’Connor Hospital
+	2105 Forest Avenue San Jose 95128
+65. Adventist Health And Rideout
+	726 4Th St Marysville 95901 (CMS:yes)
+	1.62 Rideout Regional Medical Center
+	726 4th Street Marysville -
+66. Eastern Plumas Hospital - Portola Campus
+	500 First Avenue Portola 96122 (CMS:yes)
+	2.75 --
+	500 1st Avenue Portola 96122
+67. California Pacific Medical Center - Mission Bernal
+	3555 Cesar Chavez Street San Francisco 94110 (CMS:yes)
+	3.01 CPMC Saint Luke's Campus
+	3555 Cesar Chavez Street San Francisco 94110
+Providence Little Co Of Mary Med Ctr San Pedro
+	1300 West 7th Street San Pedro 90732
+	 Emergency Mismatch (CMS:no)
+	Providence Little Company of Mary Medical Center San Pedro
+68. Santa Monica - Ucla Med Ctr & Orthopaedic Hospital
+	1250 16Th Street Santa Monica 90404 (CMS:yes)
+	2.96 UCLA Medical Center - Santa Monica
+	1250 16th Street Santa Monica 90404
+69. Fremont Hospital
+	39001 Sundale Drive Fremont 94538 (CMS:no)
+	2.51 Washington Hospital
+	2000 Mowry Avenue Fremont 94538
+70. Kaiser Foundation Hospital Manteca
+	1777 West Yosemite Ave Manteca 95337 (CMS:yes)
+	3.09 Kaiser Permanente Manteca Medical Center
+	1777 West Yosemite Avenue Manteca 95337
+Providence Little Company Of Mary Med Ctr Torrance
+	4101 Torrance Boulevard Torrance 90503
+	 Emergency Mismatch (CMS:no)
+	Providence Little Company of Mary Medical Center Torrance
+71. Kaiser Foundation Hospital
+	99 Montecillo Rd San Rafael 94903 (CMS:yes)
+	3.05 Kaiser Permanente San Rafael Medical Center
+	99 Montecillo Road San Rafael 94903
+72. John C Fremont Healthcare District
+	5189 Hospital Road Mariposa 95338 (CMS:yes)
+	3.00 --
+	5189 Hospital Road Mariposa 95338
+73. Ucsf Medical Center
+	505 Parnassus Ave, Box 0296 San Francisco 94143 (CMS:yes)
+	1.97 Saint Mary's Medical Center
+	450 Stanyan Street San Francisco 94117
+74. Kaiser Foundation Hospital And Rehab Center
+	975 Sereno Dr Vallejo 94589 (CMS:yes)
+	3.02 Kaiser Permanente Vallejo Hospital & Medical Offices
+	975 Sereno Drive Vallejo 94589
+Saint Francis Medical Center
+	3630 East Imperial Highway Lynwood 90262
+	 Emergency Mismatch (CMS:no)
+	Saint Francis Medical Center
+75. Jewish Home & Rehab Center
+	302 Silver Avenue San Francisco 94112 (CMS:no)
+	1.98 Kaiser Permanente Medical Center
+	2425 Geary Boulevard San Francisco 94115
+76. Children's Hosp Of Los Angeles
+	4650 Sunset Blvd, Ms 108 Los Angeles 90027 (CMS:yes)
+	2.93 Children's Hospital Los Angeles
+	4650 Sunset Boulevard Los Angeles 90029
+77. Telecare Heritage Psychiatric Health Facility
+	2633 E 27Th Street, Building B Oakland 94601 (CMS:no)
+	1.86 Children's Hospital & Research Center Oakland
+	747 52nd Street Oakland 94609
+Good Samaritan Hospital
+	1225 Wilshire Boulevard Los Angeles 90017
+	 Emergency Mismatch (CMS:no)
+	Good Samaritan Hospital
+Found 77 issues.
 
 Unmatched emergency=yes
-Jerold Phelps Community Hospital (0.00)
-	733 Cedar Street Garberville 95542
-Unmatched emergency=yes
-Seneca Hospital (0.00)
-	130 Brentwood Drive Chester 96020
-Unmatched emergency=yes
-Modoc Medical Center (0.00)
-	228 West McDowell Avenue Alturas 96101
-Unmatched emergency=yes
-Los Angeles Community Hospital (0.00)
-	4081 East Olympic Boulevard Los Angeles 90023
-Unmatched emergency=yes
-Palomar Medical Center Poway (0.00)
+Palomar Medical Center Poway (3.02)
 	15615 Pomerado Road Poway 92064
 Unmatched emergency=yes
-Adventist Health Tehachapi Valley (0.00)
+Adventist Health Tehachapi Valley (3.07)
 	115 West E Street Tehachapi 93561
-Unmatched emergency=yes
-Adventist Health Hanford (0.00)
-	115 Mall Drive Hanford 93230
 Unmatched emergency=yes
 UCSF Benioff Children's Hospital San Francisco (0.00)
 	1975 4th Street San Francisco 94158
 Unmatched emergency=yes
-Sequoia Hospital (0.00)
-	170 Alameda de las Pulgas Redwood City 94062
-Unmatched emergency=yes
-Children's Hospital & Research Center Oakland (0.00)
-	747 52nd Street Oakland 94609
-Unmatched emergency=yes
-San Francisco General Hospital (0.00)
+San Francisco General Hospital (2.85)
 	1001 Potrero Avenue San Francisco 94158
 Unmatched emergency=yes
-Kaiser Permanente South San Francisco Medical Center (0.00)
-	1200 El Camino Real South San Francisco 94080
-Unmatched emergency=yes
-Scripps Memorial Hospital La Jolla (0.00)
-	9888 Genesee Avenue La Jolla 92037
-Unmatched emergency=yes
-Marina Del Rey Hospital (0.00)
+Marina Del Rey Hospital (3.03)
 	4650 Lincoln Boulevard Marina Del Rey 90292
-Unmatched emergency=yes
-Saint Louise Regional Hospital (0.00)
-	9400 No Name Uno Gilroy 95020
-Unmatched emergency=yes
-Hazel Hawkins Memorial Hospital (0.00)
-	911 Sunset Drive Hollister 95023
-Unmatched emergency=yes
-Highland Hospital (0.00)
-	1411 East 31st Street Oakland 94602
-Unmatched emergency=yes
-Alta Bates Summit Medical Center - Summit Campus (0.00)
-	350 Hawthorne Avenue Oakland 94609
-Unmatched emergency=yes
-Fountain Valley Regional Hospital and Medical Center (0.00)
-	17100 Euclid Street Fountain Valley 92708
-Unmatched emergency=yes
-Methodist Hospital of Southern California (0.00)
-	300 Huntington Drive Arcadia 91007
 Unmatched emergency=yes
 Mission Hospital Laguna Beach (0.00)
 	31872 Coast Highway Laguna Beach 92651
 Unmatched emergency=yes
-John Muir Medical Center, Concord (0.00)
-	2540 East Street Concord 94520
-Unmatched emergency=yes
-Contra Costa Regional Medical Center (0.00)
-	2500 Alhambra Avenue Martinez 94553
-Unmatched emergency=yes
-Sutter Delta Medical Center (0.00)
-	3901 Lone Tree Way Antioch 94509
-Unmatched emergency=yes
-John Muir Medical Center (0.00)
+John Muir Medical Center (2.95)
 	1601 Ygnacio Canal Trail Walnut Creek 94598
-Unmatched emergency=yes
-Natividad Medical Center (0.00)
-	1441 Constitution Boulevard Salinas 93906
-Unmatched emergency=yes
-Salinas Valley Memorial Healthcare System (0.00)
-	450 East Romie Lane Salinas 93901
-Unmatched emergency=yes
-Kaiser Permanente Fremont Medical Center (0.00)
-	39400 Paseo Padre Parkway Fremont 94538
-Unmatched emergency=yes
-Kaiser Permanente San Jose (0.00)
-	250 Hospital Parkway San Jose 95119
-Unmatched emergency=yes
-Good Samaritan Hospital (0.00)
-	2425 Samaritan Drive San Jose 95124
-Unmatched emergency=yes
-Kaiser Permanente Santa Clara Medical Center (0.00)
-	710 Lawrence Expressway Santa Clara 95051
-Unmatched emergency=yes
-O’Connor Hospital (0.00)
-	2105 Forest Avenue San Jose 95128
 Unmatched emergency=yes
 VacaValley Hospital (0.00)
 	1000 Nut Tree Road Vacaville 95678
@@ -105,930 +502,177 @@ Unmatched emergency=yes
 Kaiser Permanente Orange County-Irvine Medical Center (0.00)
 	6640 Alton Parkway Irvine 92618
 Unmatched emergency=yes
-El Camino Hospital (0.00)
-	2500 Grant Road Mountain View 94040
-Unmatched emergency=yes
-Dominican Hospital (0.00)
-	1555 Soquel Drive Santa Cruz 95065
-Unmatched emergency=yes
 Arroyo Grande Community Hospital (0.00)
 	345 South Halcyon Road Arroyo Grande 93420
 Unmatched emergency=yes
-Naval Medical Center San Diego (0.00)
+Naval Medical Center San Diego (2.73)
 	34800 Bob Wilson Drive San Diego 92101
 Unmatched emergency=yes
-Pioneers Memorial Hospital (0.00)
-	207 West Legion Road Brawley 92227
-Unmatched emergency=yes
-Northern Inyo Hospital (0.00)
-	150 Pioneer Lane Bishop 93514
-Unmatched emergency=yes
-Kaiser Permanente Riverside Medical Center (0.00)
-	10800 Magnolia Avenue Riverside 92505
-Unmatched emergency=yes
-Palo Verde Hospital (0.00)
-	250 North 1st Street Blythe 92225
-Unmatched emergency=yes
-Parkview Community Hospital (0.00)
-	3865 Jackson Street Riverside 92503
-Unmatched emergency=yes
-Kaiser Permanente Baldwin Park Medical Center (0.00)
-	1011 Baldwin Park Boulevard Baldwin Park 91706
-Unmatched emergency=yes
-UC San Diego Medical Center (0.00)
-	200 West Arbor Drive San Diego 92103
-Unmatched emergency=yes
-San Antonio Regional Hospital (0.00)
-	999 San Bernardino Road Upland 91786
-Unmatched emergency=yes
-Harbor-UCLA Medical Center (0.00)
-	1000 Carson Street Torrance 90502
-Unmatched emergency=yes
-Hoag Memorial Hospital Presbyterian (0.00)
-	1 Hoag Drive Newport Beach 92663
-Unmatched emergency=yes
-Kaiser Permanente Orange County – Anaheim Medical Center (0.00)
+Kaiser Permanente Orange County – Anaheim Medical Center (3.08)
 	3440 East La Palma Avenue Anaheim 92806
 Unmatched emergency=yes
-Kern Valley Hospital (0.00)
+Kern Valley Hospital (2.27)
 	6412 Laurel Avenue Mountain Mesa 93240
 Unmatched emergency=yes
 Community Medical Center Long Beach (0.00)
 	1720 Termino Avenue Long Beach 90804
 Unmatched emergency=yes
-Adventist Health Bakersfield (0.00)
-	2615 Chester Avenue Bakersfield 93301
-Unmatched emergency=yes
-Kern Medical Center (0.00)
-	1700 Mount Vernon Avenue Bakersfield 93306
-Unmatched emergency=yes
-Bakersfield Heart Hospital (0.00)
-	3001 Sillect Avenue Bakersfield 93308
-Unmatched emergency=yes
-Memorial Hospital (0.00)
-	420 34th Street Bakersfield 93301
-Unmatched emergency=yes
-San Gabriel Valley Medical Center (0.00)
-	438 West Las Tunas Drive San Gabriel 91776
-Unmatched emergency=yes
-Mission Hospital (0.00)
-	27700 Medical Center Road Mission Viejo 92691
-Unmatched emergency=yes
-Adventist Health Reedley (0.00)
-	327 West Cypress Avenue Reedley 93654
-Unmatched emergency=yes
-Adventist Health Selma (0.00)
+Adventist Health Selma (1.30)
 	1141 Rose Avenue Selma 93662
-Unmatched emergency=yes
-Coalinga Regional Medical Center (0.00)
-	1191 West Phelps Avenue Coalinga 93210
-Unmatched emergency=yes
-Kaiser Permanente Fresno Medical Center (0.00)
-	7300 North Fresno Street Fresno 93720
-Unmatched emergency=yes
-Saint Agnes Medical Center (0.00)
-	1303 East Herndon Avenue Fresno 93720
-Unmatched emergency=yes
-Community Regional Medical Center (0.00)
-	2823 Fresno Street Fresno 93721
 Unmatched emergency=yes
 Fresno VA Medical Center (0.00)
 	2615 East Clinton Avenue Fresno 93703
 Unmatched emergency=yes
-Clovis Community Medical Center (0.00)
-	2755 Herndon Avenue Clovis 93611
-Unmatched emergency=yes
-Doctors Medical Center (0.00)
-	1441 Florida Avenue Modesto 95350
-Unmatched emergency=yes
-Temecula Valley Hospital (0.00)
-	31700 Temecula Parkway Temecula 92592
-Unmatched emergency=yes
-Saint John's Regional Medical Center (0.00)
-	1600 North Rose Avenue Oxnard 93030
-Unmatched emergency=yes
-Riverside University Health System - Medical Center (0.00)
-	26520 Cactus Avenue Moreno Valley 92555
-Unmatched emergency=yes
-Loma Linda University Medical Center - Murrieta (0.00)
-	28062 Baxter Road Murrieta 92563
-Unmatched emergency=yes
-Riverside Community Hospital (0.00)
-	4445 Magnolia Avenue Riverside 92501
-Unmatched emergency=yes
 Palomar Medical Center (0.00)
 	2185 West Citracado Parkway - -
 Unmatched emergency=yes
-Rancho Springs Medical Center (0.00)
+Rancho Springs Medical Center (3.08)
 	25500 Medical Center Drive Murrieta 92562
 Unmatched emergency=yes
-Chino Valley Medical Center (0.00)
-	5451 Walnut Avenue Chino 91710
-Unmatched emergency=yes
-Kaiser Permanente Oakland Medical Center (0.00)
+Kaiser Permanente Oakland Medical Center (2.56)
 	3600 Broadway Oakland 94611
 Unmatched emergency=yes
-Saint Mary Medical Center (0.00)
-	18300 Highway 18 Apple Valley 92307
-Unmatched emergency=yes
-CPMC Davies Campus (0.00)
+CPMC Davies Campus (1.84)
 	45 Castro Street San Francisco 94114
 Unmatched emergency=yes
 Inland Valley Medical Center (0.00)
 	36485 Inland Valley Drive Wildomar 92595
 Unmatched emergency=yes
-Sutter Amador Hospital (0.00)
-	200 Mission Boulevard Jackson 95642
-Unmatched emergency=yes
-Menifee Valley Medical Center (0.00)
+Menifee Valley Medical Center (2.56)
 	28400 McCall Boulevard Menifee 92585
 Unmatched emergency=yes
-Arrowhead Regional Medical Center (0.00)
-	400 North Pepper Avenue Colton 92324
-Unmatched emergency=yes
-Community Hospital of San Bernardino (0.00)
-	1805 Medical Center Drive San Bernardino 92411
-Unmatched emergency=yes
-Saint Bernardine Medical Center (0.00)
-	2101 North Waterman Avenue San Bernardino 92404
-Unmatched emergency=yes
-Kaiser Permanente Roseville Medical Center (0.00)
-	1600 Eureka Road Roseville 95661
-Unmatched emergency=yes
-Sutter Roseville Medical Center (0.00)
-	1 Medical Plaza Drive Roseville 95661
-Unmatched emergency=yes
-Kaiser Permanente Antioch Medical Center (0.00)
-	4501 Sand Creek Road Antioch 94531
-Unmatched emergency=yes
-Kaiser Permanente Moreno Valley Community Hospital (0.00)
-	27300 Iris Avenue Moreno Valley 92555
-Unmatched emergency=yes
-ValleyCare Medical Center (0.00)
-	5555 West Las Positas Boulevard Pleasanton 94588
-Unmatched emergency=yes
-Valley Children's Hospital (0.00)
-	9300 Valley Children's Place Madera 93636
-Unmatched emergency=yes
-Kaiser Permanente Woodland Hills Medical Center (0.00)
-	5601 De Soto Avenue Woodland Hills 91365
-Unmatched emergency=yes
-Saint Francis Medical Center (0.00)
-	3630 East Imperial Highway Lynwood 90262
-Unmatched emergency=yes
-Saint Mary's Medical Center (0.00)
-	450 Stanyan Street San Francisco 94117
-Unmatched emergency=yes
-Chinese Hospital (0.00)
-	845 Jackson Street San Francisco 94133
-Unmatched emergency=yes
-California Pacific Medical Center (0.00)
+California Pacific Medical Center (2.25)
 	2333 Buchanan Street San Francisco 94115
 Unmatched emergency=yes
-CPMC Saint Luke's Campus (0.00)
+CPMC Saint Luke's Campus (3.01)
 	3555 Cesar Chavez Street San Francisco 94110
-Unmatched emergency=yes
-Saint Francis Memorial Hospital (0.00)
-	900 Hyde Street San Francisco 94109
 Unmatched emergency=yes
 CPMC California Campus (0.00)
 	- - San Francisco 94118
 Unmatched emergency=yes
-Kaiser Permanente Medical Center (0.00)
-	2425 Geary Boulevard San Francisco 94115
-Unmatched emergency=yes
-UCI Medical Center (0.00)
+UCI Medical Center (3.01)
 	101 The City Drive South Orange 92868
-Unmatched emergency=yes
-Providence Holy Cross Medical Center (0.00)
-	15031 Rinaldi Street Mission Hills 91345
 Unmatched emergency=yes
 Los Angeles County + University of Southern California Medical Center (0.00)
 	2051 Marengo Street Los Angeles 90033
 Unmatched emergency=yes
-Ridgecrest Regional Hospital (0.00)
-	1081 North China Lake Boulevard Ridgecrest 93555
-Unmatched emergency=yes
-Sutter Solano Medical Center (0.00)
-	300 Hospital Drive Vallejo 94589
-Unmatched emergency=yes
-Kaiser Permanente Vallejo Hospital & Medical Offices (0.00)
+Kaiser Permanente Vallejo Hospital & Medical Offices (3.02)
 	975 Sereno Drive Vallejo 94589
-Unmatched emergency=yes
-Delano Regional Medical Center (0.00)
-	1401 Garces Highway Delano 93215
 Unmatched emergency=yes
 Kaiser Permanente Modesto Medical Center and Medical Offices (0.00)
 	4601 Dale Road Modesto 95356
 Unmatched emergency=yes
-Huntington Hospital (0.00)
+Huntington Hospital (3.00)
 	100 West California Boulevard Pasadena 91105
 Unmatched emergency=yes
-UCLA Medical Center - Santa Monica (0.00)
+UCLA Medical Center - Santa Monica (2.96)
 	1250 16th Street Santa Monica 90404
 Unmatched emergency=yes
-Martin Luther King, Jr. Community Hospital (0.00)
-	1680 East 120th Street Los Angeles 90059
-Unmatched emergency=yes
-Orange Coast Memorial Medical Center (0.00)
+Orange Coast Memorial Medical Center (2.59)
 	18111 Brookhurst Street Fountain Valley 92708
-Unmatched emergency=yes
-Garden Grove Hospital And Medical Center (0.00)
-	12601 Garden Grove Boulevard Garden Grove 92843
-Unmatched emergency=yes
-Antelope Valley Hospital (0.00)
-	1600 West Avenue J Lancaster 93534
-Unmatched emergency=yes
-White Memorial Medical Center (0.00)
-	1720 Cesar E. Chavez Avenue Los Angeles 90033
-Unmatched emergency=yes
-Chapman Global Medical Center (0.00)
-	2601 East Chapman Avenue Orange 92869
-Unmatched emergency=yes
-Alta Bates Summit Medical Center - Alta Bates Campus (0.00)
-	2450 Ashby Avenue Berkeley 94705
 Unmatched emergency=yes
 Kaiser Permanente Richmond Medical Center (0.00)
 	901 Nevin Avenue Richmond 94801
 Unmatched emergency=yes
-Barton Memorial Hospital (0.00)
-	2170 South Avenue South Lake Tahoe 96150
-Unmatched emergency=yes
-Alameda Hospital (0.00)
-	2070 Clinton Avenue Alameda 94501
-Unmatched emergency=yes
-Paradise Valley Hospital (0.00)
-	2400 East 4th Street National City 91950
-Unmatched emergency=yes
-Anaheim Regional Medical Center (0.00)
-	1111 West La Palma Avenue Anaheim 92801
-Unmatched emergency=yes
-Lompoc Valley Medical Center (0.00)
-	1515 East Ocean Avenue Lompoc 93463
-Unmatched emergency=yes
-San Mateo Medical Center (0.00)
-	222 West 39th Avenue San Mateo 94403
-Unmatched emergency=yes
-Kaiser Permanente South Bay Medical Center (0.00)
-	25825 South Vermont Avenue Harbor City 90710
-Unmatched emergency=yes
 Saint Josephs Hospital (0.00)
 	1801 Cemetery Lane Stockton 95204
 Unmatched emergency=yes
-Dameron Hospital (0.00)
-	525 West Acacia Street Stockton 95203
-Unmatched emergency=yes
-Greater El Monte Community Hospital (0.00)
-	1701 Santa Anita Avenue South El Monte 91733
-Unmatched emergency=yes
-Providence Little Company of Mary Medical Center Torrance (0.00)
-	4101 Torrance Boulevard Torrance 90503
-Unmatched emergency=yes
-Kaiser Permanente Vacaville Medical Center (0.00)
-	1 Quality Drive Vacaville 95678
-Unmatched emergency=yes
-NorthBay Medical Center (0.00)
-	1200 B Gale Wilson Boulevard Fairfield 94533
-Unmatched emergency=yes
-San Joaquin General Hospital (0.00)
-	500 West Hospital Road French Camp 95231
-Unmatched emergency=yes
-CHA Hollywood Presbyterian Medical Center (0.00)
-	1300 North Vermont Avenue Los Angeles 90029
-Unmatched emergency=yes
-Children's Hospital Los Angeles (0.00)
+Children's Hospital Los Angeles (2.93)
 	4650 Sunset Boulevard Los Angeles 90029
 Unmatched emergency=yes
-Memorial Hospital Los Banos (0.00)
-	520 West I Street Los Banos 93635
-Unmatched emergency=yes
-Santa Rosa Memorial Hospital (0.00)
-	1165 Montgomery Drive Santa Rosa 95405
-Unmatched emergency=yes
-Kaiser Permanente Santa Rosa Medical Center (0.00)
-	401 Bicentennial Way Santa Rosa 95403
-Unmatched emergency=yes
-Kaiser Permanente San Leandro Medical Center (0.00)
-	2500 Merced Street San Leandro 94577
-Unmatched emergency=yes
-Huntington Beach Hospital And Medical Center (0.00)
-	17772 Beach Boulevard Huntington Beach 92647
-Unmatched emergency=yes
-Doctors Hospital of Manteca (0.00)
-	1205 East North Street Manteca 95336
-Unmatched emergency=yes
-Beverly Hospital (0.00)
-	309 West Beverly Boulevard Montebello 90640
-Unmatched emergency=yes
-Kaiser Permanente Manteca Medical Center (0.00)
+Kaiser Permanente Manteca Medical Center (3.09)
 	1777 West Yosemite Avenue Manteca 95337
 Unmatched emergency=yes
-Mee Memorial Hospital (0.00)
-	300 Canal Street King City 93930
-Unmatched emergency=yes
-San Ramon Regional Medical Center (0.00)
-	6001 Norris Canyon Road San Ramon 94583
-Unmatched emergency=yes
-PIH Health Hospital - Downey (0.00)
-	11500 Brookshire Avenue Downey 90241
-Unmatched emergency=yes
-Saddleback Medical Center (0.00)
-	24451 Health Center Drive Laguna Hills 92653
-Unmatched emergency=yes
-Mountains Community Hospital (0.00)
-	29101 Hospital Road Lake Arrowhead 92352
-Unmatched emergency=yes
-VA Palo Alto Health Care System (0.00)
+VA Palo Alto Health Care System (2.06)
 	3801 Miranda Avenue Palo Alto 94304
 Unmatched emergency=yes
-West Anaheim Medical Center (0.00)
-	3033 West Orange Avenue Anaheim 92804
-Unmatched emergency=yes
-West Hills Hospital & Medical Center (0.00)
-	7300 Medical Center Drive West Hills 91307
-Unmatched emergency=yes
-Henry Mayo Newhall Hospital (0.00)
-	23845 McBean Parkway Valencia 91355
-Unmatched emergency=yes
-Saint Josephs Hospital (0.00)
-	2700 Dolbeer Street Eureka 95501
-Unmatched emergency=yes
-Mad River Community Hospital (0.00)
-	3800 Janes Road Arcata 95521
-Unmatched emergency=yes
-Sutter Davis Hospital (0.00)
-	2000 Sutter Place Davis 95616
-Unmatched emergency=yes
-Marin General Hospital (0.00)
+Marin General Hospital (2.72)
 	250 Bon Air Road Greenbrae 94904
 Unmatched emergency=yes
-Woodland Healthcare (0.00)
-	1325 Cottonwood Street Woodland 95695
-Unmatched emergency=yes
-Mills-Peninsula Medical Center (0.00)
-	1501 Trousdale Drive Burlingame 94010
-Unmatched emergency=yes
-Emanuel Medical Center (0.00)
-	825 Delbon Avenue Turlock 95382
-Unmatched emergency=yes
-Good Samaritan Hospital (0.00)
-	1225 Wilshire Boulevard Los Angeles 90017
-Unmatched emergency=yes
-Rideout Regional Medical Center (0.00)
+Rideout Regional Medical Center (1.62)
 	726 4th Street Marysville -
-Unmatched emergency=yes
-San Leandro Hospital (0.00)
-	13855 East 14th Street San Leandro 94578
-Unmatched emergency=yes
-Regional Medical Center of San Jose (0.00)
-	225 North Jackson Avenue San Jose 95116
-Unmatched emergency=yes
-University of California, Davis Medical Center (0.00)
-	2315 Stockton Boulevard Sacramento 95817
-Unmatched emergency=yes
-Mission Community Hospital (0.00)
-	14850 Roscoe Boulevard Panorama City 91402
-Unmatched emergency=yes
-Catalina Island Medical Center (0.00)
-	100 Falls Canyon Road Avalon 90704
-Unmatched emergency=yes
-Foothill Regional Medical Center (0.00)
-	14662 Newport Avenue Tustin 92780
-Unmatched emergency=yes
-Kaiser Permanente Los Angeles Medical Center (0.00)
-	4867 Sunset Boulevard Los Angeles 90027
 Unmatched emergency=yes
 UC San Diego Health, La Jolla Campus (0.00)
 	- - - -
 Unmatched emergency=yes
-Mercy Medical Center Redding (0.00)
-	2175 Rosaline Avenue Redding 96001
-Unmatched emergency=yes
-Mercy Medical Center Mount Shasta (0.00)
-	914 Pine Street Mount Shasta 96067
-Unmatched emergency=yes
-Queen of the Valley Medical Center (0.00)
-	1000 Trancas Street Napa 95678
-Unmatched emergency=yes
-Community Hospital of Huntington Park (0.00)
-	2623 East Slauson Avenue Huntington Park 90255
-Unmatched emergency=yes
-Sharp Coronado Hospital (0.00)
-	230 Prospect Place Coronado 92118
-Unmatched emergency=yes
-Sierra Nevada Memorial Hospital (0.00)
-	155 Glasson Way Grass Valley 95945
-Unmatched emergency=yes
-Ventura County Medical Center (0.00)
-	300 Hillmont Avenue Ventura 93003
-Unmatched emergency=yes
-Oroville Hospital (0.00)
-	2767 Olive Highway Oroville 95966
-Unmatched emergency=yes
-Sierra View Medical Center (0.00)
-	465 West Putnam Avenue Porterville 93257
-Unmatched emergency=yes
-Sutter Medical Center, Sacramento (0.00)
-	2825 Capitol Avenue Sacramento 95816
-Unmatched emergency=yes
-Cottage Hospital (0.00)
+Cottage Hospital (1.73)
 	400 West Pueblo Street Santa Barbara 93105
 Unmatched emergency=yes
-Goleta Valley Cottage Hospital (0.00)
+Goleta Valley Cottage Hospital (2.76)
 	351 South Patterson Avenue Goleta 93111
-Unmatched emergency=yes
-Sutter Coast Hospital (0.00)
-	800 East Washington Boulevard Crescent City 95531
-Unmatched emergency=yes
-Mercy San Juan Medical Center (0.00)
-	6501 Coyle Avenue Carmichael 95608
 Unmatched emergency=yes
 VA Loma Linda Healthcare System (0.00)
 	11201 Benton Street Loma Linda 92357
 Unmatched emergency=yes
-Shasta Regional Medical Center (0.00)
-	1100 Butte Street Redding 96001
-Unmatched emergency=yes
-Tri-City Medical Center (0.00)
-	4002 Vista Way Oceanside 92056
-Unmatched emergency=yes
 Kaiser Permanente San Diego Medical Center (0.00)
 	9455 Clairemont Mesa Boulevard San Diego 92123
-Unmatched emergency=yes
-Cedars-Sinai Medical Center (0.00)
-	8700 Beverly Boulevard Los Angeles 90048
-Unmatched emergency=yes
-Providence Saint Joseph Medical Center (0.00)
-	501 South Buena Vista Street Burbank 91505
-Unmatched emergency=yes
-Enloe Medical Center (0.00)
-	1531 Esplanade Chico 95926
-Unmatched emergency=yes
-Mercy Hospital of Folsom (0.00)
-	1650 Creekside Drive Folsom 95630
 Unmatched emergency=yes
 Veterans Affairs San Diego Healthcare System (0.00)
 	3350 La Jolla Village Drive San Diego 92161
 Unmatched emergency=yes
-Sutter Auburn Faith Hospital (0.00)
-	11815 Education Street Auburn 95602
-Unmatched emergency=yes
-Colorado River Medical Center (0.00)
-	1401 Bailey Avenue Needles 92363
-Unmatched emergency=yes
-El Centro Regional Medical Center (0.00)
-	1415 Ross Avenue El Centro 92243
-Unmatched emergency=yes
-Sharp Chula Vista Medical Center (0.00)
-	751 Medical Center Court Chula Vista 91911
-Unmatched emergency=yes
 Scripps Mercy Hospital Chula Vista (0.00)
 	435 H Street Chula Vista 91911
 Unmatched emergency=yes
-Scripps Mercy Hospital (0.00)
-	4077 5th Avenue San Diego 92103
-Unmatched emergency=yes
-Sharp Memorial Hospital (0.00)
-	7901 Frost Street San Diego 92123
-Unmatched emergency=yes
-Rady Children's Hospital-San Diego (0.00)
-	3020 Children's Way San Diego 92123
-Unmatched emergency=yes
-Sharp Grossmont Hospital (0.00)
-	5555 Grossmont Center Drive La Mesa 91942
-Unmatched emergency=yes
-Alvarado Hospital (0.00)
-	6655 Alvarado Road San Diego 92120
-Unmatched emergency=yes
-Kaiser Permanente Zion Medical Center (0.00)
-	4647 Zion Avenue San Diego 92120
-Unmatched emergency=yes
-Scripps Memorial Hospital Encinitas (0.00)
-	324 Santa Fe Drive Encinitas 92024
-Unmatched emergency=yes
-Naval Hospital Camp Pendleton (0.00)
+Naval Hospital Camp Pendleton (2.04)
 	200 Mercy Circle Oceanside 92055
 Unmatched emergency=yes
-San Gorgonio Memorial Hospital (0.00)
-	600 North Highland Springs Avenue Banning 92220
-Unmatched emergency=yes
-Hemet Valley Medical Center (0.00)
-	117 East Devonshire Avenue Hemet 92543
-Unmatched emergency=yes
-John F. Kennedy Memorial Hospital (0.00)
-	47111 Monroe Street Indio 92201
-Unmatched emergency=yes
-Eisenhower Medical Center (0.00)
-	39000 Bob Hope Drive Rancho Mirage 92270
-Unmatched emergency=yes
-Desert Regional Medical Center (0.00)
-	1150 North Indian Canyon Drive Palm Springs 92262
-Unmatched emergency=yes
-Hi-Desert Medical Center (0.00)
-	6601 White Feather Road Joshua Tree 92252
-Unmatched emergency=yes
-Robert E. Bush Naval Hospital (0.00)
+Robert E. Bush Naval Hospital (3.06)
 	1145 Sturgis Road Twentynine Palms 92278
 Unmatched emergency=yes
-Bear Valley Community Hospital (0.00)
-	41870 Garstin Drive Big Bear Lake 92315
-Unmatched emergency=yes
-Desert Valley Hospital (0.00)
-	16850 Bear Valley Road Victorville 92395
-Unmatched emergency=yes
-Victor Valley Global Medical Center (0.00)
-	15248 11th Street Victorville 92393
-Unmatched emergency=yes
-Barstow Community Hospital (0.00)
-	820 East Mountain View Street Barstow 92311
-Unmatched emergency=yes
-Weed Army Community Hospital (0.00)
+Weed Army Community Hospital (2.20)
 	390 North Loop Road Fort Irwin 92310
 Unmatched emergency=yes
-Palmdale Regional Medical Center (0.00)
-	38600 Medical Center Drive Palmdale 93551
-Unmatched emergency=yes
-Redlands Community Hospital (0.00)
-	350 Terracina Boulevard Redlands 92373
-Unmatched emergency=yes
-Kaiser Permanente Fontana Medical Center (0.00)
+Kaiser Permanente Fontana Medical Center (1.32)
 	9961 Sierra Avenue Fontana 92335
 Unmatched emergency=yes
-Corona Regional Medical Center (0.00)
-	800 South Main Street Corona 92879
-Unmatched emergency=yes
-Montclair Hospital Medical Center (0.00)
-	5000 San Bernardino Street Montclair 91763
-Unmatched emergency=yes
-Pomona Valley Hospital Medical Center (0.00)
-	1798 North Garey Avenue Pomona 91767
-Unmatched emergency=yes
-Foothill Presbyterian Hospital (0.00)
+Foothill Presbyterian Hospital (2.94)
 	250 South Grand Avenue Glendora 91741
-Unmatched emergency=yes
-San Dimas Community Hospital (0.00)
-	1350 West Covina Boulevard San Dimas 91773
-Unmatched emergency=yes
-Hoag Hospital Irvine (0.00)
-	16200 Sand Canyon Avenue Irvine 92618
-Unmatched emergency=yes
-South Coast Global Medical Center (0.00)
-	2701 Bristol Street Santa Ana 92704
-Unmatched emergency=yes
-Orange County Global Medical Center (0.00)
-	1001 North Tustin Avenue Santa Ana 92705
-Unmatched emergency=yes
-Children's Hospital of Orange County (0.00)
-	1201 West la Veta Avenue Orange 92868
-Unmatched emergency=yes
-Saint Joseph Hospital (0.00)
-	1100 West Stewart Drive Orange 92868
-Unmatched emergency=yes
-Placentia-Linda Hospital (0.00)
-	1301 North Rose Drive Placentia 92870
-Unmatched emergency=yes
-Saint Jude Medical Center (0.00)
-	101 East Valencia Mesa Drive Fullerton 92835
-Unmatched emergency=yes
-Anaheim Global Medical Center (0.00)
-	1025 South Anaheim Boulevard Anaheim 92805
-Unmatched emergency=yes
-La Palma Intercommunity Hospital (0.00)
-	7901 Walker Street La Palma 90623
 Unmatched emergency=yes
 West Los Angeles Veterans Affairs Medical Center (0.00)
 	11310 Wilshire Boulevard Los Angeles 90073
 Unmatched emergency=yes
-Saint Mary Medical Center Long Beach (0.00)
-	1050 Linden Avenue Long Beach 90813
-Unmatched emergency=yes
-College Medical Center (0.00)
-	2776 Pacific Avenue Long Beach 90806
-Unmatched emergency=yes
-Long Beach Memorial Hospital (0.00)
-	2801 Atlantic Avenue Long Beach 90806
-Unmatched emergency=yes
-Providence Little Company of Mary Medical Center San Pedro (0.00)
-	1300 West 7th Street San Pedro 90732
-Unmatched emergency=yes
-Del Amo Hospital (0.00)
-	3330 Lomita Boulevard Torrance 90505
-Unmatched emergency=yes
-Memorial Hospital of Gardena (0.00)
-	1145 West Redondo Beach Boulevard Gardena 90247
-Unmatched emergency=yes
-Coast Plaza Hospital (0.00)
-	13100 Studebaker Road Norwalk 90650
-Unmatched emergency=yes
 Los Angeles Community Hospital at Norwalk (0.00)
 	13222 Bloomfield Avenue Norwalk 90650
-Unmatched emergency=yes
-PIH Health Hospital - Whittier (0.00)
-	12401 Washington Boulevard Whittier 90602
 Unmatched emergency=yes
 Queen of the Valley Hospital (0.00)
 	1115 South Sunset Avenue West Covina 91790
 Unmatched emergency=yes
-Inter-Community Hospital (0.00)
-	210 West San Bernardino Road Covina 91723
-Unmatched emergency=yes
-USC Verdugo Hills Hospital (0.00)
-	1812 Verdugo Boulevard Glendale 91208
-Unmatched emergency=yes
-Alhambra Hospital Medical Center (0.00)
-	100 South Raymond Avenue Alhambra 91801
-Unmatched emergency=yes
-Garfield Medical Center (0.00)
-	525 North Garfield Avenue Monterey Park 91754
-Unmatched emergency=yes
-Monterey Park Hospital (0.00)
-	900 South Atlantic Boulevard Monterey Park 91754
-Unmatched emergency=yes
-Centinela Hospital Medical Center (0.00)
-	555 East Hardy Street Inglewood 90301
-Unmatched emergency=yes
 Southern California Hospital Culver City (0.00)
 	3828 Delmas Terrace Culver City 90232
 Unmatched emergency=yes
-Providence Saint John's Health Center (0.00)
-	2121 Santa Monica Boulevard Santa Monica 90404
-Unmatched emergency=yes
-Olympia Medical Center (0.00)
-	5900 West Olympic Boulevard Los Angeles 90036
-Unmatched emergency=yes
-California Hospital Medical Center (0.00)
-	1401 South Grand Avenue Los Angeles 90007
-Unmatched emergency=yes
-Saint Vincent Medical Center (0.00)
-	2131 West 3rd Street Los Angeles 90057
-Unmatched emergency=yes
-Glendale Adventist Medical Center (0.00)
-	1509 Wilson Terrace Glendale 91206
-Unmatched emergency=yes
-Glendale Memorial Hospital (0.00)
-	1420 South Central Avenue Glendale 91204
-Unmatched emergency=yes
-Sherman Oaks Hospital (0.00)
-	4929 Van Nuys Boulevard Sherman Oaks 91403
-Unmatched emergency=yes
-Encino Hospital Medical Center (0.00)
-	16237 Ventura Boulevard Encino 91436
-Unmatched emergency=yes
-Providence Tarzana Medical Center (0.00)
-	18321 Clark Street Tarzana 91356
-Unmatched emergency=yes
-Northridge Hospital Medical Center (0.00)
-	18300 Roscoe Boulevard Northridge 91328
-Unmatched emergency=yes
-Valley Presbyterian Hospital (0.00)
-	15107 Vanowen Street Van Nuys 91405
-Unmatched emergency=yes
-Kaiser Permanente Panorama City Medical Center (0.00)
+Kaiser Permanente Panorama City Medical Center (2.79)
 	13651 Willard Street Panorama City 91402
-Unmatched emergency=yes
-Pacifica Hospital of the Valley (0.00)
-	9449 San Fernando Boulevard Sun Valley 91352
-Unmatched emergency=yes
-Olive View–UCLA Medical Center (0.00)
-	14445 Olive View Drive Sylmar 91342
-Unmatched emergency=yes
-Adventist Health Simi Valley (0.00)
-	2975 Sycamore Drive Simi Valley 93065
-Unmatched emergency=yes
-Los Robles Hospital & Medical Center (0.00)
-	215 West Janns Road Thousand Oaks 91360
-Unmatched emergency=yes
-Saint Johns Pleasant Valley Hospital (0.00)
-	2309 Antonio Avenue Camarillo 93010
 Unmatched emergency=yes
 Santa Paula Memorial Hospital (0.00)
 	825 North 10th Street Santa Paula 93061
 Unmatched emergency=yes
-Community Memorial Hospital (0.00)
-	147 North Brent Street Ventura 93003
-Unmatched emergency=yes
-Ojai Valley Community Hospital (0.00)
-	1306 Maricopa Highway Ojai 93023
-Unmatched emergency=yes
-Santa Ynez Valley Hospital (0.00)
-	2050 Viborg Road Solvang 93463
-Unmatched emergency=yes
-Marian Medical Center (0.00)
-	1400 East Church Street Santa Maria 93454
-Unmatched emergency=yes
-French Hospital (0.00)
-	1911 Johnson Avenue San Luis Obispo 93401
-Unmatched emergency=yes
-Sierra Vista Regional Medical Center (0.00)
-	1010 Murray Avenue San Luis Obispo 93405
-Unmatched emergency=yes
-Twin Cities Community Hospital (0.00)
-	1100 Las Tablas Road Templeton 93465
-Unmatched emergency=yes
 Mercy Hospital Southwest (0.00)
 	400 Old River Road Bakersfield 93311
 Unmatched emergency=yes
-Mercy Hospital Downtown (0.00)
-	2215 Truxtun Avenue Bakersfield 93301
-Unmatched emergency=yes
-Kaweah Delta Medical Center (0.00)
-	400 West Mineral King Avenue Visalia 93291
-Unmatched emergency=yes
-Southern Inyo Hospital (0.00)
-	501 East Locust Street Lone Pine 93545
-Unmatched emergency=yes
-Mammoth Hospital (0.00)
-	85 Sierra Park Road Mammoth Lakes 93546
-Unmatched emergency=yes
--- (0.00)
+-- (3.00)
 	5189 Hospital Road Mariposa 95338
-Unmatched emergency=yes
-Adventist Health Sonora (0.00)
-	900 Greenley Road Sonora 95370
-Unmatched emergency=yes
-Mark Twain Medical Center (0.00)
-	768 Mountain Ranch Road San Andreas 95249
-Unmatched emergency=yes
-Marshall Medical Center (0.00)
-	1100 Marshall Way Placerville 95667
-Unmatched emergency=yes
-Plumas District Hospital (0.00)
-	1065 Bucks Lake Road Quincy 95971
-Unmatched emergency=yes
-Banner Lassen Medical Center (0.00)
-	1800 Spring Ridge Drive Susanville 96130
-Unmatched emergency=yes
-Mayers Memorial Hospital (0.00)
-	43563 Highway 299 East Fall River Mills 96028
-Unmatched emergency=yes
-Fairchild Medical Center (0.00)
-	444 Bruce Street Yreka 96097
-Unmatched emergency=yes
-Redwood Memorial Hospital (0.00)
-	3300 Renner Drive Fortuna 95540
-Unmatched emergency=yes
-Trinity Hospital (0.00)
-	60 Easter Avenue Weaverville 96093
-Unmatched emergency=yes
-Saint Elizabeth Community Hospital (0.00)
-	2550 Sister Mary Columba Drive Red Bluff 96080
-Unmatched emergency=yes
-Mendocino Coast District Hospital (0.00)
-	700 River Drive Fort Bragg 95437
-Unmatched emergency=yes
-Adventist Health Howard Memorial (0.00)
-	1 Marcela Drive Willits 95437
-Unmatched emergency=yes
-Adventist Health Ukiah Valley (0.00)
-	275 Hospital Drive Ukiah 95482
-Unmatched emergency=yes
-Sutter Lakeside Hospital (0.00)
-	5176 Hill Road East Lakeport 95453
-Unmatched emergency=yes
-Adventist Health Clear Lake (0.00)
-	15630 18th Avenue Clearlake 95422
-Unmatched emergency=yes
-Healdsburg District Hospital (0.00)
-	1375 University Avenue Healdsburg 95448
-Unmatched emergency=yes
-Glenn Medical Center (0.00)
-	1133 West Sycamore Street Willows 95988
-Unmatched emergency=yes
-Adventist Health Feather River (0.00)
-	5974 Pentz Road Paradise 95969
-Unmatched emergency=yes
-Orchard Hospital (0.00)
-	240 Spruce Street Gridley 95948
 Unmatched emergency=yes
 Sacramento VA Medical Center (0.00)
 	10535 Hospital Way Mather 95655
 Unmatched emergency=yes
-Kaiser Permanente Sacramento Medical Center (0.00)
-	2025 Morse Avenue Sacramento 95825
-Unmatched emergency=yes
-Mercy General Hospital (0.00)
-	4001 J Street Sacramento 95819
-Unmatched emergency=yes
-Kaiser Permanente South Sacramento Medical Center (0.00)
-	6600 Bruceville Road Sacramento 95823
-Unmatched emergency=yes
-Methodist Hospital of Sacramento (0.00)
-	7500 Hospital Drive Sacramento 95823
-Unmatched emergency=yes
-Adventist Health Lodi Memorial (0.00)
-	975 South Fairmont Avenue Lodi 95240
-Unmatched emergency=yes
-Sutter Tracy Community Hospital (0.00)
-	1420 North Tracy Boulevard Tracy 95376
-Unmatched emergency=yes
-Oak Valley Hospital (0.00)
-	350 South Oak Avenue Oakdale 95361
-Unmatched emergency=yes
-Mercy Medical Center Merced (0.00)
-	333 Mercy Avenue Merced 95340
-Unmatched emergency=yes
-Madera Community Hospital (0.00)
-	1250 East Almond Avenue Madera 93637
-Unmatched emergency=yes
-Community Hospital of the Monterey Peninsula (0.00)
-	23625 Pacific Grove-Carmel Highway Monterey 93940
-Unmatched emergency=yes
-Watsonville Community Hospital (0.00)
-	75 Neilson Street Watsonville 95076
-Unmatched emergency=yes
 El Camino Hospital Los Gatos (0.00)
 	815 Pollard Road Los Gatos 95032
 Unmatched emergency=yes
-Washington Hospital (0.00)
-	2000 Mowry Avenue Fremont 94538
-Unmatched emergency=yes
-Adventist Health Saint Helena (0.00)
-	10 Woodland Road Saint Helena 94574
-Unmatched emergency=yes
-Sutter Santa Rosa Regional Hospital (0.00)
-	30 Mark West Springs Road Santa Rosa 95403
-Unmatched emergency=yes
-Sonoma West Medical Center (0.00)
-	501 Petaluma Avenue Sebastopol 95472
-Unmatched emergency=yes
-Petaluma Valley Hospital (0.00)
-	400 North McDowell Boulevard Petaluma 94954
-Unmatched emergency=yes
-Sonoma Valley Hospital (0.00)
-	347 Andrieux Street Sonoma 95476
-Unmatched emergency=yes
-Novato Community Hospital (0.00)
-	4 Rowland Way Novato 94945
-Unmatched emergency=yes
-Kaiser Permanente San Rafael Medical Center (0.00)
+Kaiser Permanente San Rafael Medical Center (3.05)
 	99 Montecillo Road San Rafael 94903
-Unmatched emergency=yes
-Saint Rose Hospital (0.00)
-	27200 Calaroga Avenue Hayward 94545
 Unmatched emergency=yes
 Seton Coastside Hospital (0.00)
 	600 Marine Boulevard Moss Beach 94038
 Unmatched emergency=yes
-Seton Medical Center (0.00)
-	1900 Sullivan Avenue Daly City 94015
-Unmatched emergency=yes
-Eden Medical Center (0.00)
-	20103 Lake Chabot Road Castro Valley 94546
-Unmatched emergency=yes
-Los Alamitos Medical Center (0.00)
-	3751 Katella Avenue Los Alamitos 90720
-Unmatched emergency=yes
-Lakewood Regional Medical Center (0.00)
-	3650 East South Street Lakewood 90712
-Unmatched emergency=yes
-Kaiser Permanente Downey Medical Center (0.00)
-	9333 East Imperial Highway Downey 90242
-Unmatched emergency=yes
-Glendora Community Hospital (0.00)
-	150 West Route 66 Glendora 91740
-Unmatched emergency=yes
-Surprise Valley Hospital (0.00)
-	741 North Main Street Cedarville 96104
-Unmatched emergency=yes
-Whitter Hospital Medical Center (0.00)
-	9080 Colima Road Whittier 90605
-Unmatched emergency=yes
-Memorial Medical Center (0.00)
-	1700 Coffee Road Modesto 95355
-Unmatched emergency=yes
-Kaiser Permanente West Los Angeles Medical Center (0.00)
-	6041 Cadillac Avenue Los Angeles 90034
-Unmatched emergency=yes
-East Los Angeles Doctors Hospital (0.00)
-	4060 Whittier Boulevard Los Angeles 90023
-Unmatched emergency=yes
-Loma Linda University Medical Center (0.00)
-	11234 Anderson Street Loma Linda 92354
-Unmatched emergency=yes
--- (0.00)
+-- (2.75)
 	500 1st Avenue Portola 96122
 Unmatched emergency=yes
 VA Long Beach Healthcare (0.00)
 	5901 East 7th Street Long Beach 90822
 Unmatched emergency=yes
-Stanford University Medical Center (0.00)
-	300 Pasteur Drive Stanford 94305
-Unmatched emergency=yes
 San Francisco VA Medical Center (0.00)
 	4150 Clement Street San Francisco 94121-1545
 Unmatched emergency=yes
-Ronald Reagan UCLA Medical Center (0.00)
-	757 Westwood Plaza Los Angeles 90095
-Unmatched emergency=yes
-Tahoe Forest Hospital (0.00)
-	10121 Pine Avenue Truckee 96161
-Unmatched emergency=yes
-Santa Clara Valley Medical Center (0.00)
-	751 South Bascom Avenue Santa Clara 95128
-Unmatched emergency=yes
 Sharp Mary Birch Hospital for Women & Newborns (0.00)
 	3003 Health Center Drive San Diego 92123
-Unmatched emergency=yes
-Kaiser Permanente Walnut Creek Medical Center (0.00)
-	1425 South Main Street Walnut Creek 94596
-Found 343 unmatched emergency.
+Found 67 unmatched emergency.

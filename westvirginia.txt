@@ -1,16 +1,15 @@
 69 OSM hospitals
-0 Medicare hospitals
-Found 0 issues.
+53 Medicare hospitals
+1. Broaddus Hospital Association, Inc
+	1 Healthcare Drive Mansfield Hill Philippi 26416 (CMS:yes)
+	2.94 Broaddus Hospital
+	1 Healthcare Drive Philippi 26416
+Highland-Clarksburg Hospital Inc
+	3 Hospital Plaza Clarksburg 26301
+	 Emergency Mismatch (CMS:yes)
+	Highland-Clarksburg Hospital
+Found 1 issues.
 
-Unmatched emergency=yes
-Sistersville General Hospital (0.00)
-	314 South Wells Street Sistersville 26175
-Unmatched emergency=yes
-Grafton City Hospital (0.00)
-	1 Hospital Plaza Grafton 26354
-Unmatched emergency=yes
-Preston Memorial Hospital (0.00)
-	150 Memorial Drive Kingwood 26537
 Unmatched emergency=yes
 Charleston Area Medical Center - Memorial Hospital (0.00)
 	3200 Maccorkle Avenue Southeast Charleston 25304
@@ -18,153 +17,21 @@ Unmatched emergency=yes
 Charleston Area Medical Center - Women and Children's Hospital (0.00)
 	800 Pennsylvania Avenue Charleston 25302
 Unmatched emergency=yes
-Charleston Area Medical Center General Hospital (0.00)
-	501 Morris Street Charleston 25301
-Unmatched emergency=yes
-Saint Francis Hospital (0.00)
-	333 Laidley Street Charleston 25301
-Unmatched emergency=yes
-Berkeley Medical Center (0.00)
-	2500 Hospital Drive Martinsburg 25401
-Unmatched emergency=yes
-Beckley Appalachian Regional Hospital (0.00)
-	306 Stanaford Road Beckley 25801
-Unmatched emergency=yes
-Thomas Memorial Hospital (0.00)
-	4605 MacCorkle Avenue South Charleston 25309
-Unmatched emergency=yes
-Logan Regional Medical Center (0.00)
-	20 Hospital Drive Logan 25601
-Unmatched emergency=yes
-Hampshire Memorial Hospital (0.00)
-	363 Sunrise Boulevard Romney 26757
-Unmatched emergency=yes
-Braxton County Memorial Hospital (0.00)
-	100 Hoylman Drive Gassaway 26624
-Unmatched emergency=yes
-Williamson Memorial Hospital (0.00)
-	859 Alderson Street Williamson 25661
-Unmatched emergency=yes
-Wheeling Hospital (0.00)
-	1 Medical Park Wheeling 26003
-Unmatched emergency=yes
-Ohio Valley Medical Center (0.00)
-	2000 Eoff Street Wheeling 26003
-Unmatched emergency=yes
-Weirton Medical Center (0.00)
-	601 Colliers Way Weirton 26062
-Unmatched emergency=yes
-Reynolds Memorial Hospital (0.00)
-	800 Wheeling Avenue Glen Dale 26038
-Unmatched emergency=yes
-War Memorial Hospital (0.00)
-	1 Healthy Way Berkeley Springs 25411
-Unmatched emergency=yes
 Martinsburg Veterans Affairs Medical Center (0.00)
 	510 Butler Avenue Martinsburg 25405
-Unmatched emergency=yes
-Jefferson Medical Center (0.00)
-	300 South Preston Street Ranson 25438
-Unmatched emergency=yes
-Potomac Valley Hospital (0.00)
-	100 Pin Oak Lane Keyser 26726
-Unmatched emergency=yes
-Grant Memorial Hospital (0.00)
-	117 Hospital Drive Petersburg 26847
-Unmatched emergency=yes
-Ruby Memorial Hospital (0.00)
-	1 Medical Center Drive Morgantown 26506
-Unmatched emergency=yes
-Mon General Hospital (0.00)
-	1200 J D Anderson Drive Morgantown 26505
-Unmatched emergency=yes
-Fairmont Regional Medical Center (0.00)
-	1325 Locust Avenue Fairmont 26554
-Unmatched emergency=yes
-Bluefield Regional Medical Center (0.00)
-	500 Cherry Drive Bluefield 24701
-Unmatched emergency=yes
-Princeton Community Hospital (0.00)
-	122 12th Street Princeton 24740
-Unmatched emergency=yes
-Welch Community Hospital (0.00)
-	454 McDowell Street Welch 24801
-Unmatched emergency=yes
-Greenbrier Valley Medical Center (0.00)
-	1320 Maplewood Avenue Ronceverte 24970
-Unmatched emergency=yes
-Summers County Appalachian Regional Hospital (0.00)
-	115 Summers Hospital Road Hinton 24951
 Unmatched emergency=yes
 Beckley Veterans Affairs Medical Center (0.00)
 	200 Veterans Avenue Beckley 25801
 Unmatched emergency=yes
-Raleigh General Hospital (0.00)
-	1710 Harper Road Beckley 25801
-Unmatched emergency=yes
-Pocahontas Memorial Hospital (0.00)
-	150 Duncan Road Buckeye 24924
-Unmatched emergency=yes
-Boone Memorial Hospital (0.00)
-	701 Madison Avenue Madison 25130
-Unmatched emergency=yes
-Plateau Medical Center (0.00)
-	430 Main Street Oak Hill 25901
-Unmatched emergency=yes
 Huntington Veterans Affairs Medical Center (0.00)
 	1540 Spring Valley Drive Huntington 25704
-Unmatched emergency=yes
-Saint Mary's Medical Center (0.00)
-	2900 1st Avenue Huntington 25702
-Unmatched emergency=yes
-Cabell Huntington Hospital (0.00)
-	1340 Hal Greer Boulevard Huntington 25701
 Unmatched emergency=yes
 CAMC Teays Valley Hospital (0.00)
 	1400 Hospital Drive Hurricane 25526
 Unmatched emergency=yes
-Roane General Hospital (0.00)
-	200 Hospital Drive Spencer 25276
-Unmatched emergency=yes
-Montgomery General Hospital (0.00)
-	401 6th Avenue Montgomery 25136
-Unmatched emergency=yes
-Summersville Regional Medical Center (0.00)
-	400 Fairview Heights Road Summersville 26651
-Unmatched emergency=yes
-Webster County Memorial Hospital (0.00)
-	324 Miller Mountain Road Webster Springs 26288
-Unmatched emergency=yes
-Pleasant Valley Hospital (0.00)
-	2520 Valley Drive Point Pleasant 25550
-Unmatched emergency=yes
-Jackson General Hospital (0.00)
-	122 Pinnell Street Riley 25271
-Unmatched emergency=yes
-Minnie Hamilton Health System (0.00)
-	106 Hospital Drive Grantsville 26147
-Unmatched emergency=yes
-Camden Clark Medical Center (0.00)
-	800 Garfield Avenue Parkersburg 26101
-Unmatched emergency=yes
-Wetzel County Hospital (0.00)
-	3 East Benjamin Drive New Martinsville 26155
-Unmatched emergency=yes
-United Hospital Center (0.00)
-	327 Medical Park Drive Bridgeport 26330
-Unmatched emergency=yes
 Louis A Johnson Veterans Administration Medical Center (0.00)
 	1 Medical Center Drive Clarksburg 26301
 Unmatched emergency=yes
-Broaddus Hospital (0.00)
+Broaddus Hospital (2.94)
 	1 Healthcare Drive Philippi 26416
-Unmatched emergency=yes
-Saint Joseph's Hospital of Buckhannon (0.00)
-	- Amalia Drive Buckhannon 26201
-Unmatched emergency=yes
-Stonewall Jackson Memorial Hospital (0.00)
-	230 Hospital Plaza Weston 26452
-Unmatched emergency=yes
-Davis Memorial Hospital (0.00)
-	812 Gorman Avenue Elkins 26241
-Found 55 unmatched emergency.
+Found 8 unmatched emergency.

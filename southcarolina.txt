@@ -1,58 +1,113 @@
 93 OSM hospitals
-0 Medicare hospitals
-Found 0 issues.
+67 Medicare hospitals
+1. Carolina Ctr For Behavioral Health,The
+	2700 E Phillips Rd Greer 29650 (CMS:no)
+	2.24 Greer Memorial Hospital
+	830 South Buncombe Road Greer 29650
+2. Mcleod Regional Medical Center-Pee Dee
+	555 E Cheves St Box 8700 Florence 29506 (CMS:yes)
+	2.84 McLeod Regional Medical Center
+	555 East Cheves Street Florence 29505
+3. Prisma Health Oconee Memorial Hospital
+	102B Omni Dr Seneca 29672 (CMS:yes)
+	2.82 Oconee Memorial Hospital
+	298 Memorial Drive Seneca 29672
+4. Hilton Head Regional Medical Center
+	25 Hospital Center Blvd Hilton Head Island 29925 (CMS:yes)
+	2.75 Hilton Head Hospital
+	25 Hospital Center Boulevard Hilton Head Island 29926
+5. Musc Health Lancaster Medical Center
+	800 W Meeting St Lancaster 29720 (CMS:yes)
+	2.80 Springs Memorial Hospital
+	800 West Meeting Street Lancaster 29720
+6. Trmc Of Orangeburg & Calhoun
+	3000 St Matthews Rd Box 1806 Orangeburg 29115 (CMS:no)
+	2.62 The Regional Medical Center
+	3000 Saint Matthews Road Orangeburg 29115
+7. Nh Beaufort
+	1 Pinckney Blvd Beaufort 29902 (CMS:no)
+	3.10 Naval Hospital Beaufort
+	1 Pinkney Boulevard Beaufort 29902
+8. Prisma Health Richland Hospital
+	5 Medical Park Columbia 29203 (CMS:yes)
+	2.85 Palmetto Health Richland
+	5 Richland Medical Park Drive Columbia 29203
+9. Springbrook Behavioral Health System
+	One Havenwood Lane Po Box 1005 Travelers Rest 29690 (CMS:no)
+	2.07 North Greenville Hospital
+	807 North Main Street Travelers Rest 29690
+10. Mcleod Medical Center - Darlington
+	701 Cashua Ferry Road Darlington 29540 (CMS:no)
+	2.94 McLeod Health Darlington
+	701 Cashua Ferry Road Darlington 29532
+11. Prisma Health Hillcrest Hospital
+	741 South East Main Street Simpsonville 29681 (CMS:yes)
+	3.01 Greenville Hospital System
+	729 Southeast Main Street Simpsonville 29681
+12. Prisma Health Baptist
+	1330 Taylor At Marion St Columbia 29220 (CMS:yes)
+	3.07 Palmetto Health Baptist
+	- Taylor Street at Marion Street Columbia 29220
+13. Anmed Health
+	800 N Fant St Anderson 29621 (CMS:yes)
+	2.96 AnMed Health Medical Center
+	800 North Fant Street Anderson 29621
+14. Rebound Behavioral Health
+	134 East Rebound Road Lancaster 29720 (CMS:yes)
+	2.26 Springs Memorial Hospital
+	800 West Meeting Street Lancaster 29720
+15. Prisma Health Greenville Memorial Hospital
+	905 Verdae Blvd Suite 102 Greenville 29605 (CMS:yes)
+	2.37 Greenville Memorial Hospital
+	701 Grove Road Greenville 29601
+16. Prisma Health Patewood Hospital
+	175 Patewood Drive Greenville 29615 (CMS:no)
+	3.00 Greenville Health System’ Patewood Medical Campus
+	200 Patewood Drive Greenville 29615
+17. Musc Health Marion Medical Center
+	2829 E Hwy 76 Mullins 29574 (CMS:yes)
+	2.77 Carolinas Hospital System - Marion
+	2829 East Highway 76 Mullins 29574
+18. Mcleod Medical Center - Dillon
+	301 E Jackson Street Po Box 1327 Dillon 29536 (CMS:yes)
+	2.89 McLeod Dillon
+	301 East Jackson Street Dillon 29536
+19. Lighthouse Behavioral Health Hospital
+	152 Waccamaw Medical Park Drive Conway 29526 (CMS:yes)
+	2.06 Conway Medical Center
+	300 Singleton Ridge Road Conway 29526
+20. Cannon Memorial Hospital
+	123 W G Acker Drive Pickens 29671 (CMS:yes)
+	3.08 AnMed Health Cannon
+	123 W G Acker Drive Pickens 29671
+21. Musc Health Florence Medical Center
+	805 Pamplico Hwy Box 100550 Florence 29505 (CMS:yes)
+	2.60 Medical University of South Carolina: Florence
+	805 Pamplico Highway Florence 29505
+22. Tidelands Health
+	606 Black River Rd Drawer 1718 Georgetown 29440 (CMS:yes)
+	2.79 Tidelands Georgetown Memorial Hospital
+	606 Black River Road Georgetown 29440
+Found 22 issues.
 
 Unmatched emergency=yes
-Greenville Hospital System (0.00)
+Greenville Hospital System (3.01)
 	729 Southeast Main Street Simpsonville 29681
 Unmatched emergency=yes
-McLeod Dillon (0.00)
+McLeod Dillon (2.89)
 	301 East Jackson Street Dillon 29536
-Unmatched emergency=yes
-McLeod Loris (0.00)
-	3655 Mitchell Street Loris 29569
-Unmatched emergency=yes
-MUSC Health Medical Center (0.00)
-	171 Ashley Avenue Charleston 29425
 Unmatched emergency=yes
 AnMed Health Medical Center (0.00)
 	- - - -
 Unmatched emergency=yes
-Conway Medical Center (0.00)
-	300 Singleton Ridge Road Conway 29526
-Unmatched emergency=yes
-McLeod Health Clarendon (0.00)
-	10 East Hospital Street Manning 29102
-Unmatched emergency=yes
-Greer Memorial Hospital (0.00)
-	830 South Buncombe Road Greer 29650
-Unmatched emergency=yes
-Greenville Memorial Hospital (0.00)
+Greenville Memorial Hospital (2.37)
 	701 Grove Road Greenville 29601
 Unmatched emergency=yes
-St. Francis Downtown (0.00)
-	1 St Francis Drive Greenville 29601
-Unmatched emergency=yes
-Easley Baptist Hospital (0.00)
-	200 Fleetwood Drive Easley 29640
-Unmatched emergency=yes
-Providence Health Northeast (0.00)
-	120 Gateway Corporate Boulevard Columbia 29203
-Unmatched emergency=yes
-Carolinas Hospital System - Marion (0.00)
+Carolinas Hospital System - Marion (2.77)
 	2829 East Highway 76 Mullins 29574
-Unmatched emergency=yes
-Piedmont Medical Center (0.00)
-	222 South Herlong Avenue Rock Hill 29732
-Unmatched emergency=yes
-Grand Strand Regional Medical Center (0.00)
-	809 82nd Parkway Myrtle Beach 29572
 Unmatched emergency=yes
 South Strand Medical Center (0.00)
 	5050 Highway 17 Bypass Myrtle Beach 29588
-Unmatched emergency=yes
-Tidelands Waccamaw Community Hospital (0.00)
-	4070 Highway 17 Bypass South Murrells Inlet 29576
 Unmatched emergency=yes
 McLeod Seacoast (0.00)
 	4000 Highway 9 East Little River 29566
@@ -60,150 +115,63 @@ Unmatched emergency=yes
 Roper Hospital - Berkeley (0.00)
 	730 Stoney Landing Road Moncks Corner 29461
 Unmatched emergency=yes
-Hilton Head Hospital (0.00)
+Hilton Head Hospital (2.75)
 	25 Hospital Center Boulevard Hilton Head Island 29926
-Unmatched emergency=yes
-Beaufort Memorial Hospital (0.00)
-	955 Ribaut Road Beaufort 29902
-Unmatched emergency=yes
-Coastal Carolina Hospital (0.00)
-	1000 Medical Center Drive Hardeeville 29927
-Unmatched emergency=yes
-Hampton Regional Medical Center (0.00)
-	595 West Carolina Avenue Varnville 29944
-Unmatched emergency=yes
-Allendale County Hospital (0.00)
-	1787 Allendale-Fairfax Highway Fairfax 29827
-Unmatched emergency=yes
-Colleton Medical Center (0.00)
-	501 Robertson Boulevard Walterboro 29488
 Unmatched emergency=yes
 Bamberg County Hospital (0.00)
 	509 North Street Bamberg 29003
 Unmatched emergency=yes
-The Regional Medical Center (0.00)
+The Regional Medical Center (2.62)
 	3000 Saint Matthews Road Orangeburg 29115
-Unmatched emergency=yes
-Edgefield County Hospital (0.00)
-	300 Ridge Medical Plaza Edgefield 29824
-Unmatched emergency=yes
-Abbeville Area Medical Center (0.00)
-	420 Thomson Circle Abbeville 29620
-Unmatched emergency=yes
-Self Regional Medical Center (0.00)
-	1325 Spring Street Greenwood 29646
-Unmatched emergency=yes
-Bon Secours Saint Francis Hospital (0.00)
-	2095 Henry Teckenburg Drive Charleston 29414
-Unmatched emergency=yes
-East Cooper Medical Center (0.00)
-	2000 Hospital Drive Mount Pleasant 29464
-Unmatched emergency=yes
-Trident Medical Center (0.00)
-	9330 Medical Plaza Drive Charleston 29406
 Unmatched emergency=yes
 Summerville Medical Center (0.00)
 	295 Midland Parkway Summerville 29485
 Unmatched emergency=yes
-Williamsburg Regional Hospital (0.00)
-	500 Nelson Boulevard Kingstree 29556
-Unmatched emergency=yes
-Tidelands Georgetown Memorial Hospital (0.00)
+Tidelands Georgetown Memorial Hospital (2.79)
 	606 Black River Road Georgetown 29440
 Unmatched emergency=yes
-Lake City Community Hospital (0.00)
-	258 North Ron McNair Boulevard Lake City 29560
-Unmatched emergency=yes
-Prisma Health Toumey Hospital (0.00)
-	129 North Washington Street Sumter 29150
-Unmatched emergency=yes
-McLeod Health Cheraw (0.00)
-	711 Chesterfield Highway Cheraw 29520
-Unmatched emergency=yes
-Medical University of South Carolina: Florence (0.00)
+Medical University of South Carolina: Florence (2.60)
 	805 Pamplico Highway Florence 29505
 Unmatched emergency=yes
-McLeod Regional Medical Center (0.00)
+McLeod Regional Medical Center (2.84)
 	555 East Cheves Street Florence 29505
 Unmatched emergency=yes
-Springs Memorial Hospital (0.00)
+Springs Memorial Hospital (2.26)
 	800 West Meeting Street Lancaster 29720
 Unmatched emergency=yes
-KershawHealth Medical Center (0.00)
-	1315 Roberts Street Camden 29020
-Unmatched emergency=yes
-Carolina Pines Regional Medical Center (0.00)
-	1304 West Bobo Newsome Highway Hartsville 29550
-Unmatched emergency=yes
-Lexington Medical Center (0.00)
-	2720 Sunset Boulevard West Columbia 29169
-Unmatched emergency=yes
-Palmetto Health Richland (0.00)
+Palmetto Health Richland (2.85)
 	5 Richland Medical Park Drive Columbia 29203
 Unmatched emergency=yes
 Providence Health (0.00)
 	2435 Forest Drive Columbia 29204
 Unmatched emergency=yes
-Palmetto Health Baptist (0.00)
+Palmetto Health Baptist (3.07)
 	- Taylor Street at Marion Street Columbia 29220
 Unmatched emergency=yes
 Fairfield Memorial Hospital (0.00)
 	102 US Highway 321 Bypass North Winnsboro 29180
 Unmatched emergency=yes
-Chester Regional Medical Center (0.00)
-	1 Medical Park Drive Chester 29706
-Unmatched emergency=yes
-Cherokee Medical Center (0.00)
-	1530 North Limestone Street Gaffney 29340
-Unmatched emergency=yes
-Union Medical Center (0.00)
-	322 West South Street Union 29379
-Unmatched emergency=yes
-Newberry County Memorial Hospital (0.00)
-	2669 Kinard Street Newberry 29108
-Unmatched emergency=yes
-Laurens County Memorial Hospital (0.00)
-	22725 Highway 76 East Clinton 29325
-Unmatched emergency=yes
-Spartanburg Medical Center (0.00)
-	101 East Wood Street Spartanburg 29303
-Unmatched emergency=yes
 Mary Black Health System – Spartanburg (0.00)
 	1700 Skylyn Drive Spartanburg 29307
 Unmatched emergency=yes
-North Greenville Hospital (0.00)
+North Greenville Hospital (2.07)
 	807 North Main Street Travelers Rest 29690
 Unmatched emergency=yes
-Oconee Memorial Hospital (0.00)
+Oconee Memorial Hospital (2.82)
 	298 Memorial Drive Seneca 29672
 Unmatched emergency=yes
 Ralph Henry Johnson Veterans Administration Medical Center (0.00)
 	109 Bee Street Charleston 29401
 Unmatched emergency=yes
-Roper Hospital (0.00)
-	316 Calhoun Street Charleston 29401
-Unmatched emergency=yes
-Palmetto Health Baptist Parkridge (0.00)
-	400 Palmetto Health Parkway Columbia 29212
-Unmatched emergency=yes
 Wm. Jennings Bryan Dorn VA Medical Center (0.00)
 	6439 Garners Ferry Road Mount Pleasant 29466
 Unmatched emergency=yes
-Pelham Medical Center (0.00)
-	250 Westmoreland Road Greer 29651
-Unmatched emergency=yes
-Aiken Regional Medical Center (0.00)
-	302 University Parkway Aiken 29801
-Unmatched emergency=yes
-Mount Pleasant Hospital (0.00)
-	3500 Highway 17 North Mount Pleasant 29466
-Unmatched emergency=yes
-AnMed Health Cannon (0.00)
+AnMed Health Cannon (3.08)
 	123 W G Acker Drive Pickens 29671
 Unmatched emergency=yes
-AnMed Health Medical Center (0.00)
+AnMed Health Medical Center (2.96)
 	800 North Fant Street Anderson 29621
 Unmatched emergency=yes
 St. Francis Eastside (0.00)
 	125 Commonwealth Drive Greenville 29615
-Found 68 unmatched emergency.
+Found 28 unmatched emergency.

@@ -1,13 +1,78 @@
 151 OSM hospitals
-0 Medicare hospitals
-Found 0 issues.
+78 Medicare hospitals
+1. Southcoast Behavioral Health
+	581 Faunce Corner Road Dartmouth 02747 (CMS:no)
+	1.08 Falmouth Hospital
+	100 Ter Heun Drive Falmouth 02540
+2. Taunton State Hospital
+	60 Hodges Avenue, Box 151 Taunton 02780 (CMS:no)
+	2.61 Taunton State Hospital
+	60 Hodges Avenue Taunton -
+3. Metrowest Medical Center
+	115 Lincoln Street Framingham 01701 (CMS:yes)
+	3.05 MetroWest Medical Center: Framingham Union Hospital
+	115 Lincoln Street Framingham 01702
+4. Dr Solomon Carter Fuller Mental Health Center
+	85 East Newton Street Boston 02118 (CMS:no)
+	2.31 Boston Medical Center
+	1 Boston Medical Center Place Boston 02118
+Beth Israel Deaconess Medical Center
+	330 Brookline Avenue Boston 02215
+	 Emergency Mismatch (CMS:yes)
+	Beth Israel Deaconess Medical Center East Campus
+5. Cape Cod & Islands Community Mental Health Center
+	830 County Road Pocasset 02559 (CMS:no)
+	2.49 Pocasset Mental Health Center
+	830 County Road Bourne 02559
+6. Cambridge Health Alliance
+	1493 Cambridge Street Cambridge 02138 (CMS:yes)
+	3.01 Cambridge Hospital
+	1493 Cambridge Street Cambridge 02139
+7. Arbour Human Resource Institute
+	227 Babcock Street Brookline 02446 (CMS:no)
+	3.08 HRI Hospital
+	227 Babcock Street Brookline 02446
+8. Westwood Pembroke Health Systems
+	45 Clapboardtree Street Westwood 02090 (CMS:yes)
+	1.02 Brigham & Women's Faulkner Hospital
+	1153 Centre Street Boston 02130
+9. Umass Memorial Medical Center Inc
+	55 Lake Avenue North Worcester 01655 (CMS:yes)
+	2.85 UMass Memorial Medical Center - University Campus
+	55 Lake Avenue North Worcester 01655
+10. Taravista Behavioral Health Center
+	85 Patton Road Devens 01434 (CMS:no)
+	1.39 Nashoba Valley Medical Center
+	200 Groton Road Ayer 01432
+11. Cape Cod Hospital
+	88 Lewis Bay Road Hyannis 02601 (CMS:yes)
+	3.04 Cape Cod Hospital
+	27 Park Street Hyannis 02601
+12. Arbour Hospital, The
+	49 Robinwood Avenue Boston 02130 (CMS:no)
+	2.27 Brigham & Women's Faulkner Hospital
+	1153 Centre Street Boston 02130
+13. Walden Behavioral Care, Llc
+	9 Hope Avenue Waltham 02453 (CMS:no)
+	3.03 Boston Children's at Waltham
+	9 Hope Avenue Waltham 02453
+14. High Point Treatment Center
+	52 Oak Street Middleboro 02346 (CMS:no)
+	3.08 High Point Hospital
+	52 Oak Street Middleborough 02346
+15. Martha's Vineyard Hospital Inc
+	One Hospital Road, First Fl, Wing 5, Po Box 1477 Oak Bluffs 02557 (CMS:yes)
+	3.06 Martha's Vineyard Hospital
+	1 Hospital Road Oak Bluffs 02557
+16. Lahey Hospital & Medical Center, Burlington
+	41 & 45 Mall Road Burlington 01803 (CMS:yes)
+	2.76 Lahey Hospital & Medical Center
+	41 Burlington Mall Road Burlington 01805
+Found 16 issues.
 
 Unmatched emergency=yes
 Steward Satellite Emergency Facility - Quincy (0.00)
 	114 Whitwell Street Quincy 02169
-Unmatched emergency=yes
-Massachusetts Eye and Ear (0.00)
-	243 Charles Street Boston 02114
 Unmatched emergency=yes
 Floating Hospital for Children (0.00)
 	755 Washington Street Boston 02111
@@ -15,88 +80,43 @@ Unmatched emergency=yes
 MassGeneral for Children at North Shore Medical Center (0.00)
 	57 Highland Avenue Salem 01970
 Unmatched emergency=yes
-Tufts Medical Center (0.00)
-	800 Washington Street Boston 02111
-Unmatched emergency=yes
 East Boston Neighborhood Health Center (0.00)
 	10 Gove Street East Boston 02152
 Unmatched emergency=yes
 VA Boston Healthcare System - Brockton (0.00)
 	940 Belmont Street Brockton 02301
 Unmatched emergency=yes
-Beth Israel Deaconess Hospital – Milton (0.00)
-	199 Reedsdale Road Milton 02186
-Unmatched emergency=yes
-Saint Vincent Hospital at Worcester Medical Center (0.00)
-	123 Summer Street Worcester 01608
-Unmatched emergency=yes
 UMass Memorial Medical Center - Memorial Campus (0.00)
 	119 Belmont Street Worcester 01605
 Unmatched emergency=yes
-UMass Memorial Medical Center - University Campus (0.00)
+UMass Memorial Medical Center - University Campus (2.85)
 	55 Lake Avenue North Worcester 01655
-Unmatched emergency=yes
-Massachusetts General Hospital (0.00)
-	55 Fruit Street Boston 02114
 Unmatched emergency=yes
 Lowell General - Saints Campus (0.00)
 	1 Hospital Drive Lowell 01852
 Unmatched emergency=yes
-Lowell General Hospital (0.00)
-	295 Varnum Avenue Lowell 01854
-Unmatched emergency=yes
-Milford Regional Medical Center (0.00)
-	14 Prospect Street Milford 01757
-Unmatched emergency=yes
-Martha's Vineyard Hospital (0.00)
+Martha's Vineyard Hospital (3.06)
 	1 Hospital Road Oak Bluffs 02557
 Unmatched emergency=yes
 Beth Israel Deaconess Medical Center West Campus (0.00)
 	1 Deaconess Road Boston 02215
 Unmatched emergency=yes
-Boston Children's Hospital (0.00)
-	300 Longwood Boston 02115
-Unmatched emergency=yes
-Lahey Hospital & Medical Center (0.00)
+Lahey Hospital & Medical Center (2.76)
 	41 Burlington Mall Road Burlington 01805
 Unmatched emergency=yes
-Holy Family Hospital (0.00)
-	70 East Street Methuen 01844
-Unmatched emergency=yes
-Emerson Hospital (0.00)
-	133 Old Road to Nine Acre Corner Concord 01742
-Unmatched emergency=yes
-Cambridge Hospital (0.00)
+Cambridge Hospital (3.01)
 	1493 Cambridge Street Cambridge 02139
 Unmatched emergency=yes
 Somerville Hospital (0.00)
 	230 Highland Avenue Somerville 02143
 Unmatched emergency=yes
-Mercy Medical Center (0.00)
-	271 Carew Street Springfield 01104
-Unmatched emergency=yes
-Winchester Hospital (0.00)
-	41 Highland Avenue Winchester 01890
-Unmatched emergency=yes
 Holy Family Hospital at Merrimack Valley (0.00)
 	140 Lincoln Avenue Haverhill 01830
-Unmatched emergency=yes
-Newton-Wellesley Hospital (0.00)
-	2014 Washington Street Newton 02462
-Unmatched emergency=yes
-Berkshire Medical Center (0.00)
-	725 North Street Pittsfield 01201
 Unmatched emergency=yes
 Berkshire Health North (0.00)
 	71 Hospital Avenue North Adams 01247
 Unmatched emergency=yes
-Fairview Hospital (0.00)
-	29 Lewis Avenue Great Barrington 01230
-Unmatched emergency=yes
-Nantucket Cottage Hospital (0.00)
-	57 Prospect Street Nantucket 02554
-Unmatched emergency=yes
-Cape Cod Hospital (0.00)
+Cape Cod Hospital (3.04)
 	27 Park Street Hyannis 02601
 Unmatched emergency=yes
 Tobey Hospital (0.00)
@@ -105,101 +125,26 @@ Unmatched emergency=yes
 Saint Luke's Hospital (0.00)
 	101 Page Street New Bedford 02740
 Unmatched emergency=yes
-Saint Anne's Hospital (0.00)
-	795 Middle Street Fall River 02721
-Unmatched emergency=yes
-Charlton Memorial Hospital (0.00)
-	363 Highland Avenue Fall River 02720
-Unmatched emergency=yes
-Beth Israel Deaconess Hospital - Plymouth (0.00)
-	275 Sandwich Street Plymouth 02360
-Unmatched emergency=yes
-Morton Hospital (0.00)
-	88 Washington Street Taunton 02780
-Unmatched emergency=yes
-Sturdy Memorial Hospital (0.00)
-	211 Park Street Attleboro 02703
-Unmatched emergency=yes
 Harrington HealthCare at Webster (0.00)
 	340 Thompson Road Webster 01570
-Unmatched emergency=yes
-Harrington Hospital (0.00)
-	100 South Street Southbridge 01550
-Unmatched emergency=yes
-Wing Memorial Hospital (0.00)
-	40 Wright Street Palmer 01069
-Unmatched emergency=yes
-Baystate Medical Center (0.00)
-	759 Chestnut Street Springfield 01199
-Unmatched emergency=yes
-Noble Hospital (0.00)
-	115 West Silver Street Westfield 01085
-Unmatched emergency=yes
-Holyoke Medical Center (0.00)
-	575 Beech Street Holyoke 01040
-Unmatched emergency=yes
-Cooley Dickinson Hospital (0.00)
-	30 Locust Street Northampton 01061
 Unmatched emergency=yes
 Baystate Mary Lane Outpatient Center (0.00)
 	85 South Street Ware 01082
 Unmatched emergency=yes
-Baystate Franklin Medical Center (0.00)
-	164 High Street Greenfield 01301
-Unmatched emergency=yes
-Athol Hospital (0.00)
-	2033 Main Street Athol 01331
-Unmatched emergency=yes
-Heywood Hospital (0.00)
-	242 Green Street Gardner 01440
-Unmatched emergency=yes
-Umass Memorial-Healthalliance Hospital (0.00)
-	60 Hospital Road Leominster 01453
-Unmatched emergency=yes
-Nashoba Valley Medical Center (0.00)
-	200 Groton Road Ayer 01432
-Unmatched emergency=yes
 Umass Memorial-Clinton Hospital (0.00)
 	201 High Street Clinton 01510
-Unmatched emergency=yes
-Umass Memorial-Marlborough Hospital (0.00)
-	57 Union Street Marlborough 01752
 Unmatched emergency=yes
 Fairlawn Rehabilitation Hospital (0.00)
 	189 May Street Worcester 01602
 Unmatched emergency=yes
-MetroWest Medical Center: Framingham Union Hospital (0.00)
+MetroWest Medical Center: Framingham Union Hospital (3.05)
 	115 Lincoln Street Framingham 01702
 Unmatched emergency=yes
 MetroWest Medical Center: Leonard Morse Hospital (0.00)
 	67 Union Street Natick 01760
 Unmatched emergency=yes
-Signature Healthcare Brockton Hospital (0.00)
-	680 Centre Street Brockton 02302
-Unmatched emergency=yes
-Good Samaritan Medical Center (0.00)
-	235 North Pearl Street Brockton 02301
-Unmatched emergency=yes
-Norwood Hospital (0.00)
-	800 Washington Street Norwood 02062
-Unmatched emergency=yes
-South Shore Hospital (0.00)
-	55 Fogg Road South Weymouth 02190
-Unmatched emergency=yes
-North Shore Medical Center - Salem Hospital (0.00)
-	81 Highland Avenue Salem 01970
-Unmatched emergency=yes
-Beverly Hospital (0.00)
-	85 Herrick Street Beverly 01915
-Unmatched emergency=yes
 Addison Gilbert Hospital (0.00)
 	298 Washington Street Gloucester 01930
-Unmatched emergency=yes
-Anna Jaques Hospital (0.00)
-	25 Highland Avenue Newburyport 01950
-Unmatched emergency=yes
-Lawrence General Hospital (0.00)
-	1 General Street Lawrence 01842
 Unmatched emergency=yes
 Lahey Medical Center, Peabody (0.00)
 	1 Essex Center Drive Peabody 01960
@@ -207,42 +152,15 @@ Unmatched emergency=yes
 Union Hospital (0.00)
 	500 Lynnfield Street Lynn 01904
 Unmatched emergency=yes
-Melrose-Wakefield Hospital (0.00)
-	585 Lebanon Street Melrose 02176
-Unmatched emergency=yes
 CHA Everett Hospital (0.00)
 	103 Garland Street Everett 02149
 Unmatched emergency=yes
 Lawrence Memorial Hospital (0.00)
 	170 Governors Avenue Medford 02155
 Unmatched emergency=yes
-Beth Israel Deaconess Hospital–Needham (0.00)
-	148 Chestnut Street Needham 02492
-Unmatched emergency=yes
 VA Boston Healthcare System - West Roxbury Division (0.00)
 	1400 Veterans of Foreign Wars Parkway Boston 02492
 Unmatched emergency=yes
-Carney Hospital (0.00)
-	2100 Dorchester Avenue Dorchester 02124
-Unmatched emergency=yes
 Va Boston Healthcare System-Jamaica Plain (0.00)
 	150 South Huntington Avenue Jamaica Plain 02130
-Unmatched emergency=yes
-St. Elizabeth's Medical Center (0.00)
-	736 Cambridge Street Brighton 02135
-Unmatched emergency=yes
-Falmouth Hospital (0.00)
-	100 Ter Heun Drive Falmouth 02540
-Unmatched emergency=yes
-Mount Auburn Hospital (0.00)
-	330 Mount Auburn Street Cambridge 02138
-Unmatched emergency=yes
-Brigham & Women's Faulkner Hospital (0.00)
-	1153 Centre Street Boston 02130
-Unmatched emergency=yes
-Boston Medical Center (0.00)
-	1 Boston Medical Center Place Boston 02118
-Unmatched emergency=yes
-Brigham and Women's Hospital (0.00)
-	75 Francis Street Boston 02115
-Found 81 unmatched emergency.
+Found 31 unmatched emergency.

@@ -1,8 +1,12 @@
 1 OSM hospitals
-0 Medicare hospitals
-Found 0 issues.
+1 Medicare hospitals
+1. Commonwealth Health Center
+	1 Lower Navy Hill Road (Po Box 409Ck) Garapan 96950 (CMS:yes)
+	2.85 Commonwealth Healthcare Corporation
+	- Navy Hill Road Garapan 96950
+Found 1 issues.
 
 Unmatched emergency=yes
-Commonwealth Healthcare Corporation (0.00)
+Commonwealth Healthcare Corporation (2.85)
 	- Navy Hill Road Garapan 96950
 Found 1 unmatched emergency.

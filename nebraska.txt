@@ -1,272 +1,98 @@
 120 OSM hospitals
-0 Medicare hospitals
-Found 0 issues.
+91 Medicare hospitals
+1. Bellevue Medical Center
+	2500 Bellevue Medical Center Dr Bellevue 68123 (CMS:yes)
+	3.01 Nebraska Medicine – Bellevue
+	2500 Bellevue Medical Center Drive Bellevue 68123
+2. Community Hospital
+	P O Box 1328, 1301 East H St Mccook 69001 (CMS:yes)
+	3.06 Community Hospital
+	1301 East H Street McCook 69001
+3. Chi Health Good Samaritan
+	P O Box 1990, 10 East 31St St Kearney 68848 (CMS:yes)
+	2.98 CHI Health Good Samaritan
+	10 East 31st Street Kearney 68847
+4. Tri Valley Health System
+	1305 West Highway 6/34 Cambridge 69022 (CMS:yes)
+	2.88 Cambridge Memorial Hospital
+	1305 Highway 6/34 Cambridge 69022
+5. Douglas County Health Center
+	4102 Woolworth Ave Omaha 68105 (CMS:no)
+	2.95 Omaha VA Medical Center
+	4101 Woolworth Avenue Omaha 68105
+6. The Nebraska Medical Center
+	987400 Nebraska Medical Center Omaha 68198 (CMS:yes)
+	2.00 Omaha VA Medical Center
+	4101 Woolworth Avenue Omaha 68105
+7. Memorial Community Hospital Mch & Health System
+	810 North 22Nd St Blair 68008 (CMS:yes)
+	3.08 Memorial Community Hospital
+	822 North 22nd Street Blair 68008
+8. Lincoln Regional Center
+	Po Box 94949 Folsom And Prospector Lincoln 68509 (CMS:no)
+	1.97 Lincoln Surgery Hospital
+	1710 South 70th Street Lincoln 68506
+9. Bryan Medical Center
+	1600 South 48Th St Lincoln 68506 (CMS:yes)
+	2.89 Bryan Health East Campus
+	1600 South 48th Street Lincoln 68506
+10. Mercyone Oakland Medical Center
+	601 East Second St Oakland 68045 (CMS:yes)
+	2.86 Oakland Memorial Hospital
+	601 East 2nd Street Oakland 68045
+11. Memorial Hospital
+	1423 Seventh St Aurora 68818 (CMS:yes)
+	2.89 Memorial Community Health
+	1423 7th Street Aurora 68818
+12. Methodist Fremont Health
+	450 East 23Rd St Fremont 68025 (CMS:yes)
+	2.92 Fremont Area Medical Center
+	450 East 23rd Street Fremont 68025
+Found 12 issues.
 
 Unmatched emergency=yes
-Niobrara Valley Hospital (0.00)
-	401 South 5th Street Lynch 68746
-Unmatched emergency=yes
-Syracuse Area Health (0.00)
-	2731 Healthcare Drive Syracuse 68446
-Unmatched emergency=yes
-CHI Health Saint Francis (0.00)
-	2620 West Faidley Avenue Grand Island 68803
-Unmatched emergency=yes
-CHI Health Good Samaritan (0.00)
+CHI Health Good Samaritan (2.98)
 	10 East 31st Street Kearney 68847
-Unmatched emergency=yes
-Nebraska Orthopaedic Hospital (0.00)
-	2808 South 143rd Plaza Omaha 68144
 Unmatched emergency=yes
 Methodist Women's Hospital (0.00)
 	700 North 190th Plaza - 68022
 Unmatched emergency=yes
-Omaha VA Medical Center (0.00)
+Omaha VA Medical Center (2.00)
 	4101 Woolworth Avenue Omaha 68105
 Unmatched emergency=yes
 University of Nebraska Medical Center (0.00)
 	- - - -
 Unmatched emergency=yes
-Regional West Medical Center (0.00)
-	4021 Avenue B Scottsbluff 69361
-Unmatched emergency=yes
-Great Plains Health (0.00)
-	601 West Leota Street North Platte 69101
-Unmatched emergency=yes
-Saunders Medical Center (0.00)
-	1760 County Road J Wahoo 68066
-Unmatched emergency=yes
-Chase County Community Hospital (0.00)
-	600 West 12th Street Imperial 69033
-Unmatched emergency=yes
-Antelope Memorial Hospital (0.00)
-	102 West 9th Street Neligh 68756
-Unmatched emergency=yes
-Providence Medical Center (0.00)
-	- 1200 Providence Road Wayne 68787
-Unmatched emergency=yes
-Nemaha County Hospital (0.00)
-	2022 13th Street Auburn 68305
-Unmatched emergency=yes
-CHI Health Creighton University Medical Center - Bergan Mercy (0.00)
-	7500 Mercy Road Omaha 68124
-Unmatched emergency=yes
-Community Hospital (0.00)
+Community Hospital (3.06)
 	1301 East H Street McCook 69001
 Unmatched emergency=yes
-CHI Health Saint Mary's (0.00)
-	1301 Grundman Boulevard Nebraska City 68410
-Unmatched emergency=yes
-Bryan Health East Campus (0.00)
+Bryan Health East Campus (2.89)
 	1600 South 48th Street Lincoln 68506
 Unmatched emergency=yes
-Faith Regional Health Services - West Campus (0.00)
-	2700 West Norfolk Avenue Norfolk 68701
-Unmatched emergency=yes
-Columbus Community Hospital (0.00)
-	4600 38th Street Columbus 68602
-Unmatched emergency=yes
-Fremont Area Medical Center (0.00)
+Fremont Area Medical Center (2.92)
 	450 East 23rd Street Fremont 68025
 Unmatched emergency=yes
-CHI Health Schuyler (0.00)
-	104 West 17th Street Schuyler 68661
-Unmatched emergency=yes
-Mary Lanning Healthcare (0.00)
-	715 North Saint Joseph Avenue Hastings 68901
-Unmatched emergency=yes
-Ogallala Community Hospital (0.00)
-	2601 North Spruce Street Ogallala 69153
-Unmatched emergency=yes
-Chadron Community Hospital (0.00)
-	825 Centennial Drive Chadron 69337
-Unmatched emergency=yes
-Box Butte General Hospital (0.00)
-	2101 Box Butte Avenue Alliance 69301
-Unmatched emergency=yes
-Gordon Memorial Hospital (0.00)
-	300 East 8th Street Gordon 69343
-Unmatched emergency=yes
-Cherry County Hospital (0.00)
-	510 North Green Street Valentine 69201
-Unmatched emergency=yes
-Brown County Hospital (0.00)
-	945 East Zero Street Ainsworth 69210
-Unmatched emergency=yes
-Rock County Hospital (0.00)
-	102 East South Street Bassett 68714
-Unmatched emergency=yes
-Avera Saint Anthony's Hospital (0.00)
-	300 North 2nd Street O'Neill 68763
-Unmatched emergency=yes
-Morrill County Community Hospital (0.00)
-	1313 S Street Bridgeport 69336
-Unmatched emergency=yes
-Kimball Health Services (0.00)
-	505 South Burg Street Kimball 69145
-Unmatched emergency=yes
-Sidney Regional Medical Center (0.00)
-	1000 Pole Creek Crossing Sidney 69162
-Unmatched emergency=yes
-Regional West Garden County (0.00)
-	1100 West 2nd Street Oshkosh 69154
-Unmatched emergency=yes
-Cambridge Memorial Hospital (0.00)
+Cambridge Memorial Hospital (2.88)
 	1305 Highway 6/34 Cambridge 69022
 Unmatched emergency=yes
-Community Medical Center (0.00)
-	3307 Barada Street Falls City 68355
-Unmatched emergency=yes
-Pawnee County Memorial Hospital (0.00)
-	600 I Street Pawnee City 68420
-Unmatched emergency=yes
-Johnson County Hospital (0.00)
-	202 High Street Tecumseh 68450
-Unmatched emergency=yes
-Beatrice Community Hospital & Health Center (0.00)
-	4800 Hospital Parkway Beatrice 68310
-Unmatched emergency=yes
-Jefferson Community Health and Life (0.00)
-	2200 H Street Fairbury 68352
-Unmatched emergency=yes
-Thayer County Health Services (0.00)
-	120 Park Avenue Hebron 68370
-Unmatched emergency=yes
-Brodstone Memorial Hospital (0.00)
-	510 East 10th Street Superior 68978
-Unmatched emergency=yes
-Webster County Community Hospital (0.00)
-	621 North Franklin Street Red Cloud 68970
-Unmatched emergency=yes
-Franklin County Memorial Hospital (0.00)
-	1406 Q Street Franklin 68939
-Unmatched emergency=yes
-Harlan County Health System (0.00)
-	717 North Brown Avenue Alma 68920
-Unmatched emergency=yes
-Cozad Community Hospital (0.00)
-	300 East 12th Street Cozad 69130
-Unmatched emergency=yes
-Phelps Memorial Health Center (0.00)
-	1215 Tibbals Street Holdrege 68949
-Unmatched emergency=yes
-Lexington Regional Health Center (0.00)
-	1201 North Erie Street Lexington 68850
-Unmatched emergency=yes
-Kearney County Community Hospital (0.00)
-	727 East 1st Street Minden 68959
-Unmatched emergency=yes
-Callaway District Hospital (0.00)
-	211 East Kimball Street Callaway 68825
-Unmatched emergency=yes
-Jennie M. Melham Memorial Medical Center (0.00)
-	145 Memorial Drive Broken Bow 68822
-Unmatched emergency=yes
-West Holt Memorial Hospital (0.00)
-	406 West Neely Street Atkinson 68713
-Unmatched emergency=yes
-Valley County Health System (0.00)
-	2707 L Street Ord 68862
-Unmatched emergency=yes
-Howard County Medical Center (0.00)
-	1113 Sherman Street Saint Paul 68873
-Unmatched emergency=yes
-Memorial Community Health (0.00)
+Memorial Community Health (2.89)
 	1423 7th Street Aurora 68818
-Unmatched emergency=yes
-Fillmore County Hospital (0.00)
-	1900 F Street Geneva 68361
-Unmatched emergency=yes
-Henderson Community Hospital (0.00)
-	1621 Front Street Henderson 68371
-Unmatched emergency=yes
-York General Hospital (0.00)
-	2222 North Lincoln Avenue York 68467
-Unmatched emergency=yes
-Warren Memorial Hospital (0.00)
-	905 2nd Street Friend 68359
-Unmatched emergency=yes
-Crete Area Medical Center (0.00)
-	2910 Betten Drive Crete 68333
-Unmatched emergency=yes
-Memorial Health Care Systems (0.00)
-	300 North Columbia Avenue Seward 68434
 Unmatched emergency=yes
 Community Memorial Hospital (0.00)
 	1579 Midland Street Syracuse 68446
 Unmatched emergency=yes
-CHI Health Saint Elizabeth (0.00)
-	555 South 70th Street Lincoln 68503
-Unmatched emergency=yes
-Merrick Medical Center (0.00)
-	1715 26th Street Central City 68826
-Unmatched emergency=yes
-Avera Creighton Hospital (0.00)
-	1503 Main Street Creighton 68729
-Unmatched emergency=yes
-CHI Health Plainview (0.00)
-	704 North 3rd Street Plainview 68769
-Unmatched emergency=yes
-Osmond General Hospital (0.00)
-	402 North Maple Street Osmond 68765
-Unmatched emergency=yes
 Winnebago Hospital (0.00)
 	- South Bluff Street Winnebago 68071
 Unmatched emergency=yes
-Pender Community Hospital (0.00)
-	100 Hospital Drive Pender 68047
-Unmatched emergency=yes
-Boone County Health Center (0.00)
-	723 West Fairview Street Albion 68620
-Unmatched emergency=yes
-Genoa Community Hospital (0.00)
-	706 Ewing Avenue Genoa 68640
-Unmatched emergency=yes
-Annie Jeffrey Memorial County Health Center (0.00)
-	531 Beebe Street Osceola 68651
-Unmatched emergency=yes
-Butler County Health Care Center (0.00)
-	372 South 9th Street David City 68632
-Unmatched emergency=yes
-Saint Francis Memorial Hospital (0.00)
-	430 North Monitor Street West Point 68788
-Unmatched emergency=yes
-Oakland Memorial Hospital (0.00)
+Oakland Memorial Hospital (2.86)
 	601 East 2nd Street Oakland 68045
 Unmatched emergency=yes
-Memorial Community Hospital (0.00)
+Memorial Community Hospital (3.08)
 	822 North 22nd Street Blair 68008
 Unmatched emergency=yes
-CHI Health Midlands (0.00)
-	11111 South 84th Street Papillion 68046
-Unmatched emergency=yes
-Nebraska Medicine – Bellevue (0.00)
+Nebraska Medicine – Bellevue (3.01)
 	2500 Bellevue Medical Center Drive Bellevue 68123
-Unmatched emergency=yes
-Dundy County Hospital (0.00)
-	1313 North Cheyene Street Benkelman 69021
-Unmatched emergency=yes
-Gothenburg Memorial Hospital (0.00)
-	918 20th Street Gothenburg 69138
-Unmatched emergency=yes
-CHI Health Lakeside (0.00)
-	16901 Lakeside Hills Court Omaha 68130
-Unmatched emergency=yes
-Children's Hospital & Medical Center (0.00)
-	8200 Dodge Street Omaha 68114
-Unmatched emergency=yes
-Nebraska Methodist Hospital (0.00)
-	8303 Dodge Street Omaha 68114
-Unmatched emergency=yes
-CHI Health Immanuel (0.00)
-	6901 North 72nd Street Omaha 68122
-Unmatched emergency=yes
-Kearney Regional Medical Center (0.00)
-	804 22nd Avenue Kearney 68845
-Unmatched emergency=yes
-Perkins County Health Services (0.00)
-	900 Lincoln Avenue Grant 69140
 Unmatched emergency=yes
 CHI Health Creighton University Medical Center - University Campus (0.00)
 	2412 Cuming Street Omaha 68131
-Found 89 unmatched emergency.
+Found 15 unmatched emergency.

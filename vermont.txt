@@ -1,47 +1,30 @@
 18 OSM hospitals
-0 Medicare hospitals
-Found 0 issues.
+16 Medicare hospitals
+1. Springfield Hospital
+	Po Box 2003 Springfield 05156 (CMS:yes)
+	3.01 Springfield Hospital
+	25 Ridgewood Road Springfield 05156
+2. Central Vermont Medical Center
+	Box 547 Barre 05641 (CMS:yes)
+	1.50 Central Vermont Medical Center
+	130 Fisher Road Berlin 05602
+3. Grace Cottage Hospital
+	Po Box 216 Townshend 05353 (CMS:yes)
+	3.01 Grace Cottage Hospital
+	185 Grafton Road Townshend 05353
+4. Brattleboro Retreat
+	Anna Marsh Lane Po Box 803 Brattleboro 05301 (CMS:yes)
+	2.43 Brattleboro Memorial Hospital
+	17 Belmont Avenue Brattleboro 05301
+Found 4 issues.
 
 Unmatched emergency=yes
-Mount Ascutney Hospital (0.00)
-	289 County Road Windsor 05089
-Unmatched emergency=yes
-Northeastern Vermont Regional Hospital (0.00)
-	1315 Hospital Drive Saint Johnsbury 05819
-Unmatched emergency=yes
-Brattleboro Memorial Hospital (0.00)
-	17 Belmont Avenue Brattleboro 05301
-Unmatched emergency=yes
-North Country Hospital and Health Center (0.00)
-	189 Prouty Drive Newport 05855
-Unmatched emergency=yes
-Northwestern Medical Center (0.00)
-	133 Fairfield Street Saint Albans 05478
-Unmatched emergency=yes
-Southwestern Vermont Medical Center (0.00)
-	100 Hospital Drive Bennington 05201
-Unmatched emergency=yes
-Copley Hospital (0.00)
-	528 Washington Highway Morrisville 05661
-Unmatched emergency=yes
-Central Vermont Medical Center (0.00)
+Central Vermont Medical Center (1.50)
 	130 Fisher Road Berlin 05602
 Unmatched emergency=yes
-Rutland Regional Medical Center (0.00)
-	160 Allen Street Rutland 05701
-Unmatched emergency=yes
-Gifford Medical Center (0.00)
-	44 South Main Street Randolph 05060
-Unmatched emergency=yes
-Grace Cottage Hospital (0.00)
+Grace Cottage Hospital (3.01)
 	185 Grafton Road Townshend 05353
 Unmatched emergency=yes
-Springfield Hospital (0.00)
+Springfield Hospital (3.01)
 	25 Ridgewood Road Springfield 05156
-Unmatched emergency=yes
-The University of Vermont Medical Center (0.00)
-	111 Colchester Avenue Burlington 05401
-Unmatched emergency=yes
-Porter Medical Center (0.00)
-	115 Porter Drive Middlebury 05753
-Found 14 unmatched emergency.
+Found 3 unmatched emergency.

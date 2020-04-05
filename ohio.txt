@@ -1,6 +1,238 @@
 267 OSM hospitals
-0 Medicare hospitals
-Found 0 issues.
+193 Medicare hospitals
+Akron Children's Hospital
+	1 Perkins Square Akron 44308
+	 Emergency Mismatch (CMS:no)
+	Akron Children's Hospital
+1. Assurance Health Hudson Llc
+	6260 Hudson Crossing Pkwy Hudson 44236 (CMS:no)
+	1.00 Fulton County Health Center
+	725 South Shoop Avenue Wauseon 43567
+South Pointe Hospital
+	20050 Harvard Road Warrensville Heights 44122
+	 Emergency Mismatch (CMS:no)
+	South Pointe Hospital
+2. University Of Toledo Medical Center
+	3000 Arlington Avenue Toledo 43699 (CMS:yes)
+	2.38 The University of Toledo Health Science Campus
+	3000 Arlington Toledo 43614
+3. Mental Health Services For Clark And Madison Cos
+	474 North Yellow Springs Street Springfield 45504 (CMS:no)
+	2.09 Springfield Regional Medical Center
+	100 Medical Center Drive Springfield 45504
+4. Uhhs Richmond Heights Hospital
+	27100 Chardon Road Richmond Heights 44143 (CMS:yes)
+	2.24 University Hospitals Richmond Medical Center
+	27100 Chardon Road Cleveland 44143
+5. Generations Behavioral Health - Geneva
+	60 West Street Geneva 44041 (CMS:no)
+	2.71 University Hospitals Geneva Medical Center
+	870 West Main Street Geneva 44041
+6. 88Th Medical Group (Wright-Patterson Afb)
+	88 Mdg 4881 Sugar Maple Dr. Wright-Patterson Afb 45433 (CMS:yes)
+	2.35 Wright-Patterson Medical Center
+	4881 Sugar Maple Drive Wright-Patterson Air Force Base 45433
+7. Lodi Community Hospital
+	225 Elyria Street Lodi 44254 (CMS:yes)
+	2.51 Cleveland Clinic Akron General Lodi Hospital
+	225 Elyria Street Lodi 44212
+8. Dublin Springs
+	7625 Hospital Drive Dublin 43016 (CMS:no)
+	2.96 OhioHealth Dublin Methodist Hospital
+	7500 Hospital Drive Dublin 43016
+9. Access Hospital Dayton, Llc
+	2611 Wayne Avenue Dayton 45420 (CMS:no)
+	2.09 Miami Valley Hospital
+	1 Wyoming Street Dayton 45409
+10. Bay Park Community Hospital
+	2801 Bay Park Drive Oregon 43616 (CMS:yes)
+	1.19 ProMedica Toledo Hospital
+	2142 North Cove Boulevard Toledo 43606
+11. Southeastern Ohio Regional Medical Center
+	1341 North Clark Street Cambridge 43725 (CMS:yes)
+	3.05 Southeastern Med Hospital
+	1341 Clark Street Cambridge 43725
+12. Shriners Hospitals For Children - Cincinnati
+	3229 Burnett Avenue Cincinnati 45229 (CMS:no)
+	2.95 Shriners Hospital for Children
+	3239 Burnet Avenue Cincinnati 45229-3018
+13. Surgical Hospital At Southwoods
+	7630 Southern Blvd Youngstown 44512 (CMS:no)
+	2.82 Surgical Hospital At Southwoods
+	7630 Southern Boulevard Boardman 44512
+14. Sequel Pomegranate Health Systems Llc
+	765 Pierce Drive Columbus 43223 (CMS:no)
+	1.88 OhioHealth Doctors Hospital
+	5100 West Broad Street Columbus 43228
+University Hospitals - Elyria Medical Center
+	630 East River Street Elyria 44035
+	 Emergency Mismatch (CMS:no)
+	University Hospitals Elyria Medical Center
+15. Lake Health
+	7590 Auburn Road Concord 44077 (CMS:yes)
+	2.43 TriPoint Medical Center
+	7590 Auburn Road Concord Township 44077
+16. Parma Community General Hospital
+	7007 Powers Boulevard Parma 44129 (CMS:no)
+	2.17 University Hospitals Parma Medical Center
+	7007 Powers Boulevard Cleveland 44129
+17. Atrium Medical Center
+	One Medical Center Drive Franklin 45005 (CMS:yes)
+	2.85 Atrium Medical Center
+	1 Medical Center Drive Middletown 45005
+18. Arrowhead Behavioral Health
+	1725 Timber Line Road Maumee 43537 (CMS:no)
+	2.25 St Luke's Medical Park
+	5901 Monclova Road Maumee 43537
+19. Ohio Hospital For Psychiatry
+	880 Greenlawn Avenue Columbus 43223 (CMS:no)
+	2.18 University Hospital East
+	181 Taylor Avenue Columbus 43203
+Euclid Hospital
+	18901 Lakeshore Boulevard Euclid 44119
+	 Emergency Mismatch (CMS:no)
+	Euclid Hospital
+20. Generations Behavioral Health-Youngstown Llc
+	196 Colonial Drive Youngstown 44504 (CMS:no)
+	2.03 Saint Elizabeth Youngstown Hospital
+	1044 Belmont Avenue Youngstown 44501
+21. The Jewish Hospital-Mercy Health
+	4777 East Galbraith Road Cincinnati 45236 (CMS:no)
+	2.28 Daniel Drake Center
+	151 West Galbraith Road Cincinnati 45216
+22. Twin Valley Behavioral Healthcare
+	2200 West Broad Street Columbus 43223 (CMS:yes)
+	2.60 OhioHealth Doctors Hospital
+	5100 West Broad Street Columbus 43228
+23. Mercy Health - Saint Charles Hospital
+	2600 Navarre Avenue Oregon 43616 (CMS:no)
+	1.33 Mercy Health — St. Anne Hospital
+	3404 West Sylvania Avenue Toledo 43623
+24. Woods At Parkside,The
+	349 Olde Ridenour Road Columbus 43230 (CMS:no)
+	1.85 Riverside Methodist Hospital
+	3535 Olentangy River Road Columbus 43214
+Galion Community Hospital
+	269 Portland Way South Galion 44833
+	 Emergency Mismatch (CMS:no)
+	Avita Galion Hospital
+25. Trihealth Evendale Hospital
+	3155 Glendale Milford Road Cincinnati 45241 (CMS:no)
+	2.22 Bethesda North Hospital
+	10500 Montgomery Road Cincinnati 45242
+26. Highland Springs
+	4199 Mill Pond Drive Beachwood 44122 (CMS:no)
+	2.25 Ahuja Medical Center
+	3999 Richmond Road Beachwood 44122
+27. Medina Hospital
+	1000 East Washington Street Medina 44256 (CMS:yes)
+	2.77 Cleveland Clinic Medina Hospital
+	1000 East Washington Street Medina 44212
+University Hospitals Samaritan Medical Center
+	1025 Center Street Ashland 44805
+	 Emergency Mismatch (CMS:no)
+	Samaritan Medical Center
+28. Cambridge Behavioral Hospital
+	66755 State Street Cambridge 43725 (CMS:yes)
+	2.46 Southeastern Med Hospital
+	1341 Clark Street Cambridge 43725
+29. Ridgeview Behavioral Hospital
+	17872 Lincoln Highway Middle Point 45863 (CMS:yes)
+	0.92 Avita Galion Hospital
+	269 Portland Way South Galion 44833
+30. Blueridge Vista Health And Wellness
+	5500 Verulam Avenue Cincinnati 45213 (CMS:no)
+	1.99 The Christ Hospital
+	2139 Auburn Avenue Cincinnati 45219
+31. Mh Saint Joseph Warren Hospital
+	667 Eastland Ave Se Warren 44481 (CMS:yes)
+	2.94 Mercy Health Saint Joseph Warren Hospital
+	677 Eastland Avenue Southeast Warren 44484
+32. Assurance Health Cincinnati Llc
+	11690 Grooms Road Cincinnati 45242 (CMS:yes)
+	2.47 Bethesda North Hospital
+	10500 Montgomery Road Cincinnati 45242
+33. Adena Pike Medical Center
+	100 Dawn Lane Waverly 45690 (CMS:yes)
+	3.02 Adena Pike Medical Center
+	100 Dawn Lane Jackson 45690
+34. Harrison Community Hospital
+	951 East Market Street Cadiz 43907 (CMS:yes)
+	1.64 Belmont Community Hospital
+	4697 Harrison Street Bellaire 43906
+35. Ten Lakes Center, Llc
+	819 North First Street, 3Rd Floor Dennison 44621 (CMS:no)
+	2.56 Trinity Hospital Twin City
+	819 North 1st Street Dennison 44621
+Mercer County Joint Township Community Hospital
+	800 West Main Street Coldwater 45828
+	 Emergency Mismatch (CMS:no)
+	Mercer Health
+36. Kings Daughters Medical Center Ohio
+	1901 Argonne Road Portsmouth 45662 (CMS:yes)
+	3.10 King's Daughters Medical Center Ohio
+	2001 Scioto Trail Portsmouth 45662
+37. Haven Behavioral Hospital Of Dayton
+	One Elizabeth Place, E3 Suite A Dayton 45417 (CMS:no)
+	2.50 Medical Center at Elizabeth Place
+	1 Elizabeth Place Dayton 45417
+Lima Memorial Health System
+	1001 Bellefontaine Avenue Lima 45804
+	 Emergency Mismatch (CMS:no)
+	Lima Memorial Hospital
+Mercy Health - Clermont Hospital
+	3000 Hospital Drive Batavia 45103
+	 Emergency Mismatch (CMS:no)
+	Mercy Health – Clermont Hospital
+38. Clear Vista Health & Wellness
+	3364 Kolbe Road Lorain 44053 (CMS:no)
+	2.70 Mercy Regional Medical Center
+	3700 Kolbe Road Lorain 44053
+39. Ohio Valley Surgical Hospital
+	100 West Main Street Springfield 45502 (CMS:no)
+	1.89 Springfield Regional Medical Center
+	100 Medical Center Drive Springfield 45504
+40. Sun Behavioral Columbus
+	900 East Dublin Granville Road Columbus 43229 (CMS:no)
+	1.92 OhioHealth Doctors Hospital
+	5100 West Broad Street Columbus 43228
+41. Lindner Center Of Hope
+	4075 Old Western Row Road Mason 45040 (CMS:no)
+	1.50 Holzer Medical Center - Jackson
+	500 Burlington Road Jackson 45640
+42. Rainbow Babies And Childrens Hospital
+	11100 Euclid Avenue Cleveland 44106 (CMS:yes)
+	3.07 University Hospitals Cleveland Medical Center
+	11100 Euclid Avenue Cleveland 44106
+43. Sojourn At Seneca
+	50 St Lawrence Drive Tiffin 44883 (CMS:no)
+	2.73 Mercy Health - Tiffin Hospital
+	42 Saint Lawrence Drive Tiffin 44883
+44. Heartland Behavioral Healthcare
+	3000 Erie Sw Massillon 44648 (CMS:no)
+	3.06 Heartland Behavioral Healthcare
+	3000 Erie Street South Massillon 44646
+45. University Hospitals Portage Medical Center
+	6847 N Chestnut Ravenna 44266 (CMS:yes)
+	2.99 Portage Medical Center
+	6847 North Chestnut Street Ravenna 44266
+Southern Ohio Medical Center
+	1805 27th Street Portsmouth 45662
+	 Emergency Mismatch (CMS:no)
+	Southern Ohio Medical Center
+46. Beckett Springs
+	8614 Shepherd Farm Drive West Chester 45069 (CMS:no)
+	2.27 West Chester Hospital
+	7700 University Drive West Chester 45069
+47. Ohio State University Hospitals
+	410 West 10Th Avenue Columbus 43210 (CMS:yes)
+	3.04 Wexner Medical Center at The Ohio State University
+	410 West Tenth Avenue Columbus 43210
+Northwest Ohio Psychiatric Hospital
+	930 South Detroit Avenue Toledo 43614
+	 Emergency Mismatch (CMS:yes)
+	Northwest Ohio Psychiatric Hospital
+Found 47 issues.
 
 Unmatched emergency=yes
 Mercy Health Sylvania Medical Center (0.00)
@@ -12,116 +244,29 @@ Unmatched emergency=yes
 Preble County Medical Center (0.00)
 	450 Washington Jackson Road Eaton 45320
 Unmatched emergency=yes
-Riverside Methodist Hospital (0.00)
-	3535 Olentangy River Road Columbus 43214
-Unmatched emergency=yes
-Grant Medical Center (0.00)
-	111 South Grant Avenue Columbus 43215
-Unmatched emergency=yes
 The Jewish Hospital (0.00)
 	4777 East Galbraith Road Cleveland 44106
-Unmatched emergency=yes
-Bethesda North Hospital (0.00)
-	10500 Montgomery Road Cincinnati 45242
 Unmatched emergency=yes
 Mercy Health — Queen City Medical Center (0.00)
 	3131 Queen City Avenue Cincinnati 45238
 Unmatched emergency=yes
-University of Cincinnati Medical Center (0.00)
-	234 Goodman Street Cincinnati 45219-2364
-Unmatched emergency=yes
-Good Samaritan Hospital (0.00)
-	375 Dixmyth Avenue Cincinnati 45220
-Unmatched emergency=yes
-Mercy Health – Fairfield Hospital (0.00)
-	3000 Mack Road Fairfield 45014
-Unmatched emergency=yes
-The Christ Hospital (0.00)
-	2139 Auburn Avenue Cincinnati 45219
-Unmatched emergency=yes
-Cincinnati Children’s Hospital Medical Center (0.00)
-	3333 Burnet Avenue Cincinnati 45229-3026
-Unmatched emergency=yes
-OhioHealth Doctors Hospital (0.00)
-	5100 West Broad Street Columbus 43228
-Unmatched emergency=yes
-Aultman Hospital (0.00)
-	2600 6th Street Southwest Canton 44710
-Unmatched emergency=yes
-Mercy Health – Clermont Hospital (0.00)
-	3000 Hospital Drive Batavia 45103
-Unmatched emergency=yes
 Bethesda Arrow Springs (0.00)
 	100 Arrow Springs Boulevard Lebanon 45036
 Unmatched emergency=yes
-West Chester Hospital (0.00)
-	7700 University Drive West Chester 45069
-Unmatched emergency=yes
-Atrium Medical Center (0.00)
+Atrium Medical Center (2.85)
 	1 Medical Center Drive Middletown 45005
-Unmatched emergency=yes
-Miami Valley Hospital (0.00)
-	1 Wyoming Street Dayton 45409
-Unmatched emergency=yes
-Grandview Medical Center (0.00)
-	405 West Grand Avenue Dayton 45405
-Unmatched emergency=yes
-Urbana Hospital (0.00)
-	904 Scioto Street Urbana 43078
 Unmatched emergency=yes
 Miami Valley Hospital North (0.00)
 	9000 North Main Street Dayton 45415
 Unmatched emergency=yes
-Wilson Health (0.00)
-	915 West Michigan Street Sidney 45365
-Unmatched emergency=yes
-Upper Valley Medical Center (0.00)
-	3130 North County Road 25-A Troy 45373
-Unmatched emergency=yes
-Wright-Patterson Medical Center (0.00)
+Wright-Patterson Medical Center (2.35)
 	4881 Sugar Maple Drive Wright-Patterson Air Force Base 45433
-Unmatched emergency=yes
-Greene Memorial Hospital (0.00)
-	1141 North Monroe Drive Xenia 45385
-Unmatched emergency=yes
-Springfield Regional Medical Center (0.00)
-	100 Medical Center Drive Springfield 45504
-Unmatched emergency=yes
-Berger Hospital (0.00)
-	600 North Pickaway Street Circleville 43113
 Unmatched emergency=yes
 Mercy Health – Rookwood Medical Center (0.00)
 	4101 Edwards Road Cincinnati 45209
 Unmatched emergency=yes
-Soin Medical Center (0.00)
-	3535 Pentagon Boulevard Beavercreek 45431
-Unmatched emergency=yes
-Bluffton Hospital (0.00)
-	139 Garau Street Bluffton 45817
-Unmatched emergency=yes
-Madison Health (0.00)
-	210 North Main Street London 43140
-Unmatched emergency=yes
-Wood County Hospital (0.00)
-	950 West Wooster Street Bowling Green 43402
-Unmatched emergency=yes
-McCullough-Hyde Memorial Hospital (0.00)
-	110 North Poplar Street Oxford 45056
-Unmatched emergency=yes
 Cincinnati VA Medical Center (0.00)
 	3200 Vine Street Cincinnati 45220
-Unmatched emergency=yes
-Memorial Hospital (0.00)
-	500 London Avenue Marysville 43040
-Unmatched emergency=yes
-Sycamore Medical Center (0.00)
-	4000 Miamisburg-Centreville Road Miamisburg 45342
-Unmatched emergency=yes
-Dayton Children’s Hospital (0.00)
-	1 Children's Plaza Dayton 45404
-Unmatched emergency=yes
-Mercy Health – West Hospital (0.00)
-	3300 Mercy Health Boulevard Cincinnati 45211
 Unmatched emergency=yes
 Miami Valley Hospital South (0.00)
 	2400 Miami Valley Drive Centerville 45459
@@ -129,101 +274,23 @@ Unmatched emergency=yes
 Cincinnati Children’s Liberty Campus (0.00)
 	7777 Yankee Road Liberty Township 45044
 Unmatched emergency=yes
-Mary Rutan Hospital (0.00)
-	205 East Palmer Road Bellefontaine 43311
-Unmatched emergency=yes
-Marion General Hospital (0.00)
-	1000 McKinley Park Drive Marion 43302
-Unmatched emergency=yes
-Fort Hamilton Hospital (0.00)
-	630 Eaton Avenue Hamilton 45013
-Unmatched emergency=yes
-Genesis HealthCare System (0.00)
-	2951 Maple Avenue Zanesville 43701
-Unmatched emergency=yes
-South Pointe Hospital (0.00)
-	20050 Harvard Road Warrensville Heights 44122
-Unmatched emergency=yes
-Hocking Valley Community Hospital (0.00)
-	601 State Route 664 North Logan 43138
-Unmatched emergency=yes
-Mercy Health - Tiffin Hospital (0.00)
-	42 Saint Lawrence Drive Tiffin 44883
-Unmatched emergency=yes
-Southern Ohio Medical Center (0.00)
-	1805 27th Street Portsmouth 45662
-Unmatched emergency=yes
-Grady Memorial Hospital (0.00)
-	561 West Central Avenue Delaware 43015
-Unmatched emergency=yes
 Southview Medical Center (0.00)
 	1997 Miamisburg Centerville Road Centerville 45459
 Unmatched emergency=yes
 Akron Children's Hospital Mahoning Valley (0.00)
 	6505 Market Street Boardman 44512
 Unmatched emergency=yes
-Saint Elizabeth Boardman Hospital (0.00)
-	8401 Market Street Boardman 44512
-Unmatched emergency=yes
-OhioHealth Mansfield Hospital (0.00)
-	335 Glessner Avenue Mansfield 44907
-Unmatched emergency=yes
-Anderson Hospital (0.00)
-	7500 State Road Cincinnati 45255
-Unmatched emergency=yes
-Hardin Memorial Hospital (0.00)
-	921 East Franklin Street Kenton 43326
-Unmatched emergency=yes
-Wexner Medical Center at The Ohio State University (0.00)
+Wexner Medical Center at The Ohio State University (3.04)
 	410 West Tenth Avenue Columbus 43210
 Unmatched emergency=yes
-Promedica Defiance Regional Hospital (0.00)
-	1200 Ralston Avenue Defiance 43512
-Unmatched emergency=yes
-TriPoint Medical Center (0.00)
+TriPoint Medical Center (2.43)
 	7590 Auburn Road Concord Township 44077
 Unmatched emergency=yes
-Fostoria Community Hospital (0.00)
-	301 Van Buren Street Fostoria City 44830
-Unmatched emergency=yes
-Cleveland Clinic (0.00)
-	9500 Euclid Avenue Cleveland 44195
-Unmatched emergency=yes
-Magruder Hospital (0.00)
-	615 Fulton Street Port Clinton 43452
-Unmatched emergency=yes
-St. Vincent Charity Medical Center (0.00)
-	2351 East 22nd Street Cleveland 44115
-Unmatched emergency=yes
-Avita Galion Hospital (0.00)
-	269 Portland Way South Galion 44833
-Unmatched emergency=yes
-University Hospital East (0.00)
+University Hospital East (2.18)
 	181 Taylor Avenue Columbus 43203
-Unmatched emergency=yes
-Lima Memorial Hospital (0.00)
-	1001 Bellefontaine Avenue Lima 45804
 Unmatched emergency=yes
 University Hospitals Kent Health Center (0.00)
 	401 Devon Place Kent 44240
-Unmatched emergency=yes
-University Hospitals Elyria Medical Center (0.00)
-	630 East River Street Elyria 44035
-Unmatched emergency=yes
-Paulding County Hospital (0.00)
-	1035 West Wayne Street Paulding 45879
-Unmatched emergency=yes
-Lutheran Hospital (0.00)
-	1730 West 25th Street Cleveland 44113
-Unmatched emergency=yes
-University Hospitals Cleveland Medical Center (0.00)
-	11100 Euclid Avenue Cleveland 44106
-Unmatched emergency=yes
-Mercy Regional Medical Center (0.00)
-	3700 Kolbe Road Lorain 44053
-Unmatched emergency=yes
-Cleveland Clinic Richard E. Jacobs Health Center (0.00)
-	33100 Cleveland Clinic Boulevard Avon 44011
 Unmatched emergency=yes
 MetroHealth Cleveland Heights Medical Center (0.00)
 	10 Severance Circle Cleveland Heights 44118
@@ -231,77 +298,23 @@ Unmatched emergency=yes
 Louis Stokes Cleveland VA Medical Center (0.00)
 	10701 East Boulevard Cleveland 44106
 Unmatched emergency=yes
-Highland District Hospital (0.00)
-	1274 North High Street Hillsboro 45133
-Unmatched emergency=yes
-Cleveland Clinic Akron General Lodi Hospital (0.00)
+Cleveland Clinic Akron General Lodi Hospital (2.51)
 	225 Elyria Street Lodi 44212
 Unmatched emergency=yes
-Mercy Saint Vincent Medical Center (0.00)
-	2213 Cherry Street Toledo 43608
-Unmatched emergency=yes
-ProMedica Toledo Hospital (0.00)
-	2142 North Cove Boulevard Toledo 43606
-Unmatched emergency=yes
-Avita Bucyrus Hospital (0.00)
-	629 North Sandusky Avenue Bucyrus 44820
-Unmatched emergency=yes
-Portage Medical Center (0.00)
+Portage Medical Center (2.99)
 	6847 North Chestnut Street Ravenna 44266
-Unmatched emergency=yes
-Southwest General Health Center (0.00)
-	18697 Bagley Road Middleburg Heights 44130
-Unmatched emergency=yes
-Marietta Memorial Hospital (0.00)
-	401 Matthew Street Marietta 45750
-Unmatched emergency=yes
-Memorial Hospital (0.00)
-	715 South Taft Avenue Fremont 43420
-Unmatched emergency=yes
-Western Reserve Hospital (0.00)
-	1900 23rd Street Cuyahoga Falls 44223
 Unmatched emergency=yes
 Summa Health System – Barberton Campus (0.00)
 	115 5th Street Northeast Barberton 44203
 Unmatched emergency=yes
-Grand Lake Health System (0.00)
-	200 Saint Clair Street Saint Marys 45885
-Unmatched emergency=yes
 Summa Health Wadsworth-Rittman Medical Center (0.00)
 	195 Wadsworth Road Wadsworth 44281
-Unmatched emergency=yes
-Saint Rita Hospital (0.00)
-	730 West Market Street Lima 45801
-Unmatched emergency=yes
-Akron Children's Hospital (0.00)
-	1 Perkins Square Akron 44308
-Unmatched emergency=yes
-Saint Elizabeth Youngstown Hospital (0.00)
-	1044 Belmont Avenue Youngstown 44501
 Unmatched emergency=yes
 Northside Medical Center (0.00)
 	500 Gypsy Lane Youngstown 44501
 Unmatched emergency=yes
-Mount Carmel Saint Ann's Hospital (0.00)
-	500 South Cleveland Avenue Westerville 43081
-Unmatched emergency=yes
-Fisher-Titus Medical Center (0.00)
-	272 Benedict Avenue Norwalk 44857
-Unmatched emergency=yes
-Cleveland Clinic Medina Hospital (0.00)
+Cleveland Clinic Medina Hospital (2.77)
 	1000 East Washington Street Medina 44212
-Unmatched emergency=yes
-Diley Ridge Medical Center (0.00)
-	7911 Diley Road Canal Winchester 43111
-Unmatched emergency=yes
-Morrow County Hospital (0.00)
-	651 West Marion Street Mount Gilead 43338
-Unmatched emergency=yes
-Pomerene Hospital (0.00)
-	981 Wooster Road Millersburg 44654
-Unmatched emergency=yes
-OhioHealth Dublin Methodist Hospital (0.00)
-	7500 Hospital Drive Dublin 43016
 Unmatched emergency=yes
 Mount Carmel East Hospital (0.00)
 	6001 East Broad Street Columbus 43213
@@ -309,23 +322,8 @@ Unmatched emergency=yes
 Cleveland Clinic Brunswick Family Health Center (0.00)
 	3574 Center Road Brunswick 44212
 Unmatched emergency=yes
-Adena Regional Medical Center (0.00)
-	272 Hospital Road Chillicothe 45601
-Unmatched emergency=yes
-Community Memorial Hospital (0.00)
-	208 North Columbus Street Hicksville 43526
-Unmatched emergency=yes
 Saint Mary's Medical Center - Ironton Campus (0.00)
 	1408 Campbell Drive Ironton 45638
-Unmatched emergency=yes
-Euclid Hospital (0.00)
-	18901 Lakeshore Boulevard Euclid 44119
-Unmatched emergency=yes
-Wyandot Memorial Hospital (0.00)
-	885 North Sandusky Avenue Upper Sandusky 43351
-Unmatched emergency=yes
-Samaritan Medical Center (0.00)
-	1025 Center Street Ashland 44805
 Unmatched emergency=yes
 Robinson Urgent Care (0.00)
 	9318 Cleve E Liverpool Road Streetsboro 44241
@@ -333,23 +331,8 @@ Unmatched emergency=yes
 MetroHealth Parma Medical Office (0.00)
 	12031 Snow Road Parma 44130
 Unmatched emergency=yes
-MetroHealth Medical Center (0.00)
-	2500 MetroHealth Drive Cleveland 44109
-Unmatched emergency=yes
-Cleveland Clinic Akron General (0.00)
-	1 Akron General Avenue Akron 44307
-Unmatched emergency=yes
-The Bellevue Hospital (0.00)
-	1400 West Main Street Bellevue 44811
-Unmatched emergency=yes
 Mercy Health - Perrysburg Medical Center (0.00)
 	12621 Eckel Junction Road Perrysburg 43551
-Unmatched emergency=yes
-Saint John Medical Center (0.00)
-	29000 Center Ridge Road Westlake 44145
-Unmatched emergency=yes
-Firelands Regional Medical Center (0.00)
-	1111 Hayes Avenue Sandusky 44870
 Unmatched emergency=yes
 University Hospitals Bedford Medical Center (0.00)
 	44 Blaine Avenue Bedford 44146
@@ -357,119 +340,32 @@ Unmatched emergency=yes
 Akron General Health & Wellness Center – North (0.00)
 	4300 Allen Road Stow 44224
 Unmatched emergency=yes
-Avita Ontario Hospital (0.00)
-	715 Richland Mall Ontario 44906
-Unmatched emergency=yes
-Mercy Health — St. Anne Hospital (0.00)
-	3404 West Sylvania Avenue Toledo 43623
-Unmatched emergency=yes
 Flower Hospital (0.00)
 	5200 Harroun Road Sylvania 43560
 Unmatched emergency=yes
-St Luke's Medical Park (0.00)
-	5901 Monclova Road Maumee 43537
-Unmatched emergency=yes
-Fulton County Health Center (0.00)
-	725 South Shoop Avenue Wauseon 43567
-Unmatched emergency=yes
-Kettering Medical Center (0.00)
-	3535 Southern Boulevard Kettering 45429
-Unmatched emergency=yes
-King's Daughters Medical Center Ohio (0.00)
+King's Daughters Medical Center Ohio (3.10)
 	2001 Scioto Trail Portsmouth 45662
 Unmatched emergency=yes
-Holzer Medical Center (0.00)
-	100 Jackson Pike Gallipolis 45631
-Unmatched emergency=yes
-Holzer Medical Center - Jackson (0.00)
-	500 Burlington Road Jackson 45640
-Unmatched emergency=yes
-Adena Pike Medical Center (0.00)
+Adena Pike Medical Center (3.02)
 	100 Dawn Lane Jackson 45690
-Unmatched emergency=yes
-Adams County Regional Medical Center (0.00)
-	230 Medical Center Drive Seaman 45679
 Unmatched emergency=yes
 Good Samaritan Hospital (0.00)
 	2222 Philadelphia Drive Dayton 45406
 Unmatched emergency=yes
-Wayne Healthcare (0.00)
-	835 Sweitzer Street Greenville 45331
-Unmatched emergency=yes
-Mercer Health (0.00)
-	800 West Main Street Coldwater 45828
-Unmatched emergency=yes
-Van Wert County Hospital (0.00)
-	1250 South Washington Street Van Wert 45891
-Unmatched emergency=yes
-Bryan Hospital (0.00)
-	433 West High Street Bryan 43506
-Unmatched emergency=yes
-Henry County Hospital (0.00)
-	1600 East Riverview Avenue Napoleon 43545
-Unmatched emergency=yes
-Clinton Memorial Hospital (0.00)
-	610 West Main Street Wilmington 45177
-Unmatched emergency=yes
-Adena Greenfield Medical Center (0.00)
-	550 Mirabeau Street Greenfield 45123
-Unmatched emergency=yes
-Fayette County Memorial Hospital (0.00)
-	1430 Columbus Avenue Washington Court House 43160
-Unmatched emergency=yes
-Fairfield Medical Center (0.00)
-	401 North Ewing Street Lancaster 43130
-Unmatched emergency=yes
-O’Bleness Hospital (0.00)
-	55 Hospital Drive Athens 45701
-Unmatched emergency=yes
-Selby General Hospital (0.00)
-	1106 Colegate Drive Marietta 45750
-Unmatched emergency=yes
-Barnesville Hospital (0.00)
-	639 West Main Street Barnesville 43713
-Unmatched emergency=yes
-Belmont Community Hospital (0.00)
+Belmont Community Hospital (1.64)
 	4697 Harrison Street Bellaire 43906
 Unmatched emergency=yes
 Trinity Medical Center West (0.00)
 	4000 Johnson Road Steubenville 43952
 Unmatched emergency=yes
-East Liverpool City Hospital (0.00)
-	425 West 5th Street East Liverpool 43920
-Unmatched emergency=yes
-Trumbull Regional Medical Center (0.00)
-	1350 East Market Street Warren 44482
-Unmatched emergency=yes
-Mercy Health Saint Joseph Warren Hospital (0.00)
+Mercy Health Saint Joseph Warren Hospital (2.94)
 	677 Eastland Avenue Southeast Warren 44484
-Unmatched emergency=yes
-Salem Regional Medical Center (0.00)
-	1995 East State Street Salem 44460
-Unmatched emergency=yes
-University Hospitals Conneaut Medical Center (0.00)
-	158 West Main Road Conneaut 44030
-Unmatched emergency=yes
-Ashtabula County Medical Center (0.00)
-	2420 Lake Avenue Ashtabula 44004
-Unmatched emergency=yes
-University Hospitals Geneva Medical Center (0.00)
-	870 West Main Street Geneva 44041
 Unmatched emergency=yes
 -- (0.00)
 	36000 Euclid Avenue Willoughby 44094
 Unmatched emergency=yes
-University Hospitals Richmond Medical Center (0.00)
+University Hospitals Richmond Medical Center (2.24)
 	27100 Chardon Road Cleveland 44143
-Unmatched emergency=yes
-Ahuja Medical Center (0.00)
-	3999 Richmond Road Beachwood 44122
-Unmatched emergency=yes
-Hillcrest Hospital (0.00)
-	6780 Mayfield Mayfield Heights 44124
-Unmatched emergency=yes
-Marymount Hospital (0.00)
-	12300 McCracken Road Garfield Heights 44125
 Unmatched emergency=yes
 University Hospitals Twinsburg Health Center (0.00)
 	8819 Commons Boulevard Twinsburg 44087
@@ -480,59 +376,17 @@ Unmatched emergency=yes
 Brunswick Medical Center (0.00)
 	4065 Center Road Brunswick 44212
 Unmatched emergency=yes
-Blanchard Valley Hospital (0.00)
-	1900 South Main Street Findlay 45840
-Unmatched emergency=yes
-Alliance Community Hospital (0.00)
-	200 East State Street Alliance 44601
-Unmatched emergency=yes
-Knox Community Hospital (0.00)
-	1330 Coshocton Road Mount Vernon 43050
-Unmatched emergency=yes
-Mercy Health Willard Hospital (0.00)
-	1100 Neal Zick Road Willard 44890
-Unmatched emergency=yes
-Mercy Allen Hospital (0.00)
-	200 West Lorain Street Oberlin 44074
-Unmatched emergency=yes
 University Hospitals Amherst Health Center (0.00)
 	254 Cleveland Avenue Amherst 44001
 Unmatched emergency=yes
-Fairview Hospital (0.00)
-	18101 Lorain Avenue Cleveland 44111
-Unmatched emergency=yes
-University Hospitals Parma Medical Center (0.00)
+University Hospitals Parma Medical Center (2.17)
 	7007 Powers Boulevard Cleveland 44129
-Unmatched emergency=yes
-Summa Health System – Akron Campus (0.00)
-	525 East Market Street Akron 44304
-Unmatched emergency=yes
-Mercy Medical Center (0.00)
-	1320 Mercy Drive Northwest Canton 44708
 Unmatched emergency=yes
 Affinity Medical Center (0.00)
 	875 8th Street Northeast Massillon 44646
 Unmatched emergency=yes
-Aultman Orrville Hospital (0.00)
-	832 South Main Street Orrville 44667
-Unmatched emergency=yes
-Wooster Community Hospital (0.00)
-	1761 Beall Avenue Wooster 44691
-Unmatched emergency=yes
-Union Hospital (0.00)
-	659 Boulevard Street Dover 44622
-Unmatched emergency=yes
-Trinity Hospital Twin City (0.00)
-	819 North 1st Street Dennison 44621
-Unmatched emergency=yes
-Coshocton Regional Medical Center (0.00)
-	1460 Orange Street Coshocton 43812
-Unmatched emergency=yes
-Southeastern Med Hospital (0.00)
+Southeastern Med Hospital (2.46)
 	1341 Clark Street Cambridge 43725
-Unmatched emergency=yes
-Licking Memorial Hospital (0.00)
-	1320 West Main Street Newark 43055
 Unmatched emergency=yes
 Pickerington Medical Campus (0.00)
 	1010 Refugee Road Pickerington 43147
@@ -543,28 +397,13 @@ Unmatched emergency=yes
 Dayton Children's South Campus (0.00)
 	3333 West Tech Road Miamisburg 45342
 Unmatched emergency=yes
-CHWC Montpelier Hospital (0.00)
-	909 East Snyder Avenue Montpelier 43543
-Unmatched emergency=yes
-East Ohio Regional Hospital (0.00)
-	90 North 4th Street Martins Ferry 43935
-Unmatched emergency=yes
-UH Geauga Medical Center (0.00)
-	13207 Ravenna Road Chardon 44024
-Unmatched emergency=yes
-Mercy Health — Defiance Hospital (0.00)
-	1404 East 2nd Street Defiance 43512
-Unmatched emergency=yes
-OhioHealth Shelby Hospital (0.00)
-	199 West Main Street Shelby 44875
-Unmatched emergency=yes
 Bethesda Butler Hospital (0.00)
 	- - - -
 Unmatched emergency=yes
 The Christ Hospital Medical Center – Liberty Township (0.00)
 	- - - -
 Unmatched emergency=yes
-The University of Toledo Health Science Campus (0.00)
+The University of Toledo Health Science Campus (2.38)
 	3000 Arlington Toledo 43614
 Unmatched emergency=yes
 Ridgeway Pavilion (0.00)
@@ -590,10 +429,4 @@ Mercy Health - Saint Charles Hospital (0.00)
 Unmatched emergency=yes
 ProMedica Bay Park Hospital (0.00)
 	- - - -
-Unmatched emergency=yes
-Mount Carmel West Campus (under construction) (0.00)
-	793 West State Street Columbus 43222
-Unmatched emergency=yes
-Nationwide Children's Hospital (0.00)
-	700 Children's Drive Columbus 43205
-Found 198 unmatched emergency.
+Found 65 unmatched emergency.

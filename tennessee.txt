@@ -1,10 +1,115 @@
 167 OSM hospitals
-0 Medicare hospitals
-Found 0 issues.
+118 Medicare hospitals
+1. Behavioral Healthcare Center At Memphis, Inc
+	1505 N Second Street Memphis 38107 (CMS:no)
+	1.99 Regional Medical Center
+	877 Jefferson Avenue Memphis 38103
+2. Tennova Healthcare-North Knoxville Medical Center
+	7565 Dannaher Way Powell Powell 37849 (CMS:yes)
+	1.33 Claiborne Medical Center
+	1850 Old Knoxville Road Tazewell 37879
+3. Southern Tennessee Regional Health System Lawrence
+	Hwy 43 S Box 847 Lawrenceburg 38464 (CMS:yes)
+	2.52 Southern Tennessee - Lawrenceburg
+	1604 South Locust Avenue Lawrenceburg 38464
+4. Erlanger Medical Center
+	975 E 3Rd St Chattanooga 37403 (CMS:yes)
+	2.95 Erlanger Health System
+	975 East 3rd Street Chattanooga 37403
+5. Middle Tn Mental Health Institute
+	221 Stewarts Ferry Pike Nashville 37214 (CMS:no)
+	1.82 TriStar Southern Hills Medical Center
+	391 Wallace Road Nashville 37211
+6. Rolling Hills Psychiatric Hospital
+	2014 Quail Hollow Circle Franklin 37067 (CMS:yes)
+	2.14 Williamson Medical Center
+	4321 Carothers Parkway Franklin 37067
+7. Oak Hills Behavioral Center
+	49 Old Hickory Blvd Jackson 38305 (CMS:no)
+	2.21 West Tennessee Healthcare North Hospital
+	367 Hospital Boulevard Jackson 38305
+8. Methodist Healthcare Memphis Hospitals
+	1265 Union Ave Suite 700 Memphis 38104 (CMS:yes)
+	3.08 Methodist Central Hospital
+	1265 Union Avenue Memphis 38104
+9. Northcrest Medical Center
+	100 Northcrest Drive Springfield 37172 (CMS:yes)
+	3.10 Northcrest Medical Center
+	100 Northcrest Drive Portland 37172
+10. Pathways Of Tennessee, Inc
+	238 Summar Dr Jackson 38301 (CMS:no)
+	2.24 Jackson-Madison County General Hospital
+	620 Skyline Drive Jackson 38301
+11. Memorial Healthcare System, Inc
+	2525 Desales Ave Chattanooga 37404 (CMS:yes)
+	3.05 CHI Memorial Hospital
+	2525 Desales Avenue Chattanooga 37404
+12. Unicoi County Hospital
+	2030 Temple Hill Road Erwin 37650 (CMS:yes)
+	2.78 Unicoi County Memorial Hospital
+	100 Greenway Circle Erwin 37650
+13. Ten Broeck Tennessee
+	1 Medical Center Blvd 5 West Cookeville 38501 (CMS:yes)
+	2.56 Cookeville Regional Medical Center
+	1 Medical Center Boulevard Cookeville 38501
+14. Ridgeview Psychiatric Hospital And Center
+	240 W Tyrone Rd Oak Ridge 37830 (CMS:no)
+	3.00 Ridgeview Behavioral Health Services
+	240 West Tyrone Road Oak Ridge 37830
+15. Erlanger Behavioral Hospital, Llc
+	804 North Holtzclaw Avenue Chattanooga 37404 (CMS:no)
+	2.48 HealthSouth Chattanooga Rehabilitation Hospital
+	2412 McCallie Avenue Chattanooga 37404
+16. Big South Fork Medical Center
+	18797 Alberta Street Oneida 37841 (CMS:yes)
+	1.33 Newport Medical Center
+	435 2nd Street Newport 37821
+17. Lakeside Behavioral Health System
+	2911 Brunswick Rd Memphis 38133 (CMS:no)
+	1.87 Regional Medical Center
+	877 Jefferson Avenue Memphis 38103
+18. Behavioral Healthcare Center At Columbia
+	1400 Rosewood Drive Columbia 38401 (CMS:yes)
+	2.53 Maury Regional Medical Center
+	1224 Trotwood Avenue Columbia 38401
+19. Morristown Hamblen Hospital Association
+	908 W 4Th North St Morristown 37814 (CMS:yes)
+	3.07 Morristown-Hamblen Healthcare System
+	908 West 4th North Street Morristown 37814
+Saint Thomas Hickman Hospital
+	135 East Swan Street Centerville 37033
+	 Emergency Mismatch (CMS:no)
+	Saint Thomas Hickman Hospital
+20. Crestwyn Behavioral Health
+	9485 Crestwyn Hills Cove Memphis 38125 (CMS:yes)
+	1.93 Baptist Memorial Hospital for Women
+	6225 Humphrey's Boulevard Memphis 38120
+21. Tennova Healthcare-Newport Medical Center
+	435 2Nd St Newport 37821 (CMS:yes)
+	3.05 Newport Medical Center
+	435 2nd Street Newport 37821
+22. Behavioral Healthcare Center At Clarksville
+	930 Professional Park Drive Clarksville 37040 (CMS:no)
+	2.50 Tennova Healthcare – Clarksville
+	651 Dunlop Lane Clarksville 37040
+23. Memphis Mental Health Institute
+	951 Court Avenue Memphis 38103 (CMS:yes)
+	2.45 Regional Medical Center
+	877 Jefferson Avenue Memphis 38103
+24. Henderson County Community Hospital
+	200 W Church St Lexington 38351 (CMS:yes)
+	1.40 Johnson County Community Hospital
+	1901 South Shady Street Mountain City 37683
+Behavioral Healthcare Center At Martin
+	458 Hannings Lane Martin 38237
+	 Emergency Mismatch (CMS:yes)
+	Behavioral Healthcare Center at Martin
+25. Starr Regional Medical Center Athens
+	1114 W Madison Ave Athens 37371 (CMS:yes)
+	2.89 Starr Regional Medical Center
+	1114 West Madison Avenue Athens 37303
+Found 25 issues.
 
-Unmatched emergency=yes
-Holston Valley Medical Center (0.00)
-	130 West Ravine Road kingsport 37660
 Unmatched emergency=yes
 TriStar Portland ER (0.00)
 	105 Red Bud Drive Portland 37148
@@ -24,55 +129,16 @@ Unmatched emergency=yes
 Spence and Becky Wilson Baptist Children's Hospital (0.00)
 	6225 Humphreys Boulevard Memphis 38120
 Unmatched emergency=yes
-Tristar Ashland City Medical Center (0.00)
-	313 North Main Street Ashland City 37015
-Unmatched emergency=yes
-Tennova Healthcare – Clarksville (0.00)
-	651 Dunlop Lane Clarksville 37040
-Unmatched emergency=yes
-University of Tennessee Medical Center (0.00)
-	1924 Alcoa Highway Knoxville 37920
-Unmatched emergency=yes
 James H. Quillen VA Medical Center (0.00)
 	- Mountain Home Johnson City 37684
-Unmatched emergency=yes
-Maury Regional Medical Center (0.00)
-	1224 Trotwood Avenue Columbia 38401
-Unmatched emergency=yes
-Lincoln Medical Center (0.00)
-	106 Medical Center Boulevard Fayetteville 37334
-Unmatched emergency=yes
-TriStar Hendersonville (0.00)
-	355 New Shackle Island Road Hendersonville 37075
-Unmatched emergency=yes
-Laughlin Memorial Hospital (0.00)
-	1420 Tusculum Boulevard Greeneville 37745
 Unmatched emergency=yes
 Colonel Florence A Blanchfield Army Community Hospital (0.00)
 	650 Joel Drive Fort Campbell 42223
 Unmatched emergency=yes
-Henry County Medical Center (0.00)
-	301 Tyson Avenue Paris 38242
-Unmatched emergency=yes
-Three Rivers Hospital (0.00)
-	451 Highway 13 South Waverly 37185
-Unmatched emergency=yes
-Rhea Medical Center (0.00)
-	9400 Rhea County Highway Dayton 37321
-Unmatched emergency=yes
-Blount Memorial Hospital (0.00)
-	907 East Lamar Alexander Parkway Maryville 37804
-Unmatched emergency=yes
-Methodist Medical Center of Oak Ridge (0.00)
-	990 Oak Ridge Turnpike Oak Ridge 37831
-Unmatched emergency=yes
-Southern Tennessee - Lawrenceburg (0.00)
+Southern Tennessee - Lawrenceburg (2.52)
 	1604 South Locust Avenue Lawrenceburg 38464
 Unmatched emergency=yes
-Vanderbilt University Medical Center (0.00)
-	1211 Medical Center Drive Nashville 37232
-Unmatched emergency=yes
-Methodist Central Hospital (0.00)
+Methodist Central Hospital (3.08)
 	1265 Union Avenue Memphis 38104
 Unmatched emergency=yes
 Le Bonheur Children's Hospital (0.00)
@@ -81,163 +147,46 @@ Unmatched emergency=yes
 Memphis VA Medical Center (0.00)
 	1030 Jefferson Avenue Memphis 38104
 Unmatched emergency=yes
-Regional Medical Center (0.00)
-	877 Jefferson Avenue Memphis 38103
-Unmatched emergency=yes
 Methodist South Hospital (0.00)
 	1300 Wesley Drive Memphis 38116
 Unmatched emergency=yes
 Methodist North Hospital (0.00)
 	3960 New Covington Pike Memphis 38128
 Unmatched emergency=yes
-Delta Medical Center (0.00)
-	3000 Getwell Road Memphis 38118
-Unmatched emergency=yes
-Saint Francis Hospital (0.00)
-	5959 Park Avenue Memphis 38119
-Unmatched emergency=yes
-Baptist Memorial Hospital-Memphis (0.00)
-	6019 Walnut Grove Road Memphis 38120
-Unmatched emergency=yes
 Methodist Le Bonheur Germantown Hospital (0.00)
 	7691 Poplar Avenue Germantown 38138
 Unmatched emergency=yes
-Saint Francis Hospital - Bartlett (0.00)
-	2896 Kate Bond Road Bartlett 38133
-Unmatched emergency=yes
-Baptist Memorial Hospital - Tipton (0.00)
-	1995 Highway 51 South Covington 38019
-Unmatched emergency=yes
-Lauderdale Community Hospital (0.00)
-	326 Asbury Avenue Ripley 38063
-Unmatched emergency=yes
-Tennova Healthcare - Dyersburg Regional (0.00)
-	400 East Tickle Street Dyersburg 38024
-Unmatched emergency=yes
-Baptist Memorial Hospital - Union City (0.00)
-	1201 Bishop Street Union City 38261
-Unmatched emergency=yes
-West Tennessee Healthcare - Volunteer Martin (0.00)
-	161 Mount Pelia Road Martin 38237
-Unmatched emergency=yes
-Bolivar General Hospital (0.00)
-	650 Nuckolls Road Bolivar 38008
-Unmatched emergency=yes
-Jackson-Madison County General Hospital (0.00)
-	620 Skyline Drive Jackson 38301
-Unmatched emergency=yes
-Baptist Memorial Hospital (0.00)
-	631 R B Wilson Drive Huntingdon 38344
-Unmatched emergency=yes
-Camden General Hospital (0.00)
-	175 Hospital Drive Camden 38320
-Unmatched emergency=yes
-Decatur County General Hospital (0.00)
-	969 Tennessee Avenue South Parsons 38363
-Unmatched emergency=yes
-Wayne Medical Center (0.00)
-	103 J. V. Mangubat Drive Waynesboro 38485
-Unmatched emergency=yes
-Saint Thomas Hickman Hospital (0.00)
-	135 East Swan Street Centerville 37033
-Unmatched emergency=yes
-TriStar Horizon Medical Center (0.00)
-	111 Highway 70 East Dickson 37055
-Unmatched emergency=yes
-Houston County Community Hospital (0.00)
-	5001 East Main Street Erin 37061
-Unmatched emergency=yes
-Johnson County Community Hospital (0.00)
-	1901 South Shady Street Mountain City 37683
-Unmatched emergency=yes
-Bristol Regional Medical Center (0.00)
-	1 Medical Park Boulevard Bristol 37620
-Unmatched emergency=yes
-Indian Path Hospital (0.00)
-	2000 Brookside Drive Kingsport 37660
-Unmatched emergency=yes
-Sycamore Shoals Hospital (0.00)
-	1501 West Elk Avenue Elizabethton 37643
-Unmatched emergency=yes
-Johnson City Medical Center (0.00)
-	400 North State of Franklin Road Johnson City 37604
-Unmatched emergency=yes
-Unicoi County Memorial Hospital (0.00)
+Unicoi County Memorial Hospital (2.78)
 	100 Greenway Circle Erwin 37650
 Unmatched emergency=yes
 Takoma Regional Hospital (0.00)
 	401 Takoma Avenue Greeneville 37743
 Unmatched emergency=yes
-Hawkins County Memorial Hospital (0.00)
-	851 Locust Street Rogersville 37857
-Unmatched emergency=yes
-Hancock County Hospital (0.00)
-	1519 Main Street Sneedville 37869
-Unmatched emergency=yes
 Lakeway Regional Hospital (0.00)
 	726 McFarland Street Morristown 37814
 Unmatched emergency=yes
-Morristown-Hamblen Healthcare System (0.00)
+Morristown-Hamblen Healthcare System (3.07)
 	908 West 4th North Street Morristown 37814
-Unmatched emergency=yes
-Jefferson Memorial Hospital (0.00)
-	110 Hospital Drive Jefferson City 37760
-Unmatched emergency=yes
-Claiborne Medical Center (0.00)
-	1850 Old Knoxville Road Tazewell 37879
-Unmatched emergency=yes
-LeConte Medical Center (0.00)
-	742 Middle Creek Road Sevierville 37862
-Unmatched emergency=yes
-Parkwest Medical Center (0.00)
-	9352 Park West Boulevard Knoxville 37923
-Unmatched emergency=yes
-Fort Sanders Regional Medical Center (0.00)
-	1901 Clinch Avenue Knoxville 37916
-Unmatched emergency=yes
-East Tennessee Childrens Hospital (0.00)
-	2018 West Clinch Avenue Knoxville 37916
 Unmatched emergency=yes
 Physicians Regional Medical Center (0.00)
 	900 East Oak Hill Avenue Knoxville 37917
 Unmatched emergency=yes
-LaFollette Medical Center (0.00)
-	923 East Central Avenue LaFollette 37766
-Unmatched emergency=yes
-Jellico Community Hospital (0.00)
-	188 Hospital Lane Jellico 37762
-Unmatched emergency=yes
 Tennova Healthcare - Jamestown (0.00)
 	436 West Central Avenue Jamestown 38556
 Unmatched emergency=yes
-Cumberland Medical Center (0.00)
-	421 South Main Street Crossville 38555
-Unmatched emergency=yes
-Roane Medical Center (0.00)
-	8045 Roane Medical Center Drive Harriman 38748
-Unmatched emergency=yes
-Sweetwater Hospital (0.00)
-	304 Wright Street Sweetwater 37874
-Unmatched emergency=yes
-Starr Regional Medical Center (0.00)
+Starr Regional Medical Center (2.89)
 	1114 West Madison Avenue Athens 37303
 Unmatched emergency=yes
 Starr Regional Medical Center (0.00)
 	- - Etowah 37331
 Unmatched emergency=yes
-Tennova Healthcare - Cleveland (0.00)
-	2305 Chambliss Avenue Northwest Cleveland 37311
-Unmatched emergency=yes
 Erlanger East Hospital (0.00)
 	1751 Gunbarrel Road Chattanooga 37421
 Unmatched emergency=yes
-Parkridge Medical Center (0.00)
-	2333 McCallie Avenue Chattanooga 37404
-Unmatched emergency=yes
-CHI Memorial Hospital (0.00)
+CHI Memorial Hospital (3.05)
 	2525 Desales Avenue Chattanooga 37404
 Unmatched emergency=yes
-Erlanger Health System (0.00)
+Erlanger Health System (2.95)
 	975 East 3rd Street Chattanooga 37403
 Unmatched emergency=yes
 CHI Memorial Hospital Hixson (0.00)
@@ -246,123 +195,21 @@ Unmatched emergency=yes
 Southern Tennessee - Sewanee (0.00)
 	1260 University Avenue Sewanee 37375
 Unmatched emergency=yes
-Southern Tennessee - Winchester (0.00)
-	185 Hospital Road Winchester 37398
-Unmatched emergency=yes
-Southern Tennessee - Pulaski (0.00)
-	1265 East College Street Pulaski 38478
-Unmatched emergency=yes
-Marshall Medical Center (0.00)
-	1080 North Ellington Parkway Lewisburg 37091
-Unmatched emergency=yes
-Tennova Healthcare - Shelbyville (0.00)
-	2835 Highway 231 North Shelbyville 37160
-Unmatched emergency=yes
-Tennova Healthcare - Harton (0.00)
-	1801 North Jackson Street Tullahoma 37388
-Unmatched emergency=yes
-Unity Medical Center (0.00)
-	481 Interstate Drive Manchester 37355
-Unmatched emergency=yes
-Saint Thomas River Park Hospital (0.00)
-	1559 Sparta Street McMinnville 37110
-Unmatched emergency=yes
-Saint Thomas Stones River Hospital (0.00)
-	324 Doolittle Road Woodbury 37190
-Unmatched emergency=yes
-Saint Thomas DeKalb Hospital (0.00)
-	520 West Main Street Smithville 37166
-Unmatched emergency=yes
-Saint Thomas Highlands Hospital (0.00)
-	401 Sewell Drive Sparta 38583
-Unmatched emergency=yes
-Cookeville Regional Medical Center (0.00)
-	1 Medical Center Boulevard Cookeville 38501
-Unmatched emergency=yes
-Cumberland River Hospital (0.00)
-	100 Old Jefferson Street Celina 38551
-Unmatched emergency=yes
-Riverview Regional Medical Center (0.00)
-	158 Hospital Drive Carthage 37030
-Unmatched emergency=yes
-Trousdale Medical Center (0.00)
-	500 Church Street Hartsville 37074
-Unmatched emergency=yes
-Macon County General Hospital (0.00)
-	204 Medical Drive Lafayette 37083
-Unmatched emergency=yes
-Northcrest Medical Center (0.00)
+Northcrest Medical Center (3.10)
 	100 Northcrest Drive Portland 37172
-Unmatched emergency=yes
-Summer Regional Medical Center (0.00)
-	555 Hartsville Pike Gallatin 37066
-Unmatched emergency=yes
-Tennova Healthcare - Lebanon (0.00)
-	1411 West Baddour Parkway Lebanon 37087
-Unmatched emergency=yes
-Saint Thomas Rutherford Hospital (0.00)
-	1700 Medical Center Parkway Murfreesboro 37129
-Unmatched emergency=yes
-TriStar StoneCrest Medical Center (0.00)
-	200 Stonecrest Boulevard Smyrna 37167
-Unmatched emergency=yes
-Williamson Medical Center (0.00)
-	4321 Carothers Parkway Franklin 37067
-Unmatched emergency=yes
-TriStar Southern Hills Medical Center (0.00)
-	391 Wallace Road Nashville 37211
-Unmatched emergency=yes
-TriStar Summit Medical Center (0.00)
-	5655 Frist Boulevard Hermitage 37076
-Unmatched emergency=yes
-Tristar Skyline Medical Center (0.00)
-	3441 Dickerson Pike Nashville 37207
-Unmatched emergency=yes
-Nashville General Hospital (0.00)
-	1818 Albion Street Nashville 37208
 Unmatched emergency=yes
 Tennessee Valley Healthcare System - Nashville Campus (0.00)
 	1310 24th Avenue South Nashville 37212
 Unmatched emergency=yes
-TriStar Centennial Medical Center (0.00)
-	2300 Patterson Street Nashville 37203
-Unmatched emergency=yes
-Saint Thomas Midtown Hospital (0.00)
-	2000 Church Street Nashville 37236
-Unmatched emergency=yes
-Saint Thomas West Hospital (0.00)
-	4220 Harding Pike Nashville 37205
-Unmatched emergency=yes
-Perry Community Hospital (0.00)
-	2718 Squirrel Hollow Drive Linden 29605
-Unmatched emergency=yes
-Milan General Hospital (0.00)
-	4039 Highland Street Milan 38358
-Unmatched emergency=yes
-Hardin Medical Center (0.00)
-	935 Wayne Road Savannah 38372
-Unmatched emergency=yes
-Fort Loudoun Medical Center (0.00)
-	550 Fort Loudoun Medical Center Drive Lenoir City 37772
-Unmatched emergency=yes
-Newport Medical Center (0.00)
+Newport Medical Center (3.05)
 	435 2nd Street Newport 37821
 Unmatched emergency=yes
-Franklin Woods Community Hospital (0.00)
-	300 Med Tech Parkway Johnson City 37604
-Unmatched emergency=yes
-Livingston Regional Hospital (0.00)
-	315 Oak Street Livingston 38570
-Unmatched emergency=yes
-West Tennessee Healthcare North Hospital (0.00)
+West Tennessee Healthcare North Hospital (2.21)
 	367 Hospital Boulevard Jackson 38305
-Unmatched emergency=yes
-Erlanger Bledsoe Hospital (0.00)
-	71 Wheelertown Avenue Pikeville 37367
 Unmatched emergency=yes
 Parkridge East Hospital (0.00)
 	941 Spring Creek Road Chattanooga 37412
 Unmatched emergency=yes
 hospital (0.00)
 	- Peavine Road Crossville -
-Found 121 unmatched emergency.
+Found 34 unmatched emergency.

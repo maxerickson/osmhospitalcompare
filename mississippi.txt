@@ -1,133 +1,117 @@
 114 OSM hospitals
-0 Medicare hospitals
-Found 0 issues.
+102 Medicare hospitals
+1. 81Saint Medical Group (Keesler Afb)
+	81 Mdg 301 Fisher St. Suite 109 Biloxi 39530 (CMS:yes)
+	2.22 Merit Health Biloxi
+	150 Reynoir Street Biloxi 39530
+2. Och Regional Medical Center
+	400 Hospital Road /Mail Po Box 1506 Starkville 39759 (CMS:yes)
+	2.79 OCH Regional Medical Center
+	400 Hospital Road Starkville 39760
+Jasper General Hospital
+	15 South 6th Street Bay Springs 39422
+	 Emergency Mismatch (CMS:no)
+	Jasper General Hospital
+3. Ms State Hospital-Whitfield
+	3550 Highway 468 West Whitfield 39193 (CMS:yes)
+	2.92 Whitfield Medical Surgical Hospital
+	3550 Highway 468 Whitfield 39193
+4. Choctaw Health Center
+	Route 7 Box R50 Philadelphia 39350 (CMS:yes)
+	2.06 Neshoba County General Hospital
+	1001 Holland Avenue Philadelphia 39350
+Trace Regional Hosp And Swing Bed
+	1002 East Madison Street Houston 38851
+	 Emergency Mismatch (CMS:no)
+	Trace Regional Hospital
+Anderson Rmc South
+	1102 Constitution Avenue Meridian 39301
+	 Emergency Mismatch (CMS:yes)
+	Anderson Regional Medical Center - South
+5. Southwest Ms Regional Medical Center
+	215 Marion Av Box 1307 Mccomb 39649 (CMS:yes)
+	2.57 Southwest Mississippi Regional Medical Center
+	215 Marion Avenue McComb 39648
+6. Webster General Hospital/ Swing Bed
+	70 Medical Plaza Eupora 39744 (CMS:yes)
+	3.04 North Mississippi Medical Center-Eupora
+	70 Medical Plaza Eupora 39744
+7. Pontotoc Health Service Cah
+	176 South Main Street Pontotoc 38863 (CMS:yes)
+	3.06 North Mississippi Medical Center-Pontotoc
+	176 South Main Street Pontotoc 38863
+8. North Mississippi State Hospital
+	1937 Briar Ridge Rd Tupelo 38804 (CMS:no)
+	2.12 North Mississippi Medical Center
+	830 South Gloster Street Tupelo 38801
+9. Tallahatchie Critical Access Hospital
+	201 South Market St / Po Box 230 Charleston 38921 (CMS:yes)
+	3.05 Tallahatchie General Hospital
+	201 South Market Street Charleston 38921
+10. Quitman County Hospital Cah
+	340 Getwell Drive Marks 38646 (CMS:yes)
+	1.60 North Oak Regional Medical Center
+	401 Getwell Drive Senatobia 38668
+11. Tishomingo Health Services Inc
+	1777 Curtis Drive Iuka 38852 (CMS:yes)
+	3.06 North Mississippi Medical Center-Iuka
+	1777 Curtis Drive Iuka 38852
+12. Noxubee General Critical Access Hosp
+	78 Hospital Road Macon 39341 (CMS:yes)
+	3.08 Noxubee General Hospital
+	78 Hospital Road Macon 39431
+13. Mississippi Methodist Rehab Ctr
+	1350 E Woodrow Wilson Dr Jackson 39216 (CMS:no)
+	3.02 Methodist Rehabilitation Center
+	1350 East Woodrow Wilson Avenue Jackson 39216
+14. Holmes County Hospital And Clinics
+	239 Bowling Green Road Lexington 39095 (CMS:yes)
+	3.00 University of Mississippi Medical Center Holmes County
+	293 Bowling Green Road Lexington 39095
+Brentwood Behavioral Healthcare Of Ms
+	3531 Lakeland Drive Flowood 39232
+	 Emergency Mismatch (CMS:yes)
+	Brentwood Behavioral Healthcare of Mississippi
+15. North Mississippi Medical Center-Gilmore Amory
+	1105 Earl Frye Blvd Amory 38821 (CMS:yes)
+	2.94 Merit Health Gilmore Memorial
+	1105 Earl Frye Boulevard Amory 38821
+16. South Mississippi State Hospital
+	823 Highway 589 Purvis 39475 (CMS:no)
+	1.30 East Mississippi State Hospital
+	1818 College Drive Meridian 39307
+17. Forrest General Hospital
+	6051 Us Highway 49 Hattiesburg 39404 (CMS:yes)
+	2.97 Forrest General Hospital
+	6059 US 49 Hattiesburg 39401
+18. Baptist Memorial Hospital Golden Triangle Inc
+	2520 5Th Street N Columbus 39701 (CMS:yes)
+	3.05 Baptist Memorial Hospital-Golden Triangle
+	2520 North 5th Street Columbus 39705
+Yalobusha General Hospital
+	630 South Main Street Water Valley 38965
+	 Emergency Mismatch (CMS:no)
+	Yalobusha General Hospital
+Claiborne County Hospital
+	123 McComb Avenue Port Gibson 39150
+	 Emergency Mismatch (CMS:no)
+	Claiborne County Hospital
+Baptist Memorial Hospital Desoto
+	7601 Southcrest Parkway Southaven 38671
+	 Emergency Mismatch (CMS:no)
+	Baptist Memorial Hospital-DeSoto
+19. Gulfport Behavioral Health System
+	11150 Us Highway 49 North Gpt 39503 (CMS:no)
+	2.91 Gulfport Behavioral Health System
+	11150 Highway 49 Gulfport 39503
+Found 19 issues.
 
 Unmatched emergency=yes
-Simpson General Hospital (0.00)
-	1842 Simpson Highway 149 Mendenhall 39114
-Unmatched emergency=yes
-Alliance Healthcare System (0.00)
-	1430 Highway 4 East Holly Springs 38635
-Unmatched emergency=yes
-Merit Health Gilmore Memorial (0.00)
+Merit Health Gilmore Memorial (2.94)
 	1105 Earl Frye Boulevard Amory 38821
 Unmatched emergency=yes
-Baptist Memorial Hospital-DeSoto (0.00)
-	7601 Southcrest Parkway Southaven 38671
-Unmatched emergency=yes
-South Central Regional Medical Center (0.00)
-	1220 Jefferson Street Laurel 39440
-Unmatched emergency=yes
-Rush Foundation Hospital (0.00)
-	1314 19th Avenue Meridian 39301
-Unmatched emergency=yes
-Anderson Regional Medical Center - North (0.00)
-	2124 14th Street Meridian 39301
-Unmatched emergency=yes
-Lackey Memorial Hospital (0.00)
-	330 North Broad Street Forest 39074
-Unmatched emergency=yes
-Scott County Hospital (0.00)
-	317 Highway 13 South Morton 39117
-Unmatched emergency=yes
-Merit Health Rankin (0.00)
-	350 Crossgates Boulevard Brandon 39042
-Unmatched emergency=yes
-Merit Health River Oaks (0.00)
-	1030 River Oaks Drive Flowood 39232
-Unmatched emergency=yes
-University of Mississippi Medical Center (0.00)
-	2500 North State Street Jackson 39216
-Unmatched emergency=yes
-Saint Dominic Hospital (0.00)
-	969 Lakeland Drive Jackson 39216
-Unmatched emergency=yes
-Baptist Medical Center (0.00)
-	1225 North State Street Jackson 39202
-Unmatched emergency=yes
-Merit Health Central (0.00)
-	1850 Chadwick Drive Jackson 39204
-Unmatched emergency=yes
-Merit Health River Region (0.00)
-	2100 Highway 61 North Vicksburg 39183
-Unmatched emergency=yes
-Claiborne County Hospital (0.00)
-	123 McComb Avenue Port Gibson 39150
-Unmatched emergency=yes
-Merit Health Natchez (0.00)
-	54 Seargent Prentiss Drive Natchez 39120
-Unmatched emergency=yes
-Field Health System (0.00)
-	178 Highway 24 Centreville 39631
-Unmatched emergency=yes
-Franklin County Memorial Hospital (0.00)
-	40 Union Church Road Meadville 39653
-Unmatched emergency=yes
-Copiah County Medical Center (0.00)
-	27190 Highway 28 Hazlehurst 39083
-Unmatched emergency=yes
-King's Daughters Medical Center (0.00)
-	427 Highway 51 North Brookhaven 39601
-Unmatched emergency=yes
-Southwest Mississippi Regional Medical Center (0.00)
+Southwest Mississippi Regional Medical Center (2.57)
 	215 Marion Avenue McComb 39648
-Unmatched emergency=yes
-Walthall General Hospital (0.00)
-	1 Hospital Drive Tylertown 39667
-Unmatched emergency=yes
-Marion General Hospital (0.00)
-	1560 Sumrall Road Columbia 39429
-Unmatched emergency=yes
-Lawrence County Hospital (0.00)
-	1065 East Broad Street Monticello 39654
-Unmatched emergency=yes
-Jefferson Davis Community Hospital (0.00)
-	1102 Rose Street Prentiss 39474
-Unmatched emergency=yes
-Magee General Hospital (0.00)
-	300 3rd Avenue Southeast Magee 39111
-Unmatched emergency=yes
-Jasper General Hospital (0.00)
-	15 South 6th Street Bay Springs 39422
-Unmatched emergency=yes
-H. C. Watkins Memorial Hospital (0.00)
-	605 South Archusa Avenue Quitman 39355
-Unmatched emergency=yes
-Wayne General Hospital (0.00)
-	950 Matthew Drive Waynesboro 39367
-Unmatched emergency=yes
-Covington County Hospital (0.00)
-	701 South Holly Avenue Collins 39428
-Unmatched emergency=yes
-Perry County General Hospital (0.00)
-	206 Bay Avenue Richton 39476
-Unmatched emergency=yes
-Greene County Hospital (0.00)
-	1017 Jackson Avenue Leakesville 39451
-Unmatched emergency=yes
-George Regional Hospital (0.00)
-	589 Winter Street Lucedale 39452
-Unmatched emergency=yes
-Stone County Hospital (0.00)
-	1434 East Central Avenue Wiggins 39577
-Unmatched emergency=yes
-Pearl River County Hospital (0.00)
-	305 West Moody Street Poplarville 39470
-Unmatched emergency=yes
-Highland Community Hospital (0.00)
-	130 Highland Parkway Picayune 39466
-Unmatched emergency=yes
-Hancock Medical Center (0.00)
-	149 Drinkwater Boulevard Bay Saint Louis 39520
-Unmatched emergency=yes
-Memorial Hospital at Gulfport (0.00)
-	4500 13th Street Gulfport 39501
-Unmatched emergency=yes
-Garden Park Medical Center (0.00)
-	15200 Community Road Gulfport 39503
-Unmatched emergency=yes
-Merit Health Biloxi (0.00)
-	150 Reynoir Street Biloxi 39530
 Unmatched emergency=yes
 Keesler Medical Center (0.00)
 	301 Fisher Street Keesler Air Force Base 39534
@@ -135,141 +119,36 @@ Unmatched emergency=yes
 Ocean Springs Hospital (0.00)
 	3109 Bienville Boulevard Ocean Springs 39564
 Unmatched emergency=yes
-Singing River Hospital (0.00)
-	2809 Denny Avenue Pascagoula 39581
-Unmatched emergency=yes
-Laird Hospital (0.00)
-	25117 Highway 15 Union 39365
-Unmatched emergency=yes
-Neshoba County General Hospital (0.00)
-	1001 Holland Avenue Philadelphia 39350
-Unmatched emergency=yes
-Baptist Medical Center Leake (0.00)
-	1100 Highway 16 Carthage 39051
-Unmatched emergency=yes
-John C. Stennis Memorial Hospital (0.00)
-	14365 Highway 16 West De Kalb 39328
-Unmatched emergency=yes
-Noxubee General Hospital (0.00)
+Noxubee General Hospital (3.08)
 	78 Hospital Road Macon 39431
 Unmatched emergency=yes
-Baptist Memorial Hospital-Golden Triangle (0.00)
+Baptist Memorial Hospital-Golden Triangle (3.05)
 	2520 North 5th Street Columbus 39705
 Unmatched emergency=yes
-Winston Medical Center (0.00)
-	17550 East Main Street Louisville 39339
-Unmatched emergency=yes
-Choctaw Regional Medical Center (0.00)
-	8613 MS Highway 12 Ackerman 39735
-Unmatched emergency=yes
-North Mississippi Medical Center-Eupora (0.00)
+North Mississippi Medical Center-Eupora (3.04)
 	70 Medical Plaza Eupora 39744
 Unmatched emergency=yes
-OCH Regional Medical Center (0.00)
+OCH Regional Medical Center (2.79)
 	400 Hospital Road Starkville 39760
 Unmatched emergency=yes
-North Mississippi Medical Center-West Point (0.00)
-	150 Medical Center Drive West Point 39773
-Unmatched emergency=yes
-Pioneer Community Hospital of Aberdeen (0.00)
-	400 South Chestnut Street Aberdeen 39730
-Unmatched emergency=yes
-North Mississippi Medical Center-Iuka (0.00)
+North Mississippi Medical Center-Iuka (3.06)
 	1777 Curtis Drive Iuka 38852
 Unmatched emergency=yes
-Magnolia Regional Health Center (0.00)
-	611 Alcorn Drive Corinth 38834
-Unmatched emergency=yes
-Baptist Memorial Hospital - Booneville (0.00)
-	100 Hospital Street Booneville 38829
-Unmatched emergency=yes
-North Mississippi Medical Center (0.00)
-	830 South Gloster Street Tupelo 38801
-Unmatched emergency=yes
-Trace Regional Hospital (0.00)
-	1002 East Madison Street Houston 38851
-Unmatched emergency=yes
-North Mississippi Medical Center-Pontotoc (0.00)
+North Mississippi Medical Center-Pontotoc (3.06)
 	176 South Main Street Pontotoc 38863
 Unmatched emergency=yes
-Baptist Memorial Hospital-Union County (0.00)
-	200 Highway 30 West New Albany 38652
-Unmatched emergency=yes
-Tippah County Hospital (0.00)
-	1005 City Avenue North Ripley 38663
-Unmatched emergency=yes
-North Oak Regional Medical Center (0.00)
-	401 Getwell Drive Senatobia 38668
-Unmatched emergency=yes
-Merit Health Batesville (0.00)
-	303 Medical Center Drive Batesville 38606
-Unmatched emergency=yes
-Yalobusha General Hospital (0.00)
-	630 South Main Street Water Valley 38965
-Unmatched emergency=yes
-Tyler Holmes Memorial Hospital (0.00)
-	409 Tyler Holmes Drive Winona 38967
-Unmatched emergency=yes
-University of Mississippi Medical Center Grenada (0.00)
-	960 Avent Drive Grenada 38901
-Unmatched emergency=yes
-Tallahatchie General Hospital (0.00)
+Tallahatchie General Hospital (3.05)
 	201 South Market Street Charleston 38921
 Unmatched emergency=yes
-Merit Health Northwest Mississippi (0.00)
-	1970 Hospital Drive Clarksdale 38614
-Unmatched emergency=yes
-Bolivar Medical Center (0.00)
-	901 Highway 8 East Cleveland 38732
-Unmatched emergency=yes
-North Sunflower Medical Center (0.00)
-	840 North Oak Avenue Ruleville 38771
-Unmatched emergency=yes
-Greenwood-Leflore Hospital (0.00)
-	1401 River Road Greenwood 38930
-Unmatched emergency=yes
-South Sunflower County Hospital (0.00)
-	121 East Baker Street Indianola 38751
-Unmatched emergency=yes
-Delta Regional Medical Center (0.00)
-	1400 East Union Street Greenville 38703
-Unmatched emergency=yes
-Sharkey-Issaquena Community Hospital (0.00)
-	47 4th Street Rolling Fork 39159
-Unmatched emergency=yes
-Baptist Medical Center Yazoo (0.00)
-	823 Grand Avenue Yazoo City 39194
-Unmatched emergency=yes
-University of Mississippi Medical Center Holmes County (0.00)
+University of Mississippi Medical Center Holmes County (3.00)
 	293 Bowling Green Road Lexington 39095
-Unmatched emergency=yes
-Baptist Medical Center Attala (0.00)
-	220 Highway 12 West Kosciusko 39090
 Unmatched emergency=yes
 Gulf Coast Veterans Health Care System (0.00)
 	400 Veterans Avenue Biloxi 39531
 Unmatched emergency=yes
-Methodist Olive Branch Hospital (0.00)
-	4250 Bethel Road Olive Branch 38654
-Unmatched emergency=yes
-Baptist Memorial Hospital-North Mississippi (0.00)
-	1100 Belk Boulevard Oxford 38655
-Unmatched emergency=yes
-Merit Health Madison (0.00)
-	161 River Oaks Drive Canton 39046
-Unmatched emergency=yes
-Jefferson County Hospital (0.00)
-	870 Main Street Fayette 39069
-Unmatched emergency=yes
-Merit Health Wesley (0.00)
-	5001 Hardy Street Hattiesburg 39402
-Unmatched emergency=yes
 Choctaw Health Center (0.00)
 	210 Hospital Circle Choctaw 39350
 Unmatched emergency=yes
-Baptist Memorial Hospital-Calhoun (0.00)
-	140 Burke Calhoun City Road Calhoun City 38916
-Unmatched emergency=yes
-Forrest General Hospital (0.00)
+Forrest General Hospital (2.97)
 	6059 US 49 Hattiesburg 39401
-Found 90 unmatched emergency.
+Found 15 unmatched emergency.

@@ -1,13 +1,90 @@
 162 OSM hospitals
-0 Medicare hospitals
-Found 0 issues.
+91 Medicare hospitals
+1. Southwest Memorial Hospital
+	1311 N Mildred Rd Cortez 81321 (CMS:yes)
+	2.72 Southwest Memorial Hospital
+	1311 North Mildred Road Cortez -
+2. Foothills Hospital
+	4747 Arapahoe Avenue Boulder 80303 (CMS:yes)
+	1.11 Penrose Hospital
+	2222 North Nevada Avenue Colorado Springs 80907
+3. Peak View Behavioral Health
+	7353 Sisters Grove Colorado Springs 80923 (CMS:no)
+	1.96 Memorial Hospital North
+	4050 Briargate Parkway Colorado Springs 80920
+Orthocolorado Hospital At Saint Anthony Med Campus
+	11650 West 2nd Place Lakewood 80228
+	 Emergency Mismatch (CMS:yes)
+	OrthoColorado Hospital
+4. University Of Colorado Hospital Authority
+	12605 E 16Th Ave Aurora 80045 (CMS:yes)
+	2.61 Children's Hospital Colorado Anschutz Medical Campus, Aurora
+	13123 East 16th Avenue Aurora 80045
+National Jewish Health
+	1400 Jackson Street Denver 80206
+	 Emergency Mismatch (CMS:yes)
+	National Jewish Health
+Sedgwick County Memorial Hospital
+	900 Cedar Street Julesburg 80737
+	 Emergency Mismatch (CMS:no)
+	Sedgwick County Memorial Hospital
+5. Longs Peak Hospital
+	1750 East Ken Pratt Boulevard Longmont 80504 (CMS:yes)
+	2.19 Longmont United Hospital
+	1950 Mountain View Avenue Longmont 80501
+6. West Springs Hospital
+	515 28 3/4 Rd Grand Junction 81501 (CMS:no)
+	2.20 Saint Mary's Medical Center
+	2635 North 7th Street Grand Junction 81501
+7. Colorado Mental Health Institute At Fort Logan
+	3520 W Oxford Ave Denver 80236 (CMS:no)
+	2.00 Memory Care at The Gardens
+	10200 East Harvard Avenue Denver 80231
+8. Colorado Mental Health Institute At Pueblo-Psych
+	1600 W 24Th St Pueblo 81003 (CMS:yes)
+	2.38 Parkview Medical Center
+	400 West 16th Street Pueblo 81003
+9. Saint Vincent General Hospital District
+	822 W 4Th St Leadville 80461 (CMS:yes)
+	2.93 St Vincent Hospital
+	822 West 4th Street Leadville 80461
+10. Denver Springs
+	8835 American Way Englewood 80112 (CMS:no)
+	1.85 Craig Hospital
+	3425 South Clarkson Street Englewood 80113
+11. Centura Health-Penrose-Saint Francis Health Services
+	2222 North Nevada Ave Colorado Springs 80907 (CMS:yes)
+	2.98 Penrose Hospital
+	2222 North Nevada Avenue Colorado Springs 80907
+12. Vail Health Hospital
+	181 W Meadow Dr Vail 81657 (CMS:yes)
+	3.06 Vail Health Vail Campus
+	181 West Meadow Drive Vail 81657
+Saint Anthony Summit Medical Center
+	340 Peak One Drive Frisco 80443
+	 Emergency Mismatch (CMS:no)
+	Saint Anthony Summit Medical Center
+13. Cedar Springs Behavioral Health System
+	2135 Southgate Rd Colorado Springs 80906 (CMS:yes)
+	1.90 Memorial Hospital North
+	4050 Briargate Parkway Colorado Springs 80920
+14. Children's Hospital Colorado
+	13123 E 16Th Ave Aurora 80045 (CMS:yes)
+	3.03 Children's Hospital Colorado Anschutz Medical Campus, Aurora
+	13123 East 16th Avenue Aurora 80045
+15. Clear View Behavioral Health
+	4770 Larimer Pkwy Johnstown 80534 (CMS:no)
+	1.04 Highlands Behavioral Health
+	8565 South Poplar Way Littleton 80130
+16. Evans Ach (Fort Carson)
+	Fort Carson Meddac 1650 Cochrane Circle Fort Carson Fort Carson 80913 (CMS:yes)
+	2.46 Evans Army Community Hospital
+	1650 West Cochrane Circle Fort Carson 80913
+Found 16 issues.
 
 Unmatched emergency=yes
 University of Colorado Hospital (0.00)
 	12605 East 16th Avenue - 80045
-Unmatched emergency=yes
-Kit Carson County Memorial Hospital (0.00)
-	286 16th Street Burlington 80807
 Unmatched emergency=yes
 Concentra Urgent Care (0.00)
 	10355 East Iliff Avenue Denver 80247
@@ -21,12 +98,6 @@ Unmatched emergency=yes
 Denver Health Medical Emergency Center for Children (0.00)
 	777 Bannock Street Denver 80204
 Unmatched emergency=yes
-Delta Memorial Hospital (0.00)
-	1501 East 3rd Street Delta 81416
-Unmatched emergency=yes
-SCL Health Saint Joseph Hospital (0.00)
-	1375 East 19th Avenue Denver 80218
-Unmatched emergency=yes
 Founders Family Medicine and Urgent Care (0.00)
 	4386 Trail Boss Drive Castle Rock 80104
 Unmatched emergency=yes
@@ -36,23 +107,11 @@ Unmatched emergency=yes
 UCHealth Emergency Room (0.00)
 	9475 South University Boulevard Highlands Ranch 80126
 Unmatched emergency=yes
-Sky Ridge Medical Center (0.00)
-	10101 RidgeGate Parkway Lone Tree 80124
-Unmatched emergency=yes
-Saint Anthony Summit Medical Center (0.00)
-	340 Peak One Drive Frisco 80443
-Unmatched emergency=yes
-Parker Adventist Hospital (0.00)
-	9395 Crown Crest Boulevard Parker 80138
-Unmatched emergency=yes
 Saint Francis Medical Center (0.00)
 	6001 East Woodmen Road - 80923
 Unmatched emergency=yes
-Memorial Hospital North (0.00)
+Memorial Hospital North (1.90)
 	4050 Briargate Parkway Colorado Springs 80920
-Unmatched emergency=yes
-Platte Valley Medical Center (0.00)
-	1600 Prairie Center Parkway Brighton 80601
 Unmatched emergency=yes
 Telluride Regional Medical Center (0.00)
 	500 West Pacific Avenue Telluride 81435
@@ -66,47 +125,17 @@ Unmatched emergency=yes
 Platte Valley Medical Center (0.00)
 	1600 Prairie Center Parkway Brighton 80601
 Unmatched emergency=yes
-Keefe Memorial Hospital (0.00)
-	602 North 6th Street West Cheyenne Wells 80810
-Unmatched emergency=yes
-The Medical Center Of Aurora (0.00)
-	1501 South Potomac Street Aurora 80012
-Unmatched emergency=yes
-Porter Adventist Hospital (0.00)
-	2525 South Downing Street Denver 80210
-Unmatched emergency=yes
-Lutheran Medical Center (0.00)
-	8300 West 38th Avenue Wheat Ridge 80033
-Unmatched emergency=yes
 Children's Hospital Colorado Emergency Department (ED) (0.00)
 	13123 East 16th Avenue - 80045
 Unmatched emergency=yes
-Children's Hospital Colorado Anschutz Medical Campus, Aurora (0.00)
+Children's Hospital Colorado Anschutz Medical Campus, Aurora (3.03)
 	13123 East 16th Avenue Aurora 80045
 Unmatched emergency=yes
 Anschutz Inpatient Pavilion 2 & Emergency Department (University Hospital) (0.00)
 	12505 East 16th Avenue - 80045
 Unmatched emergency=yes
-Saint Mary's Medical Center (0.00)
-	2635 North 7th Street Grand Junction 81501
-Unmatched emergency=yes
-North Colorado Medical Center (0.00)
-	1801 16th Street Greeley 80631
-Unmatched emergency=yes
 Children's Hospital Colorado Uptown Denver (0.00)
 	1830 Franklin Street Denver 80218
-Unmatched emergency=yes
-Good Samaritan Medical Center (0.00)
-	200 Exempla Circle Lafayette 80026
-Unmatched emergency=yes
-Avista Adventist Campus (0.00)
-	100 Health Park Drive Louisville 80027
-Unmatched emergency=yes
-Saint Anthony North Health Campus (0.00)
-	14300 Orchard Parkway Westminster 80023
-Unmatched emergency=yes
-Colorado Plains Medical Center (0.00)
-	1000 Lincoln Street Fort Morgan 80701
 Unmatched emergency=yes
 Colorado Plains Medical Center (0.00)
 	1000 Lincoln Street Fort Morgan 80701
@@ -114,201 +143,42 @@ Unmatched emergency=yes
 Foothills Hospital (0.00)
 	- - - -
 Unmatched emergency=yes
-Sterling Regional MedCenter (0.00)
-	615 Fairhurst Street Sterling 80751
-Unmatched emergency=yes
-Sedgwick County Memorial Hospital (0.00)
-	900 Cedar Street Julesburg 80737
-Unmatched emergency=yes
 SCL Health Community Hospital - Northglenn (0.00)
 	11900 Grant Street Northglenn 80233
 Unmatched emergency=yes
-Yuma District Hospital (0.00)
-	1000 West 8th Avenue Yuma 80759
-Unmatched emergency=yes
-Southwest Memorial Hospital (0.00)
+Southwest Memorial Hospital (2.72)
 	1311 North Mildred Road Cortez -
 Unmatched emergency=yes
-The Memorial Hospital (0.00)
-	750 Hospital Loop Craig 81625
-Unmatched emergency=yes
-Valley View Hospital (0.00)
-	1906 Blake Avenue Glenwood Springs 81601
-Unmatched emergency=yes
-Pagosa Springs Medical Center (0.00)
-	95 South Pagosa Boulevard Pagosa Springs 81147
-Unmatched emergency=yes
-Gunnison Valley Hospital (0.00)
-	711 North Taylor Street Gunnison 81230
-Unmatched emergency=yes
-St Vincent Hospital (0.00)
+St Vincent Hospital (2.93)
 	822 West 4th Street Leadville 80461
 Unmatched emergency=yes
-Heart of the Rockies Regional Medical Center (0.00)
-	1000 Rush Drive Salida 81201
-Unmatched emergency=yes
-Conejos County Hospital (0.00)
-	19021 Highway 285 La Jara 81140
-Unmatched emergency=yes
-Mount San Rafael Hospital (0.00)
-	410 Benedicta Avenue Trinidad 81082
-Unmatched emergency=yes
-Arkansas Valley Regional Medical Center (0.00)
-	1100 Carson Avenue La Junta 81050
-Unmatched emergency=yes
-Prowers Medical Center (0.00)
-	401 Kendall Drive Lamar 81052
-Unmatched emergency=yes
-Wray Community District Hospital (0.00)
-	1017 West 7th Street Wray 80758
-Unmatched emergency=yes
-Haxtun Hospital District (0.00)
-	235 West Fletcher Street Haxtun 80731
-Unmatched emergency=yes
-Estes Park Medical Center (0.00)
-	555 Prospect Avenue Estes Park 80517
-Unmatched emergency=yes
-Poudre Valley Hospital (0.00)
-	1024 South Lemay Avenue Fort Collins 80524
-Unmatched emergency=yes
-Banner Fort Collins Medical Center (0.00)
-	4700 Lady Moon Drive Fort Collins 80528
-Unmatched emergency=yes
-Evans Army Community Hospital (0.00)
+Evans Army Community Hospital (2.46)
 	1650 West Cochrane Circle Fort Carson 80913
 Unmatched emergency=yes
-Pikes Peak Regional Hospital (0.00)
-	16420 West Highway 24 Woodland Park 80863
-Unmatched emergency=yes
-Penrose Hospital (0.00)
+Penrose Hospital (2.98)
 	2222 North Nevada Avenue Colorado Springs 80907
-Unmatched emergency=yes
-Memorial Hospital Central (0.00)
-	1400 East Boulder Street Colorado Springs 80909
-Unmatched emergency=yes
-Longmont United Hospital (0.00)
-	1950 Mountain View Avenue Longmont 80501
-Unmatched emergency=yes
-North Suburban Medical Center (0.00)
-	9191 Grant Street Thornton 80229
 Unmatched emergency=yes
 84th Avenue Neighborhood Health Center (0.00)
 	2551 West 84th Avenue Westminster 80031
 Unmatched emergency=yes
-Littleton Adventist Hospital (0.00)
-	7700 South Broadway Littleton 80122
-Unmatched emergency=yes
 Centennial Medical Plaza (0.00)
 	14200 East Arapahoe Road Centennial 80112
 Unmatched emergency=yes
-Denver Health Medical Center (0.00)
-	777 Bannock Street Denver 80204
-Unmatched emergency=yes
 Saint Anthony Medical Campus (0.00)
-	11600 West 2nd Place Lakewood 80228
-Unmatched emergency=yes
-Saint Anthony Hospital (0.00)
 	11600 West 2nd Place Lakewood 80228
 Unmatched emergency=yes
 Children's Hospital Colorado South Campus, Highlands Ranch (0.00)
 	1811 Plaza Drive Highlands Ranch 80129
 Unmatched emergency=yes
-Saint Mary-Corwin Medical Center (0.00)
-	1008 Minnequa Avenue Pueblo 81004
-Unmatched emergency=yes
-Yampa Valley Medical Center (0.00)
-	1024 Central Park Drive Steamboat Springs 80487
-Unmatched emergency=yes
-Community Hospital (0.00)
-	2351 G Road Grand Junction 81505
-Unmatched emergency=yes
-Parkview Medical Center (0.00)
-	400 West 16th Street Pueblo 81003
-Unmatched emergency=yes
-San Luis Valley Regional Medical Center (0.00)
-	106 Blanca Avenue Alamosa 81101
-Unmatched emergency=yes
-Montrose Memorial Hospital (0.00)
-	800 South 3rd Street Montrose 81401
-Unmatched emergency=yes
-East Morgan County Hospital (0.00)
-	2400 Edison Street Brush 80723
-Unmatched emergency=yes
-McKee Medical Center (0.00)
-	2000 Boise Avenue Loveland 80538
-Unmatched emergency=yes
-Medical Center of the Rockies (0.00)
-	2500 Rocky Mountain Avenue Loveland 80538
-Unmatched emergency=yes
-Castle Rock Adventist Hospital (0.00)
-	2350 Meadows Parkway Castle Rock 80109
-Unmatched emergency=yes
-HealthOne Rose Medical Center (0.00)
-	4567 East 9th Avenue Denver 80220
-Unmatched emergency=yes
 Denver Veterans Affairs Medical Center (0.00)
 	1055 Clermont Street Denver 80220
 Unmatched emergency=yes
-St. Thomas More Hospital (0.00)
-	1338 Phay Avenue Cañon City 81212
-Unmatched emergency=yes
-Vail Health Vail Campus (0.00)
+Vail Health Vail Campus (3.06)
 	181 West Meadow Drive Vail 81657
-Unmatched emergency=yes
-Weisbrod Memorial County Hospital (0.00)
-	1208 Luther Street Eads 81036
-Unmatched emergency=yes
-Rio Grande Hospital (0.00)
-	310 County Road 14 Del Norte 81132
-Unmatched emergency=yes
-Colorado Canyons Hospital and Medical Center (0.00)
-	300 West Ottley Avenue Fruita 81521
-Unmatched emergency=yes
-Melissa Memorial Hospital (0.00)
-	1001 East Johnson Street Holyoke 80734
-Unmatched emergency=yes
-Lincoln Community Hospital (0.00)
-	111 6th Street Hugo 80821
-Unmatched emergency=yes
-Rangely District Hospital (0.00)
-	225 East Crest Drive Rangely 81648
-Unmatched emergency=yes
-Southeast Colorado Hospital (0.00)
-	373 East 10th Avenue Springfield 81073
-Unmatched emergency=yes
-Spanish Peaks Regional Health Center (0.00)
-	23500 US 160 Walsenburg 81089
-Unmatched emergency=yes
-Grand River Medical Center (0.00)
-	501 Airport Road Rifle 81650
-Unmatched emergency=yes
-Aspen Valley Hospital (0.00)
-	401 Castle Creek Road Aspen 81611
-Unmatched emergency=yes
-Pioneers Medical Center (0.00)
-	100 Pioneers Medical Center Drive Meeker 81641
-Unmatched emergency=yes
-Middle Park Medical Center (0.00)
-	214 4th Street Kremmling 80459
-Unmatched emergency=yes
-UCHealth Broomfield Hospital (0.00)
-	11820 Destination Drive Broomfield 80021
 Unmatched emergency=yes
 East Morgan County Hospital (0.00)
 	2400 Edison Street Brush 80723
 Unmatched emergency=yes
 Lutheran Medical Center (0.00)
 	8300 West 38th Avenue Wheat Ridge 80033
-Unmatched emergency=yes
-Mercy Regional Medical Center (0.00)
-	1010 Three Springs Boulevard Durango 81301
-Unmatched emergency=yes
-Animas Surgical Hospital (0.00)
-	575 Rivergate Lane Durango 81301
-Unmatched emergency=yes
-UCHealth Grandview Hospital (0.00)
-	5623 Pulpit Peak View Colorado Springs 80918
-Unmatched emergency=yes
-Presbyterian / Saint Luke's Medical Center (0.00)
-	1719 East 19th Avenue Denver 80218
-Found 103 unmatched emergency.
+Found 33 unmatched emergency.

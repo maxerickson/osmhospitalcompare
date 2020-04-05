@@ -1,185 +1,94 @@
 67 OSM hospitals
-0 Medicare hospitals
-Found 0 issues.
+64 Medicare hospitals
+1. Big Horn Hospital
+	17 N Miles Hardin 59034 (CMS:yes)
+	2.88 Big Horn County Memorial Hospital
+	17 North Miles Avenue Hardin 59034
+2. Ruby Valley Medical Center
+	321 Madison St Sheridan 59749 (CMS:yes)
+	2.25 Ruby Valley Hospital
+	220 East Crofoot Street Sheridan 59759
+3. Benefis Hospitals Inc
+	1101 26Th St S Great Falls 59405 (CMS:yes)
+	2.89 Benefis East
+	1101 26th Street South Great Falls 59405
+4. The Healthcenter
+	320 Sunnyview Lane Kalispell 59901 (CMS:no)
+	3.02 Kalispell Regional Medical Center
+	310 Sunnyview Lane Kalispell 59901
+5. Northern Montana Hospital
+	30 13Th St Havre 59501 (CMS:yes)
+	2.95 Northern Montana Health Care
+	30 13th Street West Havre 59501
+6. P H S Indian Hospital Crow / Northern Cheyenne
+	1010 South 7650 East, Post Office Box 9 Crow Agency 59022 (CMS:yes)
+	2.39 Crow/Northern Cheyenne Hospital
+	237 Hospital Loop Crow Agency 59022
+7. Big Sandy Medical Center
+	166 Montana Ave E Big Sandy 59520 (CMS:yes)
+	1.72 Big Sky Medical Center
+	334 Town Center Avenue Big Sky 59716
+8. Wheatland Memorial Hospital
+	530 3Rd St Nw Harlowton 59036 (CMS:yes)
+	3.04 Wheatland Memorial Healthcare
+	530 3rd Street Northwest Harlowton 59036
+9. P H S Indian Hospital At Browning - Blackfeet
+	760 Hospital Circle, Post Office Box 760 Browning 59417 (CMS:yes)
+	2.09 Blackfeet Community Hospital
+	- - Browning 59417
+10. P H S Indian Hospital-Fort Belknap At Harlem
+	456 Gros Ventre Ave, Rr 1 Harlem 59526 (CMS:yes)
+	2.33 Fort Belknap Hospital
+	669 Agency Main Street Harlem 59526
+11. Daniels Memorial Hospital
+	105 5Th Ave E Scobey 59263 (CMS:yes)
+	3.02 Daniels Memorial Healthcare Center
+	105 5th Avenue East Scobey 59263
+12. Phillips County Medical Center
+	311 S 8Th Ave E Malta 59538 (CMS:yes)
+	2.80 Phillips County Hospital and Family Health Clinic
+	311 South 8th Avenue East Malta 59538
+13. Saint Peters Hospital
+	2475 Broadway Helena 59601 (CMS:yes)
+	3.08 Saint Peter's Health
+	2475 East Broadway Street Helena 59601
+14. Montana State Hospital
+	100 Garnet Way Warm Springs 59756 (CMS:no)
+	2.38 Montana State Hospital
+	- - Warm Springs 59425
+Found 14 issues.
 
 Unmatched emergency=yes
-Roundup Memorial Healthcare (0.00)
-	1202 3rd Street West Roundup 59072
-Unmatched emergency=yes
-Saint Patrick Hospital (0.00)
-	500 West Broadway Street Missoula 59802
-Unmatched emergency=yes
-Garfield County Health Center (0.00)
-	332 Leavitt Avenue Jordan 59337
-Unmatched emergency=yes
-Bozeman Deaconess Hospital (0.00)
-	915 Highland Boulevard Bozeman 59715
-Unmatched emergency=yes
-Benefis East (0.00)
+Benefis East (2.89)
 	1101 26th Street South Great Falls 59405
 Unmatched emergency=yes
-Sidney Health Center (0.00)
-	216 14th Avenue Southwest Sidney 59270
-Unmatched emergency=yes
-Poplar Community Hospital (0.00)
-	211 H Street Poplar 59255
-Unmatched emergency=yes
-Saint James Healthcare (0.00)
-	400 South Clark Street Butte 59701
-Unmatched emergency=yes
-Billings Clinic (0.00)
-	2800 10th Avenue North Billings 59101
-Unmatched emergency=yes
-Big Sky Medical Center (0.00)
-	334 Town Center Avenue Big Sky 59716
-Unmatched emergency=yes
-Glendive Medical Center (0.00)
-	202 Prospect Drive Glendive 59330
-Unmatched emergency=yes
-Saint Peter's Health (0.00)
+Saint Peter's Health (3.08)
 	2475 East Broadway Street Helena 59601
 Unmatched emergency=yes
-Deer Lodge Medical Center (0.00)
-	1100 Hollenbeck Lane Deer Lodge 59722
-Unmatched emergency=yes
-Community Medical Center (0.00)
-	2827 Fort Missoula Road Missoula 59804
-Unmatched emergency=yes
-Saint Luke Community Hospital (0.00)
-	107 6th Avenue Southwest Ronan 59864
-Unmatched emergency=yes
-Providence Saint Joseph Medical Center (0.00)
-	6 13th Avenue East Polson 59860
-Unmatched emergency=yes
-Kalispell Regional Medical Center (0.00)
-	310 Sunnyview Lane Kalispell 59901
-Unmatched emergency=yes
-Saint Vincent Healthcare (0.00)
-	1233 North 30th Street Billings 59101
-Unmatched emergency=yes
-Livingston HealthCare (0.00)
-	320 Alpenglow Lane Livingston 59047
-Unmatched emergency=yes
-Barrett Hospital & Healthcare (0.00)
-	600 State Highway 91 South Dillon 59725
-Unmatched emergency=yes
-Daniels Memorial Healthcare Center (0.00)
+Daniels Memorial Healthcare Center (3.02)
 	105 5th Avenue East Scobey 59263
 Unmatched emergency=yes
-Sheridan Memorial Hospital (0.00)
-	440 West Laurel Avenue Plentywood 59254
-Unmatched emergency=yes
-Frances Mahon Deaconess Hospital (0.00)
-	621 3rd Street South Glasgow 59230
-Unmatched emergency=yes
-Trinity Hospital (0.00)
-	315 Knapp Street Wolf Point 59201
-Unmatched emergency=yes
-Roosevelt Medical Center (0.00)
-	818 2nd Avenue East Culbertson 59218
-Unmatched emergency=yes
-McCone County Health Center (0.00)
-	605 Sullivan Avenue Circle 59215
-Unmatched emergency=yes
-Fallon Medical Complex (0.00)
-	202 South 4th Street West Baker 59313
-Unmatched emergency=yes
-Dahl Memorial Healthcare (0.00)
-	215 Sandy Street Ekalaka 59324
-Unmatched emergency=yes
-Holy Rosary Health Center (0.00)
-	2600 Wilson Street Miles City 59301
-Unmatched emergency=yes
-Rosebud Health Care Center (0.00)
-	383 North 17th Avenue Forsyth 59327
-Unmatched emergency=yes
-Crow/Northern Cheyenne Hospital (0.00)
+Crow/Northern Cheyenne Hospital (2.39)
 	237 Hospital Loop Crow Agency 59022
 Unmatched emergency=yes
-Big Horn County Memorial Hospital (0.00)
+Big Horn County Memorial Hospital (2.88)
 	17 North Miles Avenue Hardin 59034
 Unmatched emergency=yes
-Phillips County Hospital and Family Health Clinic (0.00)
+Phillips County Hospital and Family Health Clinic (2.80)
 	311 South 8th Avenue East Malta 59538
 Unmatched emergency=yes
-Northern Montana Health Care (0.00)
+Northern Montana Health Care (2.95)
 	30 13th Street West Havre 59501
 Unmatched emergency=yes
-Central Montana Medical Center (0.00)
-	408 Wendell Avenue Lewistown 59457
-Unmatched emergency=yes
-Wheatland Memorial Healthcare (0.00)
+Wheatland Memorial Healthcare (3.04)
 	530 3rd Street Northwest Harlowton 59036
 Unmatched emergency=yes
-Pioneer Medical Center (0.00)
-	301 West 7th Avenue Big Timber 59011
-Unmatched emergency=yes
-Stillwater Billings Clinic (0.00)
-	711 11th Street North Columbus 59019
-Unmatched emergency=yes
-Beartooth Billings Clinic (0.00)
-	2525 North Broadway Avenue Red Lodge 59068
-Unmatched emergency=yes
-Madison Valley Medical Center (0.00)
-	305 North Main Street Ennis 59729
-Unmatched emergency=yes
-Ruby Valley Hospital (0.00)
+Ruby Valley Hospital (2.25)
 	220 East Crofoot Street Sheridan 59759
 Unmatched emergency=yes
-Broadwater Health Center (0.00)
-	110 North Oak Street Townsend 59644
-Unmatched emergency=yes
-Mountainview Medical Center (0.00)
-	16 West Main Street White Sulphur Springs 59644
-Unmatched emergency=yes
-Missouri River Medical Center (0.00)
-	1501 Saint Charles Street Fort Benton 59442
-Unmatched emergency=yes
-Benefis Teton Medical Center (0.00)
-	915 4th Street Northwest Choteau 59422
-Unmatched emergency=yes
-Liberty Medical Center (0.00)
-	315 West Madison Avenue Chester 59522
-Unmatched emergency=yes
-Marias Medical Center (0.00)
-	640 Park Avenue Shelby 59474
-Unmatched emergency=yes
-Northern Rockies Medical Center (0.00)
-	802 2nd Street Southeast Cut Bank 59427
-Unmatched emergency=yes
-Blackfeet Community Hospital (0.00)
+Blackfeet Community Hospital (2.09)
 	- - Browning 59417
 Unmatched emergency=yes
-Pondera Medical Center (0.00)
-	805 Sunset Boulevard Conrad 59425
-Unmatched emergency=yes
-Community Hospital of Anaconda (0.00)
-	401 West Pennsylvania Street Anaconda 59711
-Unmatched emergency=yes
-Granite County Medical Center (0.00)
-	310 South Sansome Street Philipsburg 59858
-Unmatched emergency=yes
-Marcus Daly Memorial Hospital (0.00)
-	1200 Westwood Drive Hamilton 59840
-Unmatched emergency=yes
-Mineral Community Hospital (0.00)
-	1208 6th Avenue East Superior 59872
-Unmatched emergency=yes
-Clark Fork Valley Hospital (0.00)
-	10 Kruger Road Plains 59859
-Unmatched emergency=yes
-North Valley Hospital (0.00)
-	1600 Hospital Way Whitefish 59937
-Unmatched emergency=yes
-Cabinet Peaks Medical Center (0.00)
-	209 Health Park Drive Libby 59923
-Unmatched emergency=yes
-Prairie Community Hospital (0.00)
-	312 Adams Avenue Terry 59349
-Unmatched emergency=yes
-Great Falls Clinic Hospital (0.00)
-	3000 15th Avenue South Great Falls 59405
-Unmatched emergency=yes
-Fort Belknap Hospital (0.00)
+Fort Belknap Hospital (2.33)
 	669 Agency Main Street Harlem 59526
-Found 60 unmatched emergency.
+Found 11 unmatched emergency.

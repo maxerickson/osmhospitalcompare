@@ -1,10 +1,135 @@
 188 OSM hospitals
-0 Medicare hospitals
-Found 0 issues.
+138 Medicare hospitals
+Saint Joseph's Hospital
+	45 West 10th Street Saint Paul 55102
+	 Emergency Mismatch (CMS:no)
+	St. Joseph's Hospital
+1. Child & Adolescent Behavioral Health Services
+	1701 Technology Drive Ne Willmar 56201 (CMS:no)
+	2.28 Rice Memorial Hospital
+	301 Becker Avenue Southeast Willmar 56201
+2. Saint Gabriels Hospital
+	815 Southeast Second Street Little Falls 56345 (CMS:yes)
+	3.05 St. Gabriel's Hospital
+	815 2nd Street Southeast Little Falls 56345
+Healtheast Woodwinds Hospital
+	1925 Woodwinds Drive Woodbury 55125
+	 Emergency Mismatch (CMS:no)
+	Woodwinds Health Campus
+3. Winona Health Services
+	855 Mankato Avenue Winona 55987 (CMS:yes)
+	3.08 Community Memorial Hospital
+	855 Mankato Avenue Winona 55987
+4. Community Behavioral Hospital Fergus Falls
+	1801 West Alcott Fergus Falls 56537 (CMS:no)
+	2.14 Lake Region Healthcare
+	712 South Cascade Street Fergus Falls 56537
+5. Cambridge Medical Center
+	701 South Dellwood Avenue Cambridge 55008 (CMS:yes)
+	2.71 --
+	701 South Dellwood Street Cambridge 55008
+6. Red Lake Hospital A
+	Po Box 497 Redlake 56671 (CMS:no)
+	2.55 Red Lake Hospital
+	24760 Hospital Road Red Lake 56671
+7. Community Behavioral Health Hospital Annandale
+	400 Annandale Boulevard Annandale 55302 (CMS:no)
+	1.27 CentraCare Health – Monticello
+	1013 Hart Boulevard Monticello 55362
+8. Mayo Clinic Hospital Rochester
+	1216 Second Street Southwest Rochester 55902 (CMS:yes)
+	3.07 Mayo Clinic Saint Marys Campus
+	1216 2nd Street Southwest Rochester 55902
+9. Community Behavioral Health Hospital Rochester
+	251 Wood Lake Drive Southeast Rochester 55904 (CMS:no)
+	2.46 Olmsted Medical Center Hospital
+	1650 4th Street Southeast Rochester 55904
+10. Comm Behavioral Health Hosp
+	1610 8Th Avenue East Alexandria 56308 (CMS:no)
+	2.72 Douglas County Hopsital
+	111 17th Avenue East Alexandria 56308
+Essentia Health Saint Marys - Detroit Lakes
+	1027 Washington Avenue Detroit Lakes 56501
+	 Emergency Mismatch (CMS:no)
+	Essentia Health Saint Mary's - Detroit Lakes
+11. Sanford Behavioral Health Center
+	120 Labree Avenue South Thief River Falls 56701 (CMS:no)
+	2.48 Sanford Thief River Falls Medical Center
+	3001 Sanford Parkway Thief River Falls 56701
+12. Madison Hospital
+	820 Third Avenue Madison 56256 (CMS:yes)
+	3.01 Madison Healthcare Services
+	820 3rd Avenue Madison 56256
+13. University Medical Center-Mesabi/ Mesaba Clinics
+	750 East 34Th St Hibbing 55746 (CMS:yes)
+	2.89 Fairview Range Medical Center
+	750 East 34th Street Hibbing 55746
+14. North Shore Health
+	515 5Th Ave West Grand Marais 55604 (CMS:yes)
+	3.08 North Shore Health Hospital and Care Center
+	515 5th Avenue West Grand Marais 55604
+15. Fairview Lakes Medical Center
+	5200 Fairview Boulevard Wyoming 55092 (CMS:yes)
+	3.01 Fairview Lakes Medical Center
+	5200 Fairview Boulevard Stillwater 55092
+Essentia Health Virginia
+	901 9th Street North Virginia 55792
+	 Emergency Mismatch (CMS:no)
+	Essentia Health Virginia Hospital
+16. Alomere Health
+	111 17Th Avenue East Alexandria 56308 (CMS:yes)
+	2.91 Douglas County Hopsital
+	111 17th Avenue East Alexandria 56308
+17. Sanford Bagley Medical Center
+	203 4Th Street Northwest Bagley 56621 (CMS:yes)
+	2.03 Sanford Bemidji Medical Center
+	1300 Anne Street Northwest Bemidji 56601
+18. Community Behavioral Health Hospital - Baxter
+	14241 Grand Oaks Drive Baxter 56425 (CMS:no)
+	1.10 Swift County Benson Health Services
+	1815 Wisconsin Avenue Benson 56215
+19. Anoka-Metro Reg Treatment Ctr
+	3301 Seventh Ave North Anoka 55303 (CMS:no)
+	1.27 Glencoe Regional Health Services
+	1805 Hennepin Avenue North Glencoe 55336
+Buffalo Hospital
+	303 Catlin Street Buffalo 55313
+	 Emergency Mismatch (CMS:no)
+	Buffalo Hospital
+20. Carris Health Llc
+	301 Becker Ave Sw Willmar 56201 (CMS:yes)
+	2.62 Rice Memorial Hospital
+	301 Becker Avenue Southeast Willmar 56201
+21. Municipal Hospital And Granite Manor
+	345 Tenth Avenue Granite Falls 56241 (CMS:yes)
+	2.81 Granite Falls Health
+	345 10th Avenue Granite Falls 56241
+22. Deer River Healthcare Center
+	115 10Th Avenue Northeast Deer River 56636 (CMS:yes)
+	3.06 Essentia Health-Deer River
+	115 10th Avenue Northeast Deer River 56636
+23. Minnesota Valley Health Center Inc
+	621 South Fourth Street Le Sueur 56058 (CMS:yes)
+	2.89 Ridgeview Le Sueur Medical Center
+	621 South 4th Street Le Sueur 56058
+24. Lake View Memorial Hospital
+	325 Eleventh Ave Two Harbors 55616 (CMS:yes)
+	3.06 Lake View Hospital
+	325 11th Avenue Two Harbors 55616
+Mayo Clinic Health System - Saint James
+	1101 Mountain & Parsons Drive Saint James 56081
+	 Emergency Mismatch (CMS:no)
+	Mayo Clinic Health System Saint James
+25. Community Behavioral Health Hospital - Bemidji
+	800 Bemidji Avenue North Suite 200 Bemidji 56601 (CMS:no)
+	2.27 Sanford Bemidji Medical Center
+	1300 Anne Street Northwest Bemidji 56601
+26. Essentia Health Duluth
+	502 East Second Street Duluth 55805 (CMS:no)
+	2.88 Essentia Health Saint Mary's Medical Center
+	407 East 3rd Street Duluth 55805
+Found 26 issues.
 
-Unmatched emergency=yes
-Mercy Hospital (0.00)
-	4572 County Highway 61 Moose Lake 55767
 Unmatched emergency=yes
 M Health West Bank Emergency Department (0.00)
 	2312 South 6th Street Minneapolis 55454
@@ -18,384 +143,57 @@ Unmatched emergency=yes
 Mercy Hospital - Unity Campus (0.00)
 	550 Osborne Road Northeast Fridley 55432
 Unmatched emergency=yes
-St. Joseph's Hospital (0.00)
-	45 West 10th Street Saint Paul 55102
-Unmatched emergency=yes
-United Hospital (0.00)
-	333 Smith Avenue North Saint Paul 55102
-Unmatched emergency=yes
-Abbott Northwestern Hospital (0.00)
-	800 East 28th Street Minneapolis 55407
-Unmatched emergency=yes
-Children’s Hospital and Clinic – Minneapolis (0.00)
-	2525 Chicago Avenue South Minneapolis 55404
-Unmatched emergency=yes
-Mayo Clinic Saint Marys Campus (0.00)
+Mayo Clinic Saint Marys Campus (3.07)
 	1216 2nd Street Southwest Rochester 55902
-Unmatched emergency=yes
-Hennepin County Medical Center (0.00)
-	701 Park Avenue South Minneapolis 55415
-Unmatched emergency=yes
-Regions Hospital (0.00)
-	640 Jackson Street Saint Paul 55101
-Unmatched emergency=yes
-Olmsted Medical Center Hospital (0.00)
-	1650 4th Street Southeast Rochester 55904
 Unmatched emergency=yes
 University of Minnesota Medical Center East Bank Hospital (0.00)
 	500 Southeast Harvard Street Minneapolis 55455
 Unmatched emergency=yes
-Fairview Lakes Medical Center (0.00)
+Fairview Lakes Medical Center (3.01)
 	5200 Fairview Boulevard Stillwater 55092
 Unmatched emergency=yes
-St. John's Hospital (0.00)
-	1575 Beam Avenue Maplewood 55109
-Unmatched emergency=yes
-Fairview Southdale Hospital (0.00)
-	6401 France Avenue South Edina 55435
-Unmatched emergency=yes
-Rice Memorial Hospital (0.00)
+Rice Memorial Hospital (2.62)
 	301 Becker Avenue Southeast Willmar 56201
 Unmatched emergency=yes
-Regina Hospital (0.00)
-	1175 Nininger Road Hastings 55033
-Unmatched emergency=yes
-Douglas County Hopsital (0.00)
+Douglas County Hopsital (2.91)
 	111 17th Avenue East Alexandria 56308
-Unmatched emergency=yes
-Mayo Clinic Health System Cannon Falls (0.00)
-	32021 County 24 Boulevard Cannon Falls 55009
 Unmatched emergency=yes
 Austin Medical Center (0.00)
 	1000 1st Drive Northwest Austin 55912
 Unmatched emergency=yes
-Essentia Health-Fosston (0.00)
-	900 Hilligoss Boulevard Southeast Fosston 56542
-Unmatched emergency=yes
-Essentia Health Virginia Hospital (0.00)
-	901 9th Street North Virginia 55792
-Unmatched emergency=yes
-Sleepy Eye Medical Center (0.00)
-	400 4th Avenue Northwest Sleepy Eye 56085
-Unmatched emergency=yes
-North Shore Health Hospital and Care Center (0.00)
+North Shore Health Hospital and Care Center (3.08)
 	515 5th Avenue West Grand Marais 55604
 Unmatched emergency=yes
-North Valley Health Center (0.00)
-	300 Good Samaritan Drive Warren 56762
-Unmatched emergency=yes
-Riverview Health (0.00)
-	323 South Minnesota Street Crookston 56716
-Unmatched emergency=yes
-Sanford Canby Medical Center (0.00)
-	112 Saint Olaf Avenue South Canby 56220
-Unmatched emergency=yes
-United Hospital District (0.00)
-	515 South Moore Street Blue Earth 56013
-Unmatched emergency=yes
-Community Memorial Hospital (0.00)
+Community Memorial Hospital (3.08)
 	855 Mankato Avenue Winona 55987
 Unmatched emergency=yes
-Sanford Bemidji Medical Center (0.00)
-	1300 Anne Street Northwest Bemidji 56601
-Unmatched emergency=yes
-CHI St. Joseph's Health (0.00)
-	600 Pleasant Avenue South Park Rapids 56470
-Unmatched emergency=yes
-Perham Health (0.00)
-	1000 Coney Street West Perham 56573
-Unmatched emergency=yes
-Fairview Range Medical Center (0.00)
+Fairview Range Medical Center (2.89)
 	750 East 34th Street Hibbing 55746
 Unmatched emergency=yes
-Grand Itasca Clinic and Hospital (0.00)
-	1601 Golf Course Road Grand Rapids 55744
-Unmatched emergency=yes
-Lake View Hospital (0.00)
+Lake View Hospital (3.06)
 	325 11th Avenue Two Harbors 55616
 Unmatched emergency=yes
-Community Memorial Hospital (0.00)
-	512 Skyline Boulevard Cloquet 55720
-Unmatched emergency=yes
-Essentia Health Saint Mary's Medical Center (0.00)
-	407 East 3rd Street Duluth 55805
-Unmatched emergency=yes
-Saint Lukes Hospital (0.00)
-	915 East 1st Street Duluth 55805
-Unmatched emergency=yes
-Cuyuna Regional Medical Center (0.00)
-	320 East Main Street Crosby 56441
-Unmatched emergency=yes
-St. Gabriel's Hospital (0.00)
+St. Gabriel's Hospital (3.05)
 	815 2nd Street Southeast Little Falls 56345
 Unmatched emergency=yes
-Mille Lacs Health System Hospital (0.00)
-	200 Elm Street North Onamia 56359
-Unmatched emergency=yes
-FirstLight Health System (0.00)
-	301 South Highway 65 Mora 55501
-Unmatched emergency=yes
-Hutchinson Health (0.00)
-	1095 Highway 15 South Hutchinson 56330
-Unmatched emergency=yes
-Mayo Clinic Health System (0.00)
-	1025 Marsh Street Mankato 56001
-Unmatched emergency=yes
-Mayo Clinic Health System - Red Wing (0.00)
-	701 Hewitt Boulevard Red Wing 55066
-Unmatched emergency=yes
-CentraCare Health – Monticello (0.00)
-	1013 Hart Boulevard Monticello 55362
-Unmatched emergency=yes
-Mercy Hospital (0.00)
-	4050 Coon Rapids Boulevard Northwest Coon Rapids 55433
-Unmatched emergency=yes
-Ridgeview Medical Center (0.00)
-	500 South Maple Street Waconia 55387
-Unmatched emergency=yes
-Saint Francis Regional Medical Center (0.00)
-	1455 Saint Francis Avenue Shakopee 55379
-Unmatched emergency=yes
-Park Nicollet Methodist Hospital (0.00)
-	6500 Excelsior Boulevard Saint Louis Park 55426
-Unmatched emergency=yes
-North Memorial Medical Center (0.00)
-	3300 Oakdale Avenue North Robbinsdale 55422
-Unmatched emergency=yes
-University of Minnesota Medical Center - West Bank Campus (0.00)
-	- Riverside Avenue Minneapolis 55454
-Unmatched emergency=yes
-New Ulm Medical Center (0.00)
-	1324 Fifth North Street New Ulm 56073
-Unmatched emergency=yes
-Saint Cloud Hospital (0.00)
-	1406 6th Avenue North Saint Cloud 56303
-Unmatched emergency=yes
-Hendricks Community Hospital Association (0.00)
-	503 East Lincoln Street Hendricks 56136
-Unmatched emergency=yes
-Owatonna Hospital (0.00)
-	2250 Northwest 26th Street Owatonna 55060
-Unmatched emergency=yes
-Red Lake Hospital (0.00)
+Red Lake Hospital (2.55)
 	24760 Hospital Road Red Lake 56671
 Unmatched emergency=yes
-Riverwood Healthcare Center (0.00)
-	200 Bunker Hill Drive Aitkin 56431
-Unmatched emergency=yes
-Sanford Thief River Falls Medical Center (0.00)
-	3001 Sanford Parkway Thief River Falls 56701
-Unmatched emergency=yes
-Essentia Health-Deer River (0.00)
+Essentia Health-Deer River (3.06)
 	115 10th Avenue Northeast Deer River 56636
 Unmatched emergency=yes
-Ely Bloomenson Community Hospital (0.00)
-	328 West Conan Street Ely 55731
-Unmatched emergency=yes
-Essentia Health-Sandstone (0.00)
-	705 Lundorff Drive Sandstone 55072
-Unmatched emergency=yes
-Essentia Health St Joseph's Medical Center (0.00)
-	523 North 3rd Street Brainerd 56401
-Unmatched emergency=yes
-Lakewood Health System (0.00)
-	49725 County Road 83 Staples 56479
-Unmatched emergency=yes
-Prairie Ridge Hospital (0.00)
-	1411 Highway 79 East Elbow Lake 56531
-Unmatched emergency=yes
-CentraCare Health – Paynesville (0.00)
-	200 West 1st Street Paynesville 56362
-Unmatched emergency=yes
-Appleton Area Health Services Hospital (0.00)
-	30 South Behl Street Appleton 56208
-Unmatched emergency=yes
-Redwood Area Hospital (0.00)
-	100 Fallwood Road Redwood Falls 56283
-Unmatched emergency=yes
-Avera Marshall Regional Medical Center (0.00)
-	300 South Bruce Street Marshall 56283
-Unmatched emergency=yes
-Pipestone County Medical Center (0.00)
-	916 4th Avenue Southeast Pipestone 56164
-Unmatched emergency=yes
-Sanford Luverne Medical Center (0.00)
-	1600 North Kniss Avenue Luverne 56156
-Unmatched emergency=yes
-Sanford Worthington Medical Center (0.00)
-	1018 6th Avenue Worthington 56187
-Unmatched emergency=yes
-Windom Area Health (0.00)
-	2150 Hospital Drive Windom 56101
-Unmatched emergency=yes
-River's Edge Hospital & Clinic (0.00)
-	1900 North Sunrise Drive Saint Peter 56082
-Unmatched emergency=yes
-Albert Lea Medical Center (0.00)
-	404 West Fountain Street Albert Lea 56007
-Unmatched emergency=yes
-Mayo Clinic Health System Waseca (0.00)
-	501 North State Street Waseca 56093
-Unmatched emergency=yes
-District One Hospital (0.00)
-	200 State Avenue Southeast Faribault 55021
-Unmatched emergency=yes
-Fairview Ridges Hospital (0.00)
-	201 East Nicollet Boulevard Burnsville 55337
-Unmatched emergency=yes
-Maple Grove Hospital (0.00)
-	- Hospital Drive Maple Grove 55369
-Unmatched emergency=yes
-Northfield Hospital (0.00)
-	2000 North Avenue Northfield 55057
-Unmatched emergency=yes
--- (0.00)
+-- (2.71)
 	701 South Dellwood Street Cambridge 55008
 Unmatched emergency=yes
-Lake Region Healthcare (0.00)
-	712 South Cascade Street Fergus Falls 56537
-Unmatched emergency=yes
-Lakeview Hospital (0.00)
-	927 Churchill Street West Stillwater 55082
-Unmatched emergency=yes
-Buffalo Hospital (0.00)
-	303 Catlin Street Buffalo 55313
-Unmatched emergency=yes
-Essentia Health Saint Mary's - Detroit Lakes (0.00)
-	1027 Washington Avenue Detroit Lakes 56501
-Unmatched emergency=yes
-Fairview Northland Regional Hospital (0.00)
-	911 Northland Drive Princeton 55371
-Unmatched emergency=yes
-Mayo Clinic Health System Fairmont (0.00)
-	800 Medical Center Drive Fairmont 56031
-Unmatched emergency=yes
-Woodwinds Health Campus (0.00)
-	1925 Woodwinds Drive Woodbury 55125
-Unmatched emergency=yes
-Mahnomen Health Center (0.00)
-	414 West Jefferson Avenue Mahnomen 56557
-Unmatched emergency=yes
-LakeWood Health Center (0.00)
-	600 Main Avenue South Baudette 56623
-Unmatched emergency=yes
-Sanford Westbrook Medical Center (0.00)
-	920 Bell Avenue Westbrook 56187
-Unmatched emergency=yes
-Sanford Tracy Medical Center (0.00)
-	249 Fifth Street East Tracy 56175
-Unmatched emergency=yes
-Sanford Wheaton Medical Center (0.00)
-	401 12th Street North Wheaton 56296
-Unmatched emergency=yes
-Renville County Hospital And Clinics (0.00)
-	100 Healthy Way Olivia 56277
-Unmatched emergency=yes
-Ridgeview Sibley Medical Center (0.00)
-	601 West Chandler Street Arlington 55307
-Unmatched emergency=yes
-Cook Hospital (0.00)
-	10 5th Street Southeast Cook 55723
-Unmatched emergency=yes
-Essentia Health Ada (0.00)
-	201 9th Street West Ada 56510
-Unmatched emergency=yes
-Johnson Memorial Health Services (0.00)
-	1282 Walnut Street Dawson 56232
-Unmatched emergency=yes
-Sanford Jackson Medical Center (0.00)
-	1430 North Highway Jackson 56143
-Unmatched emergency=yes
-Bigfork Valley Hospital (0.00)
-	258 Pine Tree Drive Bigfork 56628
-Unmatched emergency=yes
-Murray County Memorial Hospital (0.00)
-	2042 Juniper Avenue Slayton 56172
-Unmatched emergency=yes
-Essentia Health Holy Trinity Hospital (0.00)
-	115 West 2nd Street Graceville 56240
-Unmatched emergency=yes
-Rainy Lake Medical Center (0.00)
-	1400 US 71 International Falls 56649
-Unmatched emergency=yes
-Madelia Community Hospital (0.00)
-	121 Drew Avenue Southeast Madelia 56062
-Unmatched emergency=yes
-Chippewa County-Montevideo Hospital (0.00)
-	824 North 11th Street Montevideo 56265
-Unmatched emergency=yes
-CentraCare Health - Long Prairie (0.00)
-	50 CentraCare Drive Long Prairie 56347
-Unmatched emergency=yes
-CentraCare Health – Melrose (0.00)
-	525 West Main Street Melrose 56352
-Unmatched emergency=yes
-Mayo Clinic Health System Saint James (0.00)
-	1101 Mountain & Parsons Drive Saint James 56081
-Unmatched emergency=yes
-Saint Elizabeth Medical Center (0.00)
-	1200 Grant Boulevard West Wabasha 55981
-Unmatched emergency=yes
-Kittson Memorial Healthcare Center (0.00)
-	1010 South Birch Avenue Hallock 56728
-Unmatched emergency=yes
-Mayo Clinic Health System Lake City (0.00)
-	500 West Grant Street Lake City 55041
-Unmatched emergency=yes
-Essentia Health Northern Pines Medical Center (0.00)
-	5211 Highway 110 Aurora 55705
-Unmatched emergency=yes
-Ortonville Area Health Services (0.00)
-	450 Eastvold Avenue Ortonville 56278
-Unmatched emergency=yes
-Granite Falls Health (0.00)
+Granite Falls Health (2.81)
 	345 10th Avenue Granite Falls 56241
 Unmatched emergency=yes
-Lifecare Medical Center (0.00)
-	715 Delmore Drive Roseau 56751
-Unmatched emergency=yes
-Avera Tyler Hospital (0.00)
-	240 Willow Street Tyler 56178
-Unmatched emergency=yes
-Mayo Clinic Health System Springfield (0.00)
-	625 North Jackson Avenue Springfield 56087
-Unmatched emergency=yes
-Tri-County Health Care (0.00)
-	415 Jefferson Street North Wadena 56482
-Unmatched emergency=yes
-Glencoe Regional Health Services (0.00)
-	1805 Hennepin Avenue North Glencoe 55336
-Unmatched emergency=yes
-Cass Lake Indian Health Services Hospital (0.00)
-	425 7th Street Northwest Cass Lake 56633
-Unmatched emergency=yes
-Mayo Clinic Health System New Prague (0.00)
-	301 2nd Street Northeast New Prague 56071
-Unmatched emergency=yes
-Stevens Community Medical Center (0.00)
-	400 East 1st Street Morris 56267
-Unmatched emergency=yes
-Swift County Benson Health Services (0.00)
-	1815 Wisconsin Avenue Benson 56215
-Unmatched emergency=yes
-Meeker Memorial Hospital (0.00)
-	612 South Sibley Avenue Litchfield 55355
-Unmatched emergency=yes
-CentraCare Health - Sauk Centre (0.00)
-	425 North Elm Street Sauk Centre 56378
-Unmatched emergency=yes
-Madison Healthcare Services (0.00)
+Madison Healthcare Services (3.01)
 	820 3rd Avenue Madison 56256
 Unmatched emergency=yes
-Ridgeview Le Sueur Medical Center (0.00)
+Ridgeview Le Sueur Medical Center (2.89)
 	621 South 4th Street Le Sueur 56058
-Unmatched emergency=yes
-Glacial Ridge Hospital (0.00)
-	10 4th Avenue Southeast Glenwood 56334
-Unmatched emergency=yes
-CHI Saint Francis Health (0.00)
-	2400 Saint Francis Drive Breckenridge 56520
 Unmatched emergency=yes
 University of Minnesota Medical Center East Bank (0.00)
 	500 Southeast Harvard Street Minneapolis 55455
-Found 132 unmatched emergency.
+Found 22 unmatched emergency.

@@ -1,137 +1,107 @@
 48 OSM hospitals
-0 Medicare hospitals
-Found 0 issues.
+47 Medicare hospitals
+1. Sanford Medical Center Mayville
+	42 6Th Avenue Se Mayville 58257 (CMS:yes)
+	3.10 Sanford Mayville Medical Center
+	42 6th Avenue Southeast Mayville 58257
+2. Standing Rock Indian Health Service Hospital
+	10 North River Road Fort Yates 58538 (CMS:yes)
+	2.11 Fort Yates Hospital
+	- - Fort Yates 58538
+3. Carrington Health Center
+	Po Box 461 Carrington 58421 (CMS:yes)
+	2.14 CHI St. Alexius Health Carrington
+	800 4th Street North Carrington 58421
+4. Sanford Medical Center Bismarck
+	300 N 7Th St Bismarck 58506 (CMS:yes)
+	2.80 Sanford Medical Center
+	300 North 7th Street Bismarck 58501
+5. Mckenzie County Healthcare Systems Inc
+	709 4Th Ave Ne Watford City 58854 (CMS:yes)
+	2.92 Mckenzie County Healthcare Systems
+	516 North Main Street Watford City 58854
+6. Kenmare Community Hospital
+	Po Box 697 Kenmare 58746 (CMS:yes)
+	2.75 Trinity Kenmare Community Hospital
+	317 1st Avenue Northwest Kenmare 58746
+7. Saint Luke's Hospital
+	702 1St St Sw Crosby 58730 (CMS:yes)
+	2.81 Saint Luke’s Medical Center
+	702 1st Street Southwest Crosby 58730
+8. Garrison Memorial Hospital
+	407 3Rd Ave Se Garrison 58540 (CMS:yes)
+	2.54 CHI Saint Alexius Health Garrison
+	407 3rd Avenue Southeast Garrison 58540
+9. Pembina County Memorial Hospital
+	Box 380 Cavalier 58220 (CMS:yes)
+	3.02 Pembina County Memorial Hospital
+	301 Mountain Street East Cavalier 58220
+10. Northwood Deaconess Health Center
+	Po Box 190 Northwood 58267 (CMS:yes)
+	3.04 Northwood Deaconess Health Center
+	4 North Park Street Northwood 58267
+11. Sanford
+	801 Broadway North Fargo 58122 (CMS:yes)
+	2.42 Sanford Broadway Medical Center
+	801 Broadway Fargo 58102
+12. P H S Indian Hosp At Belcourt-Quentin N Burdick
+	Po Box 160 Belcourt 58316 (CMS:yes)
+	2.16 Quentin N. Burdick Memorial Health Care Facility
+	- - Belcourt 58316
+13. Sanford Medical Center Hillsboro
+	12 Third Street Se Hillsboro 58045 (CMS:yes)
+	3.01 Sanford Hillsboro Medical Center
+	12 3rd Street Southeast Hillsboro 58045
+14. Red River Behavioral Health System
+	1451 44Th Avenue S Grand Forks 58201 (CMS:no)
+	2.08 Altru Hospital
+	1200 South Columbia Road Grand Forks 58201
+15. Trinity Hospitals
+	407 3Rd St Se Minot 58701 (CMS:yes)
+	2.62 Trinity Hospital
+	1 Burdick Expressway West Minot 58702
+Found 15 issues.
 
 Unmatched emergency=yes
-Chi Saint Alexius Health Devils Lake (0.00)
-	1031 7th Street Northeast Devils Lake 58301
-Unmatched emergency=yes
-Sanford Medical Center (0.00)
+Sanford Medical Center (2.80)
 	300 North 7th Street Bismarck 58501
 Unmatched emergency=yes
-Heart of America Medical Center (0.00)
-	800 South Main Avenue Rugby 58368
-Unmatched emergency=yes
-CHI St. Alexius Health - Williston Medical Center (0.00)
-	1301 15th Avenue West Williston 58801
-Unmatched emergency=yes
-CHI St. Alexius Health Dickinson (0.00)
-	2500 Fairway Street Dickinson 58601
-Unmatched emergency=yes
-Trinity Hospital (0.00)
+Trinity Hospital (2.62)
 	1 Burdick Expressway West Minot 58702
 Unmatched emergency=yes
-Unity Medical Center (0.00)
-	164 West 13th Street Grafton 58237
-Unmatched emergency=yes
-CHI Oakes Hospital (0.00)
-	1200 North 7th Street Oakes 58474
-Unmatched emergency=yes
-CHI Mercy Health (0.00)
-	570 Chautauqua Boulevard Valley City 58072
-Unmatched emergency=yes
-Jamestown Regional Medical Center (0.00)
-	2422 20th Street Southwest Jamestown 58401
-Unmatched emergency=yes
-CHI St. Alexius Health (0.00)
-	900 East Broadway Avenue Bismarck 58501
-Unmatched emergency=yes
-Saint Andrews Health Center (0.00)
-	316 Ohmer Street Bottineau 58318
-Unmatched emergency=yes
-Altru Hospital (0.00)
-	1200 South Columbia Road Grand Forks 58201
-Unmatched emergency=yes
-Sanford Mayville Medical Center (0.00)
+Sanford Mayville Medical Center (3.10)
 	42 6th Avenue Southeast Mayville 58257
-Unmatched emergency=yes
-Essentia Health-Fargo (0.00)
-	3000 32nd Avenue South Fargo 58103
 Unmatched emergency=yes
 Sanford Medical Center Fargo (0.00)
 	5225 23rd Avenue South Fargo 58122
 Unmatched emergency=yes
-Quentin N. Burdick Memorial Health Care Facility (0.00)
+Quentin N. Burdick Memorial Health Care Facility (2.16)
 	- - Belcourt 58316
 Unmatched emergency=yes
-Fort Yates Hospital (0.00)
+Fort Yates Hospital (2.11)
 	- - Fort Yates 58538
 Unmatched emergency=yes
-Mountrail County Medical Center (0.00)
-	615 6th Street Southeast Stanley 58784
-Unmatched emergency=yes
-Towner County Medical Center (0.00)
-	- US 281 Cando 58324
-Unmatched emergency=yes
-West River Regional Medical Center (0.00)
-	1000 Highway 12 Hettinger 58639
-Unmatched emergency=yes
-Sanford Hillsboro Medical Center (0.00)
+Sanford Hillsboro Medical Center (3.01)
 	12 3rd Street Southeast Hillsboro 58045
 Unmatched emergency=yes
-Linton Hospital (0.00)
-	518 North Broadway Linton 58552
-Unmatched emergency=yes
-Mckenzie County Healthcare Systems (0.00)
+Mckenzie County Healthcare Systems (2.92)
 	516 North Main Street Watford City 58854
 Unmatched emergency=yes
-CHI Saint Alexius Health Garrison (0.00)
+CHI Saint Alexius Health Garrison (2.54)
 	407 3rd Avenue Southeast Garrison 58540
 Unmatched emergency=yes
-Saint Aloisius Medical Center (0.00)
-	325 East Brewster Street Harvey 58341
-Unmatched emergency=yes
-CHI Saint Alexius Health Turtle Lake (0.00)
-	220 5th Avenue Turtle Lake 58575
-Unmatched emergency=yes
-Trinity Kenmare Community Hospital (0.00)
+Trinity Kenmare Community Hospital (2.75)
 	317 1st Avenue Northwest Kenmare 58746
 Unmatched emergency=yes
-Cooperstown Medical Center (0.00)
-	122 Roberts Avenue Northeast Cooperstown 58425
-Unmatched emergency=yes
-Nelson County Health System (0.00)
-	200 North Main Street McVille 58254
-Unmatched emergency=yes
-Sakakawea Medical Center (0.00)
-	510 8th Avenue Northeast Hazen 58545
-Unmatched emergency=yes
-Northwood Deaconess Health Center (0.00)
+Northwood Deaconess Health Center (3.04)
 	4 North Park Street Northwood 58267
 Unmatched emergency=yes
-Southwest Healthcare Services (0.00)
-	802 2nd Street Northwest Bowman 58623
-Unmatched emergency=yes
-First Care Health Center (0.00)
-	115 Vivian Street Park River 58270
-Unmatched emergency=yes
-Jacobson Memorial Hospital Care Center (0.00)
-	601 East Street North Elgin 58533
-Unmatched emergency=yes
-Presentation Medical Center (0.00)
-	213 2nd Avenue Northeast Rolla 58367
-Unmatched emergency=yes
-CHI St. Alexius Health Carrington (0.00)
+CHI St. Alexius Health Carrington (2.14)
 	800 4th Street North Carrington 58421
 Unmatched emergency=yes
-Pembina County Memorial Hospital (0.00)
+Pembina County Memorial Hospital (3.02)
 	301 Mountain Street East Cavalier 58220
 Unmatched emergency=yes
-Chi Lisbon Health (0.00)
-	905 Main Street Lisbon 58054
-Unmatched emergency=yes
-Wishek Hospital (0.00)
-	1007 4th Avenue South Wishek 58495
-Unmatched emergency=yes
-Ashley Medical Center (0.00)
-	612 Center Avenue North Ashley 58413
-Unmatched emergency=yes
-Cavalier County Memorial Hospital (0.00)
-	909 2nd Street Langdon 58249
-Unmatched emergency=yes
-Saint Luke’s Medical Center (0.00)
+Saint Luke’s Medical Center (2.81)
 	702 1st Street Southwest Crosby 58730
-Unmatched emergency=yes
-Tioga Medical Center (0.00)
-	810 Welo Street Tioga 58852
-Found 44 unmatched emergency.
+Found 14 unmatched emergency.

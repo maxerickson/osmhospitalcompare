@@ -1,233 +1,119 @@
 108 OSM hospitals
-0 Medicare hospitals
-Found 0 issues.
+86 Medicare hospitals
+1. Woodridge Behavioral Center
+	600 North 7Th Street West Memphis 72301 (CMS:no)
+	1.34 Great River Medical Center
+	1520 North Division Street Blytheville 72315
+2. Piggott Community Hospital
+	216 East Main Street Piggott 72454 (CMS:yes)
+	3.09 Piggott Community Hospital
+	1206 Gordon Duckworth Drive Piggott 72454
+3. Baptist Health Medical Center-Conway
+	1555 Exchange Avenue Conway 72032 (CMS:yes)
+	2.23 Conway Regional Medical Center
+	2302 College Avenue Conway 72034
+4. Mcgehee Hospital
+	900 South Third Street Mcgehee 71654 (CMS:yes)
+	3.06 McGehee Desha County Hospital
+	900 South 3rd Street McGehee 71654
+5. Conway Behavioral Health
+	2255 Sturgis Road Conway 72034 (CMS:no)
+	2.45 Conway Regional Medical Center
+	2302 College Avenue Conway 72034
+6. Uams Medical Center
+	4301 West Markham Street Mail Slot 612 Little Rock 72205 (CMS:yes)
+	2.87 University of Arkansas Medical Sciences Medical Center
+	4301 West Markham Street Little Rock 72205
+7. Eureka Springs Hospital, Llc
+	24 Norris Street Eureka Springs 72632 (CMS:yes)
+	2.97 Eureka Springs Hospital
+	24 Norris Street Eureka Springs 72118
+8. Dardanelle Hospital
+	200 North Third Street Dardanelle 72834 (CMS:yes)
+	2.58 River Valley Medical Center
+	200 North 3rd Street Dardanelle 72833
+9. Baptist Health - Fort Smith
+	1001 Towson Avenue Fort Smith 72901 (CMS:yes)
+	2.68 Sparks Regional Medical Center
+	1001 Towson Avenue Fort Smith 72903
+10. Springwoods Behavioral Health Services
+	1955 West Trucker'S Drive Fayetteville 72704 (CMS:no)
+	2.01 Encompass Health Rehabilitation Hospital
+	153 East Monte Painter Drive Fayetteville 72703
+Levi Hospital
+	300 Prospect Avenue Hot Springs 71901
+	 Emergency Mismatch (CMS:yes)
+	Levi Hospital
+11. North Logan Mercy Hospital
+	500 East Academy Paris 72855 (CMS:yes)
+	3.04 Mercy Hospital Paris
+	500 East Academy Street Paris 72855
+12. Riverview Behavioral Health
+	701 Arkansas Boulevard Suite 300 Texarkana 71854 (CMS:no)
+	2.82 Riverview Behavioral Health
+	701 Arkansas Boulevard Texarkana 72764
+Arkansas Surgical Hospital
+	5201 Northshore Drive North Little Rock 72118
+	 Emergency Mismatch (CMS:yes)
+	Arkansas Surgical Hospital
+13. Baptist Memorial Hospital-Crittenden, Inc
+	2100 North Seventh Street West Memphis 72301 (CMS:yes)
+	1.32 NEA Baptist Memorial Hospital
+	4800 East Johnson Avenue Jonesboro 72401
+14. Magnolia Hospital
+	101 Hospital Drive Magnolia 71754 (CMS:yes)
+	2.88 Magnolia Regional Medical Center
+	101 Hospital Drive Magnolia 71753
+Bridgeway Inc, The
+	21 Bridgeway Road North Little Rock 72113
+	 Emergency Mismatch (CMS:yes)
+	The Bridgeway
+15. Sparks Medical Center - Van Buren
+	211 Crawford Memorial Drive Van Buren 72956 (CMS:yes)
+	2.95 Sparks Medical Center – Van Buren
+	- - Van Buren 72956
+Found 15 issues.
 
 Unmatched emergency=yes
-Piggott Community Hospital (0.00)
+Piggott Community Hospital (3.09)
 	1206 Gordon Duckworth Drive Piggott 72454
-Unmatched emergency=yes
-Ozarks Community Hospital of Gravette (0.00)
-	1101 Jackson Street Southwest Gravette 72736
 Unmatched emergency=yes
 Willow Creek Women's Hospital (0.00)
 	4301 Greathouse Springs Road Johnson 72741
 Unmatched emergency=yes
-Siloam Springs Regional Hospital (0.00)
-	603 North Progress Avenue Siloam Springs 72761
-Unmatched emergency=yes
-Saint Bernards Medical Center (0.00)
-	225 East Jackson Avenue Jonesboro 72401
-Unmatched emergency=yes
-NEA Baptist Memorial Hospital (0.00)
-	4800 East Johnson Avenue Jonesboro 72401
-Unmatched emergency=yes
-North Arkansas Regional Medical Center (0.00)
-	620 North Main Street Southeast Harrison 72601
-Unmatched emergency=yes
-McGehee Desha County Hospital (0.00)
+McGehee Desha County Hospital (3.06)
 	900 South 3rd Street McGehee 71654
 Unmatched emergency=yes
-Mercy Hospital Fort Smith (0.00)
-	7301 Rogers Avenue Fort Smith 72903
-Unmatched emergency=yes
-Sparks Regional Medical Center (0.00)
+Sparks Regional Medical Center (2.68)
 	1001 Towson Avenue Fort Smith 72903
 Unmatched emergency=yes
-Helena Regional Medical Center (0.00)
-	1801 Martin Luther King Jr Drive Helena 72342
-Unmatched emergency=yes
-CHI St. Vincent Hot Springs (0.00)
-	300 Werner Street Hot Springs 71913
-Unmatched emergency=yes
-National Park Medical Center (0.00)
-	1910 Malvern Avenue Hot Springs 71901
-Unmatched emergency=yes
-Conway Regional Medical Center (0.00)
-	2302 College Avenue Conway 72034
-Unmatched emergency=yes
-Unity Health (0.00)
-	3214 East Race Avenue Searcy 72143
-Unmatched emergency=yes
-Sparks Medical Center – Van Buren (0.00)
+Sparks Medical Center – Van Buren (2.95)
 	- - Van Buren 72956
 Unmatched emergency=yes
 Northwest Medical Center - Bentonville (0.00)
 	3000 Southeast Medical Center Parkway Bentonville 72712
 Unmatched emergency=yes
-Mercy Hospital (0.00)
-	2710 Rife Medical Lane Rogers 72758
-Unmatched emergency=yes
-Mercy Hospital Berryville (0.00)
-	214 Carter Street Berryville 72616
-Unmatched emergency=yes
 Veterans Health Care System of the Ozarks (0.00)
 	1100 North College Avenue Fayetteville 72703
-Unmatched emergency=yes
-Washington Regional Medical Center (0.00)
-	3215 North Northhills Boulevard Fayetteville 72703
-Unmatched emergency=yes
-Northwest Medical Center (0.00)
-	609 West Maple Avenue Springdale 72764
-Unmatched emergency=yes
-Wadley Regional Medical Center at Hope (0.00)
-	2001 South Main Street Hope 71801
 Unmatched emergency=yes
 De Queen Medical Center (0.00)
 	1306 West Collin Ray Drive De Queen 71832
 Unmatched emergency=yes
-Mena Regional Health System (0.00)
-	311 North Morrow Street Mena 71953
-Unmatched emergency=yes
-Mercy Hospital Waldron (0.00)
-	1346 West 6th Street Waldron 71958
-Unmatched emergency=yes
-Mercy Hospital Booneville (0.00)
-	880 West Main Street Booneville 72927
-Unmatched emergency=yes
-Mercy Hospital Ozark (0.00)
-	801 West River Street Ozark 72949
-Unmatched emergency=yes
-Mercy Hospital Paris (0.00)
+Mercy Hospital Paris (3.04)
 	500 East Academy Street Paris 72855
 Unmatched emergency=yes
-Johnson Regional Medical Center (0.00)
-	1100 East Poplar Street Clarksville 72830
-Unmatched emergency=yes
-Chambers Memorial Hospital (0.00)
-	719 Detroit Street Danville 72833
-Unmatched emergency=yes
-River Valley Medical Center (0.00)
+River Valley Medical Center (2.58)
 	200 North 3rd Street Dardanelle 72833
 Unmatched emergency=yes
-Saint Mary's Regional Medical Center (0.00)
-	1808 West Main Street Russellville 72801
-Unmatched emergency=yes
-CHI St. Vincent Morrilton (0.00)
-	4 Hospital Drive Morrilton 72110
-Unmatched emergency=yes
-Howard Memorial Hospital (0.00)
-	130 Medical Circle Nashville 71852
-Unmatched emergency=yes
-Magnolia Regional Medical Center (0.00)
+Magnolia Regional Medical Center (2.88)
 	101 Hospital Drive Magnolia 71753
 Unmatched emergency=yes
-Medical Center of South Arkansas (0.00)
-	700 West Grove Street El Dorado 71730
-Unmatched emergency=yes
-Ouachita County Medical Center (0.00)
-	638 California Avenue Southwest Camden 71701
-Unmatched emergency=yes
-Baptist Health Medical Center - Arkadelphia (0.00)
-	3050 Twin Rivers Drive Arkadelphia 71923
-Unmatched emergency=yes
-Baptist Health Medical Center-Hot Spring County (0.00)
-	1001 Schneider Drive Malvern 72104
-Unmatched emergency=yes
-Ashley County Medical Center (0.00)
-	1015 Unity Road Crossett 71635
-Unmatched emergency=yes
-Chicot Memorial Medical Center (0.00)
-	2729 South highway 65 & 82 Lake Village 71653
-Unmatched emergency=yes
-Baptist Health Medical Center - Heber Springs (0.00)
-	1800 Bypass Road Heber Springs 72543
-Unmatched emergency=yes
-Drew Memorial Hospital (0.00)
-	778 Scogin Drive Monticello 72655
-Unmatched emergency=yes
-Bradley County Medical Center (0.00)
-	404 South Bradley Street Warren 72671
-Unmatched emergency=yes
-Dallas County Medical Center (0.00)
-	201 North Clifton Street Fordyce 71742
-Unmatched emergency=yes
-Delta Memorial Hospital (0.00)
-	811 Highway 65 South Dumas 71639
-Unmatched emergency=yes
-Jefferson Regional Medical Center (0.00)
-	1600 West 40th Avenue Pine Bluff 71603
-Unmatched emergency=yes
-Baxter Regional Medical Center (0.00)
-	624 Hospital Drive Mountain Home 72653
-Unmatched emergency=yes
-Ozark Health Medical Center (0.00)
-	2500 Highway 65 South Clinton 72031
-Unmatched emergency=yes
-Community Medical Center of Izard County (0.00)
-	61 Grasse Street Calico Rock 72519
-Unmatched emergency=yes
-Stone County Medical Center (0.00)
-	2106 East Main Street Mountain View 72560
-Unmatched emergency=yes
-DeWitt Hospital and Nursing Home (0.00)
-	1641 South Whitehead Drive De Witt 72042
-Unmatched emergency=yes
-Baptist Health Medical Center-Stuttgart (0.00)
-	1703 North Buerkle Street Stuttgart 72160
-Unmatched emergency=yes
-Saline Memorial Hospital (0.00)
-	1 Medical Park Drive Benton 72015
-Unmatched emergency=yes
-Arkansas Heart Hospital (0.00)
-	1701 South Shackleford Road Little Rock 72211
-Unmatched emergency=yes
-Baptist Health Medical Center - Little Rock (0.00)
-	9601 Baptist Health Drive Little Rock 72205
-Unmatched emergency=yes
-CHI St. Vincent Infirmary (0.00)
-	2 Saint Vincent Circle Little Rock 72205
-Unmatched emergency=yes
-University of Arkansas Medical Sciences Medical Center (0.00)
+University of Arkansas Medical Sciences Medical Center (2.87)
 	4301 West Markham Street Little Rock 72205
-Unmatched emergency=yes
-Arkansas Children's Hospital (0.00)
-	1 Children's Way Little Rock 72202
-Unmatched emergency=yes
-Baptist Health Medical Center - North Little Rock (0.00)
-	3333 Springhill Drive North Little Rock 72117
-Unmatched emergency=yes
-North Metro Medical Center (0.00)
-	1400 Braden Street Jacksonville 72076
-Unmatched emergency=yes
-White River Medical Center (0.00)
-	1710 Harrison Street Batesville 72501
-Unmatched emergency=yes
-Fulton County Hospital (0.00)
-	679 North Main Street Salem 72576
-Unmatched emergency=yes
-Five Rivers Medical Center (0.00)
-	2801 Medical Center Drive Pocahontas 72455
-Unmatched emergency=yes
-Lawrence Memorial Hospital (0.00)
-	1309 West Main Street Walnut Ridge 72476
-Unmatched emergency=yes
-Arkansas Methodist Medical Center (0.00)
-	900 West Kings Highway Paragould 72451
-Unmatched emergency=yes
-Great River Medical Center (0.00)
-	1520 North Division Street Blytheville 72315
-Unmatched emergency=yes
-South Mississippi County Regional Medical Center (0.00)
-	611 West Lee Avenue Osceola 72370
 Unmatched emergency=yes
 Harris Medical Center (0.00)
 	1205 McLain Street Newport 72112
 Unmatched emergency=yes
-Forrest City Medical Center (0.00)
-	1601 Newcastle Road Forrest City 72360
-Unmatched emergency=yes
-Crossridge Community Hospital (0.00)
-	310 South Falls Boulevard Wynne 72396
-Unmatched emergency=yes
-Physicians' Specialty Hospital (0.00)
-	3873 North Parkview Drive Fayetteville 72703
-Unmatched emergency=yes
-CHI St. Vincent North (0.00)
-	2215 Wildwood Avenue Sherwood 72120
-Unmatched emergency=yes
-Little River Memorial Hospital (0.00)
-	451 West Locke Street Ashdown 71822
-Unmatched emergency=yes
-Eureka Springs Hospital (0.00)
+Eureka Springs Hospital (2.97)
 	24 Norris Street Eureka Springs 72118
-Found 76 unmatched emergency.
+Found 14 unmatched emergency.

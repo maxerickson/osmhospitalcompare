@@ -1,9 +1,17 @@
 4 OSM hospitals
-0 Medicare hospitals
-Found 0 issues.
+2 Medicare hospitals
+1. Guam Regional Medical City
+	133 Route 3 Dededo 96929 (CMS:yes)
+	2.76 Guam Regional Medical City
+	133 Biradan Anakko 3rd Street Dededo 96912
+Guam Memorial Hospital Authority
+	- Gov Carlos G Camacho Road Tamuning 96913
+	 Emergency Mismatch (CMS:yes)
+	Guam Behavioral Health and Wellness Center
+Found 1 issues.
 
 Unmatched emergency=yes
-Guam Regional Medical City (0.00)
+Guam Regional Medical City (2.76)
 	133 Biradan Anakko 3rd Street Dededo 96912
 Unmatched emergency=yes
 Naval Hospital Guam (0.00)

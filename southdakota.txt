@@ -1,164 +1,111 @@
 62 OSM hospitals
-0 Medicare hospitals
-Found 0 issues.
+58 Medicare hospitals
+1. Regional Health Spearfish Hospital
+	1440 N Main St Spearfish 57783 (CMS:yes)
+	2.92 Spearfish Regional Hospital
+	1440 North Main Street Spearfish 57783
+2. Avera Heart Hospital Of South Dakota
+	4500 W 69Th St Sioux Falls 57108 (CMS:yes)
+	3.06 Avera Heart Hospital
+	4500 West 69th Street Sioux Falls 57108
+3. Freeman Medical Center
+	510 E 8Th St Post Office Box 370 Freeman 57029 (CMS:yes)
+	2.53 Freeman Regional Health Services
+	510 East 8th Street Freeman 57029
+4. Wagner Community Memorial Hospital
+	513 3Rd St Sw Post Office Box 280 Wagner 57380 (CMS:yes)
+	3.02 Wagner Community Memorial Hospital Avera
+	513 3rd Street Southwest Wagner 57380
+5. Avera Mckennan Hospital & University Health Center
+	1325 S Cliff Ave Post Office Box 5045 Sioux Falls 57117 (CMS:yes)
+	2.60 Avera McKennan Hospital and University Health Center
+	1325 South Cliff Avenue Sioux Falls 57105
+6. South Dakota Human Services Center
+	3515 Broadway Ave Post Office Box 7600 Yankton 57078 (CMS:no)
+	2.06 Avera Sacred Heart Hospital
+	501 Summit Street Yankton 57078
+7. Bennett County Hospital And Nursing Home
+	102 Major Allen Post Office Box 70D Martin 57551 (CMS:yes)
+	2.93 Bennett County Hospital
+	102 Major Allen Street Martin 57551
+8. Sanford Hospital Webster
+	1401 W First St Post Office Box 489 Webster 57274 (CMS:yes)
+	2.53 Sanford Webster Medical Center
+	1401 West 1st Street Webster 57274
+9. Phs Indian Hospital At Eagle Butte
+	24276 166Th Airport Road Eagle Butte 57625 (CMS:yes)
+	2.80 Cheyenne River Health Center
+	24276 166th Street, Airport Road Eagle Butte 57625
+10. Black Hills Surgical Hospital Llp
+	216 Anamaria Dr Rapid City 57703 (CMS:no)
+	3.06 Black Hills Surgical Hospital
+	216 Anamaria Drive Rapid City 57105
+11. Platte Health Center
+	601 E 7Th St Post Office Box 200 Platte 57369 (CMS:yes)
+	2.98 Platte Health Center Avera
+	601 East 7th Street Platte 57369
+12. Avera Saint Lukes
+	305 S State St Post Office Box 4450 Aberdeen 57401 (CMS:yes)
+	2.90 Avera Saint Lukes Hospital
+	305 South State Street Aberdeen 57401
+13. Sanford Usd Medical Center
+	1305 W 18Th St Post Office Box 5039 Sioux Falls 57117 (CMS:yes)
+	2.69 Sanford USD Medical Center
+	1305 West 18th Street Sioux Falls 57117-5039
+14. Eureka Community Health Services
+	200 J Ave Post Office Box 517 Eureka 57437 (CMS:yes)
+	2.89 Eureka Community Health Services Avera
+	410 9th Street Eureka 57437
+15. Phs Indian Hospital At Rosebud
+	400 Soldier Creek Road Rosebud 57570 (CMS:yes)
+	2.24 Rosebud Hospital
+	- - Rosebud 57570
+16. Lifescape
+	2501 W 26Th St Sioux Falls 57105 (CMS:no)
+	2.26 Sioux Falls Specialty Hospital
+	910 East 20th Street Sioux Falls 57105
+Found 16 issues.
 
 Unmatched emergency=yes
-Sanford Canton-Inwood Medical Center (0.00)
-	440 North Hiawatha Drive Canton 57013
-Unmatched emergency=yes
-Avera Sacred Heart Hospital (0.00)
-	501 Summit Street Yankton 57078
-Unmatched emergency=yes
-Sanford Aberdeen Medical Center (0.00)
-	2905 3rd Avenue Southeast Aberdeen 57401
-Unmatched emergency=yes
-Coteau des Prairies Health Care System Hospital (0.00)
-	205 Orchard Drive Sisseton 57262
-Unmatched emergency=yes
-Sanford Health Chamberlain Medical Center (0.00)
-	300 South Byron Blvd Chamberlain 57325
-Unmatched emergency=yes
-Sanford Vermillion Medical Center (0.00)
-	20 South Plum Street Vermillion 57069
-Unmatched emergency=yes
-Sanford USD Medical Center (0.00)
+Sanford USD Medical Center (2.69)
 	1305 West 18th Street Sioux Falls 57117-5039
 Unmatched emergency=yes
-Bennett County Hospital (0.00)
+Bennett County Hospital (2.93)
 	102 Major Allen Street Martin 57551
 Unmatched emergency=yes
-Avera Weskota Memorial Medical Center (0.00)
-	604 1st Street Northeast Wessington Springs 57382
-Unmatched emergency=yes
-Avera Queen of Peace Hospital (0.00)
-	525 North Foster Street Mitchell 57301
-Unmatched emergency=yes
-Freeman Regional Health Services (0.00)
+Freeman Regional Health Services (2.53)
 	510 East 8th Street Freeman 57029
 Unmatched emergency=yes
-Madison Regional Health System (0.00)
-	323 10th Street Southwest Madison 57042
-Unmatched emergency=yes
-Milbank Area Hospital Avera (0.00)
-	301 Flynn Drive Milbank 57252
-Unmatched emergency=yes
-Avera McKennan Hospital and University Health Center (0.00)
+Avera McKennan Hospital and University Health Center (2.60)
 	1325 South Cliff Avenue Sioux Falls 57105
 Unmatched emergency=yes
-Mobridge Regional Hospital (0.00)
-	1401 10th Avenue West Mobridge 57601
-Unmatched emergency=yes
-Avera Saint Lukes Hospital (0.00)
+Avera Saint Lukes Hospital (2.90)
 	305 South State Street Aberdeen 57401
 Unmatched emergency=yes
-Marshall County Healthcare Center Avera (0.00)
-	413 9th Street Britton 57430
-Unmatched emergency=yes
-Prairie Lakes Hospital (0.00)
-	401 9th Avenue Northwest Watertown 57201
-Unmatched emergency=yes
-Huron Regional Medical Center (0.00)
-	172 4th Street Southeast Huron 57350
-Unmatched emergency=yes
-Avera De Smet Memorial Hospital (0.00)
-	301 Prairie Avenue De Smet 57231
-Unmatched emergency=yes
-Brookings Health System (0.00)
-	300 22nd Avenue Brookings 57006
-Unmatched emergency=yes
-Avera Heart Hospital (0.00)
+Avera Heart Hospital (3.06)
 	4500 West 69th Street Sioux Falls 57108
 Unmatched emergency=yes
-Avera Saint Mary's Hospital (0.00)
-	801 East Sioux Avenue Pierre 57501
-Unmatched emergency=yes
-Regional Health Rapid City Hospital (0.00)
-	353 Fairmont Boulevard Rapid City 57701
-Unmatched emergency=yes
-Cheyenne River Health Center (0.00)
+Cheyenne River Health Center (2.80)
 	24276 166th Street, Airport Road Eagle Butte 57625
 Unmatched emergency=yes
-Rosebud Hospital (0.00)
+Rosebud Hospital (2.24)
 	- - Rosebud 57570
 Unmatched emergency=yes
-Faulkton Area Medical Center (0.00)
-	1300 Oak Street Faulkton 57438
-Unmatched emergency=yes
-Avera Gettysburg Hospital (0.00)
-	606 East Garfield Avenue Gettysburg 57442
-Unmatched emergency=yes
-Douglas County Memorial Hospital (0.00)
-	708 8th Street Armour 57313
-Unmatched emergency=yes
-Platte Health Center Avera (0.00)
+Platte Health Center Avera (2.98)
 	601 East 7th Street Platte 57369
 Unmatched emergency=yes
-Sanford Clear Lake Medical Center (0.00)
-	701 3rd Avenue South Clear Lake 57226
-Unmatched emergency=yes
-Eureka Community Health Services Avera (0.00)
+Eureka Community Health Services Avera (2.89)
 	410 9th Street Eureka 57437
 Unmatched emergency=yes
-Community Memorial Hospital (0.00)
-	809 Jackson Street Burke 57523
-Unmatched emergency=yes
-Avera Flandreau Hospital (0.00)
-	214 North Prairie Street Flandreau 57028
-Unmatched emergency=yes
-Sanford Webster Medical Center (0.00)
+Sanford Webster Medical Center (2.53)
 	1401 West 1st Street Webster 57274
 Unmatched emergency=yes
-Wagner Community Memorial Hospital Avera (0.00)
+Wagner Community Memorial Hospital Avera (3.02)
 	513 3rd Street Southwest Wagner 57380
-Unmatched emergency=yes
-Community Memorial Hospital (0.00)
-	111 West 10th Avenue Redfield 57469
-Unmatched emergency=yes
-Landmann-Jungman Memorial Hospital Avera (0.00)
-	600 Billars Street Scotland 57059
-Unmatched emergency=yes
-Bowdle Hospital (0.00)
-	8001 West 5th Street Bowdle 57428
-Unmatched emergency=yes
-Hans P. Peterson Memorial Hospital (0.00)
-	503 West Pine Street Philip 57567
-Unmatched emergency=yes
-Regional Health Lead-Deadwood Hospital (0.00)
-	61 Charles Street Deadwood 57732
-Unmatched emergency=yes
-Regional Health Sturgis Hospital (0.00)
-	2140 Junction Avenue Sturgis 57785
-Unmatched emergency=yes
-Fall River Hospital (0.00)
-	1201 Highway 71 South Hot Springs 57747
-Unmatched emergency=yes
-Regional Health Custer Hospital (0.00)
-	1039 Montgomery Street Custer 57730
-Unmatched emergency=yes
-Saint Michael's Hospital Avera (0.00)
-	410 West 16th Avenue Tyndall 57066
-Unmatched emergency=yes
-Pioneer Memorial Hospital (0.00)
-	315 North Washington Street Viborg 57070
-Unmatched emergency=yes
-Avera Saint Benedict Health Center (0.00)
-	401 West Glynn Drive Parkston 57366
-Unmatched emergency=yes
-Avera Dells Area Hospital (0.00)
-	909 North Iowa Avenue Dell Rapids 57022
-Unmatched emergency=yes
-Winner Regional Healthcare Center (0.00)
-	745 East 8th Street Winner 57580
-Unmatched emergency=yes
-Avera Hand County Memorial Hospital (0.00)
-	300 West 5th Street Miller 57362
-Unmatched emergency=yes
-Avera Gregory Hospital (0.00)
-	400 Park Avenue Gregory 57533
 Unmatched emergency=yes
 Pine Ridge Hospital (0.00)
 	- East Highway 18 Pine Ridge 57770
 Unmatched emergency=yes
-Spearfish Regional Hospital (0.00)
+Spearfish Regional Hospital (2.92)
 	1440 North Main Street Spearfish 57783
-Found 53 unmatched emergency.
+Found 14 unmatched emergency.

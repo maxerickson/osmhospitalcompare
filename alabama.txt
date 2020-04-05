@@ -1,6 +1,74 @@
 114 OSM hospitals
-0 Medicare hospitals
-Found 0 issues.
+97 Medicare hospitals
+1. Beacon Children's Hospital
+	150 Hospital Drive Luverne 36049 (CMS:no)
+	2.21 Crenshaw Community Hospital
+	101 Hospital Circle Luverne 36037
+Saint Vincents Blount
+	150 Gilbreath Drive Oneonta 35121
+	 Emergency Mismatch (CMS:no)
+	Saint Vincent's Blount
+2. Regional Medical Center Of Central Alabama
+	29 L V Stabler Drive Greenville 36037 (CMS:yes)
+	3.01 L. V. Stabler Memorial Hospital
+	29 LV Stabler Drive Greenville 36037
+3. Medical West, An Affiliate Of Uab Health System
+	995 9Th Avenue Southwest Bessemer 35021 (CMS:yes)
+	2.78 Medical West Hospital
+	995 9th Avenue Southwest Bessemer 35022
+4. Baypointe Behavioral Health
+	5800 Southland Drive Mobile 36693 (CMS:no)
+	1.66 Providence Hospital
+	6801 Airport Boulevard Mobile 36685
+5. Unity Psychiatric Care - Huntsville
+	5315 Millenium Drive, Nw Huntsville 35806 (CMS:no)
+	1.99 Crestwood Medical Center
+	1 Hospital Drive Southwest Huntsville 35801
+6. Baptist Medical Center East
+	400 Taylor Road Montgomery 36117 (CMS:yes)
+	2.59 Baptist Medical Center South
+	2105 East South Boulevard Montgomery 36116
+7. North Alabama Medical Center
+	1701 Veterans Drive Florence 35630 (CMS:yes)
+	2.13 Eliza Coffee Memorial Hospital
+	205 South Marengo Street Florence 35630
+8. Mobile Infirmary Medical Center
+	5 Mobile Infirmary Circle Mobile 36652 (CMS:yes)
+	1.81 Providence Hospital
+	6801 Airport Boulevard Mobile 36685
+9. Mary S Harper Geriatric Psychiatry Center
+	201 University Blvd Tuscaloosa 35401 (CMS:yes)
+	2.63 DCH Regional Medical Center
+	809 University Boulevard East Tuscaloosa 35401
+10. Eastpointe Hospital
+	7400 Roper Lane Daphne 36526 (CMS:yes)
+	1.28 Thomas Hospital
+	750 Morphy Avenue Thomas 36532
+11. Thomas Hospital
+	750 Morphy Avenue Fairhope 36532 (CMS:yes)
+	3.08 Thomas Hospital
+	750 Morphy Avenue Thomas 36532
+12. Community Hospital Inc
+	805 Friendship Road Tallassee 36078 (CMS:yes)
+	1.39 Lake Martin Community Hospital
+	201 Mariarden Road Dadeville 36853
+13. Walker Baptist Medical Center
+	3400 Highway 78 East Jasper 35502 (CMS:yes)
+	2.92 Walker Baptist Medical Center
+	3400 US 78 Jasper 35501
+14. Sanctuary At The Woodlands, The
+	1910 Cherokee Avenue, Sw Cullman 35055 (CMS:no)
+	3.09 The Sanctuary at the Woodlands
+	1910 Cherokee Avenue Southwest Cullman 35056
+15. University Of Alabama Hospital
+	619 South 19Th Street Birmingham 35233 (CMS:yes)
+	2.44 UAB Hospital
+	1802 6th Avenue South Birmingham 35233
+16. Bryce Hospital
+	200 University Blvd Tuscaloosa 35401 (CMS:no)
+	3.01 Bryce Hospital
+	- - Tuscaloosa 35401
+Found 16 issues.
 
 Unmatched emergency=yes
 Georgiana Medical Center (0.00)
@@ -12,276 +80,39 @@ Unmatched emergency=yes
 Northport Medical Center (0.00)
 	2700 Hospital Drive Northport 35476
 Unmatched emergency=yes
-Northeast Alabama Regional Medical Center (0.00)
-	400 East 10th Street Anniston 36207
-Unmatched emergency=yes
-RMC Stringfellow Memorial Hospital (0.00)
-	301 East 18th Street Anniston 36207
-Unmatched emergency=yes
-Jackson Hospital (0.00)
-	1725 Pine Street Montgomery 36106
-Unmatched emergency=yes
-Princeton Baptist Medical Center (0.00)
-	701 Princeton Avenue Southwest Birmingham 35211
-Unmatched emergency=yes
 Northeast Alabama Regional Medical Center-Jacksonville (0.00)
 	1701 Pelham Road South Jacksonville 36265
-Unmatched emergency=yes
-Shoals Hospital (0.00)
-	201 West Avalon Avenue Muscle Shoals 35661
-Unmatched emergency=yes
-Helen Keller Hospital (0.00)
-	1300 South Montgomery Avenue Sheffield 35660
-Unmatched emergency=yes
-Wiregrass Medical Center (0.00)
-	1200 West Maple Avenue Geneva 36340
-Unmatched emergency=yes
-Springhill Medical Center (0.00)
-	3719 Dauphin Street Mobile 36608
-Unmatched emergency=yes
-Grandview Medical Center (0.00)
-	3690 Grandview Parkway Birmingham 35243
-Unmatched emergency=yes
-Athens-Limestone Hospital (0.00)
-	700 Market Street West Athens 35611
-Unmatched emergency=yes
-Decatur Morgan Hospital (0.00)
-	1201 7th Street Southeast Decatur 35601
 Unmatched emergency=yes
 Mobile Infirmary (0.00)
 	5 Mobile Infirmary Circle - -
 Unmatched emergency=yes
-Russellville Hospital (0.00)
-	15155 U.S. Highway 43 Russellville 35653
-Unmatched emergency=yes
-Red Bay Hospital (0.00)
-	211 Hospital Road Red Bay 35582
-Unmatched emergency=yes
-Eliza Coffee Memorial Hospital (0.00)
+Eliza Coffee Memorial Hospital (2.13)
 	205 South Marengo Street Florence 35630
-Unmatched emergency=yes
-DeKalb Regional Medical Center (0.00)
-	200 Medical Center Drive Southwest Fort Payne 35968
-Unmatched emergency=yes
-St. Vincent's St. Clair (0.00)
-	7063 Veterans Parkway Pell City 35125
 Unmatched emergency=yes
 Madison Hospital (0.00)
 	8375 Highway 72 West Madison 35758
 Unmatched emergency=yes
-East Alabama Medical Center (0.00)
-	200 Pepperell Parkway Opelika 36801
-Unmatched emergency=yes
-Jack Hughston Memorial Hospital (0.00)
-	4401 River Chase Drive Phenix City 36867
-Unmatched emergency=yes
-Flowers Hospital (0.00)
-	4370 West Main Street Dothan 36301
-Unmatched emergency=yes
-Southeast Health Campus (0.00)
-	1108 Ross Clark Circle Dothan 36301
-Unmatched emergency=yes
-Vaughan Regional Medical Center (0.00)
-	1015 Medical Center Parkway Selma 36701
-Unmatched emergency=yes
-Baptist Medical Center South (0.00)
-	2105 East South Boulevard Montgomery 36116
-Unmatched emergency=yes
-Elmore Community Hospital (0.00)
-	500 Hospital Drive Wetumpka 36092
-Unmatched emergency=yes
-Prattville Baptist Hospital (0.00)
-	124 South Memorial Drive Prattville 36067
-Unmatched emergency=yes
-DCH Regional Medical Center (0.00)
-	809 University Boulevard East Tuscaloosa 35401
-Unmatched emergency=yes
-Highlands Medical Center (0.00)
-	380 Woods Cove Road Scottsboro 35768
-Unmatched emergency=yes
-Huntsville Hospital (0.00)
-	101 Sivley Road Southwest Huntsville 35801
-Unmatched emergency=yes
-Crestwood Medical Center (0.00)
-	1 Hospital Drive Southwest Huntsville 35801
-Unmatched emergency=yes
-UAB Hospital (0.00)
+UAB Hospital (2.44)
 	1802 6th Avenue South Birmingham 35233
-Unmatched emergency=yes
-Saint Vincent's Birmingham (0.00)
-	810 Saint Vincent's Drive Birmingham 35205
-Unmatched emergency=yes
-Children's of Alabama (0.00)
-	1600 7th Avenue South Birmingham 35233
 Unmatched emergency=yes
 UAB Hospital Highlands (0.00)
 	1201 11th Avenue South Birmingham 35205
 Unmatched emergency=yes
-Walker Baptist Medical Center (0.00)
+Walker Baptist Medical Center (2.92)
 	3400 US 78 Jasper 35501
 Unmatched emergency=yes
-Cullman Regional Medical Center (0.00)
-	1912 AL 157 Cullman 35058
-Unmatched emergency=yes
-Brookwood Baptist Medical Center (0.00)
-	2010 Brookwood Medical Center Drive Birmingham 35209
-Unmatched emergency=yes
-St. Vincent's East (0.00)
-	50 Medical Park Drive East Birmingham 35235
-Unmatched emergency=yes
-Shelby Baptist Medical Center (0.00)
-	1000 1st Street North Alabaster 35007
-Unmatched emergency=yes
-Medical West Hospital (0.00)
+Medical West Hospital (2.78)
 	995 9th Avenue Southwest Bessemer 35022
 Unmatched emergency=yes
-University of South Alabama Children's and Women's Hospital (0.00)
-	1700 Center Street Mobile 36604
-Unmatched emergency=yes
-University of South Alabama Medical Center (0.00)
-	2451 USA Medical Center Drive Mobile 36617
-Unmatched emergency=yes
-Thomas Hospital (0.00)
+Thomas Hospital (3.08)
 	750 Morphy Avenue Thomas 36532
 Unmatched emergency=yes
-South Baldwin Regional Medical Center (0.00)
-	1613 North McKenzie Street Foley 36535
-Unmatched emergency=yes
-North Baldwin Infirmary (0.00)
-	1815 Hand Avenue Bay Minette 36507
-Unmatched emergency=yes
-Atmore Community Hospital (0.00)
-	401 Medical Park Drive Atmore 36502
-Unmatched emergency=yes
-D.W. McMillan Memorial Hospital (0.00)
-	1301 Belleville Avenue Brewton 36426
-Unmatched emergency=yes
-Medical Center Enterprise (0.00)
-	400 North Edwards Street Enterprise 36330
-Unmatched emergency=yes
-Dale Medical Center (0.00)
-	126 Hospital Avenue Ozark 36360
-Unmatched emergency=yes
-Mizell Memorial Hospital (0.00)
-	702 North Main Street Opp 36467
-Unmatched emergency=yes
-Andalusia Health (0.00)
-	849 South Three Notch Street Andalusia 36420
-Unmatched emergency=yes
-Evergreen Medical Center (0.00)
-	101 Crestview Avenue Evergreen 36401
-Unmatched emergency=yes
-Monroe County Hospital (0.00)
-	2016 South Alabama Avenue Monroeville 36460
-Unmatched emergency=yes
-Washington County Hospital & Nursing Home (0.00)
-	14600 Saint Stephens Avenue Chatom 36518
-Unmatched emergency=yes
-Jackson Medical Center (0.00)
-	220 Hospital Drive Jackson 36545
-Unmatched emergency=yes
-Grove Hill Memorial Hospital (0.00)
-	295 South Jackson Street Grove Hill 36451
-Unmatched emergency=yes
-Choctaw General Hospital (0.00)
-	401 Vanity Fair Lane Butler 36904
-Unmatched emergency=yes
-J. Paul Jones Hospital (0.00)
-	317 McWilliams Avenue Camden 36726
-Unmatched emergency=yes
-L. V. Stabler Memorial Hospital (0.00)
+L. V. Stabler Memorial Hospital (3.01)
 	29 LV Stabler Drive Greenville 36037
-Unmatched emergency=yes
-Crenshaw Community Hospital (0.00)
-	101 Hospital Circle Luverne 36037
-Unmatched emergency=yes
-Troy Regional Medical Center (0.00)
-	1330 Highway 231 South Troy 36081
-Unmatched emergency=yes
-Medical Center Barbour (0.00)
-	820 West Washington Street Eufala 36027
-Unmatched emergency=yes
-Bullock County Hospital (0.00)
-	102 Conecuh Avenue Union Springs 36089
 Unmatched emergency=yes
 Lanier Health Services (0.00)
 	4800 48th Street Valley 36854
 Unmatched emergency=yes
-Clay County Hospital (0.00)
-	83825 Highway 9 Ashland 36251
-Unmatched emergency=yes
-Lake Martin Community Hospital (0.00)
-	201 Mariarden Road Dadeville 36853
-Unmatched emergency=yes
-Russell Medical (0.00)
-	3316 Highway 280 Alexander City 35010
-Unmatched emergency=yes
-Citizens Baptist Medical Center (0.00)
-	604 Stone Avenue Talladaga 35160
-Unmatched emergency=yes
-Coosa Valley Medical Center (0.00)
-	315 West Hickory Street Sylacauga 35150
-Unmatched emergency=yes
-Saint Vincent's Chilton (0.00)
-	2030 Lay Dam Road Clanton 35045
-Unmatched emergency=yes
-Bibb Medical Center (0.00)
-	208 Pierson Avenue Centreville 35042
-Unmatched emergency=yes
-Hale County Hospital (0.00)
-	508 Greene Street Greensboro 36744
-Unmatched emergency=yes
-Bryan W. Whitfield Memorial Hospital (0.00)
-	105 Highway 80 East Demopolis 36732
-Unmatched emergency=yes
-Hill Hospital of Sumter County (0.00)
-	751 Derby Drive York 36925
-Unmatched emergency=yes
-Pickens County Medical Center (0.00)
-	241 Robert K. Wilson Drive Carrollton 35447
-Unmatched emergency=yes
-Fayette Medical Center (0.00)
-	1653 Temple Avenue North Fayette 35555
-Unmatched emergency=yes
-Northwest Medical Center (0.00)
-	1530 US 43 Winfield 35594
-Unmatched emergency=yes
-North Mississippi Medical Center-Hamilton (0.00)
-	1256 Military Street South Hamilton 35570
-Unmatched emergency=yes
-Lakeland Community Hospital (0.00)
-	42024 Highway 195 East Haleyville 35565
-Unmatched emergency=yes
-Lawrence Medical Center (0.00)
-	202 Hospital Street Moulton 35650
-Unmatched emergency=yes
-Cherokee Medical Center (0.00)
-	400 Northwood Drive Centre 35960
-Unmatched emergency=yes
-Gadsden Regional Medical Center (0.00)
-	1007 Goodyear Gadsden 35903
-Unmatched emergency=yes
-Riverview Regional Medical Center (0.00)
-	600 South 3rd Street Gadsden 35901
-Unmatched emergency=yes
-Marshall Medical Center South (0.00)
-	2505 US 431 Boaz 35957
-Unmatched emergency=yes
 Marshall Medical Center North (0.00)
 	8000 AL 69 Guntersville 35976
-Unmatched emergency=yes
-Tanner Medical Center/East Alabama (0.00)
-	1032 South Main Street Wedowee 36278
-Unmatched emergency=yes
-Greene County Health System (0.00)
-	509 Wilson Avenue Eutaw 35462
-Unmatched emergency=yes
-Providence Hospital (0.00)
-	6801 Airport Boulevard Mobile 36685
-Unmatched emergency=yes
-Saint Vincent's Blount (0.00)
-	150 Gilbreath Drive Oneonta 35121
-Unmatched emergency=yes
-UAB Callahan Eye Hospital (0.00)
-	1720 University Boulevard Birmingham 35233
-Found 94 unmatched emergency.
+Found 15 unmatched emergency.

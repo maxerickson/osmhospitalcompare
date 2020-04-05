@@ -1,10 +1,39 @@
 44 OSM hospitals
-0 Medicare hospitals
-Found 0 issues.
+36 Medicare hospitals
+1. Spring Harbor Hospital
+	123 Andover Road Westbrook 04092 (CMS:yes)
+	1.27 Saint Joseph Hospital
+	360 Broadway Bangor 04402
+2. Penobscot Bay Medical Center
+	6 Glen Cove Drive Rockport 04856 (CMS:yes)
+	2.93 Pen Bay Medical Center
+	6 Glen Cove Drive Rumford 04856
+3. Northern Light A R Gould Hospital
+	Po Box 151 Presque Isle 04769 (CMS:yes)
+	2.16 The Aroostook Medical Center
+	140 Academy Street Presque Isle 04769
+4. Charles A Dean Memorial Hospital
+	Po Box 1129 Greenville 04441 (CMS:no)
+	3.02 Charles A Dean Memorial Hospital
+	364 Pritham Avenue Greenville 04441
+5. Northern Light Acadia Hospital
+	268 Stillwater Ave Bangor 04401 (CMS:no)
+	2.94 Acadia Hospital
+	268 Stillwater Avenue Bangor 04402
+6. Northern Light Health
+	144 State Street Portland 04101 (CMS:yes)
+	2.76 Mercy Hospital
+	144 State Street Portland 04102
+7. Eastern Maine Medical Center
+	Po Box 404 Bangor 04401 (CMS:yes)
+	3.01 Eastern Maine Medical Center
+	489 State Street Bangor 04401
+8. York Hospital
+	15 Hospital Drive York 03909 (CMS:yes)
+	3.05 York Hospital
+	- Loving Kindness Way York 03909
+Found 8 issues.
 
-Unmatched emergency=yes
-Mid Coast Hospital (0.00)
-	123 Medical Center Drive Brunswick, ME 04011
 Unmatched emergency=yes
 Thayer Center for Health (0.00)
 	149 North Street Waterville 04901
@@ -15,102 +44,24 @@ Unmatched emergency=yes
 Togus Veterans Affairs Medical Center (0.00)
 	1 VA Center Augusta 04330
 Unmatched emergency=yes
-Rumford Hospital (0.00)
-	420 Franklin Street Rumford 04276
-Unmatched emergency=yes
 SMHC Medical Center Sanford (0.00)
 	25 June Street Sanford 04073
 Unmatched emergency=yes
-Eastern Maine Medical Center (0.00)
+Eastern Maine Medical Center (3.01)
 	489 State Street Bangor 04401
 Unmatched emergency=yes
-Saint Joseph Hospital (0.00)
-	360 Broadway Bangor 04402
-Unmatched emergency=yes
-The Aroostook Medical Center (0.00)
+The Aroostook Medical Center (2.16)
 	140 Academy Street Presque Isle 04769
 Unmatched emergency=yes
-Northern Maine Medical Center (0.00)
-	194 East Main Street Fort Kent 04743
-Unmatched emergency=yes
-Cary Medical Center (0.00)
-	164 Van Buren Road Caribou 04736
-Unmatched emergency=yes
-Calais Regional Hospital (0.00)
-	24 Hospital Lane Calais 04619
-Unmatched emergency=yes
-Down East Community Hospital (0.00)
-	11 Hospital Drive Machias 04654
-Unmatched emergency=yes
-Millinocket Regional Hospital (0.00)
-	200 Somerset Street Millinocket 04462
-Unmatched emergency=yes
-Charles A Dean Memorial Hospital (0.00)
+Charles A Dean Memorial Hospital (3.02)
 	364 Pritham Avenue Greenville 04441
 Unmatched emergency=yes
-York Hospital (0.00)
+York Hospital (3.05)
 	- Loving Kindness Way York 03909
 Unmatched emergency=yes
-Southern Maine Health Care (0.00)
-	1 Medical Center Drive Biddeford 04005
-Unmatched emergency=yes
-Maine Medical Center (0.00)
-	22 Bramhall Street Portland 04102
-Unmatched emergency=yes
-Mercy Hospital (0.00)
+Mercy Hospital (2.76)
 	144 State Street Portland 04102
 Unmatched emergency=yes
-Mount Desert Island Hospital (0.00)
-	10 Wayman Lane Bar Harbor 04609
-Unmatched emergency=yes
-Maine Coast Memorial Hospital (0.00)
-	50 Union Street Ellsworth 04605
-Unmatched emergency=yes
-Redington-Fairview General Hospital (0.00)
-	46 Fairview Avenue Skowhegan 04976
-Unmatched emergency=yes
-Bridgton Hospital (0.00)
-	10 Hospital Drive Bridgton 04009
-Unmatched emergency=yes
-Inland Hospital (0.00)
-	200 Kennedy Memorial Drive Waterville 04901
-Unmatched emergency=yes
-MaineGeneral Medical Center - Alfond Center for Health (0.00)
-	35 Medical Center Parkway Augusta 04330
-Unmatched emergency=yes
-Stephens Memorial Hospital (0.00)
-	181 Main Street Norway 04268
-Unmatched emergency=yes
-Central Maine Medical Center (0.00)
-	300 Main Street Lewiston 04240
-Unmatched emergency=yes
-Saint Marys Regional Medical Center (0.00)
-	93 Campus Avenue Lewiston 04240
-Unmatched emergency=yes
-Mayo Regional Hospital (0.00)
-	897 West Main Street Dover-Foxcroft 04426
-Unmatched emergency=yes
-Penobscot Valley Hospital (0.00)
-	7 Transalpine Road Lincoln 04457
-Unmatched emergency=yes
-Blue Hill Memorial Hospital (0.00)
-	57 Water Street Blue Hill 04614
-Unmatched emergency=yes
-Franklin Memorial Hospital (0.00)
-	111 Franklin Health Commons Farmington 04938
-Unmatched emergency=yes
-Pen Bay Medical Center (0.00)
+Pen Bay Medical Center (2.93)
 	6 Glen Cove Drive Rumford 04856
-Unmatched emergency=yes
-LincolnHealth - Miles Campus (0.00)
-	35 Miles Street Damariscotta 04543
-Unmatched emergency=yes
-Waldo County General Hospital (0.00)
-	118 Northport Avenue Belfast 04915
-Unmatched emergency=yes
-Sebasticook Valley Health (0.00)
-	447 North Main Street Pittsfield 04967
-Unmatched emergency=yes
-Houlton Regional Hospital (0.00)
-	20 Hartford Street Houlton 04730
-Found 37 unmatched emergency.
+Found 10 unmatched emergency.
