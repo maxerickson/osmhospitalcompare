@@ -1,36 +1,49 @@
 83 OSM hospitals
 62 Medicare hospitals
-Providence Milwaukie Hospital
-	10150 Southeast 32nd Avenue Milwaukie 97222
-	 Emergency Mismatch (CMS:no)
-	Providence Milwaukie Hospital
-1. Adventist Health Tillamook
-	1000 Third Street Tillamook 97141 (CMS:yes)
-	2.86 Tillamook Regional Medical Center
-	1000 3rd Street Tillamook 97141
-2. Cedar Hills Hospital
-	10300 Sw Eastridge Street Portland 97225 (CMS:no)
-	2.40 Providence Saint Vincent Hospital
-	9205 Southwest Barnes Road Portland 97225
-3. Ohsu Hospital And Clinics
-	3181 Sw Sam Jackson Park Road Portland 97239 (CMS:yes)
-	3.07 Shriners Hospitals for Children
-	3101 Southwest Sam Jackson Park Road Portland 97239
-Found 3 issues.
+1. Emergency services mismatch
+  Medicare name: Providence Milwaukie Hospital
+  OSM name: Providence Milwaukie Hospital
+  OSM Address: 10150 Southeast 32nd Avenue Milwaukie 97222
+  Medicare emergency services: no
+  OSM Emergency: yes
+2. Unmatched medicare hospital
+  Medicare name: Adventist Health Tillamook
+  Medicare address: 1000 Third Street Tillamook 97141
+  Medicare emergency services: yes
+  Best OSM Match: 2.86 Tillamook Regional Medical Center
+  OSM Address: 1000 3rd Street Tillamook 97141
+3. Unmatched medicare hospital
+  Medicare name: Cedar Hills Hospital
+  Medicare address: 10300 Sw Eastridge Street Portland 97225
+  Medicare emergency services: no
+  Best OSM Match: 2.40 Providence Saint Vincent Hospital
+  OSM Address: 9205 Southwest Barnes Road Portland 97225
+4. Unmatched medicare hospital
+  Medicare name: Ohsu Hospital And Clinics
+  Medicare address: 3181 Sw Sam Jackson Park Road Portland 97239
+  Medicare emergency services: yes
+  Best OSM Match: 3.07 Shriners Hospitals for Children
+  OSM Address: 3101 Southwest Sam Jackson Park Road Portland 97239
+Found 4 potential issues.
 
-Unmatched emergency=yes
-Roseburg VA Medical Center (0.00)
-	913 Northwest Garden Valley Boulevard Roseburg 97471
-Unmatched emergency=yes
-OHSU - Doernbecher Emergency (0.00)
-	3251 Southwest Sam Jackson Park Road Portland 97239
-Unmatched emergency=yes
-Portland VA Medical Center (0.00)
-	- - - -
-Unmatched emergency=yes
-Tillamook Regional Medical Center (2.86)
-	1000 3rd Street Tillamook 97141
-Unmatched emergency=yes
-Tuality Forest Grove Hospital (0.00)
-	1809 Maple Street Forest Grove 97116
+Unmatched emergency=yes in OSM
+  OSM name: Roseburg VA Medical Center
+  Score of best match: 0.00
+  OSM address: 913 Northwest Garden Valley Boulevard Roseburg 97471
+Unmatched emergency=yes in OSM
+  OSM name: OHSU - Doernbecher Emergency
+  Score of best match: 0.00
+  OSM address: 3251 Southwest Sam Jackson Park Road Portland 97239
+Unmatched emergency=yes in OSM
+  OSM name: Portland VA Medical Center
+  Score of best match: 0.00
+  OSM address: - - - -
+Unmatched emergency=yes in OSM
+  OSM name: Tillamook Regional Medical Center
+  Score of best match: 2.86
+  OSM address: 1000 3rd Street Tillamook 97141
+Unmatched emergency=yes in OSM
+  OSM name: Tuality Forest Grove Hospital
+  Score of best match: 0.00
+  OSM address: 1809 Maple Street Forest Grove 97116
 Found 5 unmatched emergency.

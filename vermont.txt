@@ -1,30 +1,41 @@
 18 OSM hospitals
 16 Medicare hospitals
-1. Springfield Hospital
-	Po Box 2003 Springfield 05156 (CMS:yes)
-	3.01 Springfield Hospital
-	25 Ridgewood Road Springfield 05156
-2. Central Vermont Medical Center
-	Box 547 Barre 05641 (CMS:yes)
-	1.50 Central Vermont Medical Center
-	130 Fisher Road Berlin 05602
-3. Grace Cottage Hospital
-	Po Box 216 Townshend 05353 (CMS:yes)
-	3.01 Grace Cottage Hospital
-	185 Grafton Road Townshend 05353
-4. Brattleboro Retreat
-	Anna Marsh Lane Po Box 803 Brattleboro 05301 (CMS:yes)
-	2.43 Brattleboro Memorial Hospital
-	17 Belmont Avenue Brattleboro 05301
-Found 4 issues.
+1. Unmatched medicare hospital
+  Medicare name: Springfield Hospital
+  Medicare address: Po Box 2003 Springfield 05156
+  Medicare emergency services: yes
+  Best OSM Match: 3.01 Springfield Hospital
+  OSM Address: 25 Ridgewood Road Springfield 05156
+2. Unmatched medicare hospital
+  Medicare name: Central Vermont Medical Center
+  Medicare address: Box 547 Barre 05641
+  Medicare emergency services: yes
+  Best OSM Match: 1.50 Central Vermont Medical Center
+  OSM Address: 130 Fisher Road Berlin 05602
+3. Unmatched medicare hospital
+  Medicare name: Grace Cottage Hospital
+  Medicare address: Po Box 216 Townshend 05353
+  Medicare emergency services: yes
+  Best OSM Match: 3.01 Grace Cottage Hospital
+  OSM Address: 185 Grafton Road Townshend 05353
+4. Unmatched medicare hospital
+  Medicare name: Brattleboro Retreat
+  Medicare address: Anna Marsh Lane Po Box 803 Brattleboro 05301
+  Medicare emergency services: yes
+  Best OSM Match: 2.43 Brattleboro Memorial Hospital
+  OSM Address: 17 Belmont Avenue Brattleboro 05301
+Found 4 potential issues.
 
-Unmatched emergency=yes
-Central Vermont Medical Center (1.50)
-	130 Fisher Road Berlin 05602
-Unmatched emergency=yes
-Grace Cottage Hospital (3.01)
-	185 Grafton Road Townshend 05353
-Unmatched emergency=yes
-Springfield Hospital (3.01)
-	25 Ridgewood Road Springfield 05156
+Unmatched emergency=yes in OSM
+  OSM name: Central Vermont Medical Center
+  Score of best match: 1.50
+  OSM address: 130 Fisher Road Berlin 05602
+Unmatched emergency=yes in OSM
+  OSM name: Grace Cottage Hospital
+  Score of best match: 3.01
+  OSM address: 185 Grafton Road Townshend 05353
+Unmatched emergency=yes in OSM
+  OSM name: Springfield Hospital
+  Score of best match: 3.01
+  OSM address: 25 Ridgewood Road Springfield 05156
 Found 3 unmatched emergency.

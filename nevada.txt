@@ -1,73 +1,103 @@
 60 OSM hospitals
 45 Medicare hospitals
-1. Incline Village Health Center
-	880 Alder Street Incline Village 89451 (CMS:yes)
-	2.93 Incline Village Community Hospital
-	880 Alder Avenue Incline Village 89451
-2. Southern Nevada Adult Mental Health Services
-	6161 W Charleston Blvd Las Vegas 89146 (CMS:yes)
-	2.22 Kindred Hospital Las Vegas - Sahara
-	5110 West Sahara Avenue Las Vegas 89146
-3. Spring Mountain Treatment Center
-	7000 West Spring Mountain Road Las Vegas 89117 (CMS:no)
-	2.14 St. Rose Dominican San Martín Campus
-	8280 West Warm Springs Road Las Vegas 89113
-4. Seven Hills Behavioral Institute
-	3021 W Horizon Ridge Pkwy Henderson 89052 (CMS:no)
-	2.45 Saint Rose Dominican Hospital Siena Campus
-	3001 Saint Rose Parkway Henderson 89052
-5. Humboldt General Hospital
-	118 East Haskell Street Winnemucca 89445 (CMS:yes)
-	1.44 Mount Grant General Hospital
-	200 South A Street Hawthorne 89415
-6. Spring Valley Hospital Medical Center
-	5400 South Rainbow Blvd Las Vegas 89118 (CMS:yes)
-	2.16 Sunrise Hospital & Medical Center
-	3186 South Maryland Parkway Las Vegas 89109
-7. Dignity Health Saint Rose Dominican N L V Campus
-	1550 W Craig Ranch North Las Vegas 89031 (CMS:yes)
-	1.83 North Vista Hospital
-	1409 East Lake Mead Boulevard North Las Vegas 89030
-8. 99Th Medical Group (Nellis Afb)
-	99 Mdg 4700 Las Vegas Blvd Nellis Afb 89191 (CMS:yes)
-	1.82 Mike O'Callaghan Military Medical Center
-	4700 Las Vegas Boulevard North Nellis Air Force Base 89191
-9. Dini-Townsend Hospital At Nnmh
-	480 Galletti Way Sparks 89431 (CMS:no)
-	3.09 Northern Nevada Adult Mental Health Services
-	480 Galletti Way Sparks 89431
-10. Spring Mountain Sahara
-	5460 West Sahara Las Vegas 89146 (CMS:yes)
-	2.69 Kindred Hospital Las Vegas - Sahara
-	5110 West Sahara Avenue Las Vegas 89146
-11. Valley Hospital Medical Center
-	620 Shadow Lane Las Vegas 89106 (CMS:yes)
-	2.38 Sunrise Hospital & Medical Center
-	3186 South Maryland Parkway Las Vegas 89109
-Found 11 issues.
+1. Unmatched medicare hospital
+  Medicare name: Incline Village Health Center
+  Medicare address: 880 Alder Street Incline Village 89451
+  Medicare emergency services: yes
+  Best OSM Match: 2.93 Incline Village Community Hospital
+  OSM Address: 880 Alder Avenue Incline Village 89451
+2. Unmatched medicare hospital
+  Medicare name: Southern Nevada Adult Mental Health Services
+  Medicare address: 6161 W Charleston Blvd Las Vegas 89146
+  Medicare emergency services: yes
+  Best OSM Match: 2.22 Kindred Hospital Las Vegas - Sahara
+  OSM Address: 5110 West Sahara Avenue Las Vegas 89146
+3. Unmatched medicare hospital
+  Medicare name: Spring Mountain Treatment Center
+  Medicare address: 7000 West Spring Mountain Road Las Vegas 89117
+  Medicare emergency services: no
+  Best OSM Match: 2.14 St. Rose Dominican San Martín Campus
+  OSM Address: 8280 West Warm Springs Road Las Vegas 89113
+4. Unmatched medicare hospital
+  Medicare name: Seven Hills Behavioral Institute
+  Medicare address: 3021 W Horizon Ridge Pkwy Henderson 89052
+  Medicare emergency services: no
+  Best OSM Match: 2.45 Saint Rose Dominican Hospital Siena Campus
+  OSM Address: 3001 Saint Rose Parkway Henderson 89052
+5. Unmatched medicare hospital
+  Medicare name: Humboldt General Hospital
+  Medicare address: 118 East Haskell Street Winnemucca 89445
+  Medicare emergency services: yes
+  Best OSM Match: 1.44 Mount Grant General Hospital
+  OSM Address: 200 South A Street Hawthorne 89415
+6. Unmatched medicare hospital
+  Medicare name: Spring Valley Hospital Medical Center
+  Medicare address: 5400 South Rainbow Blvd Las Vegas 89118
+  Medicare emergency services: yes
+  Best OSM Match: 2.16 Sunrise Hospital & Medical Center
+  OSM Address: 3186 South Maryland Parkway Las Vegas 89109
+7. Unmatched medicare hospital
+  Medicare name: Dignity Health Saint Rose Dominican N L V Campus
+  Medicare address: 1550 W Craig Ranch North Las Vegas 89031
+  Medicare emergency services: yes
+  Best OSM Match: 1.83 North Vista Hospital
+  OSM Address: 1409 East Lake Mead Boulevard North Las Vegas 89030
+8. Unmatched medicare hospital
+  Medicare name: 99Th Medical Group (Nellis Afb)
+  Medicare address: 99 Mdg 4700 Las Vegas Blvd Nellis Afb 89191
+  Medicare emergency services: yes
+  Best OSM Match: 1.82 Mike O'Callaghan Military Medical Center
+  OSM Address: 4700 Las Vegas Boulevard North Nellis Air Force Base 89191
+9. Unmatched medicare hospital
+  Medicare name: Dini-Townsend Hospital At Nnmh
+  Medicare address: 480 Galletti Way Sparks 89431
+  Medicare emergency services: no
+  Best OSM Match: 3.09 Northern Nevada Adult Mental Health Services
+  OSM Address: 480 Galletti Way Sparks 89431
+10. Unmatched medicare hospital
+  Medicare name: Spring Mountain Sahara
+  Medicare address: 5460 West Sahara Las Vegas 89146
+  Medicare emergency services: yes
+  Best OSM Match: 2.69 Kindred Hospital Las Vegas - Sahara
+  OSM Address: 5110 West Sahara Avenue Las Vegas 89146
+11. Unmatched medicare hospital
+  Medicare name: Valley Hospital Medical Center
+  Medicare address: 620 Shadow Lane Las Vegas 89106
+  Medicare emergency services: yes
+  Best OSM Match: 2.38 Sunrise Hospital & Medical Center
+  OSM Address: 3186 South Maryland Parkway Las Vegas 89109
+Found 11 potential issues.
 
-Unmatched emergency=yes
-Sunrise Children's Hospital (0.00)
-	3186 South Maryland Parkway Las Vegas 89109
-Unmatched emergency=yes
-UMC Trauma Center (0.00)
-	- - - -
-Unmatched emergency=yes
-VA Sierra Nevada Health Care System (0.00)
-	975 Kirman Avenue Reno 89502
-Unmatched emergency=yes
-Carson-Tahoe Regional Medical Center (0.00)
-	- - - -
-Unmatched emergency=yes
-Owyhee Community Health Facility (0.00)
-	- - Owyhee 89832
-Unmatched emergency=yes
-Incline Village Community Hospital (2.93)
-	880 Alder Avenue Incline Village 89451
-Unmatched emergency=yes
-North Las Vegas VA Medical Center (0.00)
-	6900 North Pecos Road North Las Vegas 89086
-Unmatched emergency=yes
-Mike O'Callaghan Military Medical Center (1.82)
-	4700 Las Vegas Boulevard North Nellis Air Force Base 89191
+Unmatched emergency=yes in OSM
+  OSM name: Sunrise Children's Hospital
+  Score of best match: 0.00
+  OSM address: 3186 South Maryland Parkway Las Vegas 89109
+Unmatched emergency=yes in OSM
+  OSM name: UMC Trauma Center
+  Score of best match: 0.00
+  OSM address: - - - -
+Unmatched emergency=yes in OSM
+  OSM name: VA Sierra Nevada Health Care System
+  Score of best match: 0.00
+  OSM address: 975 Kirman Avenue Reno 89502
+Unmatched emergency=yes in OSM
+  OSM name: Carson-Tahoe Regional Medical Center
+  Score of best match: 0.00
+  OSM address: - - - -
+Unmatched emergency=yes in OSM
+  OSM name: Owyhee Community Health Facility
+  Score of best match: 0.00
+  OSM address: - - Owyhee 89832
+Unmatched emergency=yes in OSM
+  OSM name: Incline Village Community Hospital
+  Score of best match: 2.93
+  OSM address: 880 Alder Avenue Incline Village 89451
+Unmatched emergency=yes in OSM
+  OSM name: North Las Vegas VA Medical Center
+  Score of best match: 0.00
+  OSM address: 6900 North Pecos Road North Las Vegas 89086
+Unmatched emergency=yes in OSM
+  OSM name: Mike O'Callaghan Military Medical Center
+  Score of best match: 1.82
+  OSM address: 4700 Las Vegas Boulevard North Nellis Air Force Base 89191
 Found 8 unmatched emergency.

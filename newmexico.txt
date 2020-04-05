@@ -1,114 +1,161 @@
 71 OSM hospitals
 46 Medicare hospitals
-1. Gallup Indian Medical Center
-	516 E Nizhoni Blvd Gallup 87301 (CMS:yes)
-	3.01 Gallup Indian Medical Center
-	- - Gallup 87301
-2. Crownpoint Healthcare Facility
-	Junction Of Hwy 371 Crownpoint 87313 (CMS:yes)
-	2.42 Crownpoint Service Unit
-	- - Crownpoint 87313
-3. Mimbres Memorial Hospital
-	900 W Ash Deming 88031 (CMS:yes)
-	3.05 Mimbres Memorial Hospital
-	900 West Ash Street Deming 88030
-Presbyterian Santa Fe Medical Center
-	4801 Beckner Road Santa Fe 87507
-	 Emergency Mismatch (CMS:no)
-	Presbyterian Santa Fe Medical Center
-4. Dhhs Usphs Indian Health Services
-	Exit #102 Off I-40 1/2 Mile South San Fidel 87049 (CMS:yes)
-	1.14 Santa Fe Indian Hospital
-	1700 Cerrillos Road Santa Fe 87501
-5. Haven Behavioral Hospital Of Albuquerque
-	5400 Gibson Boulevard Se, 4Th Floor Box# 8 Albuquerque 87108 (CMS:no)
-	2.27 Raymond G. Murphy VA Medical Center
-	1501 San Pedro Boulevard Southeast Albuquerque 87108
-Carlsbad Medical Center
-	2430 West Pierce Street Carlsbad 88220
-	 Emergency Mismatch (CMS:no)
-	Carlsbad Medical Center
-6. Zuni Comprehensive Community Health Center
-	Route 301 North B Street Zuni 87327 (CMS:yes)
-	2.87 Zuni Comprehensive Health Center
-	21 B Avenue Zuni 87327
-7. Peak Behavioral Health Services, Llc
-	5065 Mcnutt Road (Bldg'S B, C & D) Santa Teresa 88008 (CMS:no)
-	2.89 Peak Behavioral Health
-	5055 McNutt Road Santa Teresa 88008
-8. Northern Navajo Medical Center
-	Us Hwy 491 North Shiprock 87420 (CMS:yes)
-	3.01 Northern Navajo Medical Center
-	- - Shiprock 87420
-9. Bhc Mesilla Valley Hospital, Llc
-	3751 Del Rey Boulevard Las Cruces 88012 (CMS:no)
-	2.70 Mesilla Valley Hospital
-	3751 Del Rey Boulevard - 88012
-10. Mescalero Phs Indian Hospital
-	P O Box 210 Mescalero 88340 (CMS:no)
-	2.35 Mescalero Service Unit
-	318 Abalone Loop Mescalero 88340
-11. Nor-Lea Hospital District
-	1600 North Main Ave Lovington 88260 (CMS:yes)
-	3.06 Nor Lea General Hospital
-	1600 North Main Street Lovington 88260
-12. Unm Hospital
-	2211 Lomas Boulevard Ne Albuquerque 87106 (CMS:yes)
-	2.72 UNM Carrie Tingley Hospital
-	1127 University Boulevard Northeast Albuquerque 87106
-13. Sierra Vista Hospital
-	800 East 9Th Avenue T Or C 87901 (CMS:yes)
-	3.03 Sierra Vista Hospital
-	800 East 9th Avenue Truth or Consequences 87901
-14. Central Desert Behavioral Health Center
-	1525 N Renaissance Blvd Ne Albuquerque 87107 (CMS:no)
-	1.97 Raymond G. Murphy VA Medical Center
-	1501 San Pedro Boulevard Southeast Albuquerque 87108
-Found 14 issues.
+1. Unmatched medicare hospital
+  Medicare name: Gallup Indian Medical Center
+  Medicare address: 516 E Nizhoni Blvd Gallup 87301
+  Medicare emergency services: yes
+  Best OSM Match: 3.01 Gallup Indian Medical Center
+  OSM Address: - - Gallup 87301
+2. Unmatched medicare hospital
+  Medicare name: Crownpoint Healthcare Facility
+  Medicare address: Junction Of Hwy 371 Crownpoint 87313
+  Medicare emergency services: yes
+  Best OSM Match: 2.42 Crownpoint Service Unit
+  OSM Address: - - Crownpoint 87313
+3. Unmatched medicare hospital
+  Medicare name: Mimbres Memorial Hospital
+  Medicare address: 900 W Ash Deming 88031
+  Medicare emergency services: yes
+  Best OSM Match: 3.05 Mimbres Memorial Hospital
+  OSM Address: 900 West Ash Street Deming 88030
+4. Emergency services mismatch
+  Medicare name: Presbyterian Santa Fe Medical Center
+  OSM name: Presbyterian Santa Fe Medical Center
+  OSM Address: 4801 Beckner Road Santa Fe 87507
+  Medicare emergency services: no
+  OSM Emergency: yes
+5. Unmatched medicare hospital
+  Medicare name: Dhhs Usphs Indian Health Services
+  Medicare address: Exit #102 Off I-40 1/2 Mile South San Fidel 87049
+  Medicare emergency services: yes
+  Best OSM Match: 1.14 Santa Fe Indian Hospital
+  OSM Address: 1700 Cerrillos Road Santa Fe 87501
+6. Unmatched medicare hospital
+  Medicare name: Haven Behavioral Hospital Of Albuquerque
+  Medicare address: 5400 Gibson Boulevard Se, 4Th Floor Box# 8 Albuquerque 87108
+  Medicare emergency services: no
+  Best OSM Match: 2.27 Raymond G. Murphy VA Medical Center
+  OSM Address: 1501 San Pedro Boulevard Southeast Albuquerque 87108
+7. Emergency services mismatch
+  Medicare name: Carlsbad Medical Center
+  OSM name: Carlsbad Medical Center
+  OSM Address: 2430 West Pierce Street Carlsbad 88220
+  Medicare emergency services: no
+  OSM Emergency: yes
+8. Unmatched medicare hospital
+  Medicare name: Zuni Comprehensive Community Health Center
+  Medicare address: Route 301 North B Street Zuni 87327
+  Medicare emergency services: yes
+  Best OSM Match: 2.87 Zuni Comprehensive Health Center
+  OSM Address: 21 B Avenue Zuni 87327
+9. Unmatched medicare hospital
+  Medicare name: Peak Behavioral Health Services, Llc
+  Medicare address: 5065 Mcnutt Road (Bldg'S B, C & D) Santa Teresa 88008
+  Medicare emergency services: no
+  Best OSM Match: 2.89 Peak Behavioral Health
+  OSM Address: 5055 McNutt Road Santa Teresa 88008
+10. Unmatched medicare hospital
+  Medicare name: Northern Navajo Medical Center
+  Medicare address: Us Hwy 491 North Shiprock 87420
+  Medicare emergency services: yes
+  Best OSM Match: 3.01 Northern Navajo Medical Center
+  OSM Address: - - Shiprock 87420
+11. Unmatched medicare hospital
+  Medicare name: Bhc Mesilla Valley Hospital, Llc
+  Medicare address: 3751 Del Rey Boulevard Las Cruces 88012
+  Medicare emergency services: no
+  Best OSM Match: 2.70 Mesilla Valley Hospital
+  OSM Address: 3751 Del Rey Boulevard - 88012
+12. Unmatched medicare hospital
+  Medicare name: Mescalero Phs Indian Hospital
+  Medicare address: P O Box 210 Mescalero 88340
+  Medicare emergency services: no
+  Best OSM Match: 2.35 Mescalero Service Unit
+  OSM Address: 318 Abalone Loop Mescalero 88340
+13. Unmatched medicare hospital
+  Medicare name: Nor-Lea Hospital District
+  Medicare address: 1600 North Main Ave Lovington 88260
+  Medicare emergency services: yes
+  Best OSM Match: 3.06 Nor Lea General Hospital
+  OSM Address: 1600 North Main Street Lovington 88260
+14. Unmatched medicare hospital
+  Medicare name: Unm Hospital
+  Medicare address: 2211 Lomas Boulevard Ne Albuquerque 87106
+  Medicare emergency services: yes
+  Best OSM Match: 2.72 UNM Carrie Tingley Hospital
+  OSM Address: 1127 University Boulevard Northeast Albuquerque 87106
+15. Unmatched medicare hospital
+  Medicare name: Sierra Vista Hospital
+  Medicare address: 800 East 9Th Avenue T Or C 87901
+  Medicare emergency services: yes
+  Best OSM Match: 3.03 Sierra Vista Hospital
+  OSM Address: 800 East 9th Avenue Truth or Consequences 87901
+16. Unmatched medicare hospital
+  Medicare name: Central Desert Behavioral Health Center
+  Medicare address: 1525 N Renaissance Blvd Ne Albuquerque 87107
+  Medicare emergency services: no
+  Best OSM Match: 1.97 Raymond G. Murphy VA Medical Center
+  OSM Address: 1501 San Pedro Boulevard Southeast Albuquerque 87108
+Found 16 potential issues.
 
-Unmatched emergency=yes
-Pine Hill Health Center (0.00)
-	7 Indian Service Rt 140 Pine Hill 87357
-Unmatched emergency=yes
--- (0.00)
-	- - - -
-Unmatched emergency=yes
-Raymond G. Murphy VA Medical Center (1.97)
-	1501 San Pedro Boulevard Southeast Albuquerque 87108
-Unmatched emergency=yes
-Gallup Indian Medical Center (3.01)
-	- - Gallup 87301
-Unmatched emergency=yes
-Northern Navajo Medical Center (3.01)
-	- - Shiprock 87420
-Unmatched emergency=yes
-Mimbres Memorial Hospital (3.05)
-	900 West Ash Street Deming 88030
-Unmatched emergency=yes
-Nor Lea General Hospital (3.06)
-	1600 North Main Street Lovington 88260
-Unmatched emergency=yes
-Presbyterian Kaseman Hospital (0.00)
-	8300 Constitution Avenue Northeast Albuquerque 87110
-Unmatched emergency=yes
-Sierra Vista Hospital (3.03)
-	800 East 9th Avenue Truth or Consequences 87901
-Unmatched emergency=yes
-Presbyterian Rust Medical Center (0.00)
-	2400 Unser Boulevard Southeast Rio Rancho 87124
-Unmatched emergency=yes
-University of New Mexico Hospital (0.00)
-	- - Albuquerque 87131
-Unmatched emergency=yes
-Zuni Comprehensive Health Center (2.87)
-	21 B Avenue Zuni 87327
-Unmatched emergency=yes
-Crownpoint Service Unit (2.42)
-	- - Crownpoint 87313
-Unmatched emergency=yes
-Acoma-Canoncito-Laguna Service Unit (0.00)
-	80B Veterans Boulevard Acoma 87034
-Unmatched emergency=yes
-Cuba Health Center (0.00)
-	6349 US 550 Cuba 87013
+Unmatched emergency=yes in OSM
+  OSM name: Pine Hill Health Center
+  Score of best match: 0.00
+  OSM address: 7 Indian Service Rt 140 Pine Hill 87357
+Unmatched emergency=yes in OSM
+  OSM name: --
+  Score of best match: 0.00
+  OSM address: - - - -
+Unmatched emergency=yes in OSM
+  OSM name: Raymond G. Murphy VA Medical Center
+  Score of best match: 1.97
+  OSM address: 1501 San Pedro Boulevard Southeast Albuquerque 87108
+Unmatched emergency=yes in OSM
+  OSM name: Gallup Indian Medical Center
+  Score of best match: 3.01
+  OSM address: - - Gallup 87301
+Unmatched emergency=yes in OSM
+  OSM name: Northern Navajo Medical Center
+  Score of best match: 3.01
+  OSM address: - - Shiprock 87420
+Unmatched emergency=yes in OSM
+  OSM name: Mimbres Memorial Hospital
+  Score of best match: 3.05
+  OSM address: 900 West Ash Street Deming 88030
+Unmatched emergency=yes in OSM
+  OSM name: Nor Lea General Hospital
+  Score of best match: 3.06
+  OSM address: 1600 North Main Street Lovington 88260
+Unmatched emergency=yes in OSM
+  OSM name: Presbyterian Kaseman Hospital
+  Score of best match: 0.00
+  OSM address: 8300 Constitution Avenue Northeast Albuquerque 87110
+Unmatched emergency=yes in OSM
+  OSM name: Sierra Vista Hospital
+  Score of best match: 3.03
+  OSM address: 800 East 9th Avenue Truth or Consequences 87901
+Unmatched emergency=yes in OSM
+  OSM name: Presbyterian Rust Medical Center
+  Score of best match: 0.00
+  OSM address: 2400 Unser Boulevard Southeast Rio Rancho 87124
+Unmatched emergency=yes in OSM
+  OSM name: University of New Mexico Hospital
+  Score of best match: 0.00
+  OSM address: - - Albuquerque 87131
+Unmatched emergency=yes in OSM
+  OSM name: Zuni Comprehensive Health Center
+  Score of best match: 2.87
+  OSM address: 21 B Avenue Zuni 87327
+Unmatched emergency=yes in OSM
+  OSM name: Crownpoint Service Unit
+  Score of best match: 2.42
+  OSM address: - - Crownpoint 87313
+Unmatched emergency=yes in OSM
+  OSM name: Acoma-Canoncito-Laguna Service Unit
+  Score of best match: 0.00
+  OSM address: 80B Veterans Boulevard Acoma 87034
+Unmatched emergency=yes in OSM
+  OSM name: Cuba Health Center
+  Score of best match: 0.00
+  OSM address: 6349 US 550 Cuba 87013
 Found 15 unmatched emergency.

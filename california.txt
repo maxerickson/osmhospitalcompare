@@ -1,678 +1,981 @@
 546 OSM hospitals
 383 Medicare hospitals
-Mission Community Hospital
-	14850 Roscoe Boulevard Panorama City 91402
-	 Emergency Mismatch (CMS:no)
-	Mission Community Hospital
-1. Dept Of State Hospitals - Napa
-	2100 Napa-Vallejo Highway Napa 94558 (CMS:no)
-	1.54 Queen of the Valley Medical Center
-	1000 Trancas Street Napa 95678
-2. Zuckerberg San Francisco General Hosp & Trauma Ctr
-	1001 Potrero Avenue San Francisco 94110 (CMS:yes)
-	2.85 San Francisco General Hospital
-	1001 Potrero Avenue San Francisco 94158
-3. Ocean View Psychiatric Health Facility
-	2600 Redondo Avenue, Suite 500 Long Beach 90806 (CMS:no)
-	2.30 Long Beach Memorial Hospital
-	2801 Atlantic Avenue Long Beach 90806
-Adventist Health Saint Helena
-	10 Woodland Road Saint Helena 94574
-	 Emergency Mismatch (CMS:no)
-	Adventist Health Saint Helena
-4. Kaiser Foundation Hospital Fontana
-	9961 Sierra Ave Fontana 92335 (CMS:yes)
-	3.04 Kaiser Permanente Fontana Medical Center
-	9961 Sierra Avenue Fontana 92335
-5. Kaiser Permanente Medical Center Redwood City
-	1100 Veterans Boulevard Redwood City 94063 (CMS:yes)
-	2.05 Cordilleras Mental Health Center
-	200 Edmonds Road Redwood City 94062
-6. Joyce Eisenberg Keefer Medical Center
-	7150 Tampa Avenue Reseda 91335 (CMS:no)
-	1.32 Kaiser Permanente Fontana Medical Center
-	9961 Sierra Avenue Fontana 92335
-Encino Hospital Medical Center
-	16237 Ventura Boulevard Encino 91436
-	 Emergency Mismatch (CMS:no)
-	Encino Hospital Medical Center
-Monterey Park Hospital
-	900 South Atlantic Boulevard Monterey Park 91754
-	 Emergency Mismatch (CMS:no)
-	Monterey Park Hospital
-Olympia Medical Center
-	5900 West Olympic Boulevard Los Angeles 90036
-	 Emergency Mismatch (CMS:no)
-	Olympia Medical Center
-7. Goleta Valley Cottage Hospital
-	351 S Patterson Ave Santa Barbara 93111 (CMS:yes)
-	2.76 Goleta Valley Cottage Hospital
-	351 South Patterson Avenue Goleta 93111
-Kaiser Permanente Medical Center South Bay
-	25825 South Vermont Avenue Harbor City 90710
-	 Emergency Mismatch (CMS:no)
-	Kaiser Permanente South Bay Medical Center
-West Hills Hospital & Medical Center
-	7300 Medical Center Drive West Hills 91307
-	 Emergency Mismatch (CMS:no)
-	West Hills Hospital & Medical Center
-8. Kaiser Permanente Medical Center Panorama City
-	13652 Cantara St Panorama City 91402 (CMS:no)
-	2.79 Kaiser Permanente Panorama City Medical Center
-	13651 Willard Street Panorama City 91402
-9. Shriners Hospitals For Children
-	3160 Geneva Street Los Angeles 90020 (CMS:no)
-	2.18 Gateways Hospital
-	1891 Effie Street Los Angeles 90026
-White Memorial Medical Center
-	1720 Cesar E. Chavez Avenue Los Angeles 90033
-	 Emergency Mismatch (CMS:no)
-	White Memorial Medical Center
-10. Adventist Health Tulare
-	869 North Cherry Street Tulare 93274 (CMS:yes)
-	1.30 Adventist Health Selma
-	1141 Rose Avenue Selma 93662
-Adventist Health Lodi Memorial
-	975 South Fairmont Avenue Lodi 95240
-	 Emergency Mismatch (CMS:no)
-	Adventist Health Lodi Memorial
-Adventist Health Reedley
-	327 West Cypress Avenue Reedley 93654
-	 Emergency Mismatch (CMS:no)
-	Adventist Health Reedley
-Adventist Health Sonora
-	900 Greenley Road Sonora 95370
-	 Emergency Mismatch (CMS:no)
-	Adventist Health Sonora
-11. Tarzana Treatment Center
-	18646 Oxnard Street Tarzana 91356 (CMS:no)
-	2.78 Providence Tarzana Medical Center
-	18321 Clark Street Tarzana 91356
-12. Aurora San Diego
-	11878 Avenue Of Industry San Diego 92128 (CMS:no)
-	1.95 Sharp Mesa Vista Hospital
-	7850 Vista Hill Avenue San Diego 92123
-13. Memorialcare Orange Coast Medical Center
-	9920 Talbert Avenue Fountain Valley 92708 (CMS:yes)
-	2.59 Orange Coast Memorial Medical Center
-	18111 Brookhurst Street Fountain Valley 92708
-Foothill Regional Medical Center
-	14662 Newport Avenue Tustin 92780
-	 Emergency Mismatch (CMS:no)
-	Foothill Regional Medical Center
-Kaiser Permanente Medical Center Baldwin Park
-	1011 Baldwin Park Boulevard Baldwin Park 91706
-	 Emergency Mismatch (CMS:no)
-	Kaiser Permanente Baldwin Park Medical Center
-14. Marinhealth Medical Center
-	250 Bon Air Road, Po Box 8010 Greenbrae 94904 (CMS:yes)
-	2.72 Marin General Hospital
-	250 Bon Air Road Greenbrae 94904
-Long Beach Memorial Medical Center
-	2801 Atlantic Avenue Long Beach 90806
-	 Emergency Mismatch (CMS:no)
-	Long Beach Memorial Hospital
-15. Santa Cruz County Psychiatric Health Facility
-	2250 Soquel Avenue, Suite 150 Santa Cruz 95062 (CMS:no)
-	1.90 Sutter Maternity & Surgery Center
-	2900 Chanticleer Avenue Santa Cruz 95065
-16. California Pacific Medical Center- Van Ness Campus
-	1101 Van Ness Avenue San Francisco 94109 (CMS:yes)
-	2.27 Saint Francis Memorial Hospital
-	900 Hyde Street San Francisco 94109
-Kaiser Permanente Medical Center West La
-	6041 Cadillac Avenue Los Angeles 90034
-	 Emergency Mismatch (CMS:no)
-	Kaiser Permanente West Los Angeles Medical Center
-17. Bhc Alhambra Hosp
-	4619 N Rosemead Blvd Rosemead 91770 (CMS:no)
-	1.02 Pomona Valley Hospital Medical Center
-	1798 North Garey Avenue Pomona 91767
-18. Santa Barbara Cottage Hospital
-	400 West Pueblo Santa Barbara 93102 (CMS:yes)
-	2.78 Cottage Hospital
-	400 West Pueblo Street Santa Barbara 93105
-19. Southwest Healthcare System
-	25500 Medical Center Drive Murrieta 92562 (CMS:yes)
-	3.08 Rancho Springs Medical Center
-	25500 Medical Center Drive Murrieta 92562
-Henry Mayo Newhall Hospital
-	23845 McBean Parkway Valencia 91355
-	 Emergency Mismatch (CMS:no)
-	Henry Mayo Newhall Hospital
-20. Santa Barbara County Psychiatric Health Facility
-	315 Camino Del Remedio Santa Barbara 93110 (CMS:no)
-	1.73 Cottage Hospital
-	400 West Pueblo Street Santa Barbara 93105
-21. Lucile Salter Packard Children's Hsp At Stanford
-	725 Welch Road Palo Alto 94304 (CMS:no)
-	2.06 VA Palo Alto Health Care System
-	3801 Miranda Avenue Palo Alto 94304
-22. Willow Rock Center
-	2050 Fairmont Drive San Leandro 94578 (CMS:no)
-	2.90 John George Psychiatric Hospital
-	2060 Fairmont Drive San Leandro 94578
-23. Menifee Global Medical Center
-	28400 Mccall B0Ulevard Sun City 92585 (CMS:no)
-	2.56 Menifee Valley Medical Center
-	28400 McCall Boulevard Menifee 92585
-24. John Muir Medical Center - Walnut Creek Campus
-	1601 Ygnacio Valley Rd Walnut Creek 94598 (CMS:yes)
-	2.95 John Muir Medical Center
-	1601 Ygnacio Canal Trail Walnut Creek 94598
-25. Adventist Health Vallejo
-	525 Oregon St Vallejo 94590 (CMS:no)
-	1.93 Kaiser Permanente Vallejo Hospital & Medical Offices
-	975 Sereno Drive Vallejo 94589
-26. Torrance Memorial Medical Center
-	3330 Lomita Blvd Torrance 90509 (CMS:yes)
-	2.45 Del Amo Hospital
-	3330 Lomita Boulevard Torrance 90505
-27. Cedar-Sinai Marina Del Rey Hospital
-	4650 Lincoln Blvd Marina Del Rey 90291 (CMS:no)
-	3.03 Marina Del Rey Hospital
-	4650 Lincoln Boulevard Marina Del Rey 90292
-28. Saint Joseph's Medical Center Of Stockton
-	1800 N California St Stockton 95204 (CMS:yes)
-	2.99 Saint Joseph's Behavioral Health Center
-	2510 North California Street Stockton 95204
-Mark Twain Medical Center
-	768 Mountain Ranch Road San Andreas 95249
-	 Emergency Mismatch (CMS:no)
-	Mark Twain Medical Center
-29. Palomar Health Downtown Campus
-	555 East Valley Parkway Escondido 92025 (CMS:yes)
-	0.96 Naval Hospital Camp Pendleton
-	200 Mercy Circle Oceanside 92055
-East Los Angeles Doctors Hospital
-	4060 Whittier Boulevard Los Angeles 90023
-	 Emergency Mismatch (CMS:no)
-	East Los Angeles Doctors Hospital
-30. Langley Porter Psychiatric Institute
-	401 Parnassus Avenue San Francisco 94143 (CMS:no)
-	1.84 CPMC Davies Campus
-	45 Castro Street San Francisco 94114
-31. Emanate Health Foothill Presbyterian Hospital
-	250 S Grand Ave Glendora 91740 (CMS:no)
-	2.94 Foothill Presbyterian Hospital
-	250 South Grand Avenue Glendora 91741
-32. Sutter Center For Psychiatry
-	7700 Folsom Blvd Sacramento 95826 (CMS:no)
-	2.02 Valley Recovery Center of California
-	2221 Fair Oaks Boulevard Sacramento 95825
-33. Colusa Medical Center
-	199 E Webster Street Colusa 95932 (CMS:yes)
-	1.47 Enloe Medical Center
-	1531 Esplanade Chico 95926
-34. Nh Camp Pendleton
-	200 Mercy Circle Camp Pendleton Camp Pendleton 92055 (CMS:yes)
-	2.04 Naval Hospital Camp Pendleton
-	200 Mercy Circle Oceanside 92055
-Kaiser Permanente Medical Center Woodland Hills
-	5601 De Soto Avenue Woodland Hills 91365
-	 Emergency Mismatch (CMS:no)
-	Kaiser Permanente Woodland Hills Medical Center
-Children's Hospital Of Orange County
-	1201 West la Veta Avenue Orange 92868
-	 Emergency Mismatch (CMS:no)
-	Children's Hospital of Orange County
-35. Pomerado Hospital
-	15615 Pomerado Road Poway 92064 (CMS:yes)
-	3.02 Palomar Medical Center Poway
-	15615 Pomerado Road Poway 92064
-36. Dept Of State Hospitals - Metropolitan - Psy
-	11401 S Norwalk Blvd Norwalk 90650 (CMS:yes)
-	2.43 Metropolitan State Hospital
-	11401 Bloomfield Avenue Norwalk 90650
-37. Adventist Health Tehachapi Valley
-	1100 Magellan Tehachapi 93561 (CMS:yes)
-	3.07 Adventist Health Tehachapi Valley
-	115 West E Street Tehachapi 93561
-38. Aurora Behavioral Healthcare-Santa Rosa, Llc
-	1287 Fulton Road Santa Rosa 95401 (CMS:yes)
-	1.96 Sutter Santa Rosa Regional Hospital
-	30 Mark West Springs Road Santa Rosa 95403
-Kaiser Permanente Medical Center Los Angeles
-	4867 Sunset Boulevard Los Angeles 90027
-	 Emergency Mismatch (CMS:no)
-	Kaiser Permanente Los Angeles Medical Center
-Greater El Monte Community Hospital
-	1701 Santa Anita Avenue South El Monte 91733
-	 Emergency Mismatch (CMS:no)
-	Greater El Monte Community Hospital
-39. Kern Valley Healthcare District
-	6412 Laurel Ave Lake Isabella 93240 (CMS:yes)
-	2.27 Kern Valley Hospital
-	6412 Laurel Avenue Mountain Mesa 93240
-40. 60Th Medical Group (Travis Afb)
-	103 Bodin Circle Fairfield Fairfield 94533 (CMS:yes)
-	2.36 NorthBay Medical Center
-	1200 B Gale Wilson Boulevard Fairfield 94533
-Valley Presbyterian Hospital
-	15107 Vanowen Street Van Nuys 91405
-	 Emergency Mismatch (CMS:no)
-	Valley Presbyterian Hospital
-41. Kaiser Permanente Medical Center Orange County - Anahe
-	3440 E La Palma Ave Anaheim 92806 (CMS:yes)
-	3.08 Kaiser Permanente Orange County – Anaheim Medical Center
-	3440 East La Palma Avenue Anaheim 92806
-42. Huntington Memorial Hospital
-	100 W California Blvd Pasadena 91109 (CMS:yes)
-	3.00 Huntington Hospital
-	100 West California Boulevard Pasadena 91105
-43. Sempervirens
-	720 Wood St Eureka 95501 (CMS:no)
-	2.27 Saint Josephs Hospital
-	2700 Dolbeer Street Eureka 95501
-44. Bakersfield Behavioral Healthcare Hospital, Llc
-	5201 White Lane Bakersfield 93309 (CMS:no)
-	2.38 Good Samaritan Hospital
-	901 Olive Drive Bakersfield 93309
-Madera Community Hospital
-	1250 East Almond Avenue Madera 93637
-	 Emergency Mismatch (CMS:no)
-	Madera Community Hospital
-Bear Valley Community Hospital
-	41870 Garstin Drive Big Bear Lake 92315
-	 Emergency Mismatch (CMS:no)
-	Bear Valley Community Hospital
-45. University Of California Irvine Med Center
-	101 City Drive South Orange 92868 (CMS:yes)
-	3.01 UCI Medical Center
-	101 The City Drive South Orange 92868
-46. California Pacific Medical Ctr-Davies Campus Hosp
-	601 Duboce Avenue San Francisco 94117 (CMS:no)
-	2.25 California Pacific Medical Center
-	2333 Buchanan Street San Francisco 94115
-Hazel Hawkins Memorial Hospital
-	911 Sunset Drive Hollister 95023
-	 Emergency Mismatch (CMS:no)
-	Hazel Hawkins Memorial Hospital
-Alhambra Hospital Medical Center
-	100 South Raymond Avenue Alhambra 91801
-	 Emergency Mismatch (CMS:no)
-	Alhambra Hospital Medical Center
-47. Aurora Charter Oak
-	1161 E Covina Blvd Covina 91724 (CMS:no)
-	1.81 Inter-Community Hospital
-	210 West San Bernardino Road Covina 91723
-48. Sierra Vista Hospital, Inc
-	8001 Bruceville Road Sacramento 95823 (CMS:no)
-	2.90 Kaiser Permanente South Sacramento Medical Center
-	6600 Bruceville Road Sacramento 95823
-49. Nh Twenty Nine Palms
-	1145 Sturgis Road Twentynine Palms 92278 (CMS:yes)
-	3.06 Robert E. Bush Naval Hospital
-	1145 Sturgis Road Twentynine Palms 92278
-Memorial Hospital Of Gardena
-	1145 West Redondo Beach Boulevard Gardena 90247
-	 Emergency Mismatch (CMS:no)
-	Memorial Hospital of Gardena
-50. Kaiser Permanente Psychiatric Health Facility-Sant
-	3840 Homestead Road Santa Clara 95051 (CMS:yes)
-	2.28 Kaiser Permanente Santa Clara Medical Center
-	710 Lawrence Expressway Santa Clara 95051
-Heritage Oaks Hospital
-	4250 Auburn Boulevard Sacramento 95841
-	 Emergency Mismatch (CMS:yes)
-	Heritage Oaks Hospital
-51. Southern California Hospital At Hollywood
-	6245 De Longpre Ave Hollywood 90028 (CMS:yes)
-	2.82 Southern California Hospital Hollywood
-	6245 De Longpre Avenue Los Angeles 90028
-52. Resnick Neuropsychiatric Hospital At Ucla
-	150 Medical Plaza-Rm-4230C Los Angeles 90095 (CMS:yes)
-	2.41 Mattel Children's Hospital
-	757 Westwood Plaza Los Angeles 90095
-Los Robles Hospital & Medical Center
-	215 West Janns Road Thousand Oaks 91360
-	 Emergency Mismatch (CMS:no)
-	Los Robles Hospital & Medical Center
-Marian Regional Medical Center
-	1400 East Church Street Santa Maria 93454
-	 Emergency Mismatch (CMS:no)
-	Marian Medical Center
-Rady Children's Hospital - San Diego
-	3020 Children's Way San Diego 92123
-	 Emergency Mismatch (CMS:no)
-	Rady Children's Hospital-San Diego
-53. Nmc San Diego
-	34800 Bob Wilson Drive San Diego 92134 (CMS:yes)
-	2.73 Naval Medical Center San Diego
-	34800 Bob Wilson Drive San Diego 92101
-54. Newport Bay Hospital
-	1501 E 16Th St Newport Beach 92663 (CMS:no)
-	2.28 Hoag Memorial Hospital Presbyterian
-	1 Hoag Drive Newport Beach 92663
-55. Lac+Usc Medical Center
-	1200 N State St, Room C2K100 Los Angeles 90033 (CMS:yes)
-	2.43 White Memorial Medical Center
-	1720 Cesar E. Chavez Avenue Los Angeles 90033
-56. Kaiser Permanente Medical Center Oakland/Richmond
-	275 West Macarthur Boulevard Oakland 94611 (CMS:yes)
-	2.56 Kaiser Permanente Oakland Medical Center
-	3600 Broadway Oakland 94611
-57. Miraclemile Medical Center
-	6000 San Vicente Blvd Los Angeles 90036 (CMS:no)
-	2.77 Olympia Medical Center
-	5900 West Olympic Boulevard Los Angeles 90036
-58. Children's Hospital At Mission
-	27700 Medical Center Rd, 5Th Floor Mission Viejo 92691 (CMS:yes)
-	2.84 Mission Hospital
-	27700 Medical Center Road Mission Viejo 92691
-59. Aurora Vista Del Mar Hospital
-	801 Seneca St Ventura 93001 (CMS:no)
-	2.05 Community Memorial Hospital
-	147 North Brent Street Ventura 93003
-Anaheim Global Medical Center
-	1025 South Anaheim Boulevard Anaheim 92805
-	 Emergency Mismatch (CMS:no)
-	Anaheim Global Medical Center
-60. Fresno Surgical Hospital
-	6125 North Fresno St Fresno 93710 (CMS:no)
-	2.43 Fresno Heart & Surgical Hospital
-	15 East Audubon Drive Fresno 93720
-61. John Muir Behavioral Health Center
-	2740 Grant Street Concord 94524 (CMS:yes)
-	2.65 John Muir Medical Center, Concord
-	2540 East Street Concord 94520
-La Palma Intercommunity Hospital
-	7901 Walker Street La Palma 90623
-	 Emergency Mismatch (CMS:no)
-	La Palma Intercommunity Hospital
-Hoag Orthopedic Institute
-	16200 Sand Canyon Avenue Irvine 92618
-	 Emergency Mismatch (CMS:no)
-	Hoag Hospital Irvine
-62. College Hospital
-	10802 College Pl Cerritos 90703 (CMS:no)
-	1.14 Keck Hospital of USC
-	1500 San Pablo Street Los Angeles 90033
-Centinela Hospital Medical Center
-	555 East Hardy Street Inglewood 90301
-	 Emergency Mismatch (CMS:no)
-	Centinela Hospital Medical Center
-Kaiser Permanente Medical Center Downey
-	9333 East Imperial Highway Downey 90242
-	 Emergency Mismatch (CMS:no)
-	Kaiser Permanente Downey Medical Center
-63. Weed Ach (Fort Irwin)
-	166 4Th Street Fort Irwin 92310 (CMS:yes)
-	2.20 Weed Army Community Hospital
-	390 North Loop Road Fort Irwin 92310
-64. San Jose Behavioral Health
-	455 Silicon Valley Boulevard San Jose 95138 (CMS:no)
-	1.78 O’Connor Hospital
-	2105 Forest Avenue San Jose 95128
-65. Adventist Health And Rideout
-	726 4Th St Marysville 95901 (CMS:yes)
-	1.62 Rideout Regional Medical Center
-	726 4th Street Marysville -
-66. Eastern Plumas Hospital - Portola Campus
-	500 First Avenue Portola 96122 (CMS:yes)
-	2.75 --
-	500 1st Avenue Portola 96122
-67. California Pacific Medical Center - Mission Bernal
-	3555 Cesar Chavez Street San Francisco 94110 (CMS:yes)
-	3.01 CPMC Saint Luke's Campus
-	3555 Cesar Chavez Street San Francisco 94110
-Providence Little Co Of Mary Med Ctr San Pedro
-	1300 West 7th Street San Pedro 90732
-	 Emergency Mismatch (CMS:no)
-	Providence Little Company of Mary Medical Center San Pedro
-68. Santa Monica - Ucla Med Ctr & Orthopaedic Hospital
-	1250 16Th Street Santa Monica 90404 (CMS:yes)
-	2.96 UCLA Medical Center - Santa Monica
-	1250 16th Street Santa Monica 90404
-69. Fremont Hospital
-	39001 Sundale Drive Fremont 94538 (CMS:no)
-	2.51 Washington Hospital
-	2000 Mowry Avenue Fremont 94538
-70. Kaiser Foundation Hospital Manteca
-	1777 West Yosemite Ave Manteca 95337 (CMS:yes)
-	3.09 Kaiser Permanente Manteca Medical Center
-	1777 West Yosemite Avenue Manteca 95337
-Providence Little Company Of Mary Med Ctr Torrance
-	4101 Torrance Boulevard Torrance 90503
-	 Emergency Mismatch (CMS:no)
-	Providence Little Company of Mary Medical Center Torrance
-71. Kaiser Foundation Hospital
-	99 Montecillo Rd San Rafael 94903 (CMS:yes)
-	3.05 Kaiser Permanente San Rafael Medical Center
-	99 Montecillo Road San Rafael 94903
-72. John C Fremont Healthcare District
-	5189 Hospital Road Mariposa 95338 (CMS:yes)
-	3.00 --
-	5189 Hospital Road Mariposa 95338
-73. Ucsf Medical Center
-	505 Parnassus Ave, Box 0296 San Francisco 94143 (CMS:yes)
-	1.97 Saint Mary's Medical Center
-	450 Stanyan Street San Francisco 94117
-74. Kaiser Foundation Hospital And Rehab Center
-	975 Sereno Dr Vallejo 94589 (CMS:yes)
-	3.02 Kaiser Permanente Vallejo Hospital & Medical Offices
-	975 Sereno Drive Vallejo 94589
-Saint Francis Medical Center
-	3630 East Imperial Highway Lynwood 90262
-	 Emergency Mismatch (CMS:no)
-	Saint Francis Medical Center
-75. Jewish Home & Rehab Center
-	302 Silver Avenue San Francisco 94112 (CMS:no)
-	1.98 Kaiser Permanente Medical Center
-	2425 Geary Boulevard San Francisco 94115
-76. Children's Hosp Of Los Angeles
-	4650 Sunset Blvd, Ms 108 Los Angeles 90027 (CMS:yes)
-	2.93 Children's Hospital Los Angeles
-	4650 Sunset Boulevard Los Angeles 90029
-77. Telecare Heritage Psychiatric Health Facility
-	2633 E 27Th Street, Building B Oakland 94601 (CMS:no)
-	1.86 Children's Hospital & Research Center Oakland
-	747 52nd Street Oakland 94609
-Good Samaritan Hospital
-	1225 Wilshire Boulevard Los Angeles 90017
-	 Emergency Mismatch (CMS:no)
-	Good Samaritan Hospital
-Found 77 issues.
+1. Emergency services mismatch
+  Medicare name: Mission Community Hospital
+  OSM name: Mission Community Hospital
+  OSM Address: 14850 Roscoe Boulevard Panorama City 91402
+  Medicare emergency services: no
+  OSM Emergency: yes
+2. Unmatched medicare hospital
+  Medicare name: Dept Of State Hospitals - Napa
+  Medicare address: 2100 Napa-Vallejo Highway Napa 94558
+  Medicare emergency services: no
+  Best OSM Match: 1.54 Queen of the Valley Medical Center
+  OSM Address: 1000 Trancas Street Napa 95678
+3. Unmatched medicare hospital
+  Medicare name: Zuckerberg San Francisco General Hosp & Trauma Ctr
+  Medicare address: 1001 Potrero Avenue San Francisco 94110
+  Medicare emergency services: yes
+  Best OSM Match: 2.85 San Francisco General Hospital
+  OSM Address: 1001 Potrero Avenue San Francisco 94158
+4. Unmatched medicare hospital
+  Medicare name: Ocean View Psychiatric Health Facility
+  Medicare address: 2600 Redondo Avenue, Suite 500 Long Beach 90806
+  Medicare emergency services: no
+  Best OSM Match: 2.30 Long Beach Memorial Hospital
+  OSM Address: 2801 Atlantic Avenue Long Beach 90806
+5. Emergency services mismatch
+  Medicare name: Adventist Health Saint Helena
+  OSM name: Adventist Health Saint Helena
+  OSM Address: 10 Woodland Road Saint Helena 94574
+  Medicare emergency services: no
+  OSM Emergency: yes
+6. Unmatched medicare hospital
+  Medicare name: Kaiser Foundation Hospital Fontana
+  Medicare address: 9961 Sierra Ave Fontana 92335
+  Medicare emergency services: yes
+  Best OSM Match: 3.04 Kaiser Permanente Fontana Medical Center
+  OSM Address: 9961 Sierra Avenue Fontana 92335
+7. Unmatched medicare hospital
+  Medicare name: Kaiser Permanente Medical Center Redwood City
+  Medicare address: 1100 Veterans Boulevard Redwood City 94063
+  Medicare emergency services: yes
+  Best OSM Match: 2.05 Cordilleras Mental Health Center
+  OSM Address: 200 Edmonds Road Redwood City 94062
+8. Unmatched medicare hospital
+  Medicare name: Joyce Eisenberg Keefer Medical Center
+  Medicare address: 7150 Tampa Avenue Reseda 91335
+  Medicare emergency services: no
+  Best OSM Match: 1.32 Kaiser Permanente Fontana Medical Center
+  OSM Address: 9961 Sierra Avenue Fontana 92335
+9. Emergency services mismatch
+  Medicare name: Encino Hospital Medical Center
+  OSM name: Encino Hospital Medical Center
+  OSM Address: 16237 Ventura Boulevard Encino 91436
+  Medicare emergency services: no
+  OSM Emergency: yes
+10. Emergency services mismatch
+  Medicare name: Monterey Park Hospital
+  OSM name: Monterey Park Hospital
+  OSM Address: 900 South Atlantic Boulevard Monterey Park 91754
+  Medicare emergency services: no
+  OSM Emergency: yes
+11. Emergency services mismatch
+  Medicare name: Olympia Medical Center
+  OSM name: Olympia Medical Center
+  OSM Address: 5900 West Olympic Boulevard Los Angeles 90036
+  Medicare emergency services: no
+  OSM Emergency: yes
+12. Unmatched medicare hospital
+  Medicare name: Goleta Valley Cottage Hospital
+  Medicare address: 351 S Patterson Ave Santa Barbara 93111
+  Medicare emergency services: yes
+  Best OSM Match: 2.76 Goleta Valley Cottage Hospital
+  OSM Address: 351 South Patterson Avenue Goleta 93111
+13. Emergency services mismatch
+  Medicare name: Kaiser Permanente Medical Center South Bay
+  OSM name: Kaiser Permanente South Bay Medical Center
+  OSM Address: 25825 South Vermont Avenue Harbor City 90710
+  Medicare emergency services: no
+  OSM Emergency: yes
+14. Emergency services mismatch
+  Medicare name: West Hills Hospital & Medical Center
+  OSM name: West Hills Hospital & Medical Center
+  OSM Address: 7300 Medical Center Drive West Hills 91307
+  Medicare emergency services: no
+  OSM Emergency: yes
+15. Unmatched medicare hospital
+  Medicare name: Kaiser Permanente Medical Center Panorama City
+  Medicare address: 13652 Cantara St Panorama City 91402
+  Medicare emergency services: no
+  Best OSM Match: 2.79 Kaiser Permanente Panorama City Medical Center
+  OSM Address: 13651 Willard Street Panorama City 91402
+16. Unmatched medicare hospital
+  Medicare name: Shriners Hospitals For Children
+  Medicare address: 3160 Geneva Street Los Angeles 90020
+  Medicare emergency services: no
+  Best OSM Match: 2.18 Gateways Hospital
+  OSM Address: 1891 Effie Street Los Angeles 90026
+17. Emergency services mismatch
+  Medicare name: White Memorial Medical Center
+  OSM name: White Memorial Medical Center
+  OSM Address: 1720 Cesar E. Chavez Avenue Los Angeles 90033
+  Medicare emergency services: no
+  OSM Emergency: yes
+18. Unmatched medicare hospital
+  Medicare name: Adventist Health Tulare
+  Medicare address: 869 North Cherry Street Tulare 93274
+  Medicare emergency services: yes
+  Best OSM Match: 1.30 Adventist Health Selma
+  OSM Address: 1141 Rose Avenue Selma 93662
+19. Emergency services mismatch
+  Medicare name: Adventist Health Lodi Memorial
+  OSM name: Adventist Health Lodi Memorial
+  OSM Address: 975 South Fairmont Avenue Lodi 95240
+  Medicare emergency services: no
+  OSM Emergency: yes
+20. Emergency services mismatch
+  Medicare name: Adventist Health Reedley
+  OSM name: Adventist Health Reedley
+  OSM Address: 327 West Cypress Avenue Reedley 93654
+  Medicare emergency services: no
+  OSM Emergency: yes
+21. Emergency services mismatch
+  Medicare name: Adventist Health Sonora
+  OSM name: Adventist Health Sonora
+  OSM Address: 900 Greenley Road Sonora 95370
+  Medicare emergency services: no
+  OSM Emergency: yes
+22. Unmatched medicare hospital
+  Medicare name: Tarzana Treatment Center
+  Medicare address: 18646 Oxnard Street Tarzana 91356
+  Medicare emergency services: no
+  Best OSM Match: 2.78 Providence Tarzana Medical Center
+  OSM Address: 18321 Clark Street Tarzana 91356
+23. Unmatched medicare hospital
+  Medicare name: Aurora San Diego
+  Medicare address: 11878 Avenue Of Industry San Diego 92128
+  Medicare emergency services: no
+  Best OSM Match: 1.95 Sharp Mesa Vista Hospital
+  OSM Address: 7850 Vista Hill Avenue San Diego 92123
+24. Unmatched medicare hospital
+  Medicare name: Memorialcare Orange Coast Medical Center
+  Medicare address: 9920 Talbert Avenue Fountain Valley 92708
+  Medicare emergency services: yes
+  Best OSM Match: 2.59 Orange Coast Memorial Medical Center
+  OSM Address: 18111 Brookhurst Street Fountain Valley 92708
+25. Emergency services mismatch
+  Medicare name: Foothill Regional Medical Center
+  OSM name: Foothill Regional Medical Center
+  OSM Address: 14662 Newport Avenue Tustin 92780
+  Medicare emergency services: no
+  OSM Emergency: yes
+26. Emergency services mismatch
+  Medicare name: Kaiser Permanente Medical Center Baldwin Park
+  OSM name: Kaiser Permanente Baldwin Park Medical Center
+  OSM Address: 1011 Baldwin Park Boulevard Baldwin Park 91706
+  Medicare emergency services: no
+  OSM Emergency: yes
+27. Unmatched medicare hospital
+  Medicare name: Marinhealth Medical Center
+  Medicare address: 250 Bon Air Road, Po Box 8010 Greenbrae 94904
+  Medicare emergency services: yes
+  Best OSM Match: 2.72 Marin General Hospital
+  OSM Address: 250 Bon Air Road Greenbrae 94904
+28. Emergency services mismatch
+  Medicare name: Long Beach Memorial Medical Center
+  OSM name: Long Beach Memorial Hospital
+  OSM Address: 2801 Atlantic Avenue Long Beach 90806
+  Medicare emergency services: no
+  OSM Emergency: yes
+29. Unmatched medicare hospital
+  Medicare name: Santa Cruz County Psychiatric Health Facility
+  Medicare address: 2250 Soquel Avenue, Suite 150 Santa Cruz 95062
+  Medicare emergency services: no
+  Best OSM Match: 1.90 Sutter Maternity & Surgery Center
+  OSM Address: 2900 Chanticleer Avenue Santa Cruz 95065
+30. Unmatched medicare hospital
+  Medicare name: California Pacific Medical Center- Van Ness Campus
+  Medicare address: 1101 Van Ness Avenue San Francisco 94109
+  Medicare emergency services: yes
+  Best OSM Match: 2.27 Saint Francis Memorial Hospital
+  OSM Address: 900 Hyde Street San Francisco 94109
+31. Emergency services mismatch
+  Medicare name: Kaiser Permanente Medical Center West La
+  OSM name: Kaiser Permanente West Los Angeles Medical Center
+  OSM Address: 6041 Cadillac Avenue Los Angeles 90034
+  Medicare emergency services: no
+  OSM Emergency: yes
+32. Unmatched medicare hospital
+  Medicare name: Bhc Alhambra Hosp
+  Medicare address: 4619 N Rosemead Blvd Rosemead 91770
+  Medicare emergency services: no
+  Best OSM Match: 1.02 Pomona Valley Hospital Medical Center
+  OSM Address: 1798 North Garey Avenue Pomona 91767
+33. Unmatched medicare hospital
+  Medicare name: Santa Barbara Cottage Hospital
+  Medicare address: 400 West Pueblo Santa Barbara 93102
+  Medicare emergency services: yes
+  Best OSM Match: 2.78 Cottage Hospital
+  OSM Address: 400 West Pueblo Street Santa Barbara 93105
+34. Unmatched medicare hospital
+  Medicare name: Southwest Healthcare System
+  Medicare address: 25500 Medical Center Drive Murrieta 92562
+  Medicare emergency services: yes
+  Best OSM Match: 3.08 Rancho Springs Medical Center
+  OSM Address: 25500 Medical Center Drive Murrieta 92562
+35. Emergency services mismatch
+  Medicare name: Henry Mayo Newhall Hospital
+  OSM name: Henry Mayo Newhall Hospital
+  OSM Address: 23845 McBean Parkway Valencia 91355
+  Medicare emergency services: no
+  OSM Emergency: yes
+36. Unmatched medicare hospital
+  Medicare name: Santa Barbara County Psychiatric Health Facility
+  Medicare address: 315 Camino Del Remedio Santa Barbara 93110
+  Medicare emergency services: no
+  Best OSM Match: 1.73 Cottage Hospital
+  OSM Address: 400 West Pueblo Street Santa Barbara 93105
+37. Unmatched medicare hospital
+  Medicare name: Lucile Salter Packard Children's Hsp At Stanford
+  Medicare address: 725 Welch Road Palo Alto 94304
+  Medicare emergency services: no
+  Best OSM Match: 2.06 VA Palo Alto Health Care System
+  OSM Address: 3801 Miranda Avenue Palo Alto 94304
+38. Unmatched medicare hospital
+  Medicare name: Willow Rock Center
+  Medicare address: 2050 Fairmont Drive San Leandro 94578
+  Medicare emergency services: no
+  Best OSM Match: 2.90 John George Psychiatric Hospital
+  OSM Address: 2060 Fairmont Drive San Leandro 94578
+39. Unmatched medicare hospital
+  Medicare name: Menifee Global Medical Center
+  Medicare address: 28400 Mccall B0Ulevard Sun City 92585
+  Medicare emergency services: no
+  Best OSM Match: 2.56 Menifee Valley Medical Center
+  OSM Address: 28400 McCall Boulevard Menifee 92585
+40. Unmatched medicare hospital
+  Medicare name: John Muir Medical Center - Walnut Creek Campus
+  Medicare address: 1601 Ygnacio Valley Rd Walnut Creek 94598
+  Medicare emergency services: yes
+  Best OSM Match: 2.95 John Muir Medical Center
+  OSM Address: 1601 Ygnacio Canal Trail Walnut Creek 94598
+41. Unmatched medicare hospital
+  Medicare name: Adventist Health Vallejo
+  Medicare address: 525 Oregon St Vallejo 94590
+  Medicare emergency services: no
+  Best OSM Match: 1.93 Kaiser Permanente Vallejo Hospital & Medical Offices
+  OSM Address: 975 Sereno Drive Vallejo 94589
+42. Unmatched medicare hospital
+  Medicare name: Torrance Memorial Medical Center
+  Medicare address: 3330 Lomita Blvd Torrance 90509
+  Medicare emergency services: yes
+  Best OSM Match: 2.45 Del Amo Hospital
+  OSM Address: 3330 Lomita Boulevard Torrance 90505
+43. Unmatched medicare hospital
+  Medicare name: Cedar-Sinai Marina Del Rey Hospital
+  Medicare address: 4650 Lincoln Blvd Marina Del Rey 90291
+  Medicare emergency services: no
+  Best OSM Match: 3.03 Marina Del Rey Hospital
+  OSM Address: 4650 Lincoln Boulevard Marina Del Rey 90292
+44. Unmatched medicare hospital
+  Medicare name: Saint Joseph's Medical Center Of Stockton
+  Medicare address: 1800 N California St Stockton 95204
+  Medicare emergency services: yes
+  Best OSM Match: 2.99 Saint Joseph's Behavioral Health Center
+  OSM Address: 2510 North California Street Stockton 95204
+45. Emergency services mismatch
+  Medicare name: Mark Twain Medical Center
+  OSM name: Mark Twain Medical Center
+  OSM Address: 768 Mountain Ranch Road San Andreas 95249
+  Medicare emergency services: no
+  OSM Emergency: yes
+46. Unmatched medicare hospital
+  Medicare name: Palomar Health Downtown Campus
+  Medicare address: 555 East Valley Parkway Escondido 92025
+  Medicare emergency services: yes
+  Best OSM Match: 0.96 Naval Hospital Camp Pendleton
+  OSM Address: 200 Mercy Circle Oceanside 92055
+47. Emergency services mismatch
+  Medicare name: East Los Angeles Doctors Hospital
+  OSM name: East Los Angeles Doctors Hospital
+  OSM Address: 4060 Whittier Boulevard Los Angeles 90023
+  Medicare emergency services: no
+  OSM Emergency: yes
+48. Unmatched medicare hospital
+  Medicare name: Langley Porter Psychiatric Institute
+  Medicare address: 401 Parnassus Avenue San Francisco 94143
+  Medicare emergency services: no
+  Best OSM Match: 1.84 CPMC Davies Campus
+  OSM Address: 45 Castro Street San Francisco 94114
+49. Unmatched medicare hospital
+  Medicare name: Emanate Health Foothill Presbyterian Hospital
+  Medicare address: 250 S Grand Ave Glendora 91740
+  Medicare emergency services: no
+  Best OSM Match: 2.94 Foothill Presbyterian Hospital
+  OSM Address: 250 South Grand Avenue Glendora 91741
+50. Unmatched medicare hospital
+  Medicare name: Sutter Center For Psychiatry
+  Medicare address: 7700 Folsom Blvd Sacramento 95826
+  Medicare emergency services: no
+  Best OSM Match: 2.02 Valley Recovery Center of California
+  OSM Address: 2221 Fair Oaks Boulevard Sacramento 95825
+51. Unmatched medicare hospital
+  Medicare name: Colusa Medical Center
+  Medicare address: 199 E Webster Street Colusa 95932
+  Medicare emergency services: yes
+  Best OSM Match: 1.47 Enloe Medical Center
+  OSM Address: 1531 Esplanade Chico 95926
+52. Unmatched medicare hospital
+  Medicare name: Nh Camp Pendleton
+  Medicare address: 200 Mercy Circle Camp Pendleton Camp Pendleton 92055
+  Medicare emergency services: yes
+  Best OSM Match: 2.04 Naval Hospital Camp Pendleton
+  OSM Address: 200 Mercy Circle Oceanside 92055
+53. Emergency services mismatch
+  Medicare name: Kaiser Permanente Medical Center Woodland Hills
+  OSM name: Kaiser Permanente Woodland Hills Medical Center
+  OSM Address: 5601 De Soto Avenue Woodland Hills 91365
+  Medicare emergency services: no
+  OSM Emergency: yes
+54. Emergency services mismatch
+  Medicare name: Children's Hospital Of Orange County
+  OSM name: Children's Hospital of Orange County
+  OSM Address: 1201 West la Veta Avenue Orange 92868
+  Medicare emergency services: no
+  OSM Emergency: yes
+55. Unmatched medicare hospital
+  Medicare name: Pomerado Hospital
+  Medicare address: 15615 Pomerado Road Poway 92064
+  Medicare emergency services: yes
+  Best OSM Match: 3.02 Palomar Medical Center Poway
+  OSM Address: 15615 Pomerado Road Poway 92064
+56. Unmatched medicare hospital
+  Medicare name: Dept Of State Hospitals - Metropolitan - Psy
+  Medicare address: 11401 S Norwalk Blvd Norwalk 90650
+  Medicare emergency services: yes
+  Best OSM Match: 2.43 Metropolitan State Hospital
+  OSM Address: 11401 Bloomfield Avenue Norwalk 90650
+57. Unmatched medicare hospital
+  Medicare name: Adventist Health Tehachapi Valley
+  Medicare address: 1100 Magellan Tehachapi 93561
+  Medicare emergency services: yes
+  Best OSM Match: 3.07 Adventist Health Tehachapi Valley
+  OSM Address: 115 West E Street Tehachapi 93561
+58. Unmatched medicare hospital
+  Medicare name: Aurora Behavioral Healthcare-Santa Rosa, Llc
+  Medicare address: 1287 Fulton Road Santa Rosa 95401
+  Medicare emergency services: yes
+  Best OSM Match: 1.96 Sutter Santa Rosa Regional Hospital
+  OSM Address: 30 Mark West Springs Road Santa Rosa 95403
+59. Emergency services mismatch
+  Medicare name: Kaiser Permanente Medical Center Los Angeles
+  OSM name: Kaiser Permanente Los Angeles Medical Center
+  OSM Address: 4867 Sunset Boulevard Los Angeles 90027
+  Medicare emergency services: no
+  OSM Emergency: yes
+60. Emergency services mismatch
+  Medicare name: Greater El Monte Community Hospital
+  OSM name: Greater El Monte Community Hospital
+  OSM Address: 1701 Santa Anita Avenue South El Monte 91733
+  Medicare emergency services: no
+  OSM Emergency: yes
+61. Unmatched medicare hospital
+  Medicare name: Kern Valley Healthcare District
+  Medicare address: 6412 Laurel Ave Lake Isabella 93240
+  Medicare emergency services: yes
+  Best OSM Match: 2.27 Kern Valley Hospital
+  OSM Address: 6412 Laurel Avenue Mountain Mesa 93240
+62. Unmatched medicare hospital
+  Medicare name: 60Th Medical Group (Travis Afb)
+  Medicare address: 103 Bodin Circle Fairfield Fairfield 94533
+  Medicare emergency services: yes
+  Best OSM Match: 2.36 NorthBay Medical Center
+  OSM Address: 1200 B Gale Wilson Boulevard Fairfield 94533
+63. Emergency services mismatch
+  Medicare name: Valley Presbyterian Hospital
+  OSM name: Valley Presbyterian Hospital
+  OSM Address: 15107 Vanowen Street Van Nuys 91405
+  Medicare emergency services: no
+  OSM Emergency: yes
+64. Unmatched medicare hospital
+  Medicare name: Kaiser Permanente Medical Center Orange County - Anahe
+  Medicare address: 3440 E La Palma Ave Anaheim 92806
+  Medicare emergency services: yes
+  Best OSM Match: 3.08 Kaiser Permanente Orange County – Anaheim Medical Center
+  OSM Address: 3440 East La Palma Avenue Anaheim 92806
+65. Unmatched medicare hospital
+  Medicare name: Huntington Memorial Hospital
+  Medicare address: 100 W California Blvd Pasadena 91109
+  Medicare emergency services: yes
+  Best OSM Match: 3.00 Huntington Hospital
+  OSM Address: 100 West California Boulevard Pasadena 91105
+66. Unmatched medicare hospital
+  Medicare name: Sempervirens
+  Medicare address: 720 Wood St Eureka 95501
+  Medicare emergency services: no
+  Best OSM Match: 2.27 Saint Josephs Hospital
+  OSM Address: 2700 Dolbeer Street Eureka 95501
+67. Unmatched medicare hospital
+  Medicare name: Bakersfield Behavioral Healthcare Hospital, Llc
+  Medicare address: 5201 White Lane Bakersfield 93309
+  Medicare emergency services: no
+  Best OSM Match: 2.38 Good Samaritan Hospital
+  OSM Address: 901 Olive Drive Bakersfield 93309
+68. Emergency services mismatch
+  Medicare name: Madera Community Hospital
+  OSM name: Madera Community Hospital
+  OSM Address: 1250 East Almond Avenue Madera 93637
+  Medicare emergency services: no
+  OSM Emergency: yes
+69. Emergency services mismatch
+  Medicare name: Bear Valley Community Hospital
+  OSM name: Bear Valley Community Hospital
+  OSM Address: 41870 Garstin Drive Big Bear Lake 92315
+  Medicare emergency services: no
+  OSM Emergency: yes
+70. Unmatched medicare hospital
+  Medicare name: University Of California Irvine Med Center
+  Medicare address: 101 City Drive South Orange 92868
+  Medicare emergency services: yes
+  Best OSM Match: 3.01 UCI Medical Center
+  OSM Address: 101 The City Drive South Orange 92868
+71. Unmatched medicare hospital
+  Medicare name: California Pacific Medical Ctr-Davies Campus Hosp
+  Medicare address: 601 Duboce Avenue San Francisco 94117
+  Medicare emergency services: no
+  Best OSM Match: 2.25 California Pacific Medical Center
+  OSM Address: 2333 Buchanan Street San Francisco 94115
+72. Emergency services mismatch
+  Medicare name: Hazel Hawkins Memorial Hospital
+  OSM name: Hazel Hawkins Memorial Hospital
+  OSM Address: 911 Sunset Drive Hollister 95023
+  Medicare emergency services: no
+  OSM Emergency: yes
+73. Emergency services mismatch
+  Medicare name: Alhambra Hospital Medical Center
+  OSM name: Alhambra Hospital Medical Center
+  OSM Address: 100 South Raymond Avenue Alhambra 91801
+  Medicare emergency services: no
+  OSM Emergency: yes
+74. Unmatched medicare hospital
+  Medicare name: Aurora Charter Oak
+  Medicare address: 1161 E Covina Blvd Covina 91724
+  Medicare emergency services: no
+  Best OSM Match: 1.81 Inter-Community Hospital
+  OSM Address: 210 West San Bernardino Road Covina 91723
+75. Unmatched medicare hospital
+  Medicare name: Sierra Vista Hospital, Inc
+  Medicare address: 8001 Bruceville Road Sacramento 95823
+  Medicare emergency services: no
+  Best OSM Match: 2.90 Kaiser Permanente South Sacramento Medical Center
+  OSM Address: 6600 Bruceville Road Sacramento 95823
+76. Unmatched medicare hospital
+  Medicare name: Nh Twenty Nine Palms
+  Medicare address: 1145 Sturgis Road Twentynine Palms 92278
+  Medicare emergency services: yes
+  Best OSM Match: 3.06 Robert E. Bush Naval Hospital
+  OSM Address: 1145 Sturgis Road Twentynine Palms 92278
+77. Emergency services mismatch
+  Medicare name: Memorial Hospital Of Gardena
+  OSM name: Memorial Hospital of Gardena
+  OSM Address: 1145 West Redondo Beach Boulevard Gardena 90247
+  Medicare emergency services: no
+  OSM Emergency: yes
+78. Unmatched medicare hospital
+  Medicare name: Kaiser Permanente Psychiatric Health Facility-Sant
+  Medicare address: 3840 Homestead Road Santa Clara 95051
+  Medicare emergency services: yes
+  Best OSM Match: 2.28 Kaiser Permanente Santa Clara Medical Center
+  OSM Address: 710 Lawrence Expressway Santa Clara 95051
+79. Emergency services mismatch
+  Medicare name: Heritage Oaks Hospital
+  OSM name: Heritage Oaks Hospital
+  OSM Address: 4250 Auburn Boulevard Sacramento 95841
+  Medicare emergency services: yes
+  OSM Emergency: no
+80. Unmatched medicare hospital
+  Medicare name: Southern California Hospital At Hollywood
+  Medicare address: 6245 De Longpre Ave Hollywood 90028
+  Medicare emergency services: yes
+  Best OSM Match: 2.82 Southern California Hospital Hollywood
+  OSM Address: 6245 De Longpre Avenue Los Angeles 90028
+81. Unmatched medicare hospital
+  Medicare name: Resnick Neuropsychiatric Hospital At Ucla
+  Medicare address: 150 Medical Plaza-Rm-4230C Los Angeles 90095
+  Medicare emergency services: yes
+  Best OSM Match: 2.41 Mattel Children's Hospital
+  OSM Address: 757 Westwood Plaza Los Angeles 90095
+82. Emergency services mismatch
+  Medicare name: Los Robles Hospital & Medical Center
+  OSM name: Los Robles Hospital & Medical Center
+  OSM Address: 215 West Janns Road Thousand Oaks 91360
+  Medicare emergency services: no
+  OSM Emergency: yes
+83. Emergency services mismatch
+  Medicare name: Marian Regional Medical Center
+  OSM name: Marian Medical Center
+  OSM Address: 1400 East Church Street Santa Maria 93454
+  Medicare emergency services: no
+  OSM Emergency: yes
+84. Emergency services mismatch
+  Medicare name: Rady Children's Hospital - San Diego
+  OSM name: Rady Children's Hospital-San Diego
+  OSM Address: 3020 Children's Way San Diego 92123
+  Medicare emergency services: no
+  OSM Emergency: yes
+85. Unmatched medicare hospital
+  Medicare name: Nmc San Diego
+  Medicare address: 34800 Bob Wilson Drive San Diego 92134
+  Medicare emergency services: yes
+  Best OSM Match: 2.73 Naval Medical Center San Diego
+  OSM Address: 34800 Bob Wilson Drive San Diego 92101
+86. Unmatched medicare hospital
+  Medicare name: Newport Bay Hospital
+  Medicare address: 1501 E 16Th St Newport Beach 92663
+  Medicare emergency services: no
+  Best OSM Match: 2.28 Hoag Memorial Hospital Presbyterian
+  OSM Address: 1 Hoag Drive Newport Beach 92663
+87. Unmatched medicare hospital
+  Medicare name: Lac+Usc Medical Center
+  Medicare address: 1200 N State St, Room C2K100 Los Angeles 90033
+  Medicare emergency services: yes
+  Best OSM Match: 2.43 White Memorial Medical Center
+  OSM Address: 1720 Cesar E. Chavez Avenue Los Angeles 90033
+88. Unmatched medicare hospital
+  Medicare name: Kaiser Permanente Medical Center Oakland/Richmond
+  Medicare address: 275 West Macarthur Boulevard Oakland 94611
+  Medicare emergency services: yes
+  Best OSM Match: 2.56 Kaiser Permanente Oakland Medical Center
+  OSM Address: 3600 Broadway Oakland 94611
+89. Unmatched medicare hospital
+  Medicare name: Miraclemile Medical Center
+  Medicare address: 6000 San Vicente Blvd Los Angeles 90036
+  Medicare emergency services: no
+  Best OSM Match: 2.77 Olympia Medical Center
+  OSM Address: 5900 West Olympic Boulevard Los Angeles 90036
+90. Unmatched medicare hospital
+  Medicare name: Children's Hospital At Mission
+  Medicare address: 27700 Medical Center Rd, 5Th Floor Mission Viejo 92691
+  Medicare emergency services: yes
+  Best OSM Match: 2.84 Mission Hospital
+  OSM Address: 27700 Medical Center Road Mission Viejo 92691
+91. Unmatched medicare hospital
+  Medicare name: Aurora Vista Del Mar Hospital
+  Medicare address: 801 Seneca St Ventura 93001
+  Medicare emergency services: no
+  Best OSM Match: 2.05 Community Memorial Hospital
+  OSM Address: 147 North Brent Street Ventura 93003
+92. Emergency services mismatch
+  Medicare name: Anaheim Global Medical Center
+  OSM name: Anaheim Global Medical Center
+  OSM Address: 1025 South Anaheim Boulevard Anaheim 92805
+  Medicare emergency services: no
+  OSM Emergency: yes
+93. Unmatched medicare hospital
+  Medicare name: Fresno Surgical Hospital
+  Medicare address: 6125 North Fresno St Fresno 93710
+  Medicare emergency services: no
+  Best OSM Match: 2.43 Fresno Heart & Surgical Hospital
+  OSM Address: 15 East Audubon Drive Fresno 93720
+94. Unmatched medicare hospital
+  Medicare name: John Muir Behavioral Health Center
+  Medicare address: 2740 Grant Street Concord 94524
+  Medicare emergency services: yes
+  Best OSM Match: 2.65 John Muir Medical Center, Concord
+  OSM Address: 2540 East Street Concord 94520
+95. Emergency services mismatch
+  Medicare name: La Palma Intercommunity Hospital
+  OSM name: La Palma Intercommunity Hospital
+  OSM Address: 7901 Walker Street La Palma 90623
+  Medicare emergency services: no
+  OSM Emergency: yes
+96. Emergency services mismatch
+  Medicare name: Hoag Orthopedic Institute
+  OSM name: Hoag Hospital Irvine
+  OSM Address: 16200 Sand Canyon Avenue Irvine 92618
+  Medicare emergency services: no
+  OSM Emergency: yes
+97. Unmatched medicare hospital
+  Medicare name: College Hospital
+  Medicare address: 10802 College Pl Cerritos 90703
+  Medicare emergency services: no
+  Best OSM Match: 1.14 Keck Hospital of USC
+  OSM Address: 1500 San Pablo Street Los Angeles 90033
+98. Emergency services mismatch
+  Medicare name: Centinela Hospital Medical Center
+  OSM name: Centinela Hospital Medical Center
+  OSM Address: 555 East Hardy Street Inglewood 90301
+  Medicare emergency services: no
+  OSM Emergency: yes
+99. Emergency services mismatch
+  Medicare name: Kaiser Permanente Medical Center Downey
+  OSM name: Kaiser Permanente Downey Medical Center
+  OSM Address: 9333 East Imperial Highway Downey 90242
+  Medicare emergency services: no
+  OSM Emergency: yes
+100. Unmatched medicare hospital
+  Medicare name: Weed Ach (Fort Irwin)
+  Medicare address: 166 4Th Street Fort Irwin 92310
+  Medicare emergency services: yes
+  Best OSM Match: 2.20 Weed Army Community Hospital
+  OSM Address: 390 North Loop Road Fort Irwin 92310
+101. Unmatched medicare hospital
+  Medicare name: San Jose Behavioral Health
+  Medicare address: 455 Silicon Valley Boulevard San Jose 95138
+  Medicare emergency services: no
+  Best OSM Match: 1.78 O’Connor Hospital
+  OSM Address: 2105 Forest Avenue San Jose 95128
+102. Unmatched medicare hospital
+  Medicare name: Adventist Health And Rideout
+  Medicare address: 726 4Th St Marysville 95901
+  Medicare emergency services: yes
+  Best OSM Match: 1.62 Rideout Regional Medical Center
+  OSM Address: 726 4th Street Marysville -
+103. Unmatched medicare hospital
+  Medicare name: Eastern Plumas Hospital - Portola Campus
+  Medicare address: 500 First Avenue Portola 96122
+  Medicare emergency services: yes
+  Best OSM Match: 2.75 --
+  OSM Address: 500 1st Avenue Portola 96122
+104. Unmatched medicare hospital
+  Medicare name: California Pacific Medical Center - Mission Bernal
+  Medicare address: 3555 Cesar Chavez Street San Francisco 94110
+  Medicare emergency services: yes
+  Best OSM Match: 3.01 CPMC Saint Luke's Campus
+  OSM Address: 3555 Cesar Chavez Street San Francisco 94110
+105. Emergency services mismatch
+  Medicare name: Providence Little Co Of Mary Med Ctr San Pedro
+  OSM name: Providence Little Company of Mary Medical Center San Pedro
+  OSM Address: 1300 West 7th Street San Pedro 90732
+  Medicare emergency services: no
+  OSM Emergency: yes
+106. Unmatched medicare hospital
+  Medicare name: Santa Monica - Ucla Med Ctr & Orthopaedic Hospital
+  Medicare address: 1250 16Th Street Santa Monica 90404
+  Medicare emergency services: yes
+  Best OSM Match: 2.96 UCLA Medical Center - Santa Monica
+  OSM Address: 1250 16th Street Santa Monica 90404
+107. Unmatched medicare hospital
+  Medicare name: Fremont Hospital
+  Medicare address: 39001 Sundale Drive Fremont 94538
+  Medicare emergency services: no
+  Best OSM Match: 2.51 Washington Hospital
+  OSM Address: 2000 Mowry Avenue Fremont 94538
+108. Unmatched medicare hospital
+  Medicare name: Kaiser Foundation Hospital Manteca
+  Medicare address: 1777 West Yosemite Ave Manteca 95337
+  Medicare emergency services: yes
+  Best OSM Match: 3.09 Kaiser Permanente Manteca Medical Center
+  OSM Address: 1777 West Yosemite Avenue Manteca 95337
+109. Emergency services mismatch
+  Medicare name: Providence Little Company Of Mary Med Ctr Torrance
+  OSM name: Providence Little Company of Mary Medical Center Torrance
+  OSM Address: 4101 Torrance Boulevard Torrance 90503
+  Medicare emergency services: no
+  OSM Emergency: yes
+110. Unmatched medicare hospital
+  Medicare name: Kaiser Foundation Hospital
+  Medicare address: 99 Montecillo Rd San Rafael 94903
+  Medicare emergency services: yes
+  Best OSM Match: 3.05 Kaiser Permanente San Rafael Medical Center
+  OSM Address: 99 Montecillo Road San Rafael 94903
+111. Unmatched medicare hospital
+  Medicare name: John C Fremont Healthcare District
+  Medicare address: 5189 Hospital Road Mariposa 95338
+  Medicare emergency services: yes
+  Best OSM Match: 3.00 --
+  OSM Address: 5189 Hospital Road Mariposa 95338
+112. Unmatched medicare hospital
+  Medicare name: Ucsf Medical Center
+  Medicare address: 505 Parnassus Ave, Box 0296 San Francisco 94143
+  Medicare emergency services: yes
+  Best OSM Match: 1.97 Saint Mary's Medical Center
+  OSM Address: 450 Stanyan Street San Francisco 94117
+113. Unmatched medicare hospital
+  Medicare name: Kaiser Foundation Hospital And Rehab Center
+  Medicare address: 975 Sereno Dr Vallejo 94589
+  Medicare emergency services: yes
+  Best OSM Match: 3.02 Kaiser Permanente Vallejo Hospital & Medical Offices
+  OSM Address: 975 Sereno Drive Vallejo 94589
+114. Emergency services mismatch
+  Medicare name: Saint Francis Medical Center
+  OSM name: Saint Francis Medical Center
+  OSM Address: 3630 East Imperial Highway Lynwood 90262
+  Medicare emergency services: no
+  OSM Emergency: yes
+115. Unmatched medicare hospital
+  Medicare name: Jewish Home & Rehab Center
+  Medicare address: 302 Silver Avenue San Francisco 94112
+  Medicare emergency services: no
+  Best OSM Match: 1.98 Kaiser Permanente Medical Center
+  OSM Address: 2425 Geary Boulevard San Francisco 94115
+116. Unmatched medicare hospital
+  Medicare name: Children's Hosp Of Los Angeles
+  Medicare address: 4650 Sunset Blvd, Ms 108 Los Angeles 90027
+  Medicare emergency services: yes
+  Best OSM Match: 2.93 Children's Hospital Los Angeles
+  OSM Address: 4650 Sunset Boulevard Los Angeles 90029
+117. Unmatched medicare hospital
+  Medicare name: Telecare Heritage Psychiatric Health Facility
+  Medicare address: 2633 E 27Th Street, Building B Oakland 94601
+  Medicare emergency services: no
+  Best OSM Match: 1.86 Children's Hospital & Research Center Oakland
+  OSM Address: 747 52nd Street Oakland 94609
+118. Emergency services mismatch
+  Medicare name: Good Samaritan Hospital
+  OSM name: Good Samaritan Hospital
+  OSM Address: 1225 Wilshire Boulevard Los Angeles 90017
+  Medicare emergency services: no
+  OSM Emergency: yes
+Found 118 potential issues.
 
-Unmatched emergency=yes
-Palomar Medical Center Poway (3.02)
-	15615 Pomerado Road Poway 92064
-Unmatched emergency=yes
-Adventist Health Tehachapi Valley (3.07)
-	115 West E Street Tehachapi 93561
-Unmatched emergency=yes
-UCSF Benioff Children's Hospital San Francisco (0.00)
-	1975 4th Street San Francisco 94158
-Unmatched emergency=yes
-San Francisco General Hospital (2.85)
-	1001 Potrero Avenue San Francisco 94158
-Unmatched emergency=yes
-Marina Del Rey Hospital (3.03)
-	4650 Lincoln Boulevard Marina Del Rey 90292
-Unmatched emergency=yes
-Mission Hospital Laguna Beach (0.00)
-	31872 Coast Highway Laguna Beach 92651
-Unmatched emergency=yes
-John Muir Medical Center (2.95)
-	1601 Ygnacio Canal Trail Walnut Creek 94598
-Unmatched emergency=yes
-VacaValley Hospital (0.00)
-	1000 Nut Tree Road Vacaville 95678
-Unmatched emergency=yes
-Kaiser Permanente Orange County-Irvine Medical Center (0.00)
-	6640 Alton Parkway Irvine 92618
-Unmatched emergency=yes
-Arroyo Grande Community Hospital (0.00)
-	345 South Halcyon Road Arroyo Grande 93420
-Unmatched emergency=yes
-Naval Medical Center San Diego (2.73)
-	34800 Bob Wilson Drive San Diego 92101
-Unmatched emergency=yes
-Kaiser Permanente Orange County – Anaheim Medical Center (3.08)
-	3440 East La Palma Avenue Anaheim 92806
-Unmatched emergency=yes
-Kern Valley Hospital (2.27)
-	6412 Laurel Avenue Mountain Mesa 93240
-Unmatched emergency=yes
-Community Medical Center Long Beach (0.00)
-	1720 Termino Avenue Long Beach 90804
-Unmatched emergency=yes
-Adventist Health Selma (1.30)
-	1141 Rose Avenue Selma 93662
-Unmatched emergency=yes
-Fresno VA Medical Center (0.00)
-	2615 East Clinton Avenue Fresno 93703
-Unmatched emergency=yes
-Palomar Medical Center (0.00)
-	2185 West Citracado Parkway - -
-Unmatched emergency=yes
-Rancho Springs Medical Center (3.08)
-	25500 Medical Center Drive Murrieta 92562
-Unmatched emergency=yes
-Kaiser Permanente Oakland Medical Center (2.56)
-	3600 Broadway Oakland 94611
-Unmatched emergency=yes
-CPMC Davies Campus (1.84)
-	45 Castro Street San Francisco 94114
-Unmatched emergency=yes
-Inland Valley Medical Center (0.00)
-	36485 Inland Valley Drive Wildomar 92595
-Unmatched emergency=yes
-Menifee Valley Medical Center (2.56)
-	28400 McCall Boulevard Menifee 92585
-Unmatched emergency=yes
-California Pacific Medical Center (2.25)
-	2333 Buchanan Street San Francisco 94115
-Unmatched emergency=yes
-CPMC Saint Luke's Campus (3.01)
-	3555 Cesar Chavez Street San Francisco 94110
-Unmatched emergency=yes
-CPMC California Campus (0.00)
-	- - San Francisco 94118
-Unmatched emergency=yes
-UCI Medical Center (3.01)
-	101 The City Drive South Orange 92868
-Unmatched emergency=yes
-Los Angeles County + University of Southern California Medical Center (0.00)
-	2051 Marengo Street Los Angeles 90033
-Unmatched emergency=yes
-Kaiser Permanente Vallejo Hospital & Medical Offices (3.02)
-	975 Sereno Drive Vallejo 94589
-Unmatched emergency=yes
-Kaiser Permanente Modesto Medical Center and Medical Offices (0.00)
-	4601 Dale Road Modesto 95356
-Unmatched emergency=yes
-Huntington Hospital (3.00)
-	100 West California Boulevard Pasadena 91105
-Unmatched emergency=yes
-UCLA Medical Center - Santa Monica (2.96)
-	1250 16th Street Santa Monica 90404
-Unmatched emergency=yes
-Orange Coast Memorial Medical Center (2.59)
-	18111 Brookhurst Street Fountain Valley 92708
-Unmatched emergency=yes
-Kaiser Permanente Richmond Medical Center (0.00)
-	901 Nevin Avenue Richmond 94801
-Unmatched emergency=yes
-Saint Josephs Hospital (0.00)
-	1801 Cemetery Lane Stockton 95204
-Unmatched emergency=yes
-Children's Hospital Los Angeles (2.93)
-	4650 Sunset Boulevard Los Angeles 90029
-Unmatched emergency=yes
-Kaiser Permanente Manteca Medical Center (3.09)
-	1777 West Yosemite Avenue Manteca 95337
-Unmatched emergency=yes
-VA Palo Alto Health Care System (2.06)
-	3801 Miranda Avenue Palo Alto 94304
-Unmatched emergency=yes
-Marin General Hospital (2.72)
-	250 Bon Air Road Greenbrae 94904
-Unmatched emergency=yes
-Rideout Regional Medical Center (1.62)
-	726 4th Street Marysville -
-Unmatched emergency=yes
-UC San Diego Health, La Jolla Campus (0.00)
-	- - - -
-Unmatched emergency=yes
-Cottage Hospital (1.73)
-	400 West Pueblo Street Santa Barbara 93105
-Unmatched emergency=yes
-Goleta Valley Cottage Hospital (2.76)
-	351 South Patterson Avenue Goleta 93111
-Unmatched emergency=yes
-VA Loma Linda Healthcare System (0.00)
-	11201 Benton Street Loma Linda 92357
-Unmatched emergency=yes
-Kaiser Permanente San Diego Medical Center (0.00)
-	9455 Clairemont Mesa Boulevard San Diego 92123
-Unmatched emergency=yes
-Veterans Affairs San Diego Healthcare System (0.00)
-	3350 La Jolla Village Drive San Diego 92161
-Unmatched emergency=yes
-Scripps Mercy Hospital Chula Vista (0.00)
-	435 H Street Chula Vista 91911
-Unmatched emergency=yes
-Naval Hospital Camp Pendleton (2.04)
-	200 Mercy Circle Oceanside 92055
-Unmatched emergency=yes
-Robert E. Bush Naval Hospital (3.06)
-	1145 Sturgis Road Twentynine Palms 92278
-Unmatched emergency=yes
-Weed Army Community Hospital (2.20)
-	390 North Loop Road Fort Irwin 92310
-Unmatched emergency=yes
-Kaiser Permanente Fontana Medical Center (1.32)
-	9961 Sierra Avenue Fontana 92335
-Unmatched emergency=yes
-Foothill Presbyterian Hospital (2.94)
-	250 South Grand Avenue Glendora 91741
-Unmatched emergency=yes
-West Los Angeles Veterans Affairs Medical Center (0.00)
-	11310 Wilshire Boulevard Los Angeles 90073
-Unmatched emergency=yes
-Los Angeles Community Hospital at Norwalk (0.00)
-	13222 Bloomfield Avenue Norwalk 90650
-Unmatched emergency=yes
-Queen of the Valley Hospital (0.00)
-	1115 South Sunset Avenue West Covina 91790
-Unmatched emergency=yes
-Southern California Hospital Culver City (0.00)
-	3828 Delmas Terrace Culver City 90232
-Unmatched emergency=yes
-Kaiser Permanente Panorama City Medical Center (2.79)
-	13651 Willard Street Panorama City 91402
-Unmatched emergency=yes
-Santa Paula Memorial Hospital (0.00)
-	825 North 10th Street Santa Paula 93061
-Unmatched emergency=yes
-Mercy Hospital Southwest (0.00)
-	400 Old River Road Bakersfield 93311
-Unmatched emergency=yes
--- (3.00)
-	5189 Hospital Road Mariposa 95338
-Unmatched emergency=yes
-Sacramento VA Medical Center (0.00)
-	10535 Hospital Way Mather 95655
-Unmatched emergency=yes
-El Camino Hospital Los Gatos (0.00)
-	815 Pollard Road Los Gatos 95032
-Unmatched emergency=yes
-Kaiser Permanente San Rafael Medical Center (3.05)
-	99 Montecillo Road San Rafael 94903
-Unmatched emergency=yes
-Seton Coastside Hospital (0.00)
-	600 Marine Boulevard Moss Beach 94038
-Unmatched emergency=yes
--- (2.75)
-	500 1st Avenue Portola 96122
-Unmatched emergency=yes
-VA Long Beach Healthcare (0.00)
-	5901 East 7th Street Long Beach 90822
-Unmatched emergency=yes
-San Francisco VA Medical Center (0.00)
-	4150 Clement Street San Francisco 94121-1545
-Unmatched emergency=yes
-Sharp Mary Birch Hospital for Women & Newborns (0.00)
-	3003 Health Center Drive San Diego 92123
+Unmatched emergency=yes in OSM
+  OSM name: Palomar Medical Center Poway
+  Score of best match: 3.02
+  OSM address: 15615 Pomerado Road Poway 92064
+Unmatched emergency=yes in OSM
+  OSM name: Adventist Health Tehachapi Valley
+  Score of best match: 3.07
+  OSM address: 115 West E Street Tehachapi 93561
+Unmatched emergency=yes in OSM
+  OSM name: UCSF Benioff Children's Hospital San Francisco
+  Score of best match: 0.00
+  OSM address: 1975 4th Street San Francisco 94158
+Unmatched emergency=yes in OSM
+  OSM name: San Francisco General Hospital
+  Score of best match: 2.85
+  OSM address: 1001 Potrero Avenue San Francisco 94158
+Unmatched emergency=yes in OSM
+  OSM name: Marina Del Rey Hospital
+  Score of best match: 3.03
+  OSM address: 4650 Lincoln Boulevard Marina Del Rey 90292
+Unmatched emergency=yes in OSM
+  OSM name: Mission Hospital Laguna Beach
+  Score of best match: 0.00
+  OSM address: 31872 Coast Highway Laguna Beach 92651
+Unmatched emergency=yes in OSM
+  OSM name: John Muir Medical Center
+  Score of best match: 2.95
+  OSM address: 1601 Ygnacio Canal Trail Walnut Creek 94598
+Unmatched emergency=yes in OSM
+  OSM name: VacaValley Hospital
+  Score of best match: 0.00
+  OSM address: 1000 Nut Tree Road Vacaville 95678
+Unmatched emergency=yes in OSM
+  OSM name: Kaiser Permanente Orange County-Irvine Medical Center
+  Score of best match: 0.00
+  OSM address: 6640 Alton Parkway Irvine 92618
+Unmatched emergency=yes in OSM
+  OSM name: Arroyo Grande Community Hospital
+  Score of best match: 0.00
+  OSM address: 345 South Halcyon Road Arroyo Grande 93420
+Unmatched emergency=yes in OSM
+  OSM name: Naval Medical Center San Diego
+  Score of best match: 2.73
+  OSM address: 34800 Bob Wilson Drive San Diego 92101
+Unmatched emergency=yes in OSM
+  OSM name: Kaiser Permanente Orange County – Anaheim Medical Center
+  Score of best match: 3.08
+  OSM address: 3440 East La Palma Avenue Anaheim 92806
+Unmatched emergency=yes in OSM
+  OSM name: Kern Valley Hospital
+  Score of best match: 2.27
+  OSM address: 6412 Laurel Avenue Mountain Mesa 93240
+Unmatched emergency=yes in OSM
+  OSM name: Community Medical Center Long Beach
+  Score of best match: 0.00
+  OSM address: 1720 Termino Avenue Long Beach 90804
+Unmatched emergency=yes in OSM
+  OSM name: Adventist Health Selma
+  Score of best match: 1.30
+  OSM address: 1141 Rose Avenue Selma 93662
+Unmatched emergency=yes in OSM
+  OSM name: Fresno VA Medical Center
+  Score of best match: 0.00
+  OSM address: 2615 East Clinton Avenue Fresno 93703
+Unmatched emergency=yes in OSM
+  OSM name: Palomar Medical Center
+  Score of best match: 0.00
+  OSM address: 2185 West Citracado Parkway - -
+Unmatched emergency=yes in OSM
+  OSM name: Rancho Springs Medical Center
+  Score of best match: 3.08
+  OSM address: 25500 Medical Center Drive Murrieta 92562
+Unmatched emergency=yes in OSM
+  OSM name: Kaiser Permanente Oakland Medical Center
+  Score of best match: 2.56
+  OSM address: 3600 Broadway Oakland 94611
+Unmatched emergency=yes in OSM
+  OSM name: CPMC Davies Campus
+  Score of best match: 1.84
+  OSM address: 45 Castro Street San Francisco 94114
+Unmatched emergency=yes in OSM
+  OSM name: Inland Valley Medical Center
+  Score of best match: 0.00
+  OSM address: 36485 Inland Valley Drive Wildomar 92595
+Unmatched emergency=yes in OSM
+  OSM name: Menifee Valley Medical Center
+  Score of best match: 2.56
+  OSM address: 28400 McCall Boulevard Menifee 92585
+Unmatched emergency=yes in OSM
+  OSM name: California Pacific Medical Center
+  Score of best match: 2.25
+  OSM address: 2333 Buchanan Street San Francisco 94115
+Unmatched emergency=yes in OSM
+  OSM name: CPMC Saint Luke's Campus
+  Score of best match: 3.01
+  OSM address: 3555 Cesar Chavez Street San Francisco 94110
+Unmatched emergency=yes in OSM
+  OSM name: CPMC California Campus
+  Score of best match: 0.00
+  OSM address: - - San Francisco 94118
+Unmatched emergency=yes in OSM
+  OSM name: UCI Medical Center
+  Score of best match: 3.01
+  OSM address: 101 The City Drive South Orange 92868
+Unmatched emergency=yes in OSM
+  OSM name: Los Angeles County + University of Southern California Medical Center
+  Score of best match: 0.00
+  OSM address: 2051 Marengo Street Los Angeles 90033
+Unmatched emergency=yes in OSM
+  OSM name: Kaiser Permanente Vallejo Hospital & Medical Offices
+  Score of best match: 3.02
+  OSM address: 975 Sereno Drive Vallejo 94589
+Unmatched emergency=yes in OSM
+  OSM name: Kaiser Permanente Modesto Medical Center and Medical Offices
+  Score of best match: 0.00
+  OSM address: 4601 Dale Road Modesto 95356
+Unmatched emergency=yes in OSM
+  OSM name: Huntington Hospital
+  Score of best match: 3.00
+  OSM address: 100 West California Boulevard Pasadena 91105
+Unmatched emergency=yes in OSM
+  OSM name: UCLA Medical Center - Santa Monica
+  Score of best match: 2.96
+  OSM address: 1250 16th Street Santa Monica 90404
+Unmatched emergency=yes in OSM
+  OSM name: Orange Coast Memorial Medical Center
+  Score of best match: 2.59
+  OSM address: 18111 Brookhurst Street Fountain Valley 92708
+Unmatched emergency=yes in OSM
+  OSM name: Kaiser Permanente Richmond Medical Center
+  Score of best match: 0.00
+  OSM address: 901 Nevin Avenue Richmond 94801
+Unmatched emergency=yes in OSM
+  OSM name: Saint Josephs Hospital
+  Score of best match: 0.00
+  OSM address: 1801 Cemetery Lane Stockton 95204
+Unmatched emergency=yes in OSM
+  OSM name: Children's Hospital Los Angeles
+  Score of best match: 2.93
+  OSM address: 4650 Sunset Boulevard Los Angeles 90029
+Unmatched emergency=yes in OSM
+  OSM name: Kaiser Permanente Manteca Medical Center
+  Score of best match: 3.09
+  OSM address: 1777 West Yosemite Avenue Manteca 95337
+Unmatched emergency=yes in OSM
+  OSM name: VA Palo Alto Health Care System
+  Score of best match: 2.06
+  OSM address: 3801 Miranda Avenue Palo Alto 94304
+Unmatched emergency=yes in OSM
+  OSM name: Marin General Hospital
+  Score of best match: 2.72
+  OSM address: 250 Bon Air Road Greenbrae 94904
+Unmatched emergency=yes in OSM
+  OSM name: Rideout Regional Medical Center
+  Score of best match: 1.62
+  OSM address: 726 4th Street Marysville -
+Unmatched emergency=yes in OSM
+  OSM name: UC San Diego Health, La Jolla Campus
+  Score of best match: 0.00
+  OSM address: - - - -
+Unmatched emergency=yes in OSM
+  OSM name: Cottage Hospital
+  Score of best match: 1.73
+  OSM address: 400 West Pueblo Street Santa Barbara 93105
+Unmatched emergency=yes in OSM
+  OSM name: Goleta Valley Cottage Hospital
+  Score of best match: 2.76
+  OSM address: 351 South Patterson Avenue Goleta 93111
+Unmatched emergency=yes in OSM
+  OSM name: VA Loma Linda Healthcare System
+  Score of best match: 0.00
+  OSM address: 11201 Benton Street Loma Linda 92357
+Unmatched emergency=yes in OSM
+  OSM name: Kaiser Permanente San Diego Medical Center
+  Score of best match: 0.00
+  OSM address: 9455 Clairemont Mesa Boulevard San Diego 92123
+Unmatched emergency=yes in OSM
+  OSM name: Veterans Affairs San Diego Healthcare System
+  Score of best match: 0.00
+  OSM address: 3350 La Jolla Village Drive San Diego 92161
+Unmatched emergency=yes in OSM
+  OSM name: Scripps Mercy Hospital Chula Vista
+  Score of best match: 0.00
+  OSM address: 435 H Street Chula Vista 91911
+Unmatched emergency=yes in OSM
+  OSM name: Naval Hospital Camp Pendleton
+  Score of best match: 2.04
+  OSM address: 200 Mercy Circle Oceanside 92055
+Unmatched emergency=yes in OSM
+  OSM name: Robert E. Bush Naval Hospital
+  Score of best match: 3.06
+  OSM address: 1145 Sturgis Road Twentynine Palms 92278
+Unmatched emergency=yes in OSM
+  OSM name: Weed Army Community Hospital
+  Score of best match: 2.20
+  OSM address: 390 North Loop Road Fort Irwin 92310
+Unmatched emergency=yes in OSM
+  OSM name: Kaiser Permanente Fontana Medical Center
+  Score of best match: 1.32
+  OSM address: 9961 Sierra Avenue Fontana 92335
+Unmatched emergency=yes in OSM
+  OSM name: Foothill Presbyterian Hospital
+  Score of best match: 2.94
+  OSM address: 250 South Grand Avenue Glendora 91741
+Unmatched emergency=yes in OSM
+  OSM name: West Los Angeles Veterans Affairs Medical Center
+  Score of best match: 0.00
+  OSM address: 11310 Wilshire Boulevard Los Angeles 90073
+Unmatched emergency=yes in OSM
+  OSM name: Los Angeles Community Hospital at Norwalk
+  Score of best match: 0.00
+  OSM address: 13222 Bloomfield Avenue Norwalk 90650
+Unmatched emergency=yes in OSM
+  OSM name: Queen of the Valley Hospital
+  Score of best match: 0.00
+  OSM address: 1115 South Sunset Avenue West Covina 91790
+Unmatched emergency=yes in OSM
+  OSM name: Southern California Hospital Culver City
+  Score of best match: 0.00
+  OSM address: 3828 Delmas Terrace Culver City 90232
+Unmatched emergency=yes in OSM
+  OSM name: Kaiser Permanente Panorama City Medical Center
+  Score of best match: 2.79
+  OSM address: 13651 Willard Street Panorama City 91402
+Unmatched emergency=yes in OSM
+  OSM name: Santa Paula Memorial Hospital
+  Score of best match: 0.00
+  OSM address: 825 North 10th Street Santa Paula 93061
+Unmatched emergency=yes in OSM
+  OSM name: Mercy Hospital Southwest
+  Score of best match: 0.00
+  OSM address: 400 Old River Road Bakersfield 93311
+Unmatched emergency=yes in OSM
+  OSM name: --
+  Score of best match: 3.00
+  OSM address: 5189 Hospital Road Mariposa 95338
+Unmatched emergency=yes in OSM
+  OSM name: Sacramento VA Medical Center
+  Score of best match: 0.00
+  OSM address: 10535 Hospital Way Mather 95655
+Unmatched emergency=yes in OSM
+  OSM name: El Camino Hospital Los Gatos
+  Score of best match: 0.00
+  OSM address: 815 Pollard Road Los Gatos 95032
+Unmatched emergency=yes in OSM
+  OSM name: Kaiser Permanente San Rafael Medical Center
+  Score of best match: 3.05
+  OSM address: 99 Montecillo Road San Rafael 94903
+Unmatched emergency=yes in OSM
+  OSM name: Seton Coastside Hospital
+  Score of best match: 0.00
+  OSM address: 600 Marine Boulevard Moss Beach 94038
+Unmatched emergency=yes in OSM
+  OSM name: --
+  Score of best match: 2.75
+  OSM address: 500 1st Avenue Portola 96122
+Unmatched emergency=yes in OSM
+  OSM name: VA Long Beach Healthcare
+  Score of best match: 0.00
+  OSM address: 5901 East 7th Street Long Beach 90822
+Unmatched emergency=yes in OSM
+  OSM name: San Francisco VA Medical Center
+  Score of best match: 0.00
+  OSM address: 4150 Clement Street San Francisco 94121-1545
+Unmatched emergency=yes in OSM
+  OSM name: Sharp Mary Birch Hospital for Women & Newborns
+  Score of best match: 0.00
+  OSM address: 3003 Health Center Drive San Diego 92123
 Found 67 unmatched emergency.

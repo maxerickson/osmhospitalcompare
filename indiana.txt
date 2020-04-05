@@ -1,310 +1,445 @@
 171 OSM hospitals
 147 Medicare hospitals
-1. Four County Counseling Center
-	1015 Michigan Ave Logansport 46947 (CMS:no)
-	1.78 Logansport State Hospital
-	1098 South State Road 25 Logansport 47947
-2. Highpoint Health
-	600 Wilson Creek Rd Lawrenceburg 47025 (CMS:yes)
-	3.02 Dearborn County Hospital
-	600 Wilson Creek Road Lawrenceburg 47025
-3. Options Behavioral Health System
-	5602 Caito Drive Indianapolis 46226 (CMS:no)
-	2.26 Fairbanks Addiction Treatment Center
-	8102 Clearvista Drive Indianapolis 46256
-4. Porter-Starke Services Inc
-	701 Wall St Valparaiso 46383 (CMS:no)
-	2.16 Porter Regional Hospital
-	85 East US-6 Frontage Road Valparaiso 46383
-5. Iu Health Bloomington Hospital
-	601 W Second St Bloomington 47403 (CMS:yes)
-	3.06 IU Health Bloomington Hospital
-	601 West 2nd Street Bloomington 47402
-6. Saint Vincent Evansville
-	3700 Washington Ave Evansville 47750 (CMS:yes)
-	3.08 Saint Mary's Medical Center
-	3700 Washington Avenue Evansville 47750
-7. Neurodiagnostic Institute
-	5435 E 16Th St Indianapolis 46218 (CMS:yes)
-	1.80 Community Hospital East
-	1500 North Ritter Avenue Indianapolis 46219
-8. Neuropsychiatric Hospital Of Indianapolis, Llc
-	6720 Parkdale Place, Suite 100 Indianapolis 46254 (CMS:no)
-	1.90 Community Hospital North
-	7150 Clearvista Drive Indianapolis 46256
-9. Hamilton Center Inc
-	620 8Th Ave Terre Haute 47804 (CMS:no)
-	2.23 Union Hospital
-	1606 North 7th Street Terre Haute 47804
-10. Memorial Hospital And Health Care Center
-	800 W 9Th St Jasper 47546 (CMS:yes)
-	2.86 Memorial Hospital
-	800 West 9th Street Jasper 47546
-11. Saint Vincent Kokomo
-	1907 W Sycamore St Kokomo 46904 (CMS:yes)
-	3.01 Saint Vincent Kokomo Hospital
-	1907 West Sycamore Street Kokomo 46901
-Madison State Hospital
-	711 Green Road Madison 47250
-	 Emergency Mismatch (CMS:yes)
-	Madison State Hospital
-12. Medical Behavioral Hospital - Mishawaka
-	1625 East Jefferson Blvd Mishawaka 46545 (CMS:no)
-	2.39 Unity Medical & Surgical Hospital
-	4455 Edison Lakes Parkway Mishawaka 46545
-13. Richmond State Hospital
-	498 Nw 18Th St Richmond 47374 (CMS:yes)
-	3.02 Richmond State Hospital
-	- - Richmond 47374
-14. Indiana University Health
-	1701 N Senate Blvd Indianapolis 46202 (CMS:yes)
-	2.79 IU Methodist Hospital
-	1701 North Senate Boulevard Indianapolis 46202
-15. Iu Health Jay
-	500 W Votaw St Portland 47371 (CMS:yes)
-	2.90 Indiana University Health Jay Hospital
-	500 West Votaw Street Portland 47371
-16. Assurance Health Psychiatric Hospital
-	900 North High School Road Indianapolis 46214 (CMS:no)
-	1.99 Community Hospital East
-	1500 North Ritter Avenue Indianapolis 46219
-17. Cameron Memorial Community Hospital Inc
-	416 E Maumee St Angola 46703 (CMS:yes)
-	1.23 Rush Memorial Hospital
-	1300 North Main Street Rushville 46173
-18. Meridian Services Corp
-	2401 W University Ave Muncie 47303 (CMS:no)
-	2.86 Ball Memorial Hospital
-	2401 University Avenue Muncie 47303
-19. Saint Joseph Regional Medical Center - Plymouth
-	1915 Lake Ave Plymouth 46563 (CMS:yes)
-	3.04 Plymouth Medical Center
-	1915 Lake Avenue Plymouth 46563
-20. Bloomington Meadows Hospital
-	3600 N Prow Rd Bloomington 47404 (CMS:no)
-	2.21 IU Health Bloomington Hospital
-	601 West 2nd Street Bloomington 47402
-21. Valle Vista Health System
-	898 E Main St Greenwood 46143 (CMS:no)
-	1.20 Hancock Regional Hospital
-	801 North State Street Greenfield 46140
-22. Michiana Behavioral Health Center
-	1800 N Oak Rd Plymouth 46563 (CMS:yes)
-	2.30 Plymouth Medical Center
-	1915 Lake Avenue Plymouth 46563
-23. Orthopaedic Hospital At Parkview North Llc
-	11130 Parkview Circle Dr Fort Wayne 46845 (CMS:yes)
-	3.06 Parkview Ortho Hospital
-	11130 Parkview Circle Fort Wayne 46845
-24. Saint Vincent Neighborhood Hospital
-	9613 East Us Highway 36 Avon 46123 (CMS:yes)
-	3.00 St. Vincent Neighborhood Hospital
-	9613 Rockville Road Avon 46123
-25. Indiana University Health White Memorial Hospital
-	720 South Sixth St Monticello 47960 (CMS:yes)
-	3.03 White Memorial Hospital
-	720 South 6th Street Monticello 47960
-26. Park Center, Inc
-	1909 Carew Street Fort Wayne 46805 (CMS:no)
-	2.22 Parkview Hospital Randallia
-	2200 Randalia Drive Fort Wayne 46805
-27. Witham Health Services
-	2605 N Lebanon St Lebanon 46052 (CMS:yes)
-	2.95 Witham Hospital
-	2605 North Lebanon Street Lebanon 46052
-28. Saint Vincent Mercy Hospital
-	1331 S A St Elwood 46036 (CMS:yes)
-	3.04 St. Vincent Mercy
-	1331 South A Street Elwood 46036
-29. Saint Vincent Dunn Hospital Inc
-	1600 23Rd St Bedford 47421 (CMS:yes)
-	3.02 St. Vincent Dunn
-	1600 23rd Street Bedford 47421
-30. Northeastern Center
-	1850 Wesley Rd Auburn 46706 (CMS:no)
-	2.12 DeKalb Health
-	1317 East 7th Street Auburn 46706
-31. Neuro Behavioral Hospital
-	9330 Broadway Crown Point 46307 (CMS:no)
-	2.36 Pinnacle Hospital
-	9301 Connecticut Drive Crown Point 46307
-32. Brentwood Springs
-	4488 Roslin Rd Newburgh 47630 (CMS:no)
-	2.19 Deaconess Gateway Hospital
-	4011 Gateway Boulevard Newburgh 47630
-33. Grant-Blackford Mental Health, Inc
-	505 Wabash Ave Marion 46952 (CMS:no)
-	2.45 Marion General Hospital
-	441 North Wabash Avenue Marion 46952
-34. Starke Hospital
-	102 E Culver Rd Knox 46534 (CMS:yes)
-	2.95 Starke County Hospital
-	102 East Culver Road knox 46534
-35. Sycamore Springs Hospital Llc
-	833 Park East Blvd Lafayette 47905 (CMS:no)
-	2.20 Indiana University Health Arnett Hospital
-	5165 McCarty Lane Lafayette 47905
-36. Otis R Bowen Center For Human Services Inc
-	9 Pequignot Dr Pierceton 46562 (CMS:yes)
-	0.98 Gibson General Hospital
-	1808 Sherman Drive Princeton 47670
-37. Fairbanks
-	8102 Clearvista Parkway Indianapolis 46256 (CMS:no)
-	2.76 Fairbanks Addiction Treatment Center
-	8102 Clearvista Drive Indianapolis 46256
-38. Major Hospital
-	2451 Intelliplex Dr Shelbyville 46176 (CMS:yes)
-	2.96 MHP Medical Center
-	2451 Intelliplex Drive Shelbyville 46176
-39. Oaklawn Psychiatric Center Inc
-	330 Lakeview Dr Goshen 46527 (CMS:no)
-	1.77 Goshen Health Hospital
-	200 High Park Avenue Goshen 46526
-Wellstone Regional Hospital
-	2700 Vissing Park Road Jeffersonville 47130
-	 Emergency Mismatch (CMS:yes)
-	Wellstone Regional Hospital
-40. Dukes Memorial Hospital
-	275 W 12Th St Peru 46970 (CMS:yes)
-	1.53 Dukes Memorial Hospital
-	275 West 12th Street - -
-41. Community Mental Health Center Inc
-	285 Bielby Rd Lawrenceburg 47025 (CMS:yes)
-	2.24 Dearborn County Hospital
-	600 Wilson Creek Road Lawrenceburg 47025
-42. Harsha Behavioral Center Inc
-	1980 E Woodsmall Dr Terre Haute 47802 (CMS:no)
-	2.21 Terre Haute Regional Hospital
-	3901 South 7th Street Terre Haute 47802
-Good Samaritan Hospital
-	520 South 7th Street Vincennes 47591
-	 Emergency Mismatch (CMS:yes)
-	Good Samaritan Hospital
-43. Memorial Hospital
-	1101 Michigan Ave Logansport 46947 (CMS:yes)
-	2.05 Logansport State Hospital
-	1098 South State Road 25 Logansport 47947
-44. Parkview Wabash Hospital, Inc
-	10 John Kissinger Drive Wabash 46992 (CMS:yes)
-	2.95 Parkview Wabash Hospital
-	710 North East Street Wabash 46992
-45. Saint Vincent Hospital & Health Services
-	2001 W 86Th St Indianapolis 46260 (CMS:yes)
-	2.87 Peyton Manning Children's Hospital At St. Vincent
-	2001 West 86th Street Indianapolis 46260
-46. Doctors Neuropsychiatric Hospital
-	417 S Whitlock St Bremen 46506 (CMS:no)
-	2.24 Bremen Community Hospital
-	1020 High Road Bremen 46506
-47. Franciscan Health Michigan City
-	3500 Franciscan Way Michigan City 46360 (CMS:yes)
-	2.69 Franciscan ExpressCare Michigan City
-	301 West Homer Street Michigan City 46360
-Found 47 issues.
+1. Unmatched medicare hospital
+  Medicare name: Four County Counseling Center
+  Medicare address: 1015 Michigan Ave Logansport 46947
+  Medicare emergency services: no
+  Best OSM Match: 1.78 Logansport State Hospital
+  OSM Address: 1098 South State Road 25 Logansport 47947
+2. Unmatched medicare hospital
+  Medicare name: Highpoint Health
+  Medicare address: 600 Wilson Creek Rd Lawrenceburg 47025
+  Medicare emergency services: yes
+  Best OSM Match: 3.02 Dearborn County Hospital
+  OSM Address: 600 Wilson Creek Road Lawrenceburg 47025
+3. Unmatched medicare hospital
+  Medicare name: Options Behavioral Health System
+  Medicare address: 5602 Caito Drive Indianapolis 46226
+  Medicare emergency services: no
+  Best OSM Match: 2.26 Fairbanks Addiction Treatment Center
+  OSM Address: 8102 Clearvista Drive Indianapolis 46256
+4. Unmatched medicare hospital
+  Medicare name: Porter-Starke Services Inc
+  Medicare address: 701 Wall St Valparaiso 46383
+  Medicare emergency services: no
+  Best OSM Match: 2.16 Porter Regional Hospital
+  OSM Address: 85 East US-6 Frontage Road Valparaiso 46383
+5. Unmatched medicare hospital
+  Medicare name: Iu Health Bloomington Hospital
+  Medicare address: 601 W Second St Bloomington 47403
+  Medicare emergency services: yes
+  Best OSM Match: 3.06 IU Health Bloomington Hospital
+  OSM Address: 601 West 2nd Street Bloomington 47402
+6. Unmatched medicare hospital
+  Medicare name: Saint Vincent Evansville
+  Medicare address: 3700 Washington Ave Evansville 47750
+  Medicare emergency services: yes
+  Best OSM Match: 3.08 Saint Mary's Medical Center
+  OSM Address: 3700 Washington Avenue Evansville 47750
+7. Unmatched medicare hospital
+  Medicare name: Neurodiagnostic Institute
+  Medicare address: 5435 E 16Th St Indianapolis 46218
+  Medicare emergency services: yes
+  Best OSM Match: 1.80 Community Hospital East
+  OSM Address: 1500 North Ritter Avenue Indianapolis 46219
+8. Unmatched medicare hospital
+  Medicare name: Neuropsychiatric Hospital Of Indianapolis, Llc
+  Medicare address: 6720 Parkdale Place, Suite 100 Indianapolis 46254
+  Medicare emergency services: no
+  Best OSM Match: 1.90 Community Hospital North
+  OSM Address: 7150 Clearvista Drive Indianapolis 46256
+9. Unmatched medicare hospital
+  Medicare name: Hamilton Center Inc
+  Medicare address: 620 8Th Ave Terre Haute 47804
+  Medicare emergency services: no
+  Best OSM Match: 2.23 Union Hospital
+  OSM Address: 1606 North 7th Street Terre Haute 47804
+10. Unmatched medicare hospital
+  Medicare name: Memorial Hospital And Health Care Center
+  Medicare address: 800 W 9Th St Jasper 47546
+  Medicare emergency services: yes
+  Best OSM Match: 2.86 Memorial Hospital
+  OSM Address: 800 West 9th Street Jasper 47546
+11. Unmatched medicare hospital
+  Medicare name: Saint Vincent Kokomo
+  Medicare address: 1907 W Sycamore St Kokomo 46904
+  Medicare emergency services: yes
+  Best OSM Match: 3.01 Saint Vincent Kokomo Hospital
+  OSM Address: 1907 West Sycamore Street Kokomo 46901
+12. Emergency services mismatch
+  Medicare name: Madison State Hospital
+  OSM name: Madison State Hospital
+  OSM Address: 711 Green Road Madison 47250
+  Medicare emergency services: yes
+  OSM Emergency: no
+13. Unmatched medicare hospital
+  Medicare name: Medical Behavioral Hospital - Mishawaka
+  Medicare address: 1625 East Jefferson Blvd Mishawaka 46545
+  Medicare emergency services: no
+  Best OSM Match: 2.39 Unity Medical & Surgical Hospital
+  OSM Address: 4455 Edison Lakes Parkway Mishawaka 46545
+14. Unmatched medicare hospital
+  Medicare name: Richmond State Hospital
+  Medicare address: 498 Nw 18Th St Richmond 47374
+  Medicare emergency services: yes
+  Best OSM Match: 3.02 Richmond State Hospital
+  OSM Address: - - Richmond 47374
+15. Unmatched medicare hospital
+  Medicare name: Indiana University Health
+  Medicare address: 1701 N Senate Blvd Indianapolis 46202
+  Medicare emergency services: yes
+  Best OSM Match: 2.79 IU Methodist Hospital
+  OSM Address: 1701 North Senate Boulevard Indianapolis 46202
+16. Unmatched medicare hospital
+  Medicare name: Iu Health Jay
+  Medicare address: 500 W Votaw St Portland 47371
+  Medicare emergency services: yes
+  Best OSM Match: 2.90 Indiana University Health Jay Hospital
+  OSM Address: 500 West Votaw Street Portland 47371
+17. Unmatched medicare hospital
+  Medicare name: Assurance Health Psychiatric Hospital
+  Medicare address: 900 North High School Road Indianapolis 46214
+  Medicare emergency services: no
+  Best OSM Match: 1.99 Community Hospital East
+  OSM Address: 1500 North Ritter Avenue Indianapolis 46219
+18. Unmatched medicare hospital
+  Medicare name: Cameron Memorial Community Hospital Inc
+  Medicare address: 416 E Maumee St Angola 46703
+  Medicare emergency services: yes
+  Best OSM Match: 1.23 Rush Memorial Hospital
+  OSM Address: 1300 North Main Street Rushville 46173
+19. Unmatched medicare hospital
+  Medicare name: Meridian Services Corp
+  Medicare address: 2401 W University Ave Muncie 47303
+  Medicare emergency services: no
+  Best OSM Match: 2.86 Ball Memorial Hospital
+  OSM Address: 2401 University Avenue Muncie 47303
+20. Unmatched medicare hospital
+  Medicare name: Saint Joseph Regional Medical Center - Plymouth
+  Medicare address: 1915 Lake Ave Plymouth 46563
+  Medicare emergency services: yes
+  Best OSM Match: 3.04 Plymouth Medical Center
+  OSM Address: 1915 Lake Avenue Plymouth 46563
+21. Unmatched medicare hospital
+  Medicare name: Bloomington Meadows Hospital
+  Medicare address: 3600 N Prow Rd Bloomington 47404
+  Medicare emergency services: no
+  Best OSM Match: 2.21 IU Health Bloomington Hospital
+  OSM Address: 601 West 2nd Street Bloomington 47402
+22. Unmatched medicare hospital
+  Medicare name: Valle Vista Health System
+  Medicare address: 898 E Main St Greenwood 46143
+  Medicare emergency services: no
+  Best OSM Match: 1.20 Hancock Regional Hospital
+  OSM Address: 801 North State Street Greenfield 46140
+23. Unmatched medicare hospital
+  Medicare name: Michiana Behavioral Health Center
+  Medicare address: 1800 N Oak Rd Plymouth 46563
+  Medicare emergency services: yes
+  Best OSM Match: 2.30 Plymouth Medical Center
+  OSM Address: 1915 Lake Avenue Plymouth 46563
+24. Unmatched medicare hospital
+  Medicare name: Orthopaedic Hospital At Parkview North Llc
+  Medicare address: 11130 Parkview Circle Dr Fort Wayne 46845
+  Medicare emergency services: yes
+  Best OSM Match: 3.06 Parkview Ortho Hospital
+  OSM Address: 11130 Parkview Circle Fort Wayne 46845
+25. Unmatched medicare hospital
+  Medicare name: Saint Vincent Neighborhood Hospital
+  Medicare address: 9613 East Us Highway 36 Avon 46123
+  Medicare emergency services: yes
+  Best OSM Match: 3.00 St. Vincent Neighborhood Hospital
+  OSM Address: 9613 Rockville Road Avon 46123
+26. Unmatched medicare hospital
+  Medicare name: Indiana University Health White Memorial Hospital
+  Medicare address: 720 South Sixth St Monticello 47960
+  Medicare emergency services: yes
+  Best OSM Match: 3.03 White Memorial Hospital
+  OSM Address: 720 South 6th Street Monticello 47960
+27. Unmatched medicare hospital
+  Medicare name: Park Center, Inc
+  Medicare address: 1909 Carew Street Fort Wayne 46805
+  Medicare emergency services: no
+  Best OSM Match: 2.22 Parkview Hospital Randallia
+  OSM Address: 2200 Randalia Drive Fort Wayne 46805
+28. Unmatched medicare hospital
+  Medicare name: Witham Health Services
+  Medicare address: 2605 N Lebanon St Lebanon 46052
+  Medicare emergency services: yes
+  Best OSM Match: 2.95 Witham Hospital
+  OSM Address: 2605 North Lebanon Street Lebanon 46052
+29. Unmatched medicare hospital
+  Medicare name: Saint Vincent Mercy Hospital
+  Medicare address: 1331 S A St Elwood 46036
+  Medicare emergency services: yes
+  Best OSM Match: 3.04 St. Vincent Mercy
+  OSM Address: 1331 South A Street Elwood 46036
+30. Unmatched medicare hospital
+  Medicare name: Saint Vincent Dunn Hospital Inc
+  Medicare address: 1600 23Rd St Bedford 47421
+  Medicare emergency services: yes
+  Best OSM Match: 3.02 St. Vincent Dunn
+  OSM Address: 1600 23rd Street Bedford 47421
+31. Unmatched medicare hospital
+  Medicare name: Northeastern Center
+  Medicare address: 1850 Wesley Rd Auburn 46706
+  Medicare emergency services: no
+  Best OSM Match: 2.12 DeKalb Health
+  OSM Address: 1317 East 7th Street Auburn 46706
+32. Unmatched medicare hospital
+  Medicare name: Neuro Behavioral Hospital
+  Medicare address: 9330 Broadway Crown Point 46307
+  Medicare emergency services: no
+  Best OSM Match: 2.36 Pinnacle Hospital
+  OSM Address: 9301 Connecticut Drive Crown Point 46307
+33. Unmatched medicare hospital
+  Medicare name: Brentwood Springs
+  Medicare address: 4488 Roslin Rd Newburgh 47630
+  Medicare emergency services: no
+  Best OSM Match: 2.19 Deaconess Gateway Hospital
+  OSM Address: 4011 Gateway Boulevard Newburgh 47630
+34. Unmatched medicare hospital
+  Medicare name: Grant-Blackford Mental Health, Inc
+  Medicare address: 505 Wabash Ave Marion 46952
+  Medicare emergency services: no
+  Best OSM Match: 2.45 Marion General Hospital
+  OSM Address: 441 North Wabash Avenue Marion 46952
+35. Unmatched medicare hospital
+  Medicare name: Starke Hospital
+  Medicare address: 102 E Culver Rd Knox 46534
+  Medicare emergency services: yes
+  Best OSM Match: 2.95 Starke County Hospital
+  OSM Address: 102 East Culver Road knox 46534
+36. Unmatched medicare hospital
+  Medicare name: Sycamore Springs Hospital Llc
+  Medicare address: 833 Park East Blvd Lafayette 47905
+  Medicare emergency services: no
+  Best OSM Match: 2.20 Indiana University Health Arnett Hospital
+  OSM Address: 5165 McCarty Lane Lafayette 47905
+37. Unmatched medicare hospital
+  Medicare name: Otis R Bowen Center For Human Services Inc
+  Medicare address: 9 Pequignot Dr Pierceton 46562
+  Medicare emergency services: yes
+  Best OSM Match: 0.98 Gibson General Hospital
+  OSM Address: 1808 Sherman Drive Princeton 47670
+38. Unmatched medicare hospital
+  Medicare name: Fairbanks
+  Medicare address: 8102 Clearvista Parkway Indianapolis 46256
+  Medicare emergency services: no
+  Best OSM Match: 2.76 Fairbanks Addiction Treatment Center
+  OSM Address: 8102 Clearvista Drive Indianapolis 46256
+39. Unmatched medicare hospital
+  Medicare name: Major Hospital
+  Medicare address: 2451 Intelliplex Dr Shelbyville 46176
+  Medicare emergency services: yes
+  Best OSM Match: 2.96 MHP Medical Center
+  OSM Address: 2451 Intelliplex Drive Shelbyville 46176
+40. Unmatched medicare hospital
+  Medicare name: Oaklawn Psychiatric Center Inc
+  Medicare address: 330 Lakeview Dr Goshen 46527
+  Medicare emergency services: no
+  Best OSM Match: 1.77 Goshen Health Hospital
+  OSM Address: 200 High Park Avenue Goshen 46526
+41. Emergency services mismatch
+  Medicare name: Wellstone Regional Hospital
+  OSM name: Wellstone Regional Hospital
+  OSM Address: 2700 Vissing Park Road Jeffersonville 47130
+  Medicare emergency services: yes
+  OSM Emergency: no
+42. Unmatched medicare hospital
+  Medicare name: Dukes Memorial Hospital
+  Medicare address: 275 W 12Th St Peru 46970
+  Medicare emergency services: yes
+  Best OSM Match: 1.53 Dukes Memorial Hospital
+  OSM Address: 275 West 12th Street - -
+43. Unmatched medicare hospital
+  Medicare name: Community Mental Health Center Inc
+  Medicare address: 285 Bielby Rd Lawrenceburg 47025
+  Medicare emergency services: yes
+  Best OSM Match: 2.24 Dearborn County Hospital
+  OSM Address: 600 Wilson Creek Road Lawrenceburg 47025
+44. Unmatched medicare hospital
+  Medicare name: Harsha Behavioral Center Inc
+  Medicare address: 1980 E Woodsmall Dr Terre Haute 47802
+  Medicare emergency services: no
+  Best OSM Match: 2.21 Terre Haute Regional Hospital
+  OSM Address: 3901 South 7th Street Terre Haute 47802
+45. Emergency services mismatch
+  Medicare name: Good Samaritan Hospital
+  OSM name: Good Samaritan Hospital
+  OSM Address: 520 South 7th Street Vincennes 47591
+  Medicare emergency services: yes
+  OSM Emergency: no
+46. Unmatched medicare hospital
+  Medicare name: Memorial Hospital
+  Medicare address: 1101 Michigan Ave Logansport 46947
+  Medicare emergency services: yes
+  Best OSM Match: 2.05 Logansport State Hospital
+  OSM Address: 1098 South State Road 25 Logansport 47947
+47. Unmatched medicare hospital
+  Medicare name: Parkview Wabash Hospital, Inc
+  Medicare address: 10 John Kissinger Drive Wabash 46992
+  Medicare emergency services: yes
+  Best OSM Match: 2.95 Parkview Wabash Hospital
+  OSM Address: 710 North East Street Wabash 46992
+48. Unmatched medicare hospital
+  Medicare name: Saint Vincent Hospital & Health Services
+  Medicare address: 2001 W 86Th St Indianapolis 46260
+  Medicare emergency services: yes
+  Best OSM Match: 2.87 Peyton Manning Children's Hospital At St. Vincent
+  OSM Address: 2001 West 86th Street Indianapolis 46260
+49. Unmatched medicare hospital
+  Medicare name: Doctors Neuropsychiatric Hospital
+  Medicare address: 417 S Whitlock St Bremen 46506
+  Medicare emergency services: no
+  Best OSM Match: 2.24 Bremen Community Hospital
+  OSM Address: 1020 High Road Bremen 46506
+50. Unmatched medicare hospital
+  Medicare name: Franciscan Health Michigan City
+  Medicare address: 3500 Franciscan Way Michigan City 46360
+  Medicare emergency services: yes
+  Best OSM Match: 2.69 Franciscan ExpressCare Michigan City
+  OSM Address: 301 West Homer Street Michigan City 46360
+Found 50 potential issues.
 
-Unmatched emergency=yes
-Peyton Manning Children's Hospital At St. Vincent (2.87)
-	2001 West 86th Street Indianapolis 46260
-Unmatched emergency=yes
-Michael & Susan Smith Emergency Department at Eskenazi Health (0.00)
-	- - - -
-Unmatched emergency=yes
-Future IU Health Bloomington (0.00)
-	- - - -
-Unmatched emergency=yes
-St. Vincent Neighborhood Hospital (3.00)
-	9613 Rockville Road Avon 46123
-Unmatched emergency=yes
-Saint Mary's Medical Center (3.08)
-	3700 Washington Avenue Evansville 47750
-Unmatched emergency=yes
-IU Health Bloomington Hospital (2.21)
-	601 West 2nd Street Bloomington 47402
-Unmatched emergency=yes
--- (0.00)
-	- - - -
-Unmatched emergency=yes
-Saint Vincent Indianapolis (0.00)
-	2001 West 86th Street Indianapolis 46260
-Unmatched emergency=yes
-Dearborn County Hospital (2.24)
-	600 Wilson Creek Road Lawrenceburg 47025
-Unmatched emergency=yes
-Memorial Hospital (2.86)
-	800 West 9th Street Jasper 47546
-Unmatched emergency=yes
-IU Health Saxony Hospital (0.00)
-	13000 East 136th Street Fishers 46037
-Unmatched emergency=yes
-Deaconess Gateway Hospital (2.19)
-	4011 Gateway Boulevard Newburgh 47630
-Unmatched emergency=yes
-St. Vincent Dunn (3.02)
-	1600 23rd Street Bedford 47421
-Unmatched emergency=yes
-IU Health Morgan Hospital (0.00)
-	2209 John R Wooden Drive Martinsville 46151
-Unmatched emergency=yes
-MHP Medical Center (2.96)
-	2451 Intelliplex Drive Shelbyville 46176
-Unmatched emergency=yes
-Riley Hospital for Children (0.00)
-	705 Riley Hospital Drive Indianapolis 46202
-Unmatched emergency=yes
-IU Methodist Hospital (2.79)
-	1701 North Senate Boulevard Indianapolis 46202
-Unmatched emergency=yes
-Community Heart and Vascular Hospital (0.00)
-	8075 North Shadeland Avenue Indianapolis 46250
-Unmatched emergency=yes
-Witham Hospital (2.95)
-	2605 North Lebanon Street Lebanon 46052
-Unmatched emergency=yes
-St. Vincent Mercy (3.04)
-	1331 South A Street Elwood 46036
-Unmatched emergency=yes
-White Memorial Hospital (3.03)
-	720 South 6th Street Monticello 47960
-Unmatched emergency=yes
--- (0.00)
-	- - - -
-Unmatched emergency=yes
-Parkview Hospital Randallia (2.22)
-	2200 Randalia Drive Fort Wayne 46805
-Unmatched emergency=yes
-Franciscan ExpressCare Michigan City (2.69)
-	301 West Homer Street Michigan City 46360
-Unmatched emergency=yes
-Starke County Hospital (2.95)
-	102 East Culver Road knox 46534
-Unmatched emergency=yes
-Valparaiso Medical Center (0.00)
-	1900-2000 Roosevelt Road Valparaiso 46383
-Unmatched emergency=yes
-Portage Hospital (0.00)
-	3630 Willowcreek Road Portage 46368
-Unmatched emergency=yes
-Methodist Hospitals - Southlake Campus (0.00)
-	8701 Broadway Merrillville 46410
-Unmatched emergency=yes
-Hendricks Regional Health Brownsburg Hospital (0.00)
-	5292 Ronald Reagan Parkway Brownsburg 46278
-Unmatched emergency=yes
-Saint Vincent Kokomo Hospital (3.01)
-	1907 West Sycamore Street Kokomo 46901
-Unmatched emergency=yes
-Plymouth Medical Center (2.30)
-	1915 Lake Avenue Plymouth 46563
-Unmatched emergency=yes
-Kentuckiana Medical Center (0.00)
-	4601 Medical Plaza Way Clarksville 47129
-Unmatched emergency=yes
-Parkview Wabash Hospital (2.95)
-	710 North East Street Wabash 46992
-Unmatched emergency=yes
-Indiana University Health Jay Hospital (2.90)
-	500 West Votaw Street Portland 47371
-Unmatched emergency=yes
-Beacon Granger Hospital (0.00)
-	3220 Beacon Parkway Granger 46530
+Unmatched emergency=yes in OSM
+  OSM name: Peyton Manning Children's Hospital At St. Vincent
+  Score of best match: 2.87
+  OSM address: 2001 West 86th Street Indianapolis 46260
+Unmatched emergency=yes in OSM
+  OSM name: Michael & Susan Smith Emergency Department at Eskenazi Health
+  Score of best match: 0.00
+  OSM address: - - - -
+Unmatched emergency=yes in OSM
+  OSM name: Future IU Health Bloomington
+  Score of best match: 0.00
+  OSM address: - - - -
+Unmatched emergency=yes in OSM
+  OSM name: St. Vincent Neighborhood Hospital
+  Score of best match: 3.00
+  OSM address: 9613 Rockville Road Avon 46123
+Unmatched emergency=yes in OSM
+  OSM name: Saint Mary's Medical Center
+  Score of best match: 3.08
+  OSM address: 3700 Washington Avenue Evansville 47750
+Unmatched emergency=yes in OSM
+  OSM name: IU Health Bloomington Hospital
+  Score of best match: 2.21
+  OSM address: 601 West 2nd Street Bloomington 47402
+Unmatched emergency=yes in OSM
+  OSM name: --
+  Score of best match: 0.00
+  OSM address: - - - -
+Unmatched emergency=yes in OSM
+  OSM name: Saint Vincent Indianapolis
+  Score of best match: 0.00
+  OSM address: 2001 West 86th Street Indianapolis 46260
+Unmatched emergency=yes in OSM
+  OSM name: Dearborn County Hospital
+  Score of best match: 2.24
+  OSM address: 600 Wilson Creek Road Lawrenceburg 47025
+Unmatched emergency=yes in OSM
+  OSM name: Memorial Hospital
+  Score of best match: 2.86
+  OSM address: 800 West 9th Street Jasper 47546
+Unmatched emergency=yes in OSM
+  OSM name: IU Health Saxony Hospital
+  Score of best match: 0.00
+  OSM address: 13000 East 136th Street Fishers 46037
+Unmatched emergency=yes in OSM
+  OSM name: Deaconess Gateway Hospital
+  Score of best match: 2.19
+  OSM address: 4011 Gateway Boulevard Newburgh 47630
+Unmatched emergency=yes in OSM
+  OSM name: St. Vincent Dunn
+  Score of best match: 3.02
+  OSM address: 1600 23rd Street Bedford 47421
+Unmatched emergency=yes in OSM
+  OSM name: IU Health Morgan Hospital
+  Score of best match: 0.00
+  OSM address: 2209 John R Wooden Drive Martinsville 46151
+Unmatched emergency=yes in OSM
+  OSM name: MHP Medical Center
+  Score of best match: 2.96
+  OSM address: 2451 Intelliplex Drive Shelbyville 46176
+Unmatched emergency=yes in OSM
+  OSM name: Riley Hospital for Children
+  Score of best match: 0.00
+  OSM address: 705 Riley Hospital Drive Indianapolis 46202
+Unmatched emergency=yes in OSM
+  OSM name: IU Methodist Hospital
+  Score of best match: 2.79
+  OSM address: 1701 North Senate Boulevard Indianapolis 46202
+Unmatched emergency=yes in OSM
+  OSM name: Community Heart and Vascular Hospital
+  Score of best match: 0.00
+  OSM address: 8075 North Shadeland Avenue Indianapolis 46250
+Unmatched emergency=yes in OSM
+  OSM name: Witham Hospital
+  Score of best match: 2.95
+  OSM address: 2605 North Lebanon Street Lebanon 46052
+Unmatched emergency=yes in OSM
+  OSM name: St. Vincent Mercy
+  Score of best match: 3.04
+  OSM address: 1331 South A Street Elwood 46036
+Unmatched emergency=yes in OSM
+  OSM name: White Memorial Hospital
+  Score of best match: 3.03
+  OSM address: 720 South 6th Street Monticello 47960
+Unmatched emergency=yes in OSM
+  OSM name: --
+  Score of best match: 0.00
+  OSM address: - - - -
+Unmatched emergency=yes in OSM
+  OSM name: Parkview Hospital Randallia
+  Score of best match: 2.22
+  OSM address: 2200 Randalia Drive Fort Wayne 46805
+Unmatched emergency=yes in OSM
+  OSM name: Franciscan ExpressCare Michigan City
+  Score of best match: 2.69
+  OSM address: 301 West Homer Street Michigan City 46360
+Unmatched emergency=yes in OSM
+  OSM name: Starke County Hospital
+  Score of best match: 2.95
+  OSM address: 102 East Culver Road knox 46534
+Unmatched emergency=yes in OSM
+  OSM name: Valparaiso Medical Center
+  Score of best match: 0.00
+  OSM address: 1900-2000 Roosevelt Road Valparaiso 46383
+Unmatched emergency=yes in OSM
+  OSM name: Portage Hospital
+  Score of best match: 0.00
+  OSM address: 3630 Willowcreek Road Portage 46368
+Unmatched emergency=yes in OSM
+  OSM name: Methodist Hospitals - Southlake Campus
+  Score of best match: 0.00
+  OSM address: 8701 Broadway Merrillville 46410
+Unmatched emergency=yes in OSM
+  OSM name: Hendricks Regional Health Brownsburg Hospital
+  Score of best match: 0.00
+  OSM address: 5292 Ronald Reagan Parkway Brownsburg 46278
+Unmatched emergency=yes in OSM
+  OSM name: Saint Vincent Kokomo Hospital
+  Score of best match: 3.01
+  OSM address: 1907 West Sycamore Street Kokomo 46901
+Unmatched emergency=yes in OSM
+  OSM name: Plymouth Medical Center
+  Score of best match: 2.30
+  OSM address: 1915 Lake Avenue Plymouth 46563
+Unmatched emergency=yes in OSM
+  OSM name: Kentuckiana Medical Center
+  Score of best match: 0.00
+  OSM address: 4601 Medical Plaza Way Clarksville 47129
+Unmatched emergency=yes in OSM
+  OSM name: Parkview Wabash Hospital
+  Score of best match: 2.95
+  OSM address: 710 North East Street Wabash 46992
+Unmatched emergency=yes in OSM
+  OSM name: Indiana University Health Jay Hospital
+  Score of best match: 2.90
+  OSM address: 500 West Votaw Street Portland 47371
+Unmatched emergency=yes in OSM
+  OSM name: Beacon Granger Hospital
+  Score of best match: 0.00
+  OSM address: 3220 Beacon Parkway Granger 46530
 Found 35 unmatched emergency.

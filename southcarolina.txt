@@ -1,177 +1,249 @@
 93 OSM hospitals
 67 Medicare hospitals
-1. Carolina Ctr For Behavioral Health,The
-	2700 E Phillips Rd Greer 29650 (CMS:no)
-	2.24 Greer Memorial Hospital
-	830 South Buncombe Road Greer 29650
-2. Mcleod Regional Medical Center-Pee Dee
-	555 E Cheves St Box 8700 Florence 29506 (CMS:yes)
-	2.84 McLeod Regional Medical Center
-	555 East Cheves Street Florence 29505
-3. Prisma Health Oconee Memorial Hospital
-	102B Omni Dr Seneca 29672 (CMS:yes)
-	2.82 Oconee Memorial Hospital
-	298 Memorial Drive Seneca 29672
-4. Hilton Head Regional Medical Center
-	25 Hospital Center Blvd Hilton Head Island 29925 (CMS:yes)
-	2.75 Hilton Head Hospital
-	25 Hospital Center Boulevard Hilton Head Island 29926
-5. Musc Health Lancaster Medical Center
-	800 W Meeting St Lancaster 29720 (CMS:yes)
-	2.80 Springs Memorial Hospital
-	800 West Meeting Street Lancaster 29720
-6. Trmc Of Orangeburg & Calhoun
-	3000 St Matthews Rd Box 1806 Orangeburg 29115 (CMS:no)
-	2.62 The Regional Medical Center
-	3000 Saint Matthews Road Orangeburg 29115
-7. Nh Beaufort
-	1 Pinckney Blvd Beaufort 29902 (CMS:no)
-	3.10 Naval Hospital Beaufort
-	1 Pinkney Boulevard Beaufort 29902
-8. Prisma Health Richland Hospital
-	5 Medical Park Columbia 29203 (CMS:yes)
-	2.85 Palmetto Health Richland
-	5 Richland Medical Park Drive Columbia 29203
-9. Springbrook Behavioral Health System
-	One Havenwood Lane Po Box 1005 Travelers Rest 29690 (CMS:no)
-	2.07 North Greenville Hospital
-	807 North Main Street Travelers Rest 29690
-10. Mcleod Medical Center - Darlington
-	701 Cashua Ferry Road Darlington 29540 (CMS:no)
-	2.94 McLeod Health Darlington
-	701 Cashua Ferry Road Darlington 29532
-11. Prisma Health Hillcrest Hospital
-	741 South East Main Street Simpsonville 29681 (CMS:yes)
-	3.01 Greenville Hospital System
-	729 Southeast Main Street Simpsonville 29681
-12. Prisma Health Baptist
-	1330 Taylor At Marion St Columbia 29220 (CMS:yes)
-	3.07 Palmetto Health Baptist
-	- Taylor Street at Marion Street Columbia 29220
-13. Anmed Health
-	800 N Fant St Anderson 29621 (CMS:yes)
-	2.96 AnMed Health Medical Center
-	800 North Fant Street Anderson 29621
-14. Rebound Behavioral Health
-	134 East Rebound Road Lancaster 29720 (CMS:yes)
-	2.26 Springs Memorial Hospital
-	800 West Meeting Street Lancaster 29720
-15. Prisma Health Greenville Memorial Hospital
-	905 Verdae Blvd Suite 102 Greenville 29605 (CMS:yes)
-	2.37 Greenville Memorial Hospital
-	701 Grove Road Greenville 29601
-16. Prisma Health Patewood Hospital
-	175 Patewood Drive Greenville 29615 (CMS:no)
-	3.00 Greenville Health System’ Patewood Medical Campus
-	200 Patewood Drive Greenville 29615
-17. Musc Health Marion Medical Center
-	2829 E Hwy 76 Mullins 29574 (CMS:yes)
-	2.77 Carolinas Hospital System - Marion
-	2829 East Highway 76 Mullins 29574
-18. Mcleod Medical Center - Dillon
-	301 E Jackson Street Po Box 1327 Dillon 29536 (CMS:yes)
-	2.89 McLeod Dillon
-	301 East Jackson Street Dillon 29536
-19. Lighthouse Behavioral Health Hospital
-	152 Waccamaw Medical Park Drive Conway 29526 (CMS:yes)
-	2.06 Conway Medical Center
-	300 Singleton Ridge Road Conway 29526
-20. Cannon Memorial Hospital
-	123 W G Acker Drive Pickens 29671 (CMS:yes)
-	3.08 AnMed Health Cannon
-	123 W G Acker Drive Pickens 29671
-21. Musc Health Florence Medical Center
-	805 Pamplico Hwy Box 100550 Florence 29505 (CMS:yes)
-	2.60 Medical University of South Carolina: Florence
-	805 Pamplico Highway Florence 29505
-22. Tidelands Health
-	606 Black River Rd Drawer 1718 Georgetown 29440 (CMS:yes)
-	2.79 Tidelands Georgetown Memorial Hospital
-	606 Black River Road Georgetown 29440
-Found 22 issues.
+1. Unmatched medicare hospital
+  Medicare name: Carolina Ctr For Behavioral Health,The
+  Medicare address: 2700 E Phillips Rd Greer 29650
+  Medicare emergency services: no
+  Best OSM Match: 2.24 Greer Memorial Hospital
+  OSM Address: 830 South Buncombe Road Greer 29650
+2. Unmatched medicare hospital
+  Medicare name: Mcleod Regional Medical Center-Pee Dee
+  Medicare address: 555 E Cheves St Box 8700 Florence 29506
+  Medicare emergency services: yes
+  Best OSM Match: 2.84 McLeod Regional Medical Center
+  OSM Address: 555 East Cheves Street Florence 29505
+3. Unmatched medicare hospital
+  Medicare name: Prisma Health Oconee Memorial Hospital
+  Medicare address: 102B Omni Dr Seneca 29672
+  Medicare emergency services: yes
+  Best OSM Match: 2.82 Oconee Memorial Hospital
+  OSM Address: 298 Memorial Drive Seneca 29672
+4. Unmatched medicare hospital
+  Medicare name: Hilton Head Regional Medical Center
+  Medicare address: 25 Hospital Center Blvd Hilton Head Island 29925
+  Medicare emergency services: yes
+  Best OSM Match: 2.75 Hilton Head Hospital
+  OSM Address: 25 Hospital Center Boulevard Hilton Head Island 29926
+5. Unmatched medicare hospital
+  Medicare name: Musc Health Lancaster Medical Center
+  Medicare address: 800 W Meeting St Lancaster 29720
+  Medicare emergency services: yes
+  Best OSM Match: 2.80 Springs Memorial Hospital
+  OSM Address: 800 West Meeting Street Lancaster 29720
+6. Unmatched medicare hospital
+  Medicare name: Trmc Of Orangeburg & Calhoun
+  Medicare address: 3000 St Matthews Rd Box 1806 Orangeburg 29115
+  Medicare emergency services: no
+  Best OSM Match: 2.62 The Regional Medical Center
+  OSM Address: 3000 Saint Matthews Road Orangeburg 29115
+7. Unmatched medicare hospital
+  Medicare name: Nh Beaufort
+  Medicare address: 1 Pinckney Blvd Beaufort 29902
+  Medicare emergency services: no
+  Best OSM Match: 3.10 Naval Hospital Beaufort
+  OSM Address: 1 Pinkney Boulevard Beaufort 29902
+8. Unmatched medicare hospital
+  Medicare name: Prisma Health Richland Hospital
+  Medicare address: 5 Medical Park Columbia 29203
+  Medicare emergency services: yes
+  Best OSM Match: 2.85 Palmetto Health Richland
+  OSM Address: 5 Richland Medical Park Drive Columbia 29203
+9. Unmatched medicare hospital
+  Medicare name: Springbrook Behavioral Health System
+  Medicare address: One Havenwood Lane Po Box 1005 Travelers Rest 29690
+  Medicare emergency services: no
+  Best OSM Match: 2.07 North Greenville Hospital
+  OSM Address: 807 North Main Street Travelers Rest 29690
+10. Unmatched medicare hospital
+  Medicare name: Mcleod Medical Center - Darlington
+  Medicare address: 701 Cashua Ferry Road Darlington 29540
+  Medicare emergency services: no
+  Best OSM Match: 2.94 McLeod Health Darlington
+  OSM Address: 701 Cashua Ferry Road Darlington 29532
+11. Unmatched medicare hospital
+  Medicare name: Prisma Health Hillcrest Hospital
+  Medicare address: 741 South East Main Street Simpsonville 29681
+  Medicare emergency services: yes
+  Best OSM Match: 3.01 Greenville Hospital System
+  OSM Address: 729 Southeast Main Street Simpsonville 29681
+12. Unmatched medicare hospital
+  Medicare name: Prisma Health Baptist
+  Medicare address: 1330 Taylor At Marion St Columbia 29220
+  Medicare emergency services: yes
+  Best OSM Match: 3.07 Palmetto Health Baptist
+  OSM Address: - Taylor Street at Marion Street Columbia 29220
+13. Unmatched medicare hospital
+  Medicare name: Anmed Health
+  Medicare address: 800 N Fant St Anderson 29621
+  Medicare emergency services: yes
+  Best OSM Match: 2.96 AnMed Health Medical Center
+  OSM Address: 800 North Fant Street Anderson 29621
+14. Unmatched medicare hospital
+  Medicare name: Rebound Behavioral Health
+  Medicare address: 134 East Rebound Road Lancaster 29720
+  Medicare emergency services: yes
+  Best OSM Match: 2.26 Springs Memorial Hospital
+  OSM Address: 800 West Meeting Street Lancaster 29720
+15. Unmatched medicare hospital
+  Medicare name: Prisma Health Greenville Memorial Hospital
+  Medicare address: 905 Verdae Blvd Suite 102 Greenville 29605
+  Medicare emergency services: yes
+  Best OSM Match: 2.37 Greenville Memorial Hospital
+  OSM Address: 701 Grove Road Greenville 29601
+16. Unmatched medicare hospital
+  Medicare name: Prisma Health Patewood Hospital
+  Medicare address: 175 Patewood Drive Greenville 29615
+  Medicare emergency services: no
+  Best OSM Match: 3.00 Greenville Health System’ Patewood Medical Campus
+  OSM Address: 200 Patewood Drive Greenville 29615
+17. Unmatched medicare hospital
+  Medicare name: Musc Health Marion Medical Center
+  Medicare address: 2829 E Hwy 76 Mullins 29574
+  Medicare emergency services: yes
+  Best OSM Match: 2.77 Carolinas Hospital System - Marion
+  OSM Address: 2829 East Highway 76 Mullins 29574
+18. Unmatched medicare hospital
+  Medicare name: Mcleod Medical Center - Dillon
+  Medicare address: 301 E Jackson Street Po Box 1327 Dillon 29536
+  Medicare emergency services: yes
+  Best OSM Match: 2.89 McLeod Dillon
+  OSM Address: 301 East Jackson Street Dillon 29536
+19. Unmatched medicare hospital
+  Medicare name: Lighthouse Behavioral Health Hospital
+  Medicare address: 152 Waccamaw Medical Park Drive Conway 29526
+  Medicare emergency services: yes
+  Best OSM Match: 2.06 Conway Medical Center
+  OSM Address: 300 Singleton Ridge Road Conway 29526
+20. Unmatched medicare hospital
+  Medicare name: Cannon Memorial Hospital
+  Medicare address: 123 W G Acker Drive Pickens 29671
+  Medicare emergency services: yes
+  Best OSM Match: 3.08 AnMed Health Cannon
+  OSM Address: 123 W G Acker Drive Pickens 29671
+21. Unmatched medicare hospital
+  Medicare name: Musc Health Florence Medical Center
+  Medicare address: 805 Pamplico Hwy Box 100550 Florence 29505
+  Medicare emergency services: yes
+  Best OSM Match: 2.60 Medical University of South Carolina: Florence
+  OSM Address: 805 Pamplico Highway Florence 29505
+22. Unmatched medicare hospital
+  Medicare name: Tidelands Health
+  Medicare address: 606 Black River Rd Drawer 1718 Georgetown 29440
+  Medicare emergency services: yes
+  Best OSM Match: 2.79 Tidelands Georgetown Memorial Hospital
+  OSM Address: 606 Black River Road Georgetown 29440
+Found 22 potential issues.
 
-Unmatched emergency=yes
-Greenville Hospital System (3.01)
-	729 Southeast Main Street Simpsonville 29681
-Unmatched emergency=yes
-McLeod Dillon (2.89)
-	301 East Jackson Street Dillon 29536
-Unmatched emergency=yes
-AnMed Health Medical Center (0.00)
-	- - - -
-Unmatched emergency=yes
-Greenville Memorial Hospital (2.37)
-	701 Grove Road Greenville 29601
-Unmatched emergency=yes
-Carolinas Hospital System - Marion (2.77)
-	2829 East Highway 76 Mullins 29574
-Unmatched emergency=yes
-South Strand Medical Center (0.00)
-	5050 Highway 17 Bypass Myrtle Beach 29588
-Unmatched emergency=yes
-McLeod Seacoast (0.00)
-	4000 Highway 9 East Little River 29566
-Unmatched emergency=yes
-Roper Hospital - Berkeley (0.00)
-	730 Stoney Landing Road Moncks Corner 29461
-Unmatched emergency=yes
-Hilton Head Hospital (2.75)
-	25 Hospital Center Boulevard Hilton Head Island 29926
-Unmatched emergency=yes
-Bamberg County Hospital (0.00)
-	509 North Street Bamberg 29003
-Unmatched emergency=yes
-The Regional Medical Center (2.62)
-	3000 Saint Matthews Road Orangeburg 29115
-Unmatched emergency=yes
-Summerville Medical Center (0.00)
-	295 Midland Parkway Summerville 29485
-Unmatched emergency=yes
-Tidelands Georgetown Memorial Hospital (2.79)
-	606 Black River Road Georgetown 29440
-Unmatched emergency=yes
-Medical University of South Carolina: Florence (2.60)
-	805 Pamplico Highway Florence 29505
-Unmatched emergency=yes
-McLeod Regional Medical Center (2.84)
-	555 East Cheves Street Florence 29505
-Unmatched emergency=yes
-Springs Memorial Hospital (2.26)
-	800 West Meeting Street Lancaster 29720
-Unmatched emergency=yes
-Palmetto Health Richland (2.85)
-	5 Richland Medical Park Drive Columbia 29203
-Unmatched emergency=yes
-Providence Health (0.00)
-	2435 Forest Drive Columbia 29204
-Unmatched emergency=yes
-Palmetto Health Baptist (3.07)
-	- Taylor Street at Marion Street Columbia 29220
-Unmatched emergency=yes
-Fairfield Memorial Hospital (0.00)
-	102 US Highway 321 Bypass North Winnsboro 29180
-Unmatched emergency=yes
-Mary Black Health System – Spartanburg (0.00)
-	1700 Skylyn Drive Spartanburg 29307
-Unmatched emergency=yes
-North Greenville Hospital (2.07)
-	807 North Main Street Travelers Rest 29690
-Unmatched emergency=yes
-Oconee Memorial Hospital (2.82)
-	298 Memorial Drive Seneca 29672
-Unmatched emergency=yes
-Ralph Henry Johnson Veterans Administration Medical Center (0.00)
-	109 Bee Street Charleston 29401
-Unmatched emergency=yes
-Wm. Jennings Bryan Dorn VA Medical Center (0.00)
-	6439 Garners Ferry Road Mount Pleasant 29466
-Unmatched emergency=yes
-AnMed Health Cannon (3.08)
-	123 W G Acker Drive Pickens 29671
-Unmatched emergency=yes
-AnMed Health Medical Center (2.96)
-	800 North Fant Street Anderson 29621
-Unmatched emergency=yes
-St. Francis Eastside (0.00)
-	125 Commonwealth Drive Greenville 29615
+Unmatched emergency=yes in OSM
+  OSM name: Greenville Hospital System
+  Score of best match: 3.01
+  OSM address: 729 Southeast Main Street Simpsonville 29681
+Unmatched emergency=yes in OSM
+  OSM name: McLeod Dillon
+  Score of best match: 2.89
+  OSM address: 301 East Jackson Street Dillon 29536
+Unmatched emergency=yes in OSM
+  OSM name: AnMed Health Medical Center
+  Score of best match: 0.00
+  OSM address: - - - -
+Unmatched emergency=yes in OSM
+  OSM name: Greenville Memorial Hospital
+  Score of best match: 2.37
+  OSM address: 701 Grove Road Greenville 29601
+Unmatched emergency=yes in OSM
+  OSM name: Carolinas Hospital System - Marion
+  Score of best match: 2.77
+  OSM address: 2829 East Highway 76 Mullins 29574
+Unmatched emergency=yes in OSM
+  OSM name: South Strand Medical Center
+  Score of best match: 0.00
+  OSM address: 5050 Highway 17 Bypass Myrtle Beach 29588
+Unmatched emergency=yes in OSM
+  OSM name: McLeod Seacoast
+  Score of best match: 0.00
+  OSM address: 4000 Highway 9 East Little River 29566
+Unmatched emergency=yes in OSM
+  OSM name: Roper Hospital - Berkeley
+  Score of best match: 0.00
+  OSM address: 730 Stoney Landing Road Moncks Corner 29461
+Unmatched emergency=yes in OSM
+  OSM name: Hilton Head Hospital
+  Score of best match: 2.75
+  OSM address: 25 Hospital Center Boulevard Hilton Head Island 29926
+Unmatched emergency=yes in OSM
+  OSM name: Bamberg County Hospital
+  Score of best match: 0.00
+  OSM address: 509 North Street Bamberg 29003
+Unmatched emergency=yes in OSM
+  OSM name: The Regional Medical Center
+  Score of best match: 2.62
+  OSM address: 3000 Saint Matthews Road Orangeburg 29115
+Unmatched emergency=yes in OSM
+  OSM name: Summerville Medical Center
+  Score of best match: 0.00
+  OSM address: 295 Midland Parkway Summerville 29485
+Unmatched emergency=yes in OSM
+  OSM name: Tidelands Georgetown Memorial Hospital
+  Score of best match: 2.79
+  OSM address: 606 Black River Road Georgetown 29440
+Unmatched emergency=yes in OSM
+  OSM name: Medical University of South Carolina: Florence
+  Score of best match: 2.60
+  OSM address: 805 Pamplico Highway Florence 29505
+Unmatched emergency=yes in OSM
+  OSM name: McLeod Regional Medical Center
+  Score of best match: 2.84
+  OSM address: 555 East Cheves Street Florence 29505
+Unmatched emergency=yes in OSM
+  OSM name: Springs Memorial Hospital
+  Score of best match: 2.26
+  OSM address: 800 West Meeting Street Lancaster 29720
+Unmatched emergency=yes in OSM
+  OSM name: Palmetto Health Richland
+  Score of best match: 2.85
+  OSM address: 5 Richland Medical Park Drive Columbia 29203
+Unmatched emergency=yes in OSM
+  OSM name: Providence Health
+  Score of best match: 0.00
+  OSM address: 2435 Forest Drive Columbia 29204
+Unmatched emergency=yes in OSM
+  OSM name: Palmetto Health Baptist
+  Score of best match: 3.07
+  OSM address: - Taylor Street at Marion Street Columbia 29220
+Unmatched emergency=yes in OSM
+  OSM name: Fairfield Memorial Hospital
+  Score of best match: 0.00
+  OSM address: 102 US Highway 321 Bypass North Winnsboro 29180
+Unmatched emergency=yes in OSM
+  OSM name: Mary Black Health System – Spartanburg
+  Score of best match: 0.00
+  OSM address: 1700 Skylyn Drive Spartanburg 29307
+Unmatched emergency=yes in OSM
+  OSM name: North Greenville Hospital
+  Score of best match: 2.07
+  OSM address: 807 North Main Street Travelers Rest 29690
+Unmatched emergency=yes in OSM
+  OSM name: Oconee Memorial Hospital
+  Score of best match: 2.82
+  OSM address: 298 Memorial Drive Seneca 29672
+Unmatched emergency=yes in OSM
+  OSM name: Ralph Henry Johnson Veterans Administration Medical Center
+  Score of best match: 0.00
+  OSM address: 109 Bee Street Charleston 29401
+Unmatched emergency=yes in OSM
+  OSM name: Wm. Jennings Bryan Dorn VA Medical Center
+  Score of best match: 0.00
+  OSM address: 6439 Garners Ferry Road Mount Pleasant 29466
+Unmatched emergency=yes in OSM
+  OSM name: AnMed Health Cannon
+  Score of best match: 3.08
+  OSM address: 123 W G Acker Drive Pickens 29671
+Unmatched emergency=yes in OSM
+  OSM name: AnMed Health Medical Center
+  Score of best match: 2.96
+  OSM address: 800 North Fant Street Anderson 29621
+Unmatched emergency=yes in OSM
+  OSM name: St. Francis Eastside
+  Score of best match: 0.00
+  OSM address: 125 Commonwealth Drive Greenville 29615
 Found 28 unmatched emergency.

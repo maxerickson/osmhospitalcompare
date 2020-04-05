@@ -1,831 +1,1183 @@
 645 OSM hospitals
 457 Medicare hospitals
-1. Darnall Amc (Fort Hood)
-	36000 Darnall Loop Fort Hood 76544 (CMS:yes)
-	2.37 Carl R. Darnall Army Medical Center
-	36065 Santa Fe Avenue Fort Hood 76544
-2. Adventhealth Central Texas
-	2201 S Clear Creek Road Killeen 76542 (CMS:yes)
-	2.69 Metroplex Health System
-	2201 South Clear Creek Road Killeen 76549
-3. Hca Houston Healthcare Pearland
-	11100 Shadow Creek Parkway Pearland 77584 (CMS:yes)
-	2.94 Pearland Meidcal Center
-	10970 Shadow Creek Parkway Pearland 77584
-4. Ascension Seton Edgar B Davis
-	130 Hays Street Luling 78648 (CMS:yes)
-	3.07 Seton Edgar B. Davis Hospital
-	130 Hays Street Luling 78468
-5. Baylor Surgical Hospital At Las Colinas
-	400 West Interstate 635 Suite 101 Irving 75063 (CMS:yes)
-	3.05 Baylor Surgical Hospital at Las Colinas
-	440 Lyndon B Johnson Freeway Irving 75063
-Culberson Hospital
-	- Eisenhower & FM 2185 Van Horn 79855
-	 Emergency Mismatch (CMS:no)
-	Culberson Hospital
-6. Georgetown Behavioral Health Institute
-	3101 S Austin Avenue Georgetown 78626 (CMS:no)
-	2.28 Saint David's Georgetown Hospital
-	2000 Scenic Drive Georgetown 78626
-7. Dell Seton Med Center At The University Of Tx
-	601 E 15Th Street Austin 78701 (CMS:yes)
-	3.09 Dell Seton Medical Center at The University of Texas
-	1500 Red River Street Austin 78701
-8. William Beaumont Amg (Fort Bliss)
-	5005 N. Piedras St. El Paso 79920 (CMS:yes)
-	2.61 William Beaumont Army Medical Center
-	5005 North Piedras Street El Paso 79930
-9. Seton Highland Lakes
-	Highway 281 South Burnet 78611 (CMS:yes)
-	2.62 Ascension Seton Highland Lakes Hospital
-	3201 South Water Street Burnet 78611
-10. Scott & White Hospital-Round Rock
-	300 University Blvd Round Rock 78664 (CMS:yes)
-	2.87 Baylor Scott & White Medical Center – Round Rock
-	300 University Boulevard Round Rock 78665
-11. San Antonio Behavioral Healthcare Hospital
-	8550 Huebner Road San Antonio 78240 (CMS:no)
-	2.92 Methodist Surgery Ambulatory Hospital
-	9150 Huebner Road San Antonio 78240
-Brooke Army Medical Center (Fort Sam Houston)
-	3551 Roger Brooke Drive Fort Sam Houston 78234
-	 Emergency Mismatch (CMS:yes)
-	Center for the Intrepid
-12. Carrollton Springs
-	2225 Parker Road Carrollton 75010 (CMS:no)
-	2.12 Baylor Scott & White Medical Center – Carrollton
-	4343 North Josey Lane Carrollton 75010
-13. Baylor Scott & White Medical Center Pflugerville
-	2600 East Pflugerville Parkway Pflugerville 78660 (CMS:yes)
-	1.42 Baylor Scott & White Medical Center – Grapevine
-	1650 West College Street Grapevine 76051
-14. Chi Saint Luke's Health Baylor College Of Medicine Me
-	7200 Cambridge, 11Th Floor Houston 77030 (CMS:yes)
-	2.30 Michael E. DeBakey VA Medical Center
-	2002 Holcombe Boulevard Houston 77030
-15. Rock Prairie Behavioral Health
-	3550 Normand Drive College Station 77845 (CMS:no)
-	2.31 Baylor Scott & White Medical Center – College Station
-	700 Scott & White Drive College Station 77845
-Ut Health East Texas Henderson Hospital
-	300 Wilson Street Henderson 75652
-	 Emergency Mismatch (CMS:no)
-	UT Health - Henderson
-16. Oceans Behavioral Hospital Of San Marcos
-	1106 N Ih 35 San Marcos 78666 (CMS:no)
-	2.18 Central Texas Medical Center
-	1301 Wonder World Drive San Marcos 78666
-Rio Grande State Center
-	1401 South Rangerville Road Harlingen 78552
-	 Emergency Mismatch (CMS:yes)
-	Rio Grande State Center
-17. Baylor Scott And White Emergency Hospital Burleson
-	12500 South Freeway Suite 100 Burleson 76028 (CMS:yes)
-	2.92 Baylor Emergency Medical Center
-	12500 South Freeway Burleson 76028
-18. Hca Houston Healthcare Clear Lake
-	500 Medical Center Blvd Webster 77598 (CMS:yes)
-	2.90 Clear Lake Regional Medical Center
-	500 Medical Center Boulevard Webster 77598
-19. The Medical Center Of Southeast Texas
-	2555 Jimmy Johnson Blvd Port Arthur 77640 (CMS:yes)
-	2.01 CHRISTUS Southeast Texas - Saint Mary
-	3600 Gates Boulevard Port Arthur 77642
-20. Christus Mother Frances Hospital- Winnsboro
-	719 West Coke Road Winnsboro 75494 (CMS:yes)
-	2.98 CHRISTUS Mother Frances Hospital - Winnsboro
-	719 West Coke Road Winnsboro -
-21. Corpus Christi Medical Center,The
-	6629 Woodridge Road Corpus Christi 78414 (CMS:no)
-	2.99 Bayview Behavioral Hospital
-	6629 Wooldridge Road Corpus Christi 78414
-22. Baylor Scott And White Emergency Hospital Aubrey
-	26791 Highway 380 Aubrey 76227 (CMS:yes)
-	1.33 Mid Jefferson Extended Care Hospital
-	2600 Highway 365 Nederland 77627
-23. Christus Saint Michael Health System
-	2600 St Michael Dr Texarkana 75504 (CMS:yes)
-	2.95 Christus Saint Michael
-	2600 Saint Michael Drive Texarkana 75503
-24. Christus Southeast Texas- Saint Elizabeth
-	2830 Calder Avenue Beaumont 77702 (CMS:yes)
-	2.78 CHRISTUS Dubuis Hospital of Beaumont
-	2830 Calder Street Beaumont 77702
-Baylor Scott And White Medical Center Carrollton
-	4343 North Josey Lane Carrollton 75010
-	 Emergency Mismatch (CMS:no)
-	Baylor Scott & White Medical Center – Carrollton
-Saint Joseph Regional Health Center
-	2801 Franciscan Drive Bryan 77802
-	 Emergency Mismatch (CMS:no)
-	CHI Saint Joseph Health Regional Hospital
-Sun Behavioral Houston
-	7601 Fannin Street Houston 77054
-	 Emergency Mismatch (CMS:yes)
-	Sun Behavioral Houston
-25. Memorial Medical Center Livingston
-	1717 Hwy 59 Bypass Livingston 77351 (CMS:yes)
-	3.05 CHI Sainit Luke's Health-Memorial Livingston
-	1717 Highway 59 Bypass Livingston 77351
-Texas Health Heart & Vascular Hospital Arlington
-	811 Wright Street Arlington 76012
-	 Emergency Mismatch (CMS:no)
-	Texas Health Heart & Vascular Hospital Arlington
-26. Hca Houston Healthcare Kingwood
-	22999 Us Hwy 59 Kingwood 77325 (CMS:yes)
-	1.97 Columbia Kingwood Medical Center
-	22999 US Highway 59 North Kingwood 77339
-27. University Behavioral Health
-	2026 West University Drive Denton 76201 (CMS:no)
-	2.13 Texas Health Presbyterian Hospital Denton
-	3000 North I-35 Denton 76201
-28. Wellbridge Healthcare Of Plano
-	4301 Mapleshade Lane Plano 75093 (CMS:no)
-	2.35 The Heart Hospital Baylor Plano
-	1100 Allied Drive Plano 75093
-29. Austin Lakes Hospital
-	1025 East 32Nd Street Austin 78705 (CMS:no)
-	2.85 Saint David's Medical Center
-	919 East 32nd Street Austin 78705
-30. West Oaks Hospital
-	6500 Hornwood Houston 77074 (CMS:no)
-	2.33 Memorial Hermann Southwest Hospital
-	7600 Beechnut Street Houston 77074
-31. Ut Health East Texas Jacksonville Hospital
-	501 S Ragsdale Jacksonville 75766 (CMS:yes)
-	2.83 East Texas Medical Center - Jacksonville
-	501 South Ragsdale Street Jacksonville 75766
-32. Crane County Hospital District
-	1310 S Alford St Crane 79731 (CMS:yes)
-	3.00 Crane Memorial Hospital
-	1310 South Alford Street Crane 79731
-33. Lillian M Hudspeth Memorial Hospital
-	308 Hudspeth Sonora 76950 (CMS:yes)
-	3.00 Lillian M. Hudspeth Memorial Hospital
-	- - Sonora 76950
-34. Memorial Hospital
-	1204 Mound St Nacogdoches 75961 (CMS:yes)
-	3.07 Nacogdoches Memorial Hospital
-	1204 North Mound Street Nacogdoches 75961
-35. Ut Southwestern University Hospital-Zale Lipshy
-	5151 Harry Hines Blvd Dallas 75390 (CMS:no)
-	3.00 Zale Lipshy University Hospital
-	5201 Harry Hines Boulevard Dallas 75390
-36. Dallas Behavioral Healthcare Hospital Llc
-	800 Kirnwood Drive De Soto 75115 (CMS:no)
-	1.08 UTMB Health Angleton Danbury Campus
-	132 Hospital Drive Angleton 77515
-37. Brazosport Regional Health System
-	100 Medical Drive Lake Jackson 77566 (CMS:yes)
-	3.09 CHI Saint Luke's Health Brazosport
-	100 Medical Drive Lake Jackson 77566
-38. Devereux Texas Treatment Network
-	1150 Devereux Dr League City 77573 (CMS:no)
-	1.08 Liberty - Dayton Regional Medical Center
-	1353 North Travis Street Liberty 77575
-39. El Paso Ltac Hosptial
-	1221 N Cotton St 3Rd Floor El Paso 79902 (CMS:no)
-	2.40 Providence Memorial Hospital
-	2001 North Oregon Street El Paso 79902
-40. Vhs Harlingen Hospital Company Llc
-	2101 Pease St Harlingen 78550 (CMS:yes)
-	2.83 Valley Baptist Medical Center
-	2101 Pease Street Harlingen 78550
-41. River Crest Hosp
-	1636 Hunters Glen Road San Angelo 76901 (CMS:no)
-	1.89 San Angelo Community Medical Center
-	3501 Knickerbocker Road San Angelo 76904
-42. Memorial Hermann Hospital System
-	1635 North Loop West Houston 77008 (CMS:yes)
-	2.31 Pine Valley Specialty Hospital
-	6160 South Loop East Houston 77087
-San Antonio State Hospital
-	6711 South New Braunfels Avenue San Antonio 78223
-	 Emergency Mismatch (CMS:no)
-	San Antonio State Hospital
-43. Emil J Freireich Cancer Center
-	9201 Pinecroft Shenandoah 77380 (CMS:yes)
-	2.00 Memorial Hermann The Woodlands Medical Center
-	9250 Pinecroft Drive The Woodlands 77380
-44. Crockett Medical Center
-	1100 E Loop 304 Crockett 75835 (CMS:yes)
-	1.21 Pine Creek Medical Center
-	9032 Harry Hines Boulevard Dallas 75235
-45. Oceans Behavioral Hospital Of Katy
-	455 Park Grove Lane Katy 77450 (CMS:no)
-	2.18 Houston Methodist Saint Catherine Hospital
-	701 South Fry Road Katy 77450
-46. Lone Star Behavioral Health Cypress
-	16303 Grant Road Cypress 77429 (CMS:no)
-	2.34 HCA Houston North Cypress
-	21214 Northwest Freeway Cypress 77429
-47. Detar Healthcare System
-	506 E San Antonio St Victoria 77902 (CMS:yes)
-	2.60 DeTar Hospital Navarro
-	506 East San Antonio Street Victoria 77901
-48. Hca Houston Healthcare Conroe
-	504 Medical Center Blvd Conroe 77304 (CMS:yes)
-	2.85 Conroe Regional Medical Center
-	504 Medical Center Boulevard Conroe 77304
-Ut Southwestern University Hospital
-	5201 Harry Hines Boulevard Dallas 75390
-	 Emergency Mismatch (CMS:yes)
-	Zale Lipshy University Hospital
-49. South Texas Health System
-	1102 W Trenton Road Edinburg 78539 (CMS:yes)
-	2.88 Edinburg Regional Medical Center
-	1102 West Trenton Road Edinburg 78539
-50. Rankin Hospital Medical Clinic
-	1611 Spur 576 Rankin 79778 (CMS:no)
-	2.79 Rankin County Hospital District
-	1611 Spur 576 Rankin 79731
-Grace Medical Center
-	2412 50th Street Lubbock 79412
-	 Emergency Mismatch (CMS:yes)
-	Grace Medical Center
-51. Palms Behavioral Health
-	613 Victoria Lane Harlingen 78550 (CMS:no)
-	2.21 Valley Baptist Medical Center
-	2101 Pease Street Harlingen 78550
-52. Northwest Texas Hospital
-	1501 S Coulter St Amarillo 79106 (CMS:yes)
-	3.08 North West Texas Healthcare System
-	1501 South Coulter Street Amarillo 79106
-53. United Memorial Medical Center
-	510 W Tidwell Houston 77091 (CMS:yes)
-	2.94 United Memorial Medical Center
-	510 West Tidwell Road Houston 77026
-54. Oceans Behavioral Hospital Of Lufkin Llc
-	302 Gobblers Knob Rd Lufkin 75904 (CMS:no)
-	2.26 CHI Saint Luke's Health-Memorial Lufkin
-	1201 West Frank Avenue Lufkin 75904
-55. North Runnels Hospital
-	7821 East Highway 153 Winters 79567 (CMS:yes)
-	2.96 North Runnels Hospital
-	7821 TX 153 Winters 79467
-56. Oceans Behavioral Hospital Of Longview
-	615 Clinic Dr Longview 75605 (CMS:no)
-	2.46 Magnolia Behavioral Hospital
-	22 Bermuda Lane Longview 75605
-57. Aspire Behavioral Health Of Conroe, Llc
-	2006 South Loop 336 West, Suite 500 Conroe 77304 (CMS:no)
-	2.83 Aspire Hospital
-	2006 South Loop 336 West Conroe 77304
-58. Ut Health East Texas Athens Hospital
-	2000 South Palestine St Athens 75751 (CMS:yes)
-	3.08 East Texas Medical Center - Athens
-	2000 South Palestine Street Athens 75751
-59. Legent Orthopedic + Spine
-	5330 North Loop 1604 West San Antonio 78249 (CMS:yes)
-	3.09 Cumberland Surgical Hospital
-	5330 North Loop 1604 West San Antonio 78249
-60. Rock Springs
-	700 Southeast Inner Loop Georgetown 78626 (CMS:no)
-	2.19 Saint David's Georgetown Hospital
-	2000 Scenic Drive Georgetown 78626
-61. Ut Health East Texas Pittsburg Hospital
-	2701 Us Hwy 271 N Pittsburg 75686 (CMS:yes)
-	2.94 UT Health Pittsburg
-	2701 US 271 Pittsburg 75686
-62. Burleson Saint Joseph Health Center
-	1101 Woodson Drive Caldwell 77836 (CMS:no)
-	2.46 CHI Saint Joseph Health Burleson Hospital
-	1101 Woodson Drive Burleson 77836
-Paris Regional Medical Center
-	820 Clarksville Street Paris 75460
-	 Emergency Mismatch (CMS:yes)
-	Paris Regional Medical Center – South Campus
-63. The Hospitals Of Providence Horizon City Campus
-	13600 Horizon Street, Suite 100 Horizon City 79928 (CMS:yes)
-	1.40 The Hospitals of Providence - East Campus
-	3280 Joe Battle Boulevard El Paso 79998
-64. Ad Hospital East, Llc
-	12950 East Freeway, Suite 100 Houston 77015 (CMS:yes)
-	2.70 Advanced Diagnostics East Hospital & 24 Hour Emergency Center
-	12950 East Freeway Houston 77015
-65. Little River Healthcare
-	1700 Brazos Rockdale 76567 (CMS:yes)
-	2.42 Little River Healthcare – Rockdale Hospital
-	1700 Brazos Avenue Rockdale 76520
-66. Hca Houston Healthcare Tomball
-	605 Holderrieth Tomball 77375 (CMS:yes)
-	2.62 Tomball Regional Medical Center
-	605 Holderrieth Boulevard Tomball 77375
-67. Harris Health System
-	2525 Holly Hall Houston 77054 (CMS:yes)
-	2.18 The Woman's Hospital of Texas
-	7600 Fannin Street Houston 77054
-68. Memorial Hospital
-	1110 North Sarah Dewitt Drive Gonzales 78629 (CMS:yes)
-	3.02 Gonzales Healthcare Systems
-	1110 North Sarah Dewitt Drive Gonzales 78629
-69. Ut Health East Texas Tyler Regional Hospital
-	1000 South Beckham Ave Tyler 75701 (CMS:yes)
-	2.88 --
-	1000 South Beckham Avenue Tyler 75701
-70. Jackson Healthcare Center
-	1013 S Wells Edna 77957 (CMS:yes)
-	2.68 Jackson County Hospital
-	1013 South Wells Street Edna 77957
-71. The Hospitals Of Providence Memorial Campus
-	2001 N Oregon St El Paso 79902 (CMS:yes)
-	3.03 Providence Memorial Hospital
-	2001 North Oregon Street El Paso 79902
-72. Nix Health Care System
-	414 Navarro, Suite 600 San Antonio 78205 (CMS:yes)
-	2.92 Nix Medical Center
-	414 Navarro Street San Antonio 78205
-73. Sabine County Hospital
-	Po Box 750, 2301 Hwy 83 W Hemphill 75948 (CMS:yes)
-	3.08 Sabine County Hospital
-	2301 Worth Street Hemphill 75948
-74. Covenant Childrens Hospital
-	4015 22Nd Place Lubbock 79410 (CMS:yes)
-	2.76 Covenant Children’s
-	4002 24th Street Lubbock 79410
-El Paso Psychiatric Center
-	4615 Alameda Avenue El Paso 79905
-	 Emergency Mismatch (CMS:yes)
-	El Paso Psychiatric Center
-75. Jps Health Network
-	1500 S Main St Fort Worth 76104 (CMS:yes)
-	2.71 John Peter Smith Hospital
-	1500 South Main Street Fort Worth 76104
-76. Oceans Behavioral Hospital Of Abilene
-	6401 Directors Parkway Abilene 79606 (CMS:no)
-	2.10 Abilene Regional Medical Center
-	6250 US 83 Abilene 79606
-Intracare North Hospital
-	1120 Cypress Station Drive Houston 77090
-	 Emergency Mismatch (CMS:yes)
-	Intracare North Hospital
-77. Hca Houston Healthcare Southeast
-	4000 Spencer Hwy Pasadena 77504 (CMS:yes)
-	2.87 Bayshore Medical Center
-	4000 Spencer Highway Pasadena 77504
-78. Mccamey Hospital
-	2500 Hwy 305 South Mccamey 79752 (CMS:yes)
-	2.43 McCamey County Hospital District
-	2500 South Highway 305 McCamey 79752
-79. Grimes Saint Joseph Health Center
-	210 Judson St Navasota 77868 (CMS:yes)
-	2.97 CHI Saint Joseph Health Grimes Hospital
-	210 South Judson Street Navasota 77868
-80. Methodist Ambulatory Surgery Hospital Nw
-	9150 Huebner Rd Suite 100 San Antonio 78240 (CMS:yes)
-	3.08 Methodist Surgery Ambulatory Hospital
-	9150 Huebner Road San Antonio 78240
-81. Mesa Springs
-	5560 Mesa Springs Drive Fort Worth 76123 (CMS:no)
-	1.91 Harris Methodist Southwest Hospital
-	6100 Harris Parkway Fort Worth 76132
-82. Cedar Crest Hospital & Rtc
-	3500 South Ih-35 Belton 76513 (CMS:no)
-	1.69 Texas Health Presbyterian Hospital Denton
-	3000 North I-35 Denton 76201
-83. Haven Behavioral Hospital Of Frisco
-	5680 Frisco Square Blvd, Suite 3000 Frisco 75034 (CMS:no)
-	2.23 Baylor Scott & White Medical Center – Frisco
-	5601 Warren Parkway Frisco 75034
-84. Madison Saint Joseph Health Center
-	100 West Cross Street Madisonville 77864 (CMS:yes)
-	2.96 CHI Saint Joseph Health Madison Hospital
-	100 West Cross Street Madison 77864
-Memorial Hermann First Colony Hospital
-	24429 Tomball Parkway Tomball 77375
-	 Emergency Mismatch (CMS:no)
-	Memorial Hermann Tomball Hospital
-85. Baylor Scott & White Medical Center- Waxahachie
-	2400 N Interstate Highway 35E Waxahachie 75165 (CMS:yes)
-	3.06 Baylor Scott & White Medical Center – Waxahachie
-	2400 I 35 Frontage Road Waxahachie 75165
-86. Hickory Trail Hospital
-	2000 N Old Hickory Trail Desoto 75115 (CMS:no)
-	1.10 Navarro Regional Hospital
-	3201 West Highway 22 Corsicana 75110
-87. Bellville Saint Joseph Health Center
-	44 N Cummings St Bellville 77418 (CMS:yes)
-	2.92 CHI Saint Joseph Health Bellville Hospital
-	44 North Cummings Road Bellville 77418
-88. Laredo Medical Center
-	1700 East Saunders Laredo 78044 (CMS:yes)
-	3.04 Laredo Medical Center
-	1700 East Saunders Street Loredo 78041
-89. Quail Creek Surgical Hospital
-	6819 Plum Creek Amarillo 79124 (CMS:yes)
-	3.05 Quail Creek Surgical Hospital
-	6819 Plum Creek Drive Amarillo 79106
-University Of Texas Medical Branch
-	301 University Boulevard Galveston 77555
-	 Emergency Mismatch (CMS:yes)
-	Texas Department of Criminal Justice Hospital
-90. Woodland Springs
-	15860 Old Conroe Road Conroe 77384 (CMS:no)
-	1.91 Conroe Regional Medical Center
-	504 Medical Center Boulevard Conroe 77304
-Kell West Regional Hospital
-	5420 Kell Boulevard Wichita Falls 76310
-	 Emergency Mismatch (CMS:no)
-	Kell West Regional Hospital
-91. El Campo Memorial Hospital
-	303 Sandy Corner Rd El Campo 77437 (CMS:yes)
-	2.92 El Campo Memorial Hospital
-	303 Sandy Corners Road Angleton 77437
-92. Westpark Springs Llc
-	6902 S Peek Road Richmond 77407 (CMS:yes)
-	1.61 Richmond State Supported Living Center
-	2100 Preston Street Richmond 77469
-93. Allegiance Behavioral Health Center Of Plainview
-	2601 Dimmitt Road, Suite 400 Plainview 79072 (CMS:no)
-	2.87 Covenant Health Plainview
-	2601 Dimmitt Road Plainview 79072
-94. Parmer County Community Hospital
-	1307 Cleveland Street Friona 79035 (CMS:yes)
-	2.80 Parmer Medical Center
-	1307 Cleveland Avenue Friona 79035
-95. First Texas Hospital Carrollton Llc
-	1401 E Trinity Mills Road Carrollton 75006 (CMS:yes)
-	1.99 Baylor Scott & White Medical Center – Carrollton
-	4343 North Josey Lane Carrollton 75010
-96. Our Childrens House
-	8 Prestige Circle 101 Allen 75002 (CMS:no)
-	1.53 Our Children's House
-	1340 Empire Central Dallas 75247
-97. Garland Behavioral Hospital
-	2300 Marie Curie Blvd 5Th Floor Garland 75042 (CMS:no)
-	2.71 Sundance Behavioral Hospital
-	2696 West Walnut Street Garland 75042
-98. Glen Oaks Hospital
-	301 E Division Box 1885 Greenville 75401 (CMS:no)
-	2.11 Hunt Regional Medical Center
-	4215 Joe Ramsey Boulevard Greenville 75401
-Found 98 issues.
+1. Unmatched medicare hospital
+  Medicare name: Darnall Amc (Fort Hood)
+  Medicare address: 36000 Darnall Loop Fort Hood 76544
+  Medicare emergency services: yes
+  Best OSM Match: 2.37 Carl R. Darnall Army Medical Center
+  OSM Address: 36065 Santa Fe Avenue Fort Hood 76544
+2. Unmatched medicare hospital
+  Medicare name: Adventhealth Central Texas
+  Medicare address: 2201 S Clear Creek Road Killeen 76542
+  Medicare emergency services: yes
+  Best OSM Match: 2.69 Metroplex Health System
+  OSM Address: 2201 South Clear Creek Road Killeen 76549
+3. Unmatched medicare hospital
+  Medicare name: Hca Houston Healthcare Pearland
+  Medicare address: 11100 Shadow Creek Parkway Pearland 77584
+  Medicare emergency services: yes
+  Best OSM Match: 2.94 Pearland Meidcal Center
+  OSM Address: 10970 Shadow Creek Parkway Pearland 77584
+4. Unmatched medicare hospital
+  Medicare name: Ascension Seton Edgar B Davis
+  Medicare address: 130 Hays Street Luling 78648
+  Medicare emergency services: yes
+  Best OSM Match: 3.07 Seton Edgar B. Davis Hospital
+  OSM Address: 130 Hays Street Luling 78468
+5. Unmatched medicare hospital
+  Medicare name: Baylor Surgical Hospital At Las Colinas
+  Medicare address: 400 West Interstate 635 Suite 101 Irving 75063
+  Medicare emergency services: yes
+  Best OSM Match: 3.05 Baylor Surgical Hospital at Las Colinas
+  OSM Address: 440 Lyndon B Johnson Freeway Irving 75063
+6. Emergency services mismatch
+  Medicare name: Culberson Hospital
+  OSM name: Culberson Hospital
+  OSM Address: - Eisenhower & FM 2185 Van Horn 79855
+  Medicare emergency services: no
+  OSM Emergency: yes
+7. Unmatched medicare hospital
+  Medicare name: Georgetown Behavioral Health Institute
+  Medicare address: 3101 S Austin Avenue Georgetown 78626
+  Medicare emergency services: no
+  Best OSM Match: 2.28 Saint David's Georgetown Hospital
+  OSM Address: 2000 Scenic Drive Georgetown 78626
+8. Unmatched medicare hospital
+  Medicare name: Dell Seton Med Center At The University Of Tx
+  Medicare address: 601 E 15Th Street Austin 78701
+  Medicare emergency services: yes
+  Best OSM Match: 3.09 Dell Seton Medical Center at The University of Texas
+  OSM Address: 1500 Red River Street Austin 78701
+9. Unmatched medicare hospital
+  Medicare name: William Beaumont Amg (Fort Bliss)
+  Medicare address: 5005 N. Piedras St. El Paso 79920
+  Medicare emergency services: yes
+  Best OSM Match: 2.61 William Beaumont Army Medical Center
+  OSM Address: 5005 North Piedras Street El Paso 79930
+10. Unmatched medicare hospital
+  Medicare name: Seton Highland Lakes
+  Medicare address: Highway 281 South Burnet 78611
+  Medicare emergency services: yes
+  Best OSM Match: 2.62 Ascension Seton Highland Lakes Hospital
+  OSM Address: 3201 South Water Street Burnet 78611
+11. Unmatched medicare hospital
+  Medicare name: Scott & White Hospital-Round Rock
+  Medicare address: 300 University Blvd Round Rock 78664
+  Medicare emergency services: yes
+  Best OSM Match: 2.87 Baylor Scott & White Medical Center – Round Rock
+  OSM Address: 300 University Boulevard Round Rock 78665
+12. Unmatched medicare hospital
+  Medicare name: San Antonio Behavioral Healthcare Hospital
+  Medicare address: 8550 Huebner Road San Antonio 78240
+  Medicare emergency services: no
+  Best OSM Match: 2.92 Methodist Surgery Ambulatory Hospital
+  OSM Address: 9150 Huebner Road San Antonio 78240
+13. Emergency services mismatch
+  Medicare name: Brooke Army Medical Center (Fort Sam Houston)
+  OSM name: Center for the Intrepid
+  OSM Address: 3551 Roger Brooke Drive Fort Sam Houston 78234
+  Medicare emergency services: yes
+  OSM Emergency: no
+14. Unmatched medicare hospital
+  Medicare name: Carrollton Springs
+  Medicare address: 2225 Parker Road Carrollton 75010
+  Medicare emergency services: no
+  Best OSM Match: 2.12 Baylor Scott & White Medical Center – Carrollton
+  OSM Address: 4343 North Josey Lane Carrollton 75010
+15. Unmatched medicare hospital
+  Medicare name: Baylor Scott & White Medical Center Pflugerville
+  Medicare address: 2600 East Pflugerville Parkway Pflugerville 78660
+  Medicare emergency services: yes
+  Best OSM Match: 1.42 Baylor Scott & White Medical Center – Grapevine
+  OSM Address: 1650 West College Street Grapevine 76051
+16. Unmatched medicare hospital
+  Medicare name: Chi Saint Luke's Health Baylor College Of Medicine Me
+  Medicare address: 7200 Cambridge, 11Th Floor Houston 77030
+  Medicare emergency services: yes
+  Best OSM Match: 2.30 Michael E. DeBakey VA Medical Center
+  OSM Address: 2002 Holcombe Boulevard Houston 77030
+17. Unmatched medicare hospital
+  Medicare name: Rock Prairie Behavioral Health
+  Medicare address: 3550 Normand Drive College Station 77845
+  Medicare emergency services: no
+  Best OSM Match: 2.31 Baylor Scott & White Medical Center – College Station
+  OSM Address: 700 Scott & White Drive College Station 77845
+18. Emergency services mismatch
+  Medicare name: Ut Health East Texas Henderson Hospital
+  OSM name: UT Health - Henderson
+  OSM Address: 300 Wilson Street Henderson 75652
+  Medicare emergency services: no
+  OSM Emergency: yes
+19. Unmatched medicare hospital
+  Medicare name: Oceans Behavioral Hospital Of San Marcos
+  Medicare address: 1106 N Ih 35 San Marcos 78666
+  Medicare emergency services: no
+  Best OSM Match: 2.18 Central Texas Medical Center
+  OSM Address: 1301 Wonder World Drive San Marcos 78666
+20. Emergency services mismatch
+  Medicare name: Rio Grande State Center
+  OSM name: Rio Grande State Center
+  OSM Address: 1401 South Rangerville Road Harlingen 78552
+  Medicare emergency services: yes
+  OSM Emergency: no
+21. Unmatched medicare hospital
+  Medicare name: Baylor Scott And White Emergency Hospital Burleson
+  Medicare address: 12500 South Freeway Suite 100 Burleson 76028
+  Medicare emergency services: yes
+  Best OSM Match: 2.92 Baylor Emergency Medical Center
+  OSM Address: 12500 South Freeway Burleson 76028
+22. Unmatched medicare hospital
+  Medicare name: Hca Houston Healthcare Clear Lake
+  Medicare address: 500 Medical Center Blvd Webster 77598
+  Medicare emergency services: yes
+  Best OSM Match: 2.90 Clear Lake Regional Medical Center
+  OSM Address: 500 Medical Center Boulevard Webster 77598
+23. Unmatched medicare hospital
+  Medicare name: The Medical Center Of Southeast Texas
+  Medicare address: 2555 Jimmy Johnson Blvd Port Arthur 77640
+  Medicare emergency services: yes
+  Best OSM Match: 2.01 CHRISTUS Southeast Texas - Saint Mary
+  OSM Address: 3600 Gates Boulevard Port Arthur 77642
+24. Unmatched medicare hospital
+  Medicare name: Christus Mother Frances Hospital- Winnsboro
+  Medicare address: 719 West Coke Road Winnsboro 75494
+  Medicare emergency services: yes
+  Best OSM Match: 2.98 CHRISTUS Mother Frances Hospital - Winnsboro
+  OSM Address: 719 West Coke Road Winnsboro -
+25. Unmatched medicare hospital
+  Medicare name: Corpus Christi Medical Center,The
+  Medicare address: 6629 Woodridge Road Corpus Christi 78414
+  Medicare emergency services: no
+  Best OSM Match: 2.99 Bayview Behavioral Hospital
+  OSM Address: 6629 Wooldridge Road Corpus Christi 78414
+26. Unmatched medicare hospital
+  Medicare name: Baylor Scott And White Emergency Hospital Aubrey
+  Medicare address: 26791 Highway 380 Aubrey 76227
+  Medicare emergency services: yes
+  Best OSM Match: 1.33 Mid Jefferson Extended Care Hospital
+  OSM Address: 2600 Highway 365 Nederland 77627
+27. Unmatched medicare hospital
+  Medicare name: Christus Saint Michael Health System
+  Medicare address: 2600 St Michael Dr Texarkana 75504
+  Medicare emergency services: yes
+  Best OSM Match: 2.95 Christus Saint Michael
+  OSM Address: 2600 Saint Michael Drive Texarkana 75503
+28. Unmatched medicare hospital
+  Medicare name: Christus Southeast Texas- Saint Elizabeth
+  Medicare address: 2830 Calder Avenue Beaumont 77702
+  Medicare emergency services: yes
+  Best OSM Match: 2.78 CHRISTUS Dubuis Hospital of Beaumont
+  OSM Address: 2830 Calder Street Beaumont 77702
+29. Emergency services mismatch
+  Medicare name: Baylor Scott And White Medical Center Carrollton
+  OSM name: Baylor Scott & White Medical Center – Carrollton
+  OSM Address: 4343 North Josey Lane Carrollton 75010
+  Medicare emergency services: no
+  OSM Emergency: yes
+30. Emergency services mismatch
+  Medicare name: Saint Joseph Regional Health Center
+  OSM name: CHI Saint Joseph Health Regional Hospital
+  OSM Address: 2801 Franciscan Drive Bryan 77802
+  Medicare emergency services: no
+  OSM Emergency: yes
+31. Emergency services mismatch
+  Medicare name: Sun Behavioral Houston
+  OSM name: Sun Behavioral Houston
+  OSM Address: 7601 Fannin Street Houston 77054
+  Medicare emergency services: yes
+  OSM Emergency: no
+32. Unmatched medicare hospital
+  Medicare name: Memorial Medical Center Livingston
+  Medicare address: 1717 Hwy 59 Bypass Livingston 77351
+  Medicare emergency services: yes
+  Best OSM Match: 3.05 CHI Sainit Luke's Health-Memorial Livingston
+  OSM Address: 1717 Highway 59 Bypass Livingston 77351
+33. Emergency services mismatch
+  Medicare name: Texas Health Heart & Vascular Hospital Arlington
+  OSM name: Texas Health Heart & Vascular Hospital Arlington
+  OSM Address: 811 Wright Street Arlington 76012
+  Medicare emergency services: no
+  OSM Emergency: yes
+34. Unmatched medicare hospital
+  Medicare name: Hca Houston Healthcare Kingwood
+  Medicare address: 22999 Us Hwy 59 Kingwood 77325
+  Medicare emergency services: yes
+  Best OSM Match: 1.97 Columbia Kingwood Medical Center
+  OSM Address: 22999 US Highway 59 North Kingwood 77339
+35. Unmatched medicare hospital
+  Medicare name: University Behavioral Health
+  Medicare address: 2026 West University Drive Denton 76201
+  Medicare emergency services: no
+  Best OSM Match: 2.13 Texas Health Presbyterian Hospital Denton
+  OSM Address: 3000 North I-35 Denton 76201
+36. Unmatched medicare hospital
+  Medicare name: Wellbridge Healthcare Of Plano
+  Medicare address: 4301 Mapleshade Lane Plano 75093
+  Medicare emergency services: no
+  Best OSM Match: 2.35 The Heart Hospital Baylor Plano
+  OSM Address: 1100 Allied Drive Plano 75093
+37. Unmatched medicare hospital
+  Medicare name: Austin Lakes Hospital
+  Medicare address: 1025 East 32Nd Street Austin 78705
+  Medicare emergency services: no
+  Best OSM Match: 2.85 Saint David's Medical Center
+  OSM Address: 919 East 32nd Street Austin 78705
+38. Unmatched medicare hospital
+  Medicare name: West Oaks Hospital
+  Medicare address: 6500 Hornwood Houston 77074
+  Medicare emergency services: no
+  Best OSM Match: 2.33 Memorial Hermann Southwest Hospital
+  OSM Address: 7600 Beechnut Street Houston 77074
+39. Unmatched medicare hospital
+  Medicare name: Ut Health East Texas Jacksonville Hospital
+  Medicare address: 501 S Ragsdale Jacksonville 75766
+  Medicare emergency services: yes
+  Best OSM Match: 2.83 East Texas Medical Center - Jacksonville
+  OSM Address: 501 South Ragsdale Street Jacksonville 75766
+40. Unmatched medicare hospital
+  Medicare name: Crane County Hospital District
+  Medicare address: 1310 S Alford St Crane 79731
+  Medicare emergency services: yes
+  Best OSM Match: 3.00 Crane Memorial Hospital
+  OSM Address: 1310 South Alford Street Crane 79731
+41. Unmatched medicare hospital
+  Medicare name: Lillian M Hudspeth Memorial Hospital
+  Medicare address: 308 Hudspeth Sonora 76950
+  Medicare emergency services: yes
+  Best OSM Match: 3.00 Lillian M. Hudspeth Memorial Hospital
+  OSM Address: - - Sonora 76950
+42. Unmatched medicare hospital
+  Medicare name: Memorial Hospital
+  Medicare address: 1204 Mound St Nacogdoches 75961
+  Medicare emergency services: yes
+  Best OSM Match: 3.07 Nacogdoches Memorial Hospital
+  OSM Address: 1204 North Mound Street Nacogdoches 75961
+43. Unmatched medicare hospital
+  Medicare name: Ut Southwestern University Hospital-Zale Lipshy
+  Medicare address: 5151 Harry Hines Blvd Dallas 75390
+  Medicare emergency services: no
+  Best OSM Match: 3.00 Zale Lipshy University Hospital
+  OSM Address: 5201 Harry Hines Boulevard Dallas 75390
+44. Unmatched medicare hospital
+  Medicare name: Dallas Behavioral Healthcare Hospital Llc
+  Medicare address: 800 Kirnwood Drive De Soto 75115
+  Medicare emergency services: no
+  Best OSM Match: 1.08 UTMB Health Angleton Danbury Campus
+  OSM Address: 132 Hospital Drive Angleton 77515
+45. Unmatched medicare hospital
+  Medicare name: Brazosport Regional Health System
+  Medicare address: 100 Medical Drive Lake Jackson 77566
+  Medicare emergency services: yes
+  Best OSM Match: 3.09 CHI Saint Luke's Health Brazosport
+  OSM Address: 100 Medical Drive Lake Jackson 77566
+46. Unmatched medicare hospital
+  Medicare name: Devereux Texas Treatment Network
+  Medicare address: 1150 Devereux Dr League City 77573
+  Medicare emergency services: no
+  Best OSM Match: 1.08 Liberty - Dayton Regional Medical Center
+  OSM Address: 1353 North Travis Street Liberty 77575
+47. Unmatched medicare hospital
+  Medicare name: El Paso Ltac Hosptial
+  Medicare address: 1221 N Cotton St 3Rd Floor El Paso 79902
+  Medicare emergency services: no
+  Best OSM Match: 2.40 Providence Memorial Hospital
+  OSM Address: 2001 North Oregon Street El Paso 79902
+48. Unmatched medicare hospital
+  Medicare name: Vhs Harlingen Hospital Company Llc
+  Medicare address: 2101 Pease St Harlingen 78550
+  Medicare emergency services: yes
+  Best OSM Match: 2.83 Valley Baptist Medical Center
+  OSM Address: 2101 Pease Street Harlingen 78550
+49. Unmatched medicare hospital
+  Medicare name: River Crest Hosp
+  Medicare address: 1636 Hunters Glen Road San Angelo 76901
+  Medicare emergency services: no
+  Best OSM Match: 1.89 San Angelo Community Medical Center
+  OSM Address: 3501 Knickerbocker Road San Angelo 76904
+50. Unmatched medicare hospital
+  Medicare name: Memorial Hermann Hospital System
+  Medicare address: 1635 North Loop West Houston 77008
+  Medicare emergency services: yes
+  Best OSM Match: 2.31 Pine Valley Specialty Hospital
+  OSM Address: 6160 South Loop East Houston 77087
+51. Emergency services mismatch
+  Medicare name: San Antonio State Hospital
+  OSM name: San Antonio State Hospital
+  OSM Address: 6711 South New Braunfels Avenue San Antonio 78223
+  Medicare emergency services: no
+  OSM Emergency: yes
+52. Unmatched medicare hospital
+  Medicare name: Emil J Freireich Cancer Center
+  Medicare address: 9201 Pinecroft Shenandoah 77380
+  Medicare emergency services: yes
+  Best OSM Match: 2.00 Memorial Hermann The Woodlands Medical Center
+  OSM Address: 9250 Pinecroft Drive The Woodlands 77380
+53. Unmatched medicare hospital
+  Medicare name: Crockett Medical Center
+  Medicare address: 1100 E Loop 304 Crockett 75835
+  Medicare emergency services: yes
+  Best OSM Match: 1.21 Pine Creek Medical Center
+  OSM Address: 9032 Harry Hines Boulevard Dallas 75235
+54. Unmatched medicare hospital
+  Medicare name: Oceans Behavioral Hospital Of Katy
+  Medicare address: 455 Park Grove Lane Katy 77450
+  Medicare emergency services: no
+  Best OSM Match: 2.18 Houston Methodist Saint Catherine Hospital
+  OSM Address: 701 South Fry Road Katy 77450
+55. Unmatched medicare hospital
+  Medicare name: Lone Star Behavioral Health Cypress
+  Medicare address: 16303 Grant Road Cypress 77429
+  Medicare emergency services: no
+  Best OSM Match: 2.34 HCA Houston North Cypress
+  OSM Address: 21214 Northwest Freeway Cypress 77429
+56. Unmatched medicare hospital
+  Medicare name: Detar Healthcare System
+  Medicare address: 506 E San Antonio St Victoria 77902
+  Medicare emergency services: yes
+  Best OSM Match: 2.60 DeTar Hospital Navarro
+  OSM Address: 506 East San Antonio Street Victoria 77901
+57. Unmatched medicare hospital
+  Medicare name: Hca Houston Healthcare Conroe
+  Medicare address: 504 Medical Center Blvd Conroe 77304
+  Medicare emergency services: yes
+  Best OSM Match: 2.85 Conroe Regional Medical Center
+  OSM Address: 504 Medical Center Boulevard Conroe 77304
+58. Emergency services mismatch
+  Medicare name: Ut Southwestern University Hospital
+  OSM name: Zale Lipshy University Hospital
+  OSM Address: 5201 Harry Hines Boulevard Dallas 75390
+  Medicare emergency services: yes
+  OSM Emergency: no
+59. Unmatched medicare hospital
+  Medicare name: South Texas Health System
+  Medicare address: 1102 W Trenton Road Edinburg 78539
+  Medicare emergency services: yes
+  Best OSM Match: 2.88 Edinburg Regional Medical Center
+  OSM Address: 1102 West Trenton Road Edinburg 78539
+60. Unmatched medicare hospital
+  Medicare name: Rankin Hospital Medical Clinic
+  Medicare address: 1611 Spur 576 Rankin 79778
+  Medicare emergency services: no
+  Best OSM Match: 2.79 Rankin County Hospital District
+  OSM Address: 1611 Spur 576 Rankin 79731
+61. Emergency services mismatch
+  Medicare name: Grace Medical Center
+  OSM name: Grace Medical Center
+  OSM Address: 2412 50th Street Lubbock 79412
+  Medicare emergency services: yes
+  OSM Emergency: no
+62. Unmatched medicare hospital
+  Medicare name: Palms Behavioral Health
+  Medicare address: 613 Victoria Lane Harlingen 78550
+  Medicare emergency services: no
+  Best OSM Match: 2.21 Valley Baptist Medical Center
+  OSM Address: 2101 Pease Street Harlingen 78550
+63. Unmatched medicare hospital
+  Medicare name: Northwest Texas Hospital
+  Medicare address: 1501 S Coulter St Amarillo 79106
+  Medicare emergency services: yes
+  Best OSM Match: 3.08 North West Texas Healthcare System
+  OSM Address: 1501 South Coulter Street Amarillo 79106
+64. Unmatched medicare hospital
+  Medicare name: United Memorial Medical Center
+  Medicare address: 510 W Tidwell Houston 77091
+  Medicare emergency services: yes
+  Best OSM Match: 2.94 United Memorial Medical Center
+  OSM Address: 510 West Tidwell Road Houston 77026
+65. Unmatched medicare hospital
+  Medicare name: Oceans Behavioral Hospital Of Lufkin Llc
+  Medicare address: 302 Gobblers Knob Rd Lufkin 75904
+  Medicare emergency services: no
+  Best OSM Match: 2.26 CHI Saint Luke's Health-Memorial Lufkin
+  OSM Address: 1201 West Frank Avenue Lufkin 75904
+66. Unmatched medicare hospital
+  Medicare name: North Runnels Hospital
+  Medicare address: 7821 East Highway 153 Winters 79567
+  Medicare emergency services: yes
+  Best OSM Match: 2.96 North Runnels Hospital
+  OSM Address: 7821 TX 153 Winters 79467
+67. Unmatched medicare hospital
+  Medicare name: Oceans Behavioral Hospital Of Longview
+  Medicare address: 615 Clinic Dr Longview 75605
+  Medicare emergency services: no
+  Best OSM Match: 2.46 Magnolia Behavioral Hospital
+  OSM Address: 22 Bermuda Lane Longview 75605
+68. Unmatched medicare hospital
+  Medicare name: Aspire Behavioral Health Of Conroe, Llc
+  Medicare address: 2006 South Loop 336 West, Suite 500 Conroe 77304
+  Medicare emergency services: no
+  Best OSM Match: 2.83 Aspire Hospital
+  OSM Address: 2006 South Loop 336 West Conroe 77304
+69. Unmatched medicare hospital
+  Medicare name: Ut Health East Texas Athens Hospital
+  Medicare address: 2000 South Palestine St Athens 75751
+  Medicare emergency services: yes
+  Best OSM Match: 3.08 East Texas Medical Center - Athens
+  OSM Address: 2000 South Palestine Street Athens 75751
+70. Unmatched medicare hospital
+  Medicare name: Legent Orthopedic + Spine
+  Medicare address: 5330 North Loop 1604 West San Antonio 78249
+  Medicare emergency services: yes
+  Best OSM Match: 3.09 Cumberland Surgical Hospital
+  OSM Address: 5330 North Loop 1604 West San Antonio 78249
+71. Unmatched medicare hospital
+  Medicare name: Rock Springs
+  Medicare address: 700 Southeast Inner Loop Georgetown 78626
+  Medicare emergency services: no
+  Best OSM Match: 2.19 Saint David's Georgetown Hospital
+  OSM Address: 2000 Scenic Drive Georgetown 78626
+72. Unmatched medicare hospital
+  Medicare name: Ut Health East Texas Pittsburg Hospital
+  Medicare address: 2701 Us Hwy 271 N Pittsburg 75686
+  Medicare emergency services: yes
+  Best OSM Match: 2.94 UT Health Pittsburg
+  OSM Address: 2701 US 271 Pittsburg 75686
+73. Unmatched medicare hospital
+  Medicare name: Burleson Saint Joseph Health Center
+  Medicare address: 1101 Woodson Drive Caldwell 77836
+  Medicare emergency services: no
+  Best OSM Match: 2.46 CHI Saint Joseph Health Burleson Hospital
+  OSM Address: 1101 Woodson Drive Burleson 77836
+74. Emergency services mismatch
+  Medicare name: Paris Regional Medical Center
+  OSM name: Paris Regional Medical Center – South Campus
+  OSM Address: 820 Clarksville Street Paris 75460
+  Medicare emergency services: yes
+  OSM Emergency: no
+75. Unmatched medicare hospital
+  Medicare name: The Hospitals Of Providence Horizon City Campus
+  Medicare address: 13600 Horizon Street, Suite 100 Horizon City 79928
+  Medicare emergency services: yes
+  Best OSM Match: 1.40 The Hospitals of Providence - East Campus
+  OSM Address: 3280 Joe Battle Boulevard El Paso 79998
+76. Unmatched medicare hospital
+  Medicare name: Ad Hospital East, Llc
+  Medicare address: 12950 East Freeway, Suite 100 Houston 77015
+  Medicare emergency services: yes
+  Best OSM Match: 2.70 Advanced Diagnostics East Hospital & 24 Hour Emergency Center
+  OSM Address: 12950 East Freeway Houston 77015
+77. Unmatched medicare hospital
+  Medicare name: Little River Healthcare
+  Medicare address: 1700 Brazos Rockdale 76567
+  Medicare emergency services: yes
+  Best OSM Match: 2.42 Little River Healthcare – Rockdale Hospital
+  OSM Address: 1700 Brazos Avenue Rockdale 76520
+78. Unmatched medicare hospital
+  Medicare name: Hca Houston Healthcare Tomball
+  Medicare address: 605 Holderrieth Tomball 77375
+  Medicare emergency services: yes
+  Best OSM Match: 2.62 Tomball Regional Medical Center
+  OSM Address: 605 Holderrieth Boulevard Tomball 77375
+79. Unmatched medicare hospital
+  Medicare name: Harris Health System
+  Medicare address: 2525 Holly Hall Houston 77054
+  Medicare emergency services: yes
+  Best OSM Match: 2.18 The Woman's Hospital of Texas
+  OSM Address: 7600 Fannin Street Houston 77054
+80. Unmatched medicare hospital
+  Medicare name: Memorial Hospital
+  Medicare address: 1110 North Sarah Dewitt Drive Gonzales 78629
+  Medicare emergency services: yes
+  Best OSM Match: 3.02 Gonzales Healthcare Systems
+  OSM Address: 1110 North Sarah Dewitt Drive Gonzales 78629
+81. Unmatched medicare hospital
+  Medicare name: Ut Health East Texas Tyler Regional Hospital
+  Medicare address: 1000 South Beckham Ave Tyler 75701
+  Medicare emergency services: yes
+  Best OSM Match: 2.88 --
+  OSM Address: 1000 South Beckham Avenue Tyler 75701
+82. Unmatched medicare hospital
+  Medicare name: Jackson Healthcare Center
+  Medicare address: 1013 S Wells Edna 77957
+  Medicare emergency services: yes
+  Best OSM Match: 2.68 Jackson County Hospital
+  OSM Address: 1013 South Wells Street Edna 77957
+83. Unmatched medicare hospital
+  Medicare name: The Hospitals Of Providence Memorial Campus
+  Medicare address: 2001 N Oregon St El Paso 79902
+  Medicare emergency services: yes
+  Best OSM Match: 3.03 Providence Memorial Hospital
+  OSM Address: 2001 North Oregon Street El Paso 79902
+84. Unmatched medicare hospital
+  Medicare name: Nix Health Care System
+  Medicare address: 414 Navarro, Suite 600 San Antonio 78205
+  Medicare emergency services: yes
+  Best OSM Match: 2.92 Nix Medical Center
+  OSM Address: 414 Navarro Street San Antonio 78205
+85. Unmatched medicare hospital
+  Medicare name: Sabine County Hospital
+  Medicare address: Po Box 750, 2301 Hwy 83 W Hemphill 75948
+  Medicare emergency services: yes
+  Best OSM Match: 3.08 Sabine County Hospital
+  OSM Address: 2301 Worth Street Hemphill 75948
+86. Unmatched medicare hospital
+  Medicare name: Covenant Childrens Hospital
+  Medicare address: 4015 22Nd Place Lubbock 79410
+  Medicare emergency services: yes
+  Best OSM Match: 2.76 Covenant Children’s
+  OSM Address: 4002 24th Street Lubbock 79410
+87. Emergency services mismatch
+  Medicare name: El Paso Psychiatric Center
+  OSM name: El Paso Psychiatric Center
+  OSM Address: 4615 Alameda Avenue El Paso 79905
+  Medicare emergency services: yes
+  OSM Emergency: no
+88. Unmatched medicare hospital
+  Medicare name: Jps Health Network
+  Medicare address: 1500 S Main St Fort Worth 76104
+  Medicare emergency services: yes
+  Best OSM Match: 2.71 John Peter Smith Hospital
+  OSM Address: 1500 South Main Street Fort Worth 76104
+89. Unmatched medicare hospital
+  Medicare name: Oceans Behavioral Hospital Of Abilene
+  Medicare address: 6401 Directors Parkway Abilene 79606
+  Medicare emergency services: no
+  Best OSM Match: 2.10 Abilene Regional Medical Center
+  OSM Address: 6250 US 83 Abilene 79606
+90. Emergency services mismatch
+  Medicare name: Intracare North Hospital
+  OSM name: Intracare North Hospital
+  OSM Address: 1120 Cypress Station Drive Houston 77090
+  Medicare emergency services: yes
+  OSM Emergency: no
+91. Unmatched medicare hospital
+  Medicare name: Hca Houston Healthcare Southeast
+  Medicare address: 4000 Spencer Hwy Pasadena 77504
+  Medicare emergency services: yes
+  Best OSM Match: 2.87 Bayshore Medical Center
+  OSM Address: 4000 Spencer Highway Pasadena 77504
+92. Unmatched medicare hospital
+  Medicare name: Mccamey Hospital
+  Medicare address: 2500 Hwy 305 South Mccamey 79752
+  Medicare emergency services: yes
+  Best OSM Match: 2.43 McCamey County Hospital District
+  OSM Address: 2500 South Highway 305 McCamey 79752
+93. Unmatched medicare hospital
+  Medicare name: Grimes Saint Joseph Health Center
+  Medicare address: 210 Judson St Navasota 77868
+  Medicare emergency services: yes
+  Best OSM Match: 2.97 CHI Saint Joseph Health Grimes Hospital
+  OSM Address: 210 South Judson Street Navasota 77868
+94. Unmatched medicare hospital
+  Medicare name: Methodist Ambulatory Surgery Hospital Nw
+  Medicare address: 9150 Huebner Rd Suite 100 San Antonio 78240
+  Medicare emergency services: yes
+  Best OSM Match: 3.08 Methodist Surgery Ambulatory Hospital
+  OSM Address: 9150 Huebner Road San Antonio 78240
+95. Unmatched medicare hospital
+  Medicare name: Mesa Springs
+  Medicare address: 5560 Mesa Springs Drive Fort Worth 76123
+  Medicare emergency services: no
+  Best OSM Match: 1.91 Harris Methodist Southwest Hospital
+  OSM Address: 6100 Harris Parkway Fort Worth 76132
+96. Unmatched medicare hospital
+  Medicare name: Cedar Crest Hospital & Rtc
+  Medicare address: 3500 South Ih-35 Belton 76513
+  Medicare emergency services: no
+  Best OSM Match: 1.69 Texas Health Presbyterian Hospital Denton
+  OSM Address: 3000 North I-35 Denton 76201
+97. Unmatched medicare hospital
+  Medicare name: Haven Behavioral Hospital Of Frisco
+  Medicare address: 5680 Frisco Square Blvd, Suite 3000 Frisco 75034
+  Medicare emergency services: no
+  Best OSM Match: 2.23 Baylor Scott & White Medical Center – Frisco
+  OSM Address: 5601 Warren Parkway Frisco 75034
+98. Unmatched medicare hospital
+  Medicare name: Madison Saint Joseph Health Center
+  Medicare address: 100 West Cross Street Madisonville 77864
+  Medicare emergency services: yes
+  Best OSM Match: 2.96 CHI Saint Joseph Health Madison Hospital
+  OSM Address: 100 West Cross Street Madison 77864
+99. Emergency services mismatch
+  Medicare name: Memorial Hermann First Colony Hospital
+  OSM name: Memorial Hermann Tomball Hospital
+  OSM Address: 24429 Tomball Parkway Tomball 77375
+  Medicare emergency services: no
+  OSM Emergency: yes
+100. Unmatched medicare hospital
+  Medicare name: Baylor Scott & White Medical Center- Waxahachie
+  Medicare address: 2400 N Interstate Highway 35E Waxahachie 75165
+  Medicare emergency services: yes
+  Best OSM Match: 3.06 Baylor Scott & White Medical Center – Waxahachie
+  OSM Address: 2400 I 35 Frontage Road Waxahachie 75165
+101. Unmatched medicare hospital
+  Medicare name: Hickory Trail Hospital
+  Medicare address: 2000 N Old Hickory Trail Desoto 75115
+  Medicare emergency services: no
+  Best OSM Match: 1.10 Navarro Regional Hospital
+  OSM Address: 3201 West Highway 22 Corsicana 75110
+102. Unmatched medicare hospital
+  Medicare name: Bellville Saint Joseph Health Center
+  Medicare address: 44 N Cummings St Bellville 77418
+  Medicare emergency services: yes
+  Best OSM Match: 2.92 CHI Saint Joseph Health Bellville Hospital
+  OSM Address: 44 North Cummings Road Bellville 77418
+103. Unmatched medicare hospital
+  Medicare name: Laredo Medical Center
+  Medicare address: 1700 East Saunders Laredo 78044
+  Medicare emergency services: yes
+  Best OSM Match: 3.04 Laredo Medical Center
+  OSM Address: 1700 East Saunders Street Loredo 78041
+104. Unmatched medicare hospital
+  Medicare name: Quail Creek Surgical Hospital
+  Medicare address: 6819 Plum Creek Amarillo 79124
+  Medicare emergency services: yes
+  Best OSM Match: 3.05 Quail Creek Surgical Hospital
+  OSM Address: 6819 Plum Creek Drive Amarillo 79106
+105. Emergency services mismatch
+  Medicare name: University Of Texas Medical Branch
+  OSM name: Texas Department of Criminal Justice Hospital
+  OSM Address: 301 University Boulevard Galveston 77555
+  Medicare emergency services: yes
+  OSM Emergency: no
+106. Unmatched medicare hospital
+  Medicare name: Woodland Springs
+  Medicare address: 15860 Old Conroe Road Conroe 77384
+  Medicare emergency services: no
+  Best OSM Match: 1.91 Conroe Regional Medical Center
+  OSM Address: 504 Medical Center Boulevard Conroe 77304
+107. Emergency services mismatch
+  Medicare name: Kell West Regional Hospital
+  OSM name: Kell West Regional Hospital
+  OSM Address: 5420 Kell Boulevard Wichita Falls 76310
+  Medicare emergency services: no
+  OSM Emergency: yes
+108. Unmatched medicare hospital
+  Medicare name: El Campo Memorial Hospital
+  Medicare address: 303 Sandy Corner Rd El Campo 77437
+  Medicare emergency services: yes
+  Best OSM Match: 2.92 El Campo Memorial Hospital
+  OSM Address: 303 Sandy Corners Road Angleton 77437
+109. Unmatched medicare hospital
+  Medicare name: Westpark Springs Llc
+  Medicare address: 6902 S Peek Road Richmond 77407
+  Medicare emergency services: yes
+  Best OSM Match: 1.61 Richmond State Supported Living Center
+  OSM Address: 2100 Preston Street Richmond 77469
+110. Unmatched medicare hospital
+  Medicare name: Allegiance Behavioral Health Center Of Plainview
+  Medicare address: 2601 Dimmitt Road, Suite 400 Plainview 79072
+  Medicare emergency services: no
+  Best OSM Match: 2.87 Covenant Health Plainview
+  OSM Address: 2601 Dimmitt Road Plainview 79072
+111. Unmatched medicare hospital
+  Medicare name: Parmer County Community Hospital
+  Medicare address: 1307 Cleveland Street Friona 79035
+  Medicare emergency services: yes
+  Best OSM Match: 2.80 Parmer Medical Center
+  OSM Address: 1307 Cleveland Avenue Friona 79035
+112. Unmatched medicare hospital
+  Medicare name: First Texas Hospital Carrollton Llc
+  Medicare address: 1401 E Trinity Mills Road Carrollton 75006
+  Medicare emergency services: yes
+  Best OSM Match: 1.99 Baylor Scott & White Medical Center – Carrollton
+  OSM Address: 4343 North Josey Lane Carrollton 75010
+113. Unmatched medicare hospital
+  Medicare name: Our Childrens House
+  Medicare address: 8 Prestige Circle 101 Allen 75002
+  Medicare emergency services: no
+  Best OSM Match: 1.53 Our Children's House
+  OSM Address: 1340 Empire Central Dallas 75247
+114. Unmatched medicare hospital
+  Medicare name: Garland Behavioral Hospital
+  Medicare address: 2300 Marie Curie Blvd 5Th Floor Garland 75042
+  Medicare emergency services: no
+  Best OSM Match: 2.71 Sundance Behavioral Hospital
+  OSM Address: 2696 West Walnut Street Garland 75042
+115. Unmatched medicare hospital
+  Medicare name: Glen Oaks Hospital
+  Medicare address: 301 E Division Box 1885 Greenville 75401
+  Medicare emergency services: no
+  Best OSM Match: 2.11 Hunt Regional Medical Center
+  OSM Address: 4215 Joe Ramsey Boulevard Greenville 75401
+Found 115 potential issues.
 
-Unmatched emergency=yes
-Methodist Children's Hospital (0.00)
-	7700 Floyd Curl Drive San Antonio 78229
-Unmatched emergency=yes
-Heart Hospital of Austin (0.00)
-	3801 North Lamar Boulevard Austin 78756
-Unmatched emergency=yes
-UMC Emergency Center (0.00)
-	602 Indiana Avenue Lubbock 79415
-Unmatched emergency=yes
-Emergency Room (0.00)
-	2600 Saint Michael Drive Texarkana 75503
-Unmatched emergency=yes
-Ben Taub General Hospital (0.00)
-	1504 Taub Loop Houston 77030
-Unmatched emergency=yes
-Children's Memorial Hermann Hospital (0.00)
-	6411 Fannin Street Houston 77030
-Unmatched emergency=yes
-Saint Luke's Baptist Hospital (0.00)
-	7930 Floyd Curl Drive San Antonio 78229
-Unmatched emergency=yes
-Methodist Specialty and Transplant Hospital (0.00)
-	8026 Floyd Curl Drive San Antonio 78229
-Unmatched emergency=yes
-Veterans Affairs Medical Center (0.00)
-	7400 Merton Minter San Antonio 78229
-Unmatched emergency=yes
-Nix Medical Center (2.92)
-	414 Navarro Street San Antonio 78205
-Unmatched emergency=yes
-CHRISTUS Santa Rosa - Westover Hills (0.00)
-	11212 State Highway 151 San Antonio 78251
-Unmatched emergency=yes
-Memorial Hermann The Woodlands Medical Center (2.00)
-	9250 Pinecroft Drive The Woodlands 77380
-Unmatched emergency=yes
-Mission Trail Baptist Hospital (0.00)
-	3333 Research Plaza San Antonio 78235
-Unmatched emergency=yes
-Metropolitan Methodist Hospital (0.00)
-	1310 McCullough Avenue San Antonio 78212
-Unmatched emergency=yes
-US Pain & Spine Hospital (0.00)
-	5445 La Branch Street Houston 77004
-Unmatched emergency=yes
-CHRISTUS Santa Rosa Hospital - Alamo Heights (0.00)
-	403 Treeline Park San Antonio 78209
-Unmatched emergency=yes
-Corpus Christi Medical Center - Bay Area (0.00)
-	7101 South Padre Island Drive Corpus Christi 78412
-Unmatched emergency=yes
-CHRISTUS Spohn Hospital Corpus Christi - South (0.00)
-	5950 Saratoga Boulevard Corpus Christi 78414
-Unmatched emergency=yes
-Corpus Christi Medical Center - Doctors Regional (0.00)
-	3315 South Alameda Street Corpus Christi 78411
-Unmatched emergency=yes
-Memorial Hermann Greater Heights Hospital (0.00)
-	- - - -
-Unmatched emergency=yes
-Dell Seton Medical Center at The University of Texas (3.09)
-	1500 Red River Street Austin 78701
-Unmatched emergency=yes
-Baptist Emergency Hospital (0.00)
-	8230 North Loop 1604 West San Antonio 78249
-Unmatched emergency=yes
-Methodist Texsan Heart Hospital (0.00)
-	6700 Interstate Highway 10 San Antonio 78201
-Unmatched emergency=yes
-Riverside General Hospital (0.00)
-	3204 Ennis Street Houston 77004
-Unmatched emergency=yes
-Parmer Medical Center (2.80)
-	1307 Cleveland Avenue Friona 79035
-Unmatched emergency=yes
-Crane Memorial Hospital (3.00)
-	1310 South Alford Street Crane 79731
-Unmatched emergency=yes
-Allegiance Specialty Hospital (0.00)
-	1612 South Henderson Boulevard Kilgore 75662
-Unmatched emergency=yes
-Cumberland Surgical Hospital (3.09)
-	5330 North Loop 1604 West San Antonio 78249
-Unmatched emergency=yes
-Quail Creek Surgical Hospital (3.05)
-	6819 Plum Creek Drive Amarillo 79106
-Unmatched emergency=yes
-CHRISTUS Good Shepherd Medical Center - Marshall (0.00)
-	811 South Washington Avenue Marshall 75670
-Unmatched emergency=yes
-Dallas VA Medical Center (0.00)
-	4500 South Lancaster Road Dallas 75216
-Unmatched emergency=yes
-Del Sol Medical Center (0.00)
-	10301 Gateway Boulevard West El Paso 79925
-Unmatched emergency=yes
-Paris Regional Medical Center (0.00)
-	865 Deshong Drive Paris 75460
-Unmatched emergency=yes
-CHRISTUS Southeast Texas - Saint Mary (2.01)
-	3600 Gates Boulevard Port Arthur 77642
-Unmatched emergency=yes
-Tomball Regional Medical Center (2.62)
-	605 Holderrieth Boulevard Tomball 77375
-Unmatched emergency=yes
-UTMB Health Angleton Danbury Campus (1.08)
-	132 Hospital Drive Angleton 77515
-Unmatched emergency=yes
-Northeast Baptist Hospital (0.00)
-	8811 Village Drive San Antonio 78217
-Unmatched emergency=yes
-Gonzales Healthcare Systems (3.02)
-	1110 North Sarah Dewitt Drive Gonzales 78629
-Unmatched emergency=yes
-Baylor Scott & White Medical Center – Waxahachie (3.06)
-	2400 I 35 Frontage Road Waxahachie 75165
-Unmatched emergency=yes
-Corpus Christi Medical Center - Northwest Regional (0.00)
-	13725 Northwest Boulevard Corpus Christi 78410
-Unmatched emergency=yes
-Jackson County Hospital (2.68)
-	1013 South Wells Street Edna 77957
-Unmatched emergency=yes
-El Campo Memorial Hospital (2.92)
-	303 Sandy Corners Road Angleton 77437
-Unmatched emergency=yes
-Memorial Hermann Southeast Hospital (0.00)
-	11800 Astoria Boulevard Houston 77089
-Unmatched emergency=yes
--- (2.88)
-	1000 South Beckham Avenue Tyler 75701
-Unmatched emergency=yes
-East Texas Medical Center - Athens (3.08)
-	2000 South Palestine Street Athens 75751
-Unmatched emergency=yes
-East Texas Medical Center - Jacksonville (2.83)
-	501 South Ragsdale Street Jacksonville 75766
-Unmatched emergency=yes
-UT Health Pittsburg (2.94)
-	2701 US 271 Pittsburg 75686
-Unmatched emergency=yes
-Columbia Kingwood Medical Center (1.97)
-	22999 US Highway 59 North Kingwood 77339
-Unmatched emergency=yes
-Baylor Scott & White Medical Center – Round Rock (2.87)
-	300 University Boulevard Round Rock 78665
-Unmatched emergency=yes
-Valley Baptist Medical Center (2.21)
-	2101 Pease Street Harlingen 78550
-Unmatched emergency=yes
-John Peter Smith Hospital (2.71)
-	1500 South Main Street Fort Worth 76104
-Unmatched emergency=yes
-Providence Memorial Hospital (3.03)
-	2001 North Oregon Street El Paso 79902
-Unmatched emergency=yes
-William Beaumont Army Medical Center (2.61)
-	5005 North Piedras Street El Paso 79930
-Unmatched emergency=yes
-Laredo Medical Center (3.04)
-	1700 East Saunders Street Loredo 78041
-Unmatched emergency=yes
-McAllen Heart Hospital (0.00)
-	1900 South D Street McAllen 78503
-Unmatched emergency=yes
-Edinburg Regional Medical Center (2.88)
-	1102 West Trenton Road Edinburg 78539
-Unmatched emergency=yes
-CHRISTUS Spohn Hospital Corpus Christi - Memorial (0.00)
-	2606 Hospital Boulevard Corpus Christi 78405
-Unmatched emergency=yes
-North West Texas Healthcare System (3.08)
-	1501 South Coulter Street Amarillo 79106
-Unmatched emergency=yes
-Thomas E. Creek VA Medical Center (0.00)
-	6010 Amarillo Boulevard West Amarillo 79106
-Unmatched emergency=yes
-Covenant Children’s (2.76)
-	4002 24th Street Lubbock 79410
-Unmatched emergency=yes
-Rankin County Hospital District (2.79)
-	1611 Spur 576 Rankin 79731
-Unmatched emergency=yes
-Lillian M. Hudspeth Memorial Hospital (3.00)
-	- - Sonora 76950
-Unmatched emergency=yes
-Central Hospital of Bowie (0.00)
-	705 East Greenwood Avenue Bowie 76230
-Unmatched emergency=yes
-Carl R. Darnall Army Medical Center (2.37)
-	36065 Santa Fe Avenue Fort Hood 76544
-Unmatched emergency=yes
-Metroplex Health System (2.69)
-	2201 South Clear Creek Road Killeen 76549
-Unmatched emergency=yes
-Methodist Surgery Ambulatory Hospital (3.08)
-	9150 Huebner Road San Antonio 78240
-Unmatched emergency=yes
-Northeast Methodist Hospital (0.00)
-	12412 Judson Road Live Oak 78233
-Unmatched emergency=yes
-North Central Baptist Hospital (0.00)
-	520 Madison Oak Drive San Antonio 78258
-Unmatched emergency=yes
-CHRISTUS Santa Rosa - New Braunfels (0.00)
-	600 North Union Avenue New Braunfels 78130
-Unmatched emergency=yes
-Seton Edgar B. Davis Hospital (3.07)
-	130 Hays Street Luling 78468
-Unmatched emergency=yes
-DeTar Hospital North (0.00)
-	101 Medical Drive Victoria 77904
-Unmatched emergency=yes
-DeTar Hospital Navarro (2.60)
-	506 East San Antonio Street Victoria 77901
-Unmatched emergency=yes
-CHI Saint Luke's Health Brazosport (3.09)
-	100 Medical Drive Lake Jackson 77566
-Unmatched emergency=yes
-Weimar Medical Center (0.00)
-	400 Youens Drive Weimar 78962
-Unmatched emergency=yes
-Saint David's Georgetown Hospital (2.19)
-	2000 Scenic Drive Georgetown 78626
-Unmatched emergency=yes
-Olin E. Teague Veterans' Medical Center (0.00)
-	1901 Veterans Memorial Drive Temple 76504
-Unmatched emergency=yes
-Cameron Hospital (0.00)
-	806 North Crockett Avenue Cameron 76520
-Unmatched emergency=yes
-Little River Healthcare – Rockdale Hospital (2.42)
-	1700 Brazos Avenue Rockdale 76520
-Unmatched emergency=yes
-CHI Saint Joseph Health Burleson Hospital (2.46)
-	1101 Woodson Drive Burleson 77836
-Unmatched emergency=yes
-CHI Saint Joseph Health Bellville Hospital (2.92)
-	44 North Cummings Road Bellville 77418
-Unmatched emergency=yes
-CHI Saint Joseph Health Madison Hospital (2.96)
-	100 West Cross Street Madison 77864
-Unmatched emergency=yes
-CHI Sainit Luke's Health-Memorial Livingston (3.05)
-	1717 Highway 59 Bypass Livingston 77351
-Unmatched emergency=yes
-Baptist Hospitals of Southeast Texas, Orange Campus (0.00)
-	608 Strickland Drive Orange 77630
-Unmatched emergency=yes
-CHRISTUS Southeast Texas - Saint Elizabeth (0.00)
-	- - - -
-Unmatched emergency=yes
-Texas Emergency Hospital (0.00)
-	300 East Crockett Street Cleveland 77327
-Unmatched emergency=yes
-Mainland Medical Center (0.00)
-	6801 Emmett F Lowry Expressway Texas City 77591
-Unmatched emergency=yes
-Bay Area Regional Medical Center (0.00)
-	200 Blossom Street Webster 77598
-Unmatched emergency=yes
-Clear Lake Regional Medical Center (2.90)
-	500 Medical Center Boulevard Webster 77598
-Unmatched emergency=yes
-Bayshore Medical Center (2.87)
-	4000 Spencer Highway Pasadena 77504
-Unmatched emergency=yes
-Michael E. DeBakey VA Medical Center (2.30)
-	2002 Holcombe Boulevard Houston 77030
-Unmatched emergency=yes
-Texas Children's Hospital West Campus (0.00)
-	18200 Katy Freeway Houston 77094
-Unmatched emergency=yes
-Memorial Hermann Southwest Hospital (2.33)
-	7600 Beechnut Street Houston 77074
-Unmatched emergency=yes
-Saint Joseph's Medical Center (0.00)
-	1917 Ashland Street Houston 77008
-Unmatched emergency=yes
-Lyndon B. Johnson General Hospital (0.00)
-	5656 Kelley Street Houston 77026
-Unmatched emergency=yes
-Cypress Fairbanks Medical Center (0.00)
-	10655 Steepletop Drive Houston 77065
-Unmatched emergency=yes
-HCA Houston North Cypress (2.34)
-	21214 Northwest Freeway Cypress 77429
-Unmatched emergency=yes
-Memorial Hermann Cypress Hospital (0.00)
-	27800 Northwest Freeway Cypress 77433
-Unmatched emergency=yes
-Conroe Regional Medical Center (1.91)
-	504 Medical Center Boulevard Conroe 77304
-Unmatched emergency=yes
-Nacogdoches Memorial Hospital (3.07)
-	1204 North Mound Street Nacogdoches 75961
-Unmatched emergency=yes
-CHRISTUS Saint Michael Hospital-Atlanta (0.00)
-	1007 South Williams Street Atlanta 75551
-Unmatched emergency=yes
-Christus Saint Michael (2.95)
-	2600 Saint Michael Drive Texarkana 75503
-Unmatched emergency=yes
-Cook Children's Northeast (0.00)
-	6316 Precinct Line Road Hurst 76054
-Unmatched emergency=yes
-Texas General Hospital (0.00)
-	2709 Hospital Boulevard Grand Prairie 75051
-Unmatched emergency=yes
-Baylor Surgical Hospital at Las Colinas (3.05)
-	440 Lyndon B Johnson Freeway Irving 75063
-Unmatched emergency=yes
-Methodist Campus for Continuing Care (0.00)
-	401 West Campbell Road Richardson 75080
-Unmatched emergency=yes
-William P. Clements Jr. University Hospital (0.00)
-	6201 Harry Hines Boulevard Dallas 75390
-Unmatched emergency=yes
-Stamford Memorial Hospital (0.00)
-	1601 Columbia Street Stamford 79553
-Unmatched emergency=yes
-The Women's Hospital at Renaissance (0.00)
-	5502 South McColl Road Edinburg 78539
-Unmatched emergency=yes
-McCamey County Hospital District (2.43)
-	2500 South Highway 305 McCamey 79752
-Unmatched emergency=yes
-North Runnels Hospital (2.96)
-	7821 TX 153 Winters 79467
-Unmatched emergency=yes
-CHI Saint Joseph Health Grimes Hospital (2.97)
-	210 South Judson Street Navasota 77868
-Unmatched emergency=yes
-Sabine County Hospital (3.08)
-	2301 Worth Street Hemphill 75948
-Unmatched emergency=yes
-Ascension Seton Highland Lakes Hospital (2.62)
-	3201 South Water Street Burnet 78611
-Unmatched emergency=yes
-Baylor Emergency Medical Center (0.00)
-	1975 Alpha Drive Rockwall 75087
-Unmatched emergency=yes
-Advanced Diagnostics East Hospital & 24 Hour Emergency Center (2.70)
-	12950 East Freeway Houston 77015
-Unmatched emergency=yes
-Baylor Emergency Medical Center (2.92)
-	12500 South Freeway Burleson 76028
-Unmatched emergency=yes
-Texas Children's Hospital The Woodlands (0.00)
-	17600 Interstate 45 South The Woodlands 77384
-Unmatched emergency=yes
-United Memorial Medical Center (2.94)
-	510 West Tidwell Road Houston 77026
-Unmatched emergency=yes
-CHRISTUS Mother Frances Hospital - South Tyler (0.00)
-	8389 South Broadway Avenue Tyler -
-Unmatched emergency=yes
-CHRISTUS Mother Frances Hospital - Winnsboro (2.98)
-	719 West Coke Road Winnsboro -
-Unmatched emergency=yes
-John Sealy Hospital (0.00)
-	301 8th Street Galveston 77555
-Unmatched emergency=yes
-San Antonio Military Medical Center (0.00)
-	- - - -
+Unmatched emergency=yes in OSM
+  OSM name: Methodist Children's Hospital
+  Score of best match: 0.00
+  OSM address: 7700 Floyd Curl Drive San Antonio 78229
+Unmatched emergency=yes in OSM
+  OSM name: Heart Hospital of Austin
+  Score of best match: 0.00
+  OSM address: 3801 North Lamar Boulevard Austin 78756
+Unmatched emergency=yes in OSM
+  OSM name: UMC Emergency Center
+  Score of best match: 0.00
+  OSM address: 602 Indiana Avenue Lubbock 79415
+Unmatched emergency=yes in OSM
+  OSM name: Emergency Room
+  Score of best match: 0.00
+  OSM address: 2600 Saint Michael Drive Texarkana 75503
+Unmatched emergency=yes in OSM
+  OSM name: Ben Taub General Hospital
+  Score of best match: 0.00
+  OSM address: 1504 Taub Loop Houston 77030
+Unmatched emergency=yes in OSM
+  OSM name: Children's Memorial Hermann Hospital
+  Score of best match: 0.00
+  OSM address: 6411 Fannin Street Houston 77030
+Unmatched emergency=yes in OSM
+  OSM name: Saint Luke's Baptist Hospital
+  Score of best match: 0.00
+  OSM address: 7930 Floyd Curl Drive San Antonio 78229
+Unmatched emergency=yes in OSM
+  OSM name: Methodist Specialty and Transplant Hospital
+  Score of best match: 0.00
+  OSM address: 8026 Floyd Curl Drive San Antonio 78229
+Unmatched emergency=yes in OSM
+  OSM name: Veterans Affairs Medical Center
+  Score of best match: 0.00
+  OSM address: 7400 Merton Minter San Antonio 78229
+Unmatched emergency=yes in OSM
+  OSM name: Nix Medical Center
+  Score of best match: 2.92
+  OSM address: 414 Navarro Street San Antonio 78205
+Unmatched emergency=yes in OSM
+  OSM name: CHRISTUS Santa Rosa - Westover Hills
+  Score of best match: 0.00
+  OSM address: 11212 State Highway 151 San Antonio 78251
+Unmatched emergency=yes in OSM
+  OSM name: Memorial Hermann The Woodlands Medical Center
+  Score of best match: 2.00
+  OSM address: 9250 Pinecroft Drive The Woodlands 77380
+Unmatched emergency=yes in OSM
+  OSM name: Mission Trail Baptist Hospital
+  Score of best match: 0.00
+  OSM address: 3333 Research Plaza San Antonio 78235
+Unmatched emergency=yes in OSM
+  OSM name: Metropolitan Methodist Hospital
+  Score of best match: 0.00
+  OSM address: 1310 McCullough Avenue San Antonio 78212
+Unmatched emergency=yes in OSM
+  OSM name: US Pain & Spine Hospital
+  Score of best match: 0.00
+  OSM address: 5445 La Branch Street Houston 77004
+Unmatched emergency=yes in OSM
+  OSM name: CHRISTUS Santa Rosa Hospital - Alamo Heights
+  Score of best match: 0.00
+  OSM address: 403 Treeline Park San Antonio 78209
+Unmatched emergency=yes in OSM
+  OSM name: Corpus Christi Medical Center - Bay Area
+  Score of best match: 0.00
+  OSM address: 7101 South Padre Island Drive Corpus Christi 78412
+Unmatched emergency=yes in OSM
+  OSM name: CHRISTUS Spohn Hospital Corpus Christi - South
+  Score of best match: 0.00
+  OSM address: 5950 Saratoga Boulevard Corpus Christi 78414
+Unmatched emergency=yes in OSM
+  OSM name: Corpus Christi Medical Center - Doctors Regional
+  Score of best match: 0.00
+  OSM address: 3315 South Alameda Street Corpus Christi 78411
+Unmatched emergency=yes in OSM
+  OSM name: Memorial Hermann Greater Heights Hospital
+  Score of best match: 0.00
+  OSM address: - - - -
+Unmatched emergency=yes in OSM
+  OSM name: Dell Seton Medical Center at The University of Texas
+  Score of best match: 3.09
+  OSM address: 1500 Red River Street Austin 78701
+Unmatched emergency=yes in OSM
+  OSM name: Baptist Emergency Hospital
+  Score of best match: 0.00
+  OSM address: 8230 North Loop 1604 West San Antonio 78249
+Unmatched emergency=yes in OSM
+  OSM name: Methodist Texsan Heart Hospital
+  Score of best match: 0.00
+  OSM address: 6700 Interstate Highway 10 San Antonio 78201
+Unmatched emergency=yes in OSM
+  OSM name: Riverside General Hospital
+  Score of best match: 0.00
+  OSM address: 3204 Ennis Street Houston 77004
+Unmatched emergency=yes in OSM
+  OSM name: Parmer Medical Center
+  Score of best match: 2.80
+  OSM address: 1307 Cleveland Avenue Friona 79035
+Unmatched emergency=yes in OSM
+  OSM name: Crane Memorial Hospital
+  Score of best match: 3.00
+  OSM address: 1310 South Alford Street Crane 79731
+Unmatched emergency=yes in OSM
+  OSM name: Allegiance Specialty Hospital
+  Score of best match: 0.00
+  OSM address: 1612 South Henderson Boulevard Kilgore 75662
+Unmatched emergency=yes in OSM
+  OSM name: Cumberland Surgical Hospital
+  Score of best match: 3.09
+  OSM address: 5330 North Loop 1604 West San Antonio 78249
+Unmatched emergency=yes in OSM
+  OSM name: Quail Creek Surgical Hospital
+  Score of best match: 3.05
+  OSM address: 6819 Plum Creek Drive Amarillo 79106
+Unmatched emergency=yes in OSM
+  OSM name: CHRISTUS Good Shepherd Medical Center - Marshall
+  Score of best match: 0.00
+  OSM address: 811 South Washington Avenue Marshall 75670
+Unmatched emergency=yes in OSM
+  OSM name: Dallas VA Medical Center
+  Score of best match: 0.00
+  OSM address: 4500 South Lancaster Road Dallas 75216
+Unmatched emergency=yes in OSM
+  OSM name: Del Sol Medical Center
+  Score of best match: 0.00
+  OSM address: 10301 Gateway Boulevard West El Paso 79925
+Unmatched emergency=yes in OSM
+  OSM name: Paris Regional Medical Center
+  Score of best match: 0.00
+  OSM address: 865 Deshong Drive Paris 75460
+Unmatched emergency=yes in OSM
+  OSM name: CHRISTUS Southeast Texas - Saint Mary
+  Score of best match: 2.01
+  OSM address: 3600 Gates Boulevard Port Arthur 77642
+Unmatched emergency=yes in OSM
+  OSM name: Tomball Regional Medical Center
+  Score of best match: 2.62
+  OSM address: 605 Holderrieth Boulevard Tomball 77375
+Unmatched emergency=yes in OSM
+  OSM name: UTMB Health Angleton Danbury Campus
+  Score of best match: 1.08
+  OSM address: 132 Hospital Drive Angleton 77515
+Unmatched emergency=yes in OSM
+  OSM name: Northeast Baptist Hospital
+  Score of best match: 0.00
+  OSM address: 8811 Village Drive San Antonio 78217
+Unmatched emergency=yes in OSM
+  OSM name: Gonzales Healthcare Systems
+  Score of best match: 3.02
+  OSM address: 1110 North Sarah Dewitt Drive Gonzales 78629
+Unmatched emergency=yes in OSM
+  OSM name: Baylor Scott & White Medical Center – Waxahachie
+  Score of best match: 3.06
+  OSM address: 2400 I 35 Frontage Road Waxahachie 75165
+Unmatched emergency=yes in OSM
+  OSM name: Corpus Christi Medical Center - Northwest Regional
+  Score of best match: 0.00
+  OSM address: 13725 Northwest Boulevard Corpus Christi 78410
+Unmatched emergency=yes in OSM
+  OSM name: Jackson County Hospital
+  Score of best match: 2.68
+  OSM address: 1013 South Wells Street Edna 77957
+Unmatched emergency=yes in OSM
+  OSM name: El Campo Memorial Hospital
+  Score of best match: 2.92
+  OSM address: 303 Sandy Corners Road Angleton 77437
+Unmatched emergency=yes in OSM
+  OSM name: Memorial Hermann Southeast Hospital
+  Score of best match: 0.00
+  OSM address: 11800 Astoria Boulevard Houston 77089
+Unmatched emergency=yes in OSM
+  OSM name: --
+  Score of best match: 2.88
+  OSM address: 1000 South Beckham Avenue Tyler 75701
+Unmatched emergency=yes in OSM
+  OSM name: East Texas Medical Center - Athens
+  Score of best match: 3.08
+  OSM address: 2000 South Palestine Street Athens 75751
+Unmatched emergency=yes in OSM
+  OSM name: East Texas Medical Center - Jacksonville
+  Score of best match: 2.83
+  OSM address: 501 South Ragsdale Street Jacksonville 75766
+Unmatched emergency=yes in OSM
+  OSM name: UT Health Pittsburg
+  Score of best match: 2.94
+  OSM address: 2701 US 271 Pittsburg 75686
+Unmatched emergency=yes in OSM
+  OSM name: Columbia Kingwood Medical Center
+  Score of best match: 1.97
+  OSM address: 22999 US Highway 59 North Kingwood 77339
+Unmatched emergency=yes in OSM
+  OSM name: Baylor Scott & White Medical Center – Round Rock
+  Score of best match: 2.87
+  OSM address: 300 University Boulevard Round Rock 78665
+Unmatched emergency=yes in OSM
+  OSM name: Valley Baptist Medical Center
+  Score of best match: 2.21
+  OSM address: 2101 Pease Street Harlingen 78550
+Unmatched emergency=yes in OSM
+  OSM name: John Peter Smith Hospital
+  Score of best match: 2.71
+  OSM address: 1500 South Main Street Fort Worth 76104
+Unmatched emergency=yes in OSM
+  OSM name: Providence Memorial Hospital
+  Score of best match: 3.03
+  OSM address: 2001 North Oregon Street El Paso 79902
+Unmatched emergency=yes in OSM
+  OSM name: William Beaumont Army Medical Center
+  Score of best match: 2.61
+  OSM address: 5005 North Piedras Street El Paso 79930
+Unmatched emergency=yes in OSM
+  OSM name: Laredo Medical Center
+  Score of best match: 3.04
+  OSM address: 1700 East Saunders Street Loredo 78041
+Unmatched emergency=yes in OSM
+  OSM name: McAllen Heart Hospital
+  Score of best match: 0.00
+  OSM address: 1900 South D Street McAllen 78503
+Unmatched emergency=yes in OSM
+  OSM name: Edinburg Regional Medical Center
+  Score of best match: 2.88
+  OSM address: 1102 West Trenton Road Edinburg 78539
+Unmatched emergency=yes in OSM
+  OSM name: CHRISTUS Spohn Hospital Corpus Christi - Memorial
+  Score of best match: 0.00
+  OSM address: 2606 Hospital Boulevard Corpus Christi 78405
+Unmatched emergency=yes in OSM
+  OSM name: North West Texas Healthcare System
+  Score of best match: 3.08
+  OSM address: 1501 South Coulter Street Amarillo 79106
+Unmatched emergency=yes in OSM
+  OSM name: Thomas E. Creek VA Medical Center
+  Score of best match: 0.00
+  OSM address: 6010 Amarillo Boulevard West Amarillo 79106
+Unmatched emergency=yes in OSM
+  OSM name: Covenant Children’s
+  Score of best match: 2.76
+  OSM address: 4002 24th Street Lubbock 79410
+Unmatched emergency=yes in OSM
+  OSM name: Rankin County Hospital District
+  Score of best match: 2.79
+  OSM address: 1611 Spur 576 Rankin 79731
+Unmatched emergency=yes in OSM
+  OSM name: Lillian M. Hudspeth Memorial Hospital
+  Score of best match: 3.00
+  OSM address: - - Sonora 76950
+Unmatched emergency=yes in OSM
+  OSM name: Central Hospital of Bowie
+  Score of best match: 0.00
+  OSM address: 705 East Greenwood Avenue Bowie 76230
+Unmatched emergency=yes in OSM
+  OSM name: Carl R. Darnall Army Medical Center
+  Score of best match: 2.37
+  OSM address: 36065 Santa Fe Avenue Fort Hood 76544
+Unmatched emergency=yes in OSM
+  OSM name: Metroplex Health System
+  Score of best match: 2.69
+  OSM address: 2201 South Clear Creek Road Killeen 76549
+Unmatched emergency=yes in OSM
+  OSM name: Methodist Surgery Ambulatory Hospital
+  Score of best match: 3.08
+  OSM address: 9150 Huebner Road San Antonio 78240
+Unmatched emergency=yes in OSM
+  OSM name: Northeast Methodist Hospital
+  Score of best match: 0.00
+  OSM address: 12412 Judson Road Live Oak 78233
+Unmatched emergency=yes in OSM
+  OSM name: North Central Baptist Hospital
+  Score of best match: 0.00
+  OSM address: 520 Madison Oak Drive San Antonio 78258
+Unmatched emergency=yes in OSM
+  OSM name: CHRISTUS Santa Rosa - New Braunfels
+  Score of best match: 0.00
+  OSM address: 600 North Union Avenue New Braunfels 78130
+Unmatched emergency=yes in OSM
+  OSM name: Seton Edgar B. Davis Hospital
+  Score of best match: 3.07
+  OSM address: 130 Hays Street Luling 78468
+Unmatched emergency=yes in OSM
+  OSM name: DeTar Hospital North
+  Score of best match: 0.00
+  OSM address: 101 Medical Drive Victoria 77904
+Unmatched emergency=yes in OSM
+  OSM name: DeTar Hospital Navarro
+  Score of best match: 2.60
+  OSM address: 506 East San Antonio Street Victoria 77901
+Unmatched emergency=yes in OSM
+  OSM name: CHI Saint Luke's Health Brazosport
+  Score of best match: 3.09
+  OSM address: 100 Medical Drive Lake Jackson 77566
+Unmatched emergency=yes in OSM
+  OSM name: Weimar Medical Center
+  Score of best match: 0.00
+  OSM address: 400 Youens Drive Weimar 78962
+Unmatched emergency=yes in OSM
+  OSM name: Saint David's Georgetown Hospital
+  Score of best match: 2.19
+  OSM address: 2000 Scenic Drive Georgetown 78626
+Unmatched emergency=yes in OSM
+  OSM name: Olin E. Teague Veterans' Medical Center
+  Score of best match: 0.00
+  OSM address: 1901 Veterans Memorial Drive Temple 76504
+Unmatched emergency=yes in OSM
+  OSM name: Cameron Hospital
+  Score of best match: 0.00
+  OSM address: 806 North Crockett Avenue Cameron 76520
+Unmatched emergency=yes in OSM
+  OSM name: Little River Healthcare – Rockdale Hospital
+  Score of best match: 2.42
+  OSM address: 1700 Brazos Avenue Rockdale 76520
+Unmatched emergency=yes in OSM
+  OSM name: CHI Saint Joseph Health Burleson Hospital
+  Score of best match: 2.46
+  OSM address: 1101 Woodson Drive Burleson 77836
+Unmatched emergency=yes in OSM
+  OSM name: CHI Saint Joseph Health Bellville Hospital
+  Score of best match: 2.92
+  OSM address: 44 North Cummings Road Bellville 77418
+Unmatched emergency=yes in OSM
+  OSM name: CHI Saint Joseph Health Madison Hospital
+  Score of best match: 2.96
+  OSM address: 100 West Cross Street Madison 77864
+Unmatched emergency=yes in OSM
+  OSM name: CHI Sainit Luke's Health-Memorial Livingston
+  Score of best match: 3.05
+  OSM address: 1717 Highway 59 Bypass Livingston 77351
+Unmatched emergency=yes in OSM
+  OSM name: Baptist Hospitals of Southeast Texas, Orange Campus
+  Score of best match: 0.00
+  OSM address: 608 Strickland Drive Orange 77630
+Unmatched emergency=yes in OSM
+  OSM name: CHRISTUS Southeast Texas - Saint Elizabeth
+  Score of best match: 0.00
+  OSM address: - - - -
+Unmatched emergency=yes in OSM
+  OSM name: Texas Emergency Hospital
+  Score of best match: 0.00
+  OSM address: 300 East Crockett Street Cleveland 77327
+Unmatched emergency=yes in OSM
+  OSM name: Mainland Medical Center
+  Score of best match: 0.00
+  OSM address: 6801 Emmett F Lowry Expressway Texas City 77591
+Unmatched emergency=yes in OSM
+  OSM name: Bay Area Regional Medical Center
+  Score of best match: 0.00
+  OSM address: 200 Blossom Street Webster 77598
+Unmatched emergency=yes in OSM
+  OSM name: Clear Lake Regional Medical Center
+  Score of best match: 2.90
+  OSM address: 500 Medical Center Boulevard Webster 77598
+Unmatched emergency=yes in OSM
+  OSM name: Bayshore Medical Center
+  Score of best match: 2.87
+  OSM address: 4000 Spencer Highway Pasadena 77504
+Unmatched emergency=yes in OSM
+  OSM name: Michael E. DeBakey VA Medical Center
+  Score of best match: 2.30
+  OSM address: 2002 Holcombe Boulevard Houston 77030
+Unmatched emergency=yes in OSM
+  OSM name: Texas Children's Hospital West Campus
+  Score of best match: 0.00
+  OSM address: 18200 Katy Freeway Houston 77094
+Unmatched emergency=yes in OSM
+  OSM name: Memorial Hermann Southwest Hospital
+  Score of best match: 2.33
+  OSM address: 7600 Beechnut Street Houston 77074
+Unmatched emergency=yes in OSM
+  OSM name: Saint Joseph's Medical Center
+  Score of best match: 0.00
+  OSM address: 1917 Ashland Street Houston 77008
+Unmatched emergency=yes in OSM
+  OSM name: Lyndon B. Johnson General Hospital
+  Score of best match: 0.00
+  OSM address: 5656 Kelley Street Houston 77026
+Unmatched emergency=yes in OSM
+  OSM name: Cypress Fairbanks Medical Center
+  Score of best match: 0.00
+  OSM address: 10655 Steepletop Drive Houston 77065
+Unmatched emergency=yes in OSM
+  OSM name: HCA Houston North Cypress
+  Score of best match: 2.34
+  OSM address: 21214 Northwest Freeway Cypress 77429
+Unmatched emergency=yes in OSM
+  OSM name: Memorial Hermann Cypress Hospital
+  Score of best match: 0.00
+  OSM address: 27800 Northwest Freeway Cypress 77433
+Unmatched emergency=yes in OSM
+  OSM name: Conroe Regional Medical Center
+  Score of best match: 1.91
+  OSM address: 504 Medical Center Boulevard Conroe 77304
+Unmatched emergency=yes in OSM
+  OSM name: Nacogdoches Memorial Hospital
+  Score of best match: 3.07
+  OSM address: 1204 North Mound Street Nacogdoches 75961
+Unmatched emergency=yes in OSM
+  OSM name: CHRISTUS Saint Michael Hospital-Atlanta
+  Score of best match: 0.00
+  OSM address: 1007 South Williams Street Atlanta 75551
+Unmatched emergency=yes in OSM
+  OSM name: Christus Saint Michael
+  Score of best match: 2.95
+  OSM address: 2600 Saint Michael Drive Texarkana 75503
+Unmatched emergency=yes in OSM
+  OSM name: Cook Children's Northeast
+  Score of best match: 0.00
+  OSM address: 6316 Precinct Line Road Hurst 76054
+Unmatched emergency=yes in OSM
+  OSM name: Texas General Hospital
+  Score of best match: 0.00
+  OSM address: 2709 Hospital Boulevard Grand Prairie 75051
+Unmatched emergency=yes in OSM
+  OSM name: Baylor Surgical Hospital at Las Colinas
+  Score of best match: 3.05
+  OSM address: 440 Lyndon B Johnson Freeway Irving 75063
+Unmatched emergency=yes in OSM
+  OSM name: Methodist Campus for Continuing Care
+  Score of best match: 0.00
+  OSM address: 401 West Campbell Road Richardson 75080
+Unmatched emergency=yes in OSM
+  OSM name: William P. Clements Jr. University Hospital
+  Score of best match: 0.00
+  OSM address: 6201 Harry Hines Boulevard Dallas 75390
+Unmatched emergency=yes in OSM
+  OSM name: Stamford Memorial Hospital
+  Score of best match: 0.00
+  OSM address: 1601 Columbia Street Stamford 79553
+Unmatched emergency=yes in OSM
+  OSM name: The Women's Hospital at Renaissance
+  Score of best match: 0.00
+  OSM address: 5502 South McColl Road Edinburg 78539
+Unmatched emergency=yes in OSM
+  OSM name: McCamey County Hospital District
+  Score of best match: 2.43
+  OSM address: 2500 South Highway 305 McCamey 79752
+Unmatched emergency=yes in OSM
+  OSM name: North Runnels Hospital
+  Score of best match: 2.96
+  OSM address: 7821 TX 153 Winters 79467
+Unmatched emergency=yes in OSM
+  OSM name: CHI Saint Joseph Health Grimes Hospital
+  Score of best match: 2.97
+  OSM address: 210 South Judson Street Navasota 77868
+Unmatched emergency=yes in OSM
+  OSM name: Sabine County Hospital
+  Score of best match: 3.08
+  OSM address: 2301 Worth Street Hemphill 75948
+Unmatched emergency=yes in OSM
+  OSM name: Ascension Seton Highland Lakes Hospital
+  Score of best match: 2.62
+  OSM address: 3201 South Water Street Burnet 78611
+Unmatched emergency=yes in OSM
+  OSM name: Baylor Emergency Medical Center
+  Score of best match: 0.00
+  OSM address: 1975 Alpha Drive Rockwall 75087
+Unmatched emergency=yes in OSM
+  OSM name: Advanced Diagnostics East Hospital & 24 Hour Emergency Center
+  Score of best match: 2.70
+  OSM address: 12950 East Freeway Houston 77015
+Unmatched emergency=yes in OSM
+  OSM name: Baylor Emergency Medical Center
+  Score of best match: 2.92
+  OSM address: 12500 South Freeway Burleson 76028
+Unmatched emergency=yes in OSM
+  OSM name: Texas Children's Hospital The Woodlands
+  Score of best match: 0.00
+  OSM address: 17600 Interstate 45 South The Woodlands 77384
+Unmatched emergency=yes in OSM
+  OSM name: United Memorial Medical Center
+  Score of best match: 2.94
+  OSM address: 510 West Tidwell Road Houston 77026
+Unmatched emergency=yes in OSM
+  OSM name: CHRISTUS Mother Frances Hospital - South Tyler
+  Score of best match: 0.00
+  OSM address: 8389 South Broadway Avenue Tyler -
+Unmatched emergency=yes in OSM
+  OSM name: CHRISTUS Mother Frances Hospital - Winnsboro
+  Score of best match: 2.98
+  OSM address: 719 West Coke Road Winnsboro -
+Unmatched emergency=yes in OSM
+  OSM name: John Sealy Hospital
+  Score of best match: 0.00
+  OSM address: 301 8th Street Galveston 77555
+Unmatched emergency=yes in OSM
+  OSM name: San Antonio Military Medical Center
+  Score of best match: 0.00
+  OSM address: - - - -
 Found 122 unmatched emergency.

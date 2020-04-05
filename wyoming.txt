@@ -1,47 +1,65 @@
 40 OSM hospitals
 29 Medicare hospitals
-1. Cody Regional Health
-	707 Sheridan Avenue Cody 82414 (CMS:yes)
-	3.04 West Park Hospital
-	707 Sheridan Avenue Cody 82414
-Summit Medical Center
-	6350 East 2nd Street Casper 82609
-	 Emergency Mismatch (CMS:no)
-	Summit Medical Center
-2. Crook County Hospital
-	713 Oak Street Sundance 82729 (CMS:yes)
-	3.01 Crook County Medical Services District
-	713 East Oak Street Sundance 82729
-3. Wyoming State Hospital
-	831 Hwy 150 South Evanston 82931 (CMS:no)
-	2.01 Evanston Regional Hospital
-	190 Arrowhead Drive Evanston 82930
-4. Niobrara Health & Life Center
-	921 South Ballancee Avenue Lusk 82225 (CMS:yes)
-	2.92 Niobrara County Memorial Hospital
-	921 South Ballancee Lusk 82225
-5. Johnson County Healthcare Center
-	497 West Lott Buffalo 82834 (CMS:yes)
-	3.01 Johnson County Memorial Hospital
-	497 West Lott Street Buffalo 82834
-Found 5 issues.
+1. Unmatched medicare hospital
+  Medicare name: Cody Regional Health
+  Medicare address: 707 Sheridan Avenue Cody 82414
+  Medicare emergency services: yes
+  Best OSM Match: 3.04 West Park Hospital
+  OSM Address: 707 Sheridan Avenue Cody 82414
+2. Emergency services mismatch
+  Medicare name: Summit Medical Center
+  OSM name: Summit Medical Center
+  OSM Address: 6350 East 2nd Street Casper 82609
+  Medicare emergency services: no
+  OSM Emergency: yes
+3. Unmatched medicare hospital
+  Medicare name: Crook County Hospital
+  Medicare address: 713 Oak Street Sundance 82729
+  Medicare emergency services: yes
+  Best OSM Match: 3.01 Crook County Medical Services District
+  OSM Address: 713 East Oak Street Sundance 82729
+4. Unmatched medicare hospital
+  Medicare name: Wyoming State Hospital
+  Medicare address: 831 Hwy 150 South Evanston 82931
+  Medicare emergency services: no
+  Best OSM Match: 2.01 Evanston Regional Hospital
+  OSM Address: 190 Arrowhead Drive Evanston 82930
+5. Unmatched medicare hospital
+  Medicare name: Niobrara Health & Life Center
+  Medicare address: 921 South Ballancee Avenue Lusk 82225
+  Medicare emergency services: yes
+  Best OSM Match: 2.92 Niobrara County Memorial Hospital
+  OSM Address: 921 South Ballancee Lusk 82225
+6. Unmatched medicare hospital
+  Medicare name: Johnson County Healthcare Center
+  Medicare address: 497 West Lott Buffalo 82834
+  Medicare emergency services: yes
+  Best OSM Match: 3.01 Johnson County Memorial Hospital
+  OSM Address: 497 West Lott Street Buffalo 82834
+Found 6 potential issues.
 
-Unmatched emergency=yes
-West Park Hospital (3.04)
-	707 Sheridan Avenue Cody 82414
-Unmatched emergency=yes
-Niobrara County Memorial Hospital (2.92)
-	921 South Ballancee Lusk 82225
-Unmatched emergency=yes
-SageWest Health Care – Lander (0.00)
-	1320 Bishop Randall Drive Lander 82520
-Unmatched emergency=yes
-Johnson County Memorial Hospital (3.01)
-	497 West Lott Street Buffalo 82834
-Unmatched emergency=yes
-Crook County Medical Services District (3.01)
-	713 East Oak Street Sundance 82729
-Unmatched emergency=yes
-Big Piney Marbleton Clinic (0.00)
-	103 3rd Street Marbleton 83113
+Unmatched emergency=yes in OSM
+  OSM name: West Park Hospital
+  Score of best match: 3.04
+  OSM address: 707 Sheridan Avenue Cody 82414
+Unmatched emergency=yes in OSM
+  OSM name: Niobrara County Memorial Hospital
+  Score of best match: 2.92
+  OSM address: 921 South Ballancee Lusk 82225
+Unmatched emergency=yes in OSM
+  OSM name: SageWest Health Care – Lander
+  Score of best match: 0.00
+  OSM address: 1320 Bishop Randall Drive Lander 82520
+Unmatched emergency=yes in OSM
+  OSM name: Johnson County Memorial Hospital
+  Score of best match: 3.01
+  OSM address: 497 West Lott Street Buffalo 82834
+Unmatched emergency=yes in OSM
+  OSM name: Crook County Medical Services District
+  Score of best match: 3.01
+  OSM address: 713 East Oak Street Sundance 82729
+Unmatched emergency=yes in OSM
+  OSM name: Big Piney Marbleton Clinic
+  Score of best match: 0.00
+  OSM address: 103 3rd Street Marbleton 83113
 Found 6 unmatched emergency.

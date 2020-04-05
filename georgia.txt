@@ -1,179 +1,255 @@
 200 OSM hospitals
 147 Medicare hospitals
-1. Riverwoods Behavioral Health System
-	223 Medical Center Drive Riverdale 30274 (CMS:no)
-	2.26 Southern Regional Medical Center
-	11 Upper Riverdale Road Southwest Riverdale 30274
-2. Children's Healthcare Of Atlanta At Scottish Rite
-	1001 Johnson Ferry Road Atlanta 30342 (CMS:yes)
-	2.80 Scottish Rite Hospital
-	1001 Johnson Ferry Parkway Atlanta 30342
-3. Piedmont Walton Hospital, Inc
-	2151 W Spring Street Monroe 30655 (CMS:yes)
-	3.02 Clearview Regional Medical Center
-	2151 West Spring Street Monroe 30655
-4. Greenleaf Center
-	2209 Pineview Drive Valdosta 31602 (CMS:no)
-	2.34 South Georgia Medical Center
-	2501 North Patterson Street Valdosta 31602
-Candler Hospital
-	5353 Reynolds Street Savannah 31405
-	 Emergency Mismatch (CMS:yes)
-	Candler Hospital
-5. Southwell Medical, A Campus Of Trmc
-	260 Mj Taylor Road Adel 31620 (CMS:yes)
-	2.31 Cook Medical Center
-	706 North Parrish Avenue Adel 31620
-6. Morgan Medical Center
-	1740 Lions Club Road Madison 30650 (CMS:yes)
-	2.50 Morgan Memorial Hospital
-	1077 South Main Street Madison 30650
-7. Ridgeview Institute
-	3995 S Cobb Drive, Se Smyrna 30080 (CMS:no)
-	2.47 Ridgeview Institute - Smyrna
-	3995 South Cobb Drive Smyrna 30311
-8. Children's Healthcare Of Atlanta At Egleston
-	1405 Clifton Road, Ne Atlanta 30322 (CMS:yes)
-	2.76 Egleston Hospital
-	1405 Clifton Road Northeast Atlanta 30322
-9. Piedmont Rockdale Hospital
-	1412 Milstead Avenue, Ne Conyers 30012 (CMS:no)
-	2.97 Rockdale Medical Center
-	1412 Milstead Avenue Northeast Conyers 30012
-10. Piedmont Columbus Regional Midtown
-	710 Center Street Columbus 31901 (CMS:yes)
-	2.70 Midtown Medical Center
-	710 Center Street Columbus 31904
-Peachford Behavioral Health System Of Atlanta
-	2151 Peachford Road Atlanta 30338
-	 Emergency Mismatch (CMS:yes)
-	Peachford Hospital
-Irwin County Hospital
-	710 North Irwin Avenue Ocilla 31774
-	 Emergency Mismatch (CMS:no)
-	Irwin County Hospital
-Georgia Regional Hosp Savannah
-	1915 Eisenhower Drive Savannah 31406
-	 Emergency Mismatch (CMS:yes)
-	Georgia Regional Hospital
-11. Dwight Eisenhower Amc (Fort Gordon)
-	300 East Hospital Road Fort Gordon 30905 (CMS:yes)
-	3.00 Eisenhower Army Medical Center
-	300 Hospital Road Fort Gordon 30905
-12. Grady Memorial Hospital
-	80 Jesse Hill, Jr Drive Se Atlanta 30303 (CMS:yes)
-	2.86 Hughes Spalding Hospital
-	35 Jesse Hill Junior Drive Southeast Atlanta 30303
-Wellstar Sylvan Grove Hospital
-	1040 McDonough Road Jackson 30233
-	 Emergency Mismatch (CMS:no)
-	WellStar Sylvan Grove Hospital
-13. Mountain Lakes Medical Center
-	162 Legacy Point Clayton 30525 (CMS:yes)
-	3.07 Mountain Lakes Medical Center
-	196 Ridgecrest Circle Clayton 30525
-14. Polk Medical Center
-	2360 Rockmart Highway Cedartown 30125 (CMS:yes)
-	1.74 Mountain Lakes Medical Center
-	196 Ridgecrest Circle Clayton 30525
-Piedmont Columbus Regional Northside
-	100 Frist Court Columbus 31909
-	 Emergency Mismatch (CMS:no)
-	Piedmont Columbus Regional Northside Campus
-15. Floyd Medical Center
-	304 Turner Mccall Blvd P O Box 233 Rome 30162 (CMS:yes)
-	3.03 Floyd Medical Center
-	304 Turner McCall Boulevard Rome 30165
-16. Martin Ach (Fort Benning)
-	7950 Martin Loop Fort Benning 31905 (CMS:yes)
-	1.04 Eisenhower Army Medical Center
-	300 Hospital Road Fort Gordon 30905
-17. Northside Hospital Gwinnett
-	1000 Medical Center Boulevard Lawrenceville 30045 (CMS:yes)
-	2.74 Gwinnett Medical Center
-	1000 Medical Center Boulevard Lawrenceville 30046
-18. Appling Hospital
-	163 E Tollison Street Baxley 31513 (CMS:yes)
-	2.80 Appling HealthCare System
-	163 East Tollison Street Baxley 31515
-19. So Crescent Beh Hlth Sys - Anchor Hospital Campus
-	5454 Yorktowne Drive College Park 30349 (CMS:no)
-	1.17 WellStar Douglas Hospital
-	8954 Hospital Drive Douglasville 30134
-Flint River Community Hospital
-	509 Sumter Street Montezuma 31063
-	 Emergency Mismatch (CMS:no)
-	Flint River Hospital
-20. Emory Decatur Hospital
-	2701 N Decatur Road Decatur 30033 (CMS:yes)
-	2.90 DeKalb Medical
-	2701 North Decatur Road Decatur 30033
-Found 20 issues.
+1. Unmatched medicare hospital
+  Medicare name: Riverwoods Behavioral Health System
+  Medicare address: 223 Medical Center Drive Riverdale 30274
+  Medicare emergency services: no
+  Best OSM Match: 2.26 Southern Regional Medical Center
+  OSM Address: 11 Upper Riverdale Road Southwest Riverdale 30274
+2. Unmatched medicare hospital
+  Medicare name: Children's Healthcare Of Atlanta At Scottish Rite
+  Medicare address: 1001 Johnson Ferry Road Atlanta 30342
+  Medicare emergency services: yes
+  Best OSM Match: 2.80 Scottish Rite Hospital
+  OSM Address: 1001 Johnson Ferry Parkway Atlanta 30342
+3. Unmatched medicare hospital
+  Medicare name: Piedmont Walton Hospital, Inc
+  Medicare address: 2151 W Spring Street Monroe 30655
+  Medicare emergency services: yes
+  Best OSM Match: 3.02 Clearview Regional Medical Center
+  OSM Address: 2151 West Spring Street Monroe 30655
+4. Unmatched medicare hospital
+  Medicare name: Greenleaf Center
+  Medicare address: 2209 Pineview Drive Valdosta 31602
+  Medicare emergency services: no
+  Best OSM Match: 2.34 South Georgia Medical Center
+  OSM Address: 2501 North Patterson Street Valdosta 31602
+5. Emergency services mismatch
+  Medicare name: Candler Hospital
+  OSM name: Candler Hospital
+  OSM Address: 5353 Reynolds Street Savannah 31405
+  Medicare emergency services: yes
+  OSM Emergency: no
+6. Unmatched medicare hospital
+  Medicare name: Southwell Medical, A Campus Of Trmc
+  Medicare address: 260 Mj Taylor Road Adel 31620
+  Medicare emergency services: yes
+  Best OSM Match: 2.31 Cook Medical Center
+  OSM Address: 706 North Parrish Avenue Adel 31620
+7. Unmatched medicare hospital
+  Medicare name: Morgan Medical Center
+  Medicare address: 1740 Lions Club Road Madison 30650
+  Medicare emergency services: yes
+  Best OSM Match: 2.50 Morgan Memorial Hospital
+  OSM Address: 1077 South Main Street Madison 30650
+8. Unmatched medicare hospital
+  Medicare name: Ridgeview Institute
+  Medicare address: 3995 S Cobb Drive, Se Smyrna 30080
+  Medicare emergency services: no
+  Best OSM Match: 2.47 Ridgeview Institute - Smyrna
+  OSM Address: 3995 South Cobb Drive Smyrna 30311
+9. Unmatched medicare hospital
+  Medicare name: Children's Healthcare Of Atlanta At Egleston
+  Medicare address: 1405 Clifton Road, Ne Atlanta 30322
+  Medicare emergency services: yes
+  Best OSM Match: 2.76 Egleston Hospital
+  OSM Address: 1405 Clifton Road Northeast Atlanta 30322
+10. Unmatched medicare hospital
+  Medicare name: Piedmont Rockdale Hospital
+  Medicare address: 1412 Milstead Avenue, Ne Conyers 30012
+  Medicare emergency services: no
+  Best OSM Match: 2.97 Rockdale Medical Center
+  OSM Address: 1412 Milstead Avenue Northeast Conyers 30012
+11. Unmatched medicare hospital
+  Medicare name: Piedmont Columbus Regional Midtown
+  Medicare address: 710 Center Street Columbus 31901
+  Medicare emergency services: yes
+  Best OSM Match: 2.70 Midtown Medical Center
+  OSM Address: 710 Center Street Columbus 31904
+12. Emergency services mismatch
+  Medicare name: Peachford Behavioral Health System Of Atlanta
+  OSM name: Peachford Hospital
+  OSM Address: 2151 Peachford Road Atlanta 30338
+  Medicare emergency services: yes
+  OSM Emergency: no
+13. Emergency services mismatch
+  Medicare name: Irwin County Hospital
+  OSM name: Irwin County Hospital
+  OSM Address: 710 North Irwin Avenue Ocilla 31774
+  Medicare emergency services: no
+  OSM Emergency: yes
+14. Emergency services mismatch
+  Medicare name: Georgia Regional Hosp Savannah
+  OSM name: Georgia Regional Hospital
+  OSM Address: 1915 Eisenhower Drive Savannah 31406
+  Medicare emergency services: yes
+  OSM Emergency: no
+15. Unmatched medicare hospital
+  Medicare name: Dwight Eisenhower Amc (Fort Gordon)
+  Medicare address: 300 East Hospital Road Fort Gordon 30905
+  Medicare emergency services: yes
+  Best OSM Match: 3.00 Eisenhower Army Medical Center
+  OSM Address: 300 Hospital Road Fort Gordon 30905
+16. Unmatched medicare hospital
+  Medicare name: Grady Memorial Hospital
+  Medicare address: 80 Jesse Hill, Jr Drive Se Atlanta 30303
+  Medicare emergency services: yes
+  Best OSM Match: 2.86 Hughes Spalding Hospital
+  OSM Address: 35 Jesse Hill Junior Drive Southeast Atlanta 30303
+17. Emergency services mismatch
+  Medicare name: Wellstar Sylvan Grove Hospital
+  OSM name: WellStar Sylvan Grove Hospital
+  OSM Address: 1040 McDonough Road Jackson 30233
+  Medicare emergency services: no
+  OSM Emergency: yes
+18. Unmatched medicare hospital
+  Medicare name: Mountain Lakes Medical Center
+  Medicare address: 162 Legacy Point Clayton 30525
+  Medicare emergency services: yes
+  Best OSM Match: 3.07 Mountain Lakes Medical Center
+  OSM Address: 196 Ridgecrest Circle Clayton 30525
+19. Unmatched medicare hospital
+  Medicare name: Polk Medical Center
+  Medicare address: 2360 Rockmart Highway Cedartown 30125
+  Medicare emergency services: yes
+  Best OSM Match: 1.74 Mountain Lakes Medical Center
+  OSM Address: 196 Ridgecrest Circle Clayton 30525
+20. Emergency services mismatch
+  Medicare name: Piedmont Columbus Regional Northside
+  OSM name: Piedmont Columbus Regional Northside Campus
+  OSM Address: 100 Frist Court Columbus 31909
+  Medicare emergency services: no
+  OSM Emergency: yes
+21. Unmatched medicare hospital
+  Medicare name: Floyd Medical Center
+  Medicare address: 304 Turner Mccall Blvd P O Box 233 Rome 30162
+  Medicare emergency services: yes
+  Best OSM Match: 3.03 Floyd Medical Center
+  OSM Address: 304 Turner McCall Boulevard Rome 30165
+22. Unmatched medicare hospital
+  Medicare name: Martin Ach (Fort Benning)
+  Medicare address: 7950 Martin Loop Fort Benning 31905
+  Medicare emergency services: yes
+  Best OSM Match: 1.04 Eisenhower Army Medical Center
+  OSM Address: 300 Hospital Road Fort Gordon 30905
+23. Unmatched medicare hospital
+  Medicare name: Northside Hospital Gwinnett
+  Medicare address: 1000 Medical Center Boulevard Lawrenceville 30045
+  Medicare emergency services: yes
+  Best OSM Match: 2.74 Gwinnett Medical Center
+  OSM Address: 1000 Medical Center Boulevard Lawrenceville 30046
+24. Unmatched medicare hospital
+  Medicare name: Appling Hospital
+  Medicare address: 163 E Tollison Street Baxley 31513
+  Medicare emergency services: yes
+  Best OSM Match: 2.80 Appling HealthCare System
+  OSM Address: 163 East Tollison Street Baxley 31515
+25. Unmatched medicare hospital
+  Medicare name: So Crescent Beh Hlth Sys - Anchor Hospital Campus
+  Medicare address: 5454 Yorktowne Drive College Park 30349
+  Medicare emergency services: no
+  Best OSM Match: 1.17 WellStar Douglas Hospital
+  OSM Address: 8954 Hospital Drive Douglasville 30134
+26. Emergency services mismatch
+  Medicare name: Flint River Community Hospital
+  OSM name: Flint River Hospital
+  OSM Address: 509 Sumter Street Montezuma 31063
+  Medicare emergency services: no
+  OSM Emergency: yes
+27. Unmatched medicare hospital
+  Medicare name: Emory Decatur Hospital
+  Medicare address: 2701 N Decatur Road Decatur 30033
+  Medicare emergency services: yes
+  Best OSM Match: 2.90 DeKalb Medical
+  OSM Address: 2701 North Decatur Road Decatur 30033
+Found 27 potential issues.
 
-Unmatched emergency=yes
-Eisenhower Army Medical Center (1.04)
-	300 Hospital Road Fort Gordon 30905
-Unmatched emergency=yes
-Bowdon animal hospital (0.00)
-	145 City Hall Avenue Bowdon 30108
-Unmatched emergency=yes
-Clearview Regional Medical Center (3.02)
-	2151 West Spring Street Monroe 30655
-Unmatched emergency=yes
-Rockdale Medical Center (2.97)
-	1412 Milstead Avenue Northeast Conyers 30012
-Unmatched emergency=yes
-DeKalb Medical (2.90)
-	2701 North Decatur Road Decatur 30033
-Unmatched emergency=yes
-Gwinnett Medical Center (2.74)
-	1000 Medical Center Boulevard Lawrenceville 30046
-Unmatched emergency=yes
-Floyd Medical Center (3.03)
-	304 Turner McCall Boulevard Rome 30165
-Unmatched emergency=yes
-Cook Medical Center (2.31)
-	706 North Parrish Avenue Adel 31620
-Unmatched emergency=yes
-Mountain Lakes Medical Center (1.74)
-	196 Ridgecrest Circle Clayton 30525
-Unmatched emergency=yes
-Charlie Norwood VA Medical Center -Downtown Division (0.00)
-	950 15th Street Augusta 30901
-Unmatched emergency=yes
-Children's Hospital of Georgia (0.00)
-	1446 Harper Street Augusta 30912
-Unmatched emergency=yes
-Trinity Hospital (0.00)
-	2260 Wrightsboro Road Augusta 30904
-Unmatched emergency=yes
-Memorial University Medical Center (0.00)
-	4700 Waters Avenue Savannah 31404
-Unmatched emergency=yes
-Phoebe Putney Memorial Hospital North Campus (0.00)
-	2000 Palmyra Road Albany 31701
-Unmatched emergency=yes
-Appling HealthCare System (2.80)
-	163 East Tollison Street Baxley 31515
-Unmatched emergency=yes
-Midtown Medical Center (2.70)
-	710 Center Street Columbus 31904
-Unmatched emergency=yes
-Morgan Memorial Hospital (2.50)
-	1077 South Main Street Madison 30650
-Unmatched emergency=yes
-WellStar Atlanta Medical Center South (0.00)
-	1170 East Cleveland Avenue East Point 30344
-Unmatched emergency=yes
-Scottish Rite Hospital (2.80)
-	1001 Johnson Ferry Parkway Atlanta 30342
-Unmatched emergency=yes
-Egleston Hospital (2.76)
-	1405 Clifton Road Northeast Atlanta 30322
-Unmatched emergency=yes
-Hughes Spalding Hospital (2.86)
-	35 Jesse Hill Junior Drive Southeast Atlanta 30303
-Unmatched emergency=yes
-Grady Health System (0.00)
-	- - - -
+Unmatched emergency=yes in OSM
+  OSM name: Eisenhower Army Medical Center
+  Score of best match: 1.04
+  OSM address: 300 Hospital Road Fort Gordon 30905
+Unmatched emergency=yes in OSM
+  OSM name: Bowdon animal hospital
+  Score of best match: 0.00
+  OSM address: 145 City Hall Avenue Bowdon 30108
+Unmatched emergency=yes in OSM
+  OSM name: Clearview Regional Medical Center
+  Score of best match: 3.02
+  OSM address: 2151 West Spring Street Monroe 30655
+Unmatched emergency=yes in OSM
+  OSM name: Rockdale Medical Center
+  Score of best match: 2.97
+  OSM address: 1412 Milstead Avenue Northeast Conyers 30012
+Unmatched emergency=yes in OSM
+  OSM name: DeKalb Medical
+  Score of best match: 2.90
+  OSM address: 2701 North Decatur Road Decatur 30033
+Unmatched emergency=yes in OSM
+  OSM name: Gwinnett Medical Center
+  Score of best match: 2.74
+  OSM address: 1000 Medical Center Boulevard Lawrenceville 30046
+Unmatched emergency=yes in OSM
+  OSM name: Floyd Medical Center
+  Score of best match: 3.03
+  OSM address: 304 Turner McCall Boulevard Rome 30165
+Unmatched emergency=yes in OSM
+  OSM name: Cook Medical Center
+  Score of best match: 2.31
+  OSM address: 706 North Parrish Avenue Adel 31620
+Unmatched emergency=yes in OSM
+  OSM name: Mountain Lakes Medical Center
+  Score of best match: 1.74
+  OSM address: 196 Ridgecrest Circle Clayton 30525
+Unmatched emergency=yes in OSM
+  OSM name: Charlie Norwood VA Medical Center -Downtown Division
+  Score of best match: 0.00
+  OSM address: 950 15th Street Augusta 30901
+Unmatched emergency=yes in OSM
+  OSM name: Children's Hospital of Georgia
+  Score of best match: 0.00
+  OSM address: 1446 Harper Street Augusta 30912
+Unmatched emergency=yes in OSM
+  OSM name: Trinity Hospital
+  Score of best match: 0.00
+  OSM address: 2260 Wrightsboro Road Augusta 30904
+Unmatched emergency=yes in OSM
+  OSM name: Memorial University Medical Center
+  Score of best match: 0.00
+  OSM address: 4700 Waters Avenue Savannah 31404
+Unmatched emergency=yes in OSM
+  OSM name: Phoebe Putney Memorial Hospital North Campus
+  Score of best match: 0.00
+  OSM address: 2000 Palmyra Road Albany 31701
+Unmatched emergency=yes in OSM
+  OSM name: Appling HealthCare System
+  Score of best match: 2.80
+  OSM address: 163 East Tollison Street Baxley 31515
+Unmatched emergency=yes in OSM
+  OSM name: Midtown Medical Center
+  Score of best match: 2.70
+  OSM address: 710 Center Street Columbus 31904
+Unmatched emergency=yes in OSM
+  OSM name: Morgan Memorial Hospital
+  Score of best match: 2.50
+  OSM address: 1077 South Main Street Madison 30650
+Unmatched emergency=yes in OSM
+  OSM name: WellStar Atlanta Medical Center South
+  Score of best match: 0.00
+  OSM address: 1170 East Cleveland Avenue East Point 30344
+Unmatched emergency=yes in OSM
+  OSM name: Scottish Rite Hospital
+  Score of best match: 2.80
+  OSM address: 1001 Johnson Ferry Parkway Atlanta 30342
+Unmatched emergency=yes in OSM
+  OSM name: Egleston Hospital
+  Score of best match: 2.76
+  OSM address: 1405 Clifton Road Northeast Atlanta 30322
+Unmatched emergency=yes in OSM
+  OSM name: Hughes Spalding Hospital
+  Score of best match: 2.86
+  OSM address: 35 Jesse Hill Junior Drive Southeast Atlanta 30303
+Unmatched emergency=yes in OSM
+  OSM name: Grady Health System
+  Score of best match: 0.00
+  OSM address: - - - -
 Found 22 unmatched emergency.

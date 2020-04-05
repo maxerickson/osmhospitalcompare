@@ -1,249 +1,351 @@
 188 OSM hospitals
 120 Medicare hospitals
-1. Maria Parham Medical Center
-	Po Box 59 Henderson 27536 (CMS:yes)
-	1.17 CarolinaEast Medical Center
-	2000 Neuse Boulevard New Bern 28561
-2. Cherokee Indian Hospital Authority
-	Caller Box C268 Cherokee 28719 (CMS:yes)
-	2.76 Cherokee Indian Hospital
-	1 Hospital Road Cherokee 28719
-3. Alleghany County Memorial Hospital
-	617 Doctors Street Sparta 28675 (CMS:yes)
-	1.34 Caldwell Memorial Hospital
-	321 Mulberry Street Southwest Lenoir 28645
-4. University Of North Carolina Hospital
-	101 Manning Drive Chapel Hill 27514 (CMS:yes)
-	3.03 UNC Medical Center
-	101 Manning Drive Chapel Hill 27514
-5. Margaret R Pardee Memorial Hospital
-	800 N Justice St Hendersonville 28791 (CMS:yes)
-	3.00 Pardee Hospital
-	800 North Justice Street Hendersonville 28791
-6. Atrium Health Stanly
-	301 Yadkin St Albemarle 28001 (CMS:yes)
-	2.79 Carolinas HealthCare System Stanly
-	301 Yadkin Street Albemarle 28002
-7. Atrium Health Anson
-	2301 Us Highway 74 West Wadesboro 28170 (CMS:yes)
-	2.92 Carolinas HealthCare System Anson
-	2301 US 74 West Wadesboro 28170
-8. Strategic Behavioral Center-Charlotte
-	1715 Sharon Road West Charlotte 28210 (CMS:no)
-	2.31 Carolinas HealthCare System Pineville
-	10628 Park Road Charlotte 28210
-9. Johnston Health
-	509 Bright Leaf Blvd Smithfield 27577 (CMS:yes)
-	2.09 Med First Primary & Urgent Care
-	388-I Venture Drive Smithfield 27577
-10. Davis Regional Medical Center
-	218 Old Mocksbville Rd Po Box 1823 Statesville 28687 (CMS:yes)
-	2.90 Davis Regional Medical Center
-	218 Old Mocksville Road Statesville 28625
-11. Charles A Cannon Jr Memorial Hospital
-	434 Hospital Drive Linville 28646 (CMS:yes)
-	1.53 Ashe Memorial Hospital
-	200 Hospital Avenue Jefferson 28640
-12. Strategic Behavioral Center-Leland
-	2050 Mercantile Drive Leland 28451 (CMS:no)
-	1.23 Highlands-Cashiers Hospital
-	190 Hospital Drive Highlands 28741
-13. New Hanover Regional Medical Center
-	2131 S 17Th St Box 9000 Wilmington 28402 (CMS:yes)
-	2.97 New Hanover Regional Medical Center
-	2131 South 17th Street Wilmington 28401
-14. Novant Health Matthews Medical Center
-	1500 Matthews Twnshp Prkwy Box 3310 Matthews 28106 (CMS:yes)
-	2.87 Matthews Medical Center
-	1500 Matthews Township Parkway Matthews 28105
-15. Strategic Behavorial Center-Garner
-	3200 Waterfield Drive Garner 27529 (CMS:no)
-	1.30 Mission Hospital McDowell
-	430 Rankin Drive Marion 28752
-16. Brynn Marr Hosp
-	192 Village Drive Jacksonville 28540 (CMS:yes)
-	1.90 Onslow Memorial Hospital
-	317 Western Boulevard Jacksonville 28546
-17. Rj Blackley Alcohol And Drug Abuse Treatment Ctr
-	Bldg 29, 30 Barrett Bldg, 100 H Street Butner 27509 (CMS:no)
-	2.31 Murdoch Developmental Center
-	1600 East C Street Butner 27509
-Central Regional Hospital
-	300 Veazey Road Butner 27509
-	 Emergency Mismatch (CMS:yes)
-	Central Regional Hospital
-18. Washington County Hosp Inc
-	958 Us Hwy 64 East Plymouth 27962 (CMS:yes)
-	2.87 Washington Regional Medical Center
-	958 U.S. Highway 64 East Plymouth 27962
-19. Novant Health Brunswick Medical Center
-	1 Medical Center Dr Po Box 139 Supply 28462 (CMS:yes)
-	1.39 Novant Health Rowan Medical Center
-	612 Mocksville Avenue Salisbury 28144
-20. Southeastern Regional Medical Center
-	300 W 27 St Po Box 1408 Lumberton 28359 (CMS:yes)
-	2.64 Southeastern Health
-	300 West 27th Street Lumberton 28359
-21. Julian F Keith Alcohol & Drug Abuse Tx
-	201 Tabernacle Road Black Mountain 28711 (CMS:no)
-	1.11 Lake Norman Regional Medical Center
-	171 Fairview Road Mooresville 28117
-22. Good Hope Hospital, Inc
-	410 Denim Drive Erwin 28339 (CMS:no)
-	1.30 Betsy Johnson Hospital
-	800 Tilghman Drive Dunn 28334
-23. Lexington Memorial Hospital Inc
-	250 Hospital Drive Po Box 1817 Lexington 27293 (CMS:yes)
-	2.58 Lexington Medical Center
-	250 Hospital Drive Lexington 27292
-24. Novant Health Presbyterian Medical Center
-	200 Hawthorne Lane Box 33549 Charlotte 28233 (CMS:yes)
-	2.97 Novant Health Presbyterian Medical Center
-	200 Hawthorne Lane Charlotte 28204
-25. Wakemed
-	1900 Kildare Farm Road Cary 27518 (CMS:yes)
-	2.85 WakeMed Cary Hospital
-	1900 Kildaire Farm Road Cary 27512
-26. Novant Health Mint Hill Medical Center
-	8201 Healthcare Loop Charlotte 28215 (CMS:yes)
-	2.31 Novant Health Presbyterian Medical Center
-	200 Hawthorne Lane Charlotte 28204
-27. Davie Medical Center
-	223 Hospital Street Mocksville 27028 (CMS:yes)
-	1.57 Thomasville Medical Center
-	207 Old Lexington Road Thomasville 27360
-28. Womack Amc (Fort Bragg)
-	2817 Reilly Road Fort Bragg 28307 (CMS:yes)
-	1.05 FirstHealth Moore Regional Hospital-Hoke Campus
-	6408 Fayetteville Road Raeford 28376
-29. Memorial Mission Hospital And Asheville Surgery Ce
-	509 Biltmore Ave Asheville 28801 (CMS:yes)
-	3.07 Mission Hospital
-	509 Biltmore Avenue Asheville 28801
-30. Carteret General Hospital
-	3500 Arendell St Morehead City 28557 (CMS:yes)
-	3.04 Carteret Health Care Medical Center
-	3500 Arendell Street Morehead City 28557
-Found 30 issues.
+1. Unmatched medicare hospital
+  Medicare name: Maria Parham Medical Center
+  Medicare address: Po Box 59 Henderson 27536
+  Medicare emergency services: yes
+  Best OSM Match: 1.17 CarolinaEast Medical Center
+  OSM Address: 2000 Neuse Boulevard New Bern 28561
+2. Unmatched medicare hospital
+  Medicare name: Cherokee Indian Hospital Authority
+  Medicare address: Caller Box C268 Cherokee 28719
+  Medicare emergency services: yes
+  Best OSM Match: 2.76 Cherokee Indian Hospital
+  OSM Address: 1 Hospital Road Cherokee 28719
+3. Unmatched medicare hospital
+  Medicare name: Alleghany County Memorial Hospital
+  Medicare address: 617 Doctors Street Sparta 28675
+  Medicare emergency services: yes
+  Best OSM Match: 1.34 Caldwell Memorial Hospital
+  OSM Address: 321 Mulberry Street Southwest Lenoir 28645
+4. Unmatched medicare hospital
+  Medicare name: University Of North Carolina Hospital
+  Medicare address: 101 Manning Drive Chapel Hill 27514
+  Medicare emergency services: yes
+  Best OSM Match: 3.03 UNC Medical Center
+  OSM Address: 101 Manning Drive Chapel Hill 27514
+5. Unmatched medicare hospital
+  Medicare name: Margaret R Pardee Memorial Hospital
+  Medicare address: 800 N Justice St Hendersonville 28791
+  Medicare emergency services: yes
+  Best OSM Match: 3.00 Pardee Hospital
+  OSM Address: 800 North Justice Street Hendersonville 28791
+6. Unmatched medicare hospital
+  Medicare name: Atrium Health Stanly
+  Medicare address: 301 Yadkin St Albemarle 28001
+  Medicare emergency services: yes
+  Best OSM Match: 2.79 Carolinas HealthCare System Stanly
+  OSM Address: 301 Yadkin Street Albemarle 28002
+7. Unmatched medicare hospital
+  Medicare name: Atrium Health Anson
+  Medicare address: 2301 Us Highway 74 West Wadesboro 28170
+  Medicare emergency services: yes
+  Best OSM Match: 2.92 Carolinas HealthCare System Anson
+  OSM Address: 2301 US 74 West Wadesboro 28170
+8. Unmatched medicare hospital
+  Medicare name: Strategic Behavioral Center-Charlotte
+  Medicare address: 1715 Sharon Road West Charlotte 28210
+  Medicare emergency services: no
+  Best OSM Match: 2.31 Carolinas HealthCare System Pineville
+  OSM Address: 10628 Park Road Charlotte 28210
+9. Unmatched medicare hospital
+  Medicare name: Johnston Health
+  Medicare address: 509 Bright Leaf Blvd Smithfield 27577
+  Medicare emergency services: yes
+  Best OSM Match: 2.09 Med First Primary & Urgent Care
+  OSM Address: 388-I Venture Drive Smithfield 27577
+10. Unmatched medicare hospital
+  Medicare name: Davis Regional Medical Center
+  Medicare address: 218 Old Mocksbville Rd Po Box 1823 Statesville 28687
+  Medicare emergency services: yes
+  Best OSM Match: 2.90 Davis Regional Medical Center
+  OSM Address: 218 Old Mocksville Road Statesville 28625
+11. Unmatched medicare hospital
+  Medicare name: Charles A Cannon Jr Memorial Hospital
+  Medicare address: 434 Hospital Drive Linville 28646
+  Medicare emergency services: yes
+  Best OSM Match: 1.53 Ashe Memorial Hospital
+  OSM Address: 200 Hospital Avenue Jefferson 28640
+12. Unmatched medicare hospital
+  Medicare name: Strategic Behavioral Center-Leland
+  Medicare address: 2050 Mercantile Drive Leland 28451
+  Medicare emergency services: no
+  Best OSM Match: 1.23 Highlands-Cashiers Hospital
+  OSM Address: 190 Hospital Drive Highlands 28741
+13. Unmatched medicare hospital
+  Medicare name: New Hanover Regional Medical Center
+  Medicare address: 2131 S 17Th St Box 9000 Wilmington 28402
+  Medicare emergency services: yes
+  Best OSM Match: 2.97 New Hanover Regional Medical Center
+  OSM Address: 2131 South 17th Street Wilmington 28401
+14. Unmatched medicare hospital
+  Medicare name: Novant Health Matthews Medical Center
+  Medicare address: 1500 Matthews Twnshp Prkwy Box 3310 Matthews 28106
+  Medicare emergency services: yes
+  Best OSM Match: 2.87 Matthews Medical Center
+  OSM Address: 1500 Matthews Township Parkway Matthews 28105
+15. Unmatched medicare hospital
+  Medicare name: Strategic Behavorial Center-Garner
+  Medicare address: 3200 Waterfield Drive Garner 27529
+  Medicare emergency services: no
+  Best OSM Match: 1.30 Mission Hospital McDowell
+  OSM Address: 430 Rankin Drive Marion 28752
+16. Unmatched medicare hospital
+  Medicare name: Brynn Marr Hosp
+  Medicare address: 192 Village Drive Jacksonville 28540
+  Medicare emergency services: yes
+  Best OSM Match: 1.90 Onslow Memorial Hospital
+  OSM Address: 317 Western Boulevard Jacksonville 28546
+17. Unmatched medicare hospital
+  Medicare name: Rj Blackley Alcohol And Drug Abuse Treatment Ctr
+  Medicare address: Bldg 29, 30 Barrett Bldg, 100 H Street Butner 27509
+  Medicare emergency services: no
+  Best OSM Match: 2.31 Murdoch Developmental Center
+  OSM Address: 1600 East C Street Butner 27509
+18. Emergency services mismatch
+  Medicare name: Central Regional Hospital
+  OSM name: Central Regional Hospital
+  OSM Address: 300 Veazey Road Butner 27509
+  Medicare emergency services: yes
+  OSM Emergency: no
+19. Unmatched medicare hospital
+  Medicare name: Washington County Hosp Inc
+  Medicare address: 958 Us Hwy 64 East Plymouth 27962
+  Medicare emergency services: yes
+  Best OSM Match: 2.87 Washington Regional Medical Center
+  OSM Address: 958 U.S. Highway 64 East Plymouth 27962
+20. Unmatched medicare hospital
+  Medicare name: Novant Health Brunswick Medical Center
+  Medicare address: 1 Medical Center Dr Po Box 139 Supply 28462
+  Medicare emergency services: yes
+  Best OSM Match: 1.39 Novant Health Rowan Medical Center
+  OSM Address: 612 Mocksville Avenue Salisbury 28144
+21. Unmatched medicare hospital
+  Medicare name: Southeastern Regional Medical Center
+  Medicare address: 300 W 27 St Po Box 1408 Lumberton 28359
+  Medicare emergency services: yes
+  Best OSM Match: 2.64 Southeastern Health
+  OSM Address: 300 West 27th Street Lumberton 28359
+22. Unmatched medicare hospital
+  Medicare name: Julian F Keith Alcohol & Drug Abuse Tx
+  Medicare address: 201 Tabernacle Road Black Mountain 28711
+  Medicare emergency services: no
+  Best OSM Match: 1.11 Lake Norman Regional Medical Center
+  OSM Address: 171 Fairview Road Mooresville 28117
+23. Unmatched medicare hospital
+  Medicare name: Good Hope Hospital, Inc
+  Medicare address: 410 Denim Drive Erwin 28339
+  Medicare emergency services: no
+  Best OSM Match: 1.30 Betsy Johnson Hospital
+  OSM Address: 800 Tilghman Drive Dunn 28334
+24. Unmatched medicare hospital
+  Medicare name: Lexington Memorial Hospital Inc
+  Medicare address: 250 Hospital Drive Po Box 1817 Lexington 27293
+  Medicare emergency services: yes
+  Best OSM Match: 2.58 Lexington Medical Center
+  OSM Address: 250 Hospital Drive Lexington 27292
+25. Unmatched medicare hospital
+  Medicare name: Novant Health Presbyterian Medical Center
+  Medicare address: 200 Hawthorne Lane Box 33549 Charlotte 28233
+  Medicare emergency services: yes
+  Best OSM Match: 2.97 Novant Health Presbyterian Medical Center
+  OSM Address: 200 Hawthorne Lane Charlotte 28204
+26. Unmatched medicare hospital
+  Medicare name: Wakemed
+  Medicare address: 1900 Kildare Farm Road Cary 27518
+  Medicare emergency services: yes
+  Best OSM Match: 2.85 WakeMed Cary Hospital
+  OSM Address: 1900 Kildaire Farm Road Cary 27512
+27. Unmatched medicare hospital
+  Medicare name: Novant Health Mint Hill Medical Center
+  Medicare address: 8201 Healthcare Loop Charlotte 28215
+  Medicare emergency services: yes
+  Best OSM Match: 2.31 Novant Health Presbyterian Medical Center
+  OSM Address: 200 Hawthorne Lane Charlotte 28204
+28. Unmatched medicare hospital
+  Medicare name: Davie Medical Center
+  Medicare address: 223 Hospital Street Mocksville 27028
+  Medicare emergency services: yes
+  Best OSM Match: 1.57 Thomasville Medical Center
+  OSM Address: 207 Old Lexington Road Thomasville 27360
+29. Unmatched medicare hospital
+  Medicare name: Womack Amc (Fort Bragg)
+  Medicare address: 2817 Reilly Road Fort Bragg 28307
+  Medicare emergency services: yes
+  Best OSM Match: 1.05 FirstHealth Moore Regional Hospital-Hoke Campus
+  OSM Address: 6408 Fayetteville Road Raeford 28376
+30. Unmatched medicare hospital
+  Medicare name: Memorial Mission Hospital And Asheville Surgery Ce
+  Medicare address: 509 Biltmore Ave Asheville 28801
+  Medicare emergency services: yes
+  Best OSM Match: 3.07 Mission Hospital
+  OSM Address: 509 Biltmore Avenue Asheville 28801
+31. Unmatched medicare hospital
+  Medicare name: Carteret General Hospital
+  Medicare address: 3500 Arendell St Morehead City 28557
+  Medicare emergency services: yes
+  Best OSM Match: 3.04 Carteret Health Care Medical Center
+  OSM Address: 3500 Arendell Street Morehead City 28557
+Found 31 potential issues.
 
-Unmatched emergency=yes
-Southeastern Health (2.64)
-	300 West 27th Street Lumberton 28359
-Unmatched emergency=yes
-Hemby Children's Hospital (0.00)
-	200 Hawthorne Lane Charlotte 28204
-Unmatched emergency=yes
-Vidant Family Medicine - Wallace (0.00)
-	- - - -
-Unmatched emergency=yes
-Bladen Medical Associates (0.00)
-	273 White Lake Drive White Lake -
-Unmatched emergency=yes
-Med First Primary & Urgent Care (2.09)
-	388-I Venture Drive Smithfield 27577
-Unmatched emergency=yes
-Princeton Pediatrics (0.00)
-	- - - -
-Unmatched emergency=yes
-M Sherill Glover PA (0.00)
-	- - - -
-Unmatched emergency=yes
-Horizon Family Medicine (0.00)
-	100 Cunningham Lane Clayton 27527
-Unmatched emergency=yes
-Washington Regional Medical Center (2.87)
-	958 U.S. Highway 64 East Plymouth 27962
-Unmatched emergency=yes
-WakeMed Health & Hospitals: Raleigh Campus (0.00)
-	3000 New Bern Avenue Raleigh 27610
-Unmatched emergency=yes
-Johnston UNC Health Care Clayton (0.00)
-	2138 NC 42 Clayton 27524
-Unmatched emergency=yes
-Carteret Health Care Medical Center (3.04)
-	3500 Arendell Street Morehead City 28557
-Unmatched emergency=yes
-WakeMed Cary Hospital (2.85)
-	1900 Kildaire Farm Road Cary 27512
-Unmatched emergency=yes
-New Hanover Regional Medical Center (2.97)
-	2131 South 17th Street Wilmington 28401
-Unmatched emergency=yes
-WakeMed North Family Health & Women’s Hospital (0.00)
-	10000 Falls of Neuse Road Raleigh 27614
-Unmatched emergency=yes
-Novant Health Clemmons Medical Center (0.00)
-	6915 Village Medical Circle Clemmons 27012
-Unmatched emergency=yes
-New Hanover Regional Medical Center Orthopedic Hospital (0.00)
-	5301 Wrightsville Avenue Wilmington 28403
-Unmatched emergency=yes
-Carolinas HealthCare System Harrisburg (0.00)
-	9592 Rocky River Road Harrisburg 28215
-Unmatched emergency=yes
-Carolinas HealthCare System Stanly (2.79)
-	301 Yadkin Street Albemarle 28002
-Unmatched emergency=yes
-Pardee Hospital (3.00)
-	800 North Justice Street Hendersonville 28791
-Unmatched emergency=yes
-Mission Hospital (3.07)
-	509 Biltmore Avenue Asheville 28801
-Unmatched emergency=yes
-Carolinas HealthCare System Blue Ridge - Valdese (0.00)
-	720 Malcolm Boulevard Valdese 28690
-Unmatched emergency=yes
-Davis Regional Medical Center (2.90)
-	218 Old Mocksville Road Statesville 28625
-Unmatched emergency=yes
-Matthews Medical Center (2.87)
-	1500 Matthews Township Parkway Matthews 28105
-Unmatched emergency=yes
-Carolinas Medical Center-Mercy (0.00)
-	2001 Vail Avenue Charlotte 28207
-Unmatched emergency=yes
-Novant Health Presbyterian Medical Center (2.31)
-	200 Hawthorne Lane Charlotte 28204
-Unmatched emergency=yes
-Lexington Medical Center (2.58)
-	250 Hospital Drive Lexington 27292
-Unmatched emergency=yes
-Wesley Long Hospital (0.00)
-	501 North Elam Avenue Greensboro 27403
-Unmatched emergency=yes
-Arnie Penn Hospital (0.00)
-	618 South Main Street Reidsville 27320
-Unmatched emergency=yes
-Carolinas HealthCare System Anson (2.92)
-	2301 US 74 West Wadesboro 28170
-Unmatched emergency=yes
-Brunswick Medical Center (0.00)
-	240 Hospital Drive Northeast Bolivia 28422
-Unmatched emergency=yes
-Wilson Medical Center (0.00)
-	1705 Tarboro Street West Wilson 27893
-Unmatched emergency=yes
-FirstHealth Moore Regional Hospital-Hoke Campus (1.05)
-	6408 Fayetteville Road Raeford 28376
-Unmatched emergency=yes
-UNC Hospitals Hillsborough Campus (0.00)
-	430 Waterstone Drive Hillsborough 27278
-Unmatched emergency=yes
-Cherokee Indian Hospital (2.76)
-	1 Hospital Road Cherokee 28719
-Unmatched emergency=yes
-Central Harnett Hospital (0.00)
-	215 Brightwater Drive Lillington 27546
-Unmatched emergency=yes
--- (0.00)
-	- - - -
-Unmatched emergency=yes
-Johnston UNC Health Care Clayton (0.00)
-	- - - -
-Unmatched emergency=yes
-First Health Richmond Hospital (0.00)
-	925 South Long Drive Rockingham 28379
-Unmatched emergency=yes
-UNC Medical Center (3.03)
-	101 Manning Drive Chapel Hill 27514
+Unmatched emergency=yes in OSM
+  OSM name: Southeastern Health
+  Score of best match: 2.64
+  OSM address: 300 West 27th Street Lumberton 28359
+Unmatched emergency=yes in OSM
+  OSM name: Hemby Children's Hospital
+  Score of best match: 0.00
+  OSM address: 200 Hawthorne Lane Charlotte 28204
+Unmatched emergency=yes in OSM
+  OSM name: Vidant Family Medicine - Wallace
+  Score of best match: 0.00
+  OSM address: - - - -
+Unmatched emergency=yes in OSM
+  OSM name: Bladen Medical Associates
+  Score of best match: 0.00
+  OSM address: 273 White Lake Drive White Lake -
+Unmatched emergency=yes in OSM
+  OSM name: Med First Primary & Urgent Care
+  Score of best match: 2.09
+  OSM address: 388-I Venture Drive Smithfield 27577
+Unmatched emergency=yes in OSM
+  OSM name: Princeton Pediatrics
+  Score of best match: 0.00
+  OSM address: - - - -
+Unmatched emergency=yes in OSM
+  OSM name: M Sherill Glover PA
+  Score of best match: 0.00
+  OSM address: - - - -
+Unmatched emergency=yes in OSM
+  OSM name: Horizon Family Medicine
+  Score of best match: 0.00
+  OSM address: 100 Cunningham Lane Clayton 27527
+Unmatched emergency=yes in OSM
+  OSM name: Washington Regional Medical Center
+  Score of best match: 2.87
+  OSM address: 958 U.S. Highway 64 East Plymouth 27962
+Unmatched emergency=yes in OSM
+  OSM name: WakeMed Health & Hospitals: Raleigh Campus
+  Score of best match: 0.00
+  OSM address: 3000 New Bern Avenue Raleigh 27610
+Unmatched emergency=yes in OSM
+  OSM name: Johnston UNC Health Care Clayton
+  Score of best match: 0.00
+  OSM address: 2138 NC 42 Clayton 27524
+Unmatched emergency=yes in OSM
+  OSM name: Carteret Health Care Medical Center
+  Score of best match: 3.04
+  OSM address: 3500 Arendell Street Morehead City 28557
+Unmatched emergency=yes in OSM
+  OSM name: WakeMed Cary Hospital
+  Score of best match: 2.85
+  OSM address: 1900 Kildaire Farm Road Cary 27512
+Unmatched emergency=yes in OSM
+  OSM name: New Hanover Regional Medical Center
+  Score of best match: 2.97
+  OSM address: 2131 South 17th Street Wilmington 28401
+Unmatched emergency=yes in OSM
+  OSM name: WakeMed North Family Health & Women’s Hospital
+  Score of best match: 0.00
+  OSM address: 10000 Falls of Neuse Road Raleigh 27614
+Unmatched emergency=yes in OSM
+  OSM name: Novant Health Clemmons Medical Center
+  Score of best match: 0.00
+  OSM address: 6915 Village Medical Circle Clemmons 27012
+Unmatched emergency=yes in OSM
+  OSM name: New Hanover Regional Medical Center Orthopedic Hospital
+  Score of best match: 0.00
+  OSM address: 5301 Wrightsville Avenue Wilmington 28403
+Unmatched emergency=yes in OSM
+  OSM name: Carolinas HealthCare System Harrisburg
+  Score of best match: 0.00
+  OSM address: 9592 Rocky River Road Harrisburg 28215
+Unmatched emergency=yes in OSM
+  OSM name: Carolinas HealthCare System Stanly
+  Score of best match: 2.79
+  OSM address: 301 Yadkin Street Albemarle 28002
+Unmatched emergency=yes in OSM
+  OSM name: Pardee Hospital
+  Score of best match: 3.00
+  OSM address: 800 North Justice Street Hendersonville 28791
+Unmatched emergency=yes in OSM
+  OSM name: Mission Hospital
+  Score of best match: 3.07
+  OSM address: 509 Biltmore Avenue Asheville 28801
+Unmatched emergency=yes in OSM
+  OSM name: Carolinas HealthCare System Blue Ridge - Valdese
+  Score of best match: 0.00
+  OSM address: 720 Malcolm Boulevard Valdese 28690
+Unmatched emergency=yes in OSM
+  OSM name: Davis Regional Medical Center
+  Score of best match: 2.90
+  OSM address: 218 Old Mocksville Road Statesville 28625
+Unmatched emergency=yes in OSM
+  OSM name: Matthews Medical Center
+  Score of best match: 2.87
+  OSM address: 1500 Matthews Township Parkway Matthews 28105
+Unmatched emergency=yes in OSM
+  OSM name: Carolinas Medical Center-Mercy
+  Score of best match: 0.00
+  OSM address: 2001 Vail Avenue Charlotte 28207
+Unmatched emergency=yes in OSM
+  OSM name: Novant Health Presbyterian Medical Center
+  Score of best match: 2.31
+  OSM address: 200 Hawthorne Lane Charlotte 28204
+Unmatched emergency=yes in OSM
+  OSM name: Lexington Medical Center
+  Score of best match: 2.58
+  OSM address: 250 Hospital Drive Lexington 27292
+Unmatched emergency=yes in OSM
+  OSM name: Wesley Long Hospital
+  Score of best match: 0.00
+  OSM address: 501 North Elam Avenue Greensboro 27403
+Unmatched emergency=yes in OSM
+  OSM name: Arnie Penn Hospital
+  Score of best match: 0.00
+  OSM address: 618 South Main Street Reidsville 27320
+Unmatched emergency=yes in OSM
+  OSM name: Carolinas HealthCare System Anson
+  Score of best match: 2.92
+  OSM address: 2301 US 74 West Wadesboro 28170
+Unmatched emergency=yes in OSM
+  OSM name: Brunswick Medical Center
+  Score of best match: 0.00
+  OSM address: 240 Hospital Drive Northeast Bolivia 28422
+Unmatched emergency=yes in OSM
+  OSM name: Wilson Medical Center
+  Score of best match: 0.00
+  OSM address: 1705 Tarboro Street West Wilson 27893
+Unmatched emergency=yes in OSM
+  OSM name: FirstHealth Moore Regional Hospital-Hoke Campus
+  Score of best match: 1.05
+  OSM address: 6408 Fayetteville Road Raeford 28376
+Unmatched emergency=yes in OSM
+  OSM name: UNC Hospitals Hillsborough Campus
+  Score of best match: 0.00
+  OSM address: 430 Waterstone Drive Hillsborough 27278
+Unmatched emergency=yes in OSM
+  OSM name: Cherokee Indian Hospital
+  Score of best match: 2.76
+  OSM address: 1 Hospital Road Cherokee 28719
+Unmatched emergency=yes in OSM
+  OSM name: Central Harnett Hospital
+  Score of best match: 0.00
+  OSM address: 215 Brightwater Drive Lillington 27546
+Unmatched emergency=yes in OSM
+  OSM name: --
+  Score of best match: 0.00
+  OSM address: - - - -
+Unmatched emergency=yes in OSM
+  OSM name: Johnston UNC Health Care Clayton
+  Score of best match: 0.00
+  OSM address: - - - -
+Unmatched emergency=yes in OSM
+  OSM name: First Health Richmond Hospital
+  Score of best match: 0.00
+  OSM address: 925 South Long Drive Rockingham 28379
+Unmatched emergency=yes in OSM
+  OSM name: UNC Medical Center
+  Score of best match: 3.03
+  OSM address: 101 Manning Drive Chapel Hill 27514
 Found 40 unmatched emergency.

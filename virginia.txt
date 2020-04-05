@@ -1,153 +1,215 @@
 144 OSM hospitals
 95 Medicare hospitals
-1. Community Memorial Hospital
-	1755 North Mecklenburg Avenue South Hill 23970 (CMS:yes)
-	2.73 VCU Health Community Memorial Hospital
-	125 Buena Vista Circle South Hill 23970
-2. Poplar Springs Hospital
-	350 Poplar Drive Po Box 3060 Petersburg 23805 (CMS:no)
-	2.13 Southside Regional Medical Center
-	200 Medical Park Boulevard Petersburg 23805
-3. The Pavilion At Williamsburg Place
-	5483 Mooretown Road Williamsburg 23188 (CMS:no)
-	2.37 Eastern State Hospital
-	4601 Ironbound Road Williamsburg 23188
-4. Nmc Portsmouth
-	620 John Paul Jones Circle Portsmouth 23708 (CMS:yes)
-	1.82 Harbor Point Behavioral Health Center
-	301 Fort Lane Portsmouth 23704
-5. Bath Community Hospital
-	106 Park Drive- Po Drawer Z Hot Springs 24445 (CMS:yes)
-	2.91 Bath Community Hospital
-	106 Park Drive Hot Springs 24445-2921
-6. 1Saint Medical Group (Langley Afb)
-	633 Mdg 77 Nealy Ave Langley 23665 (CMS:yes)
-	2.20 Langley Hospital
-	77 Nealy Avenue Langley AFB 23665
-Inova Fair Oaks Hospital
-	3600 Joseph Siewick Drive Fairfax 22033
-	 Emergency Mismatch (CMS:no)
-	Inova Fair Oaks Hospital
-7. Cjw Medical Center
-	7101 Jahnke Road Richmond 23235 (CMS:yes)
-	2.71 Chippenham Hospital
-	7101 Jahnke Road Richmond 23225
-8. Western State Hospital
-	1301 Richmond Road Staunton 24402 (CMS:yes)
-	2.68 Western State Hospital
-	103 Valley Center Drive Staunton 24401
-9. Carilion Franklin Memorial Hospital
-	180 Floyd Avenue Rocky Mount 24151 (CMS:yes)
-	3.07 Carilion Franklin Memorial Hospital
-	390 South Main Street Rocky Mount 24151
-Southern Virginia Mental Health Institute
-	382 Taylor Drive Danville 24541
-	 Emergency Mismatch (CMS:yes)
-	Southern Virginia Mental Health Institute
-10. Virginia Hospital Center
-	1701 North George Mason Drive Arlington 22205 (CMS:yes)
-	2.22 Capital Caring - Halquist Memorial Inpatient Center
-	4715 15th Street North Arlington 22205
-11. Hiram W Davis Medical Center
-	P O Box 4030 Petersburg 23803 (CMS:no)
-	2.97 Hiram W. Davis Medical Center
-	26317 West Washington Street Petersburg 23803
-12. Bon Secours Memorial Regional Medical Center
-	8260 Atlee Road Mechanicsville 23116 (CMS:yes)
-	2.58 Memorial Regional Medical Center
-	8260 Meadowbridge Roademergency=yes Mechanicsville 23111
-Virginia Beach Psychiatric Center
-	1060 First Colonial Road Virginia Beach 23454
-	 Emergency Mismatch (CMS:no)
-	Virginia Beach Psychiatric Center
-Sentara Princess Anne Hospital
-	2025 Glenn Mitchell Drive Virginia Beach 23456
-	 Emergency Mismatch (CMS:no)
-	Sentara Princess Anne Hospital
-13. Medical College Of Virginia Hospitals
-	Box 980510 1250 East Marshall Street Richmond 23298 (CMS:yes)
-	2.50 VCU Medical Center
-	1250 East Marshall Street Richmond 23219
-14. Halquist Memorial Inpatient Center
-	4715 North 15 Street Arlington 22205 (CMS:no)
-	3.08 Capital Caring - Halquist Memorial Inpatient Center
-	4715 15th Street North Arlington 22205
-15. Page Memorial Hospital, Inc
-	200 Memorial Drive Luray 22835 (CMS:yes)
-	1.22 Southampton Memorial Hospital
-	100 Fairview Drive Franklin 23851
-Found 15 issues.
+1. Unmatched medicare hospital
+  Medicare name: Community Memorial Hospital
+  Medicare address: 1755 North Mecklenburg Avenue South Hill 23970
+  Medicare emergency services: yes
+  Best OSM Match: 2.73 VCU Health Community Memorial Hospital
+  OSM Address: 125 Buena Vista Circle South Hill 23970
+2. Unmatched medicare hospital
+  Medicare name: Poplar Springs Hospital
+  Medicare address: 350 Poplar Drive Po Box 3060 Petersburg 23805
+  Medicare emergency services: no
+  Best OSM Match: 2.13 Southside Regional Medical Center
+  OSM Address: 200 Medical Park Boulevard Petersburg 23805
+3. Unmatched medicare hospital
+  Medicare name: The Pavilion At Williamsburg Place
+  Medicare address: 5483 Mooretown Road Williamsburg 23188
+  Medicare emergency services: no
+  Best OSM Match: 2.37 Eastern State Hospital
+  OSM Address: 4601 Ironbound Road Williamsburg 23188
+4. Unmatched medicare hospital
+  Medicare name: Nmc Portsmouth
+  Medicare address: 620 John Paul Jones Circle Portsmouth 23708
+  Medicare emergency services: yes
+  Best OSM Match: 1.82 Harbor Point Behavioral Health Center
+  OSM Address: 301 Fort Lane Portsmouth 23704
+5. Unmatched medicare hospital
+  Medicare name: Bath Community Hospital
+  Medicare address: 106 Park Drive- Po Drawer Z Hot Springs 24445
+  Medicare emergency services: yes
+  Best OSM Match: 2.91 Bath Community Hospital
+  OSM Address: 106 Park Drive Hot Springs 24445-2921
+6. Unmatched medicare hospital
+  Medicare name: 1Saint Medical Group (Langley Afb)
+  Medicare address: 633 Mdg 77 Nealy Ave Langley 23665
+  Medicare emergency services: yes
+  Best OSM Match: 2.20 Langley Hospital
+  OSM Address: 77 Nealy Avenue Langley AFB 23665
+7. Emergency services mismatch
+  Medicare name: Inova Fair Oaks Hospital
+  OSM name: Inova Fair Oaks Hospital
+  OSM Address: 3600 Joseph Siewick Drive Fairfax 22033
+  Medicare emergency services: no
+  OSM Emergency: yes
+8. Unmatched medicare hospital
+  Medicare name: Cjw Medical Center
+  Medicare address: 7101 Jahnke Road Richmond 23235
+  Medicare emergency services: yes
+  Best OSM Match: 2.71 Chippenham Hospital
+  OSM Address: 7101 Jahnke Road Richmond 23225
+9. Unmatched medicare hospital
+  Medicare name: Western State Hospital
+  Medicare address: 1301 Richmond Road Staunton 24402
+  Medicare emergency services: yes
+  Best OSM Match: 2.68 Western State Hospital
+  OSM Address: 103 Valley Center Drive Staunton 24401
+10. Unmatched medicare hospital
+  Medicare name: Carilion Franklin Memorial Hospital
+  Medicare address: 180 Floyd Avenue Rocky Mount 24151
+  Medicare emergency services: yes
+  Best OSM Match: 3.07 Carilion Franklin Memorial Hospital
+  OSM Address: 390 South Main Street Rocky Mount 24151
+11. Emergency services mismatch
+  Medicare name: Southern Virginia Mental Health Institute
+  OSM name: Southern Virginia Mental Health Institute
+  OSM Address: 382 Taylor Drive Danville 24541
+  Medicare emergency services: yes
+  OSM Emergency: no
+12. Unmatched medicare hospital
+  Medicare name: Virginia Hospital Center
+  Medicare address: 1701 North George Mason Drive Arlington 22205
+  Medicare emergency services: yes
+  Best OSM Match: 2.22 Capital Caring - Halquist Memorial Inpatient Center
+  OSM Address: 4715 15th Street North Arlington 22205
+13. Unmatched medicare hospital
+  Medicare name: Hiram W Davis Medical Center
+  Medicare address: P O Box 4030 Petersburg 23803
+  Medicare emergency services: no
+  Best OSM Match: 2.97 Hiram W. Davis Medical Center
+  OSM Address: 26317 West Washington Street Petersburg 23803
+14. Unmatched medicare hospital
+  Medicare name: Bon Secours Memorial Regional Medical Center
+  Medicare address: 8260 Atlee Road Mechanicsville 23116
+  Medicare emergency services: yes
+  Best OSM Match: 2.58 Memorial Regional Medical Center
+  OSM Address: 8260 Meadowbridge Roademergency=yes Mechanicsville 23111
+15. Emergency services mismatch
+  Medicare name: Virginia Beach Psychiatric Center
+  OSM name: Virginia Beach Psychiatric Center
+  OSM Address: 1060 First Colonial Road Virginia Beach 23454
+  Medicare emergency services: no
+  OSM Emergency: yes
+16. Emergency services mismatch
+  Medicare name: Sentara Princess Anne Hospital
+  OSM name: Sentara Princess Anne Hospital
+  OSM Address: 2025 Glenn Mitchell Drive Virginia Beach 23456
+  Medicare emergency services: no
+  OSM Emergency: yes
+17. Unmatched medicare hospital
+  Medicare name: Medical College Of Virginia Hospitals
+  Medicare address: Box 980510 1250 East Marshall Street Richmond 23298
+  Medicare emergency services: yes
+  Best OSM Match: 2.50 VCU Medical Center
+  OSM Address: 1250 East Marshall Street Richmond 23219
+18. Unmatched medicare hospital
+  Medicare name: Halquist Memorial Inpatient Center
+  Medicare address: 4715 North 15 Street Arlington 22205
+  Medicare emergency services: no
+  Best OSM Match: 3.08 Capital Caring - Halquist Memorial Inpatient Center
+  OSM Address: 4715 15th Street North Arlington 22205
+19. Unmatched medicare hospital
+  Medicare name: Page Memorial Hospital, Inc
+  Medicare address: 200 Memorial Drive Luray 22835
+  Medicare emergency services: yes
+  Best OSM Match: 1.22 Southampton Memorial Hospital
+  OSM Address: 100 Fairview Drive Franklin 23851
+Found 19 potential issues.
 
-Unmatched emergency=yes
-Langley Hospital (2.20)
-	77 Nealy Avenue Langley AFB 23665
-Unmatched emergency=yes
-Dominion Plastic Surgery (0.00)
-	2755 Hartland Road Falls Church 22043
-Unmatched emergency=yes
-Doctors' Parham Hospital (0.00)
-	7700 East Parham Road Richmond 23294
-Unmatched emergency=yes
-Hunter Holmes McGuire Veterans Administration Medical Center (0.00)
-	1201 Broad Rock Boulevard Richmond 23249
-Unmatched emergency=yes
-Inova Medical Center - Reston (0.00)
-	11901 Baron Cameron Avenue Reston 20190
-Unmatched emergency=yes
-Inova Loudoun (Cornwall) Medical Campus (0.00)
-	224 Cornwall Street Northwest Leesburg 20176
-Unmatched emergency=yes
-Sentara Port Warwick (0.00)
-	11803 Jefferson Avenue Newport News 23606
-Unmatched emergency=yes
-Hampton Veterans Administration Medical Center (0.00)
-	100 Emancipation Drive Hampton 23667
-Unmatched emergency=yes
-Virginia Hospital Center (0.00)
-	  1701 N. George Mason Drive  - -
-Unmatched emergency=yes
-Salem Veterans Affairs Medical Center (0.00)
-	1970 Roanoke Boulevard Salem 24153
-Unmatched emergency=yes
-Sentara Independence (0.00)
-	800 Independence Boulevard Virginia Beach 23455
-Unmatched emergency=yes
-VCU Medical Center (2.50)
-	1250 East Marshall Street Richmond 23219
-Unmatched emergency=yes
-Chippenham Hospital (2.71)
-	7101 Jahnke Road Richmond 23225
-Unmatched emergency=yes
-Johnston-Willis Hospital (0.00)
-	1401 Johnston-Willis Drive Richmond 23235
-Unmatched emergency=yes
-Retreat Doctors' Hospital (0.00)
-	2621 Grove Avenue Richmond 23220
-Unmatched emergency=yes
-VCU Health Community Memorial Hospital (2.73)
-	125 Buena Vista Circle South Hill 23970
-Unmatched emergency=yes
-Carilion Franklin Memorial Hospital (3.07)
-	390 South Main Street Rocky Mount 24151
-Unmatched emergency=yes
-Sovah Health - Martinsville (0.00)
-	320 Hospital Drive Martinsville 24115
-Unmatched emergency=yes
-Pioneer Community Hospital of Patrick (0.00)
-	18688 Jeb Stuart Highway Stuart 24171
-Unmatched emergency=yes
-Mountain View Regional Medical Center (0.00)
-	310 3rd Street Northeast Norton 24273
-Unmatched emergency=yes
-Bath Community Hospital (2.91)
-	106 Park Drive Hot Springs 24445-2921
-Unmatched emergency=yes
-HCA - Swift Creek Emergency Center (0.00)
-	- - - -
-Unmatched emergency=yes
-TriCities ER (0.00)
-	- - - -
-Unmatched emergency=yes
--- (0.00)
-	- - - -
+Unmatched emergency=yes in OSM
+  OSM name: Langley Hospital
+  Score of best match: 2.20
+  OSM address: 77 Nealy Avenue Langley AFB 23665
+Unmatched emergency=yes in OSM
+  OSM name: Dominion Plastic Surgery
+  Score of best match: 0.00
+  OSM address: 2755 Hartland Road Falls Church 22043
+Unmatched emergency=yes in OSM
+  OSM name: Doctors' Parham Hospital
+  Score of best match: 0.00
+  OSM address: 7700 East Parham Road Richmond 23294
+Unmatched emergency=yes in OSM
+  OSM name: Hunter Holmes McGuire Veterans Administration Medical Center
+  Score of best match: 0.00
+  OSM address: 1201 Broad Rock Boulevard Richmond 23249
+Unmatched emergency=yes in OSM
+  OSM name: Inova Medical Center - Reston
+  Score of best match: 0.00
+  OSM address: 11901 Baron Cameron Avenue Reston 20190
+Unmatched emergency=yes in OSM
+  OSM name: Inova Loudoun (Cornwall) Medical Campus
+  Score of best match: 0.00
+  OSM address: 224 Cornwall Street Northwest Leesburg 20176
+Unmatched emergency=yes in OSM
+  OSM name: Sentara Port Warwick
+  Score of best match: 0.00
+  OSM address: 11803 Jefferson Avenue Newport News 23606
+Unmatched emergency=yes in OSM
+  OSM name: Hampton Veterans Administration Medical Center
+  Score of best match: 0.00
+  OSM address: 100 Emancipation Drive Hampton 23667
+Unmatched emergency=yes in OSM
+  OSM name: Virginia Hospital Center
+  Score of best match: 0.00
+  OSM address:   1701 N. George Mason Drive  - -
+Unmatched emergency=yes in OSM
+  OSM name: Salem Veterans Affairs Medical Center
+  Score of best match: 0.00
+  OSM address: 1970 Roanoke Boulevard Salem 24153
+Unmatched emergency=yes in OSM
+  OSM name: Sentara Independence
+  Score of best match: 0.00
+  OSM address: 800 Independence Boulevard Virginia Beach 23455
+Unmatched emergency=yes in OSM
+  OSM name: VCU Medical Center
+  Score of best match: 2.50
+  OSM address: 1250 East Marshall Street Richmond 23219
+Unmatched emergency=yes in OSM
+  OSM name: Chippenham Hospital
+  Score of best match: 2.71
+  OSM address: 7101 Jahnke Road Richmond 23225
+Unmatched emergency=yes in OSM
+  OSM name: Johnston-Willis Hospital
+  Score of best match: 0.00
+  OSM address: 1401 Johnston-Willis Drive Richmond 23235
+Unmatched emergency=yes in OSM
+  OSM name: Retreat Doctors' Hospital
+  Score of best match: 0.00
+  OSM address: 2621 Grove Avenue Richmond 23220
+Unmatched emergency=yes in OSM
+  OSM name: VCU Health Community Memorial Hospital
+  Score of best match: 2.73
+  OSM address: 125 Buena Vista Circle South Hill 23970
+Unmatched emergency=yes in OSM
+  OSM name: Carilion Franklin Memorial Hospital
+  Score of best match: 3.07
+  OSM address: 390 South Main Street Rocky Mount 24151
+Unmatched emergency=yes in OSM
+  OSM name: Sovah Health - Martinsville
+  Score of best match: 0.00
+  OSM address: 320 Hospital Drive Martinsville 24115
+Unmatched emergency=yes in OSM
+  OSM name: Pioneer Community Hospital of Patrick
+  Score of best match: 0.00
+  OSM address: 18688 Jeb Stuart Highway Stuart 24171
+Unmatched emergency=yes in OSM
+  OSM name: Mountain View Regional Medical Center
+  Score of best match: 0.00
+  OSM address: 310 3rd Street Northeast Norton 24273
+Unmatched emergency=yes in OSM
+  OSM name: Bath Community Hospital
+  Score of best match: 2.91
+  OSM address: 106 Park Drive Hot Springs 24445-2921
+Unmatched emergency=yes in OSM
+  OSM name: HCA - Swift Creek Emergency Center
+  Score of best match: 0.00
+  OSM address: - - - -
+Unmatched emergency=yes in OSM
+  OSM name: TriCities ER
+  Score of best match: 0.00
+  OSM address: - - - -
+Unmatched emergency=yes in OSM
+  OSM name: --
+  Score of best match: 0.00
+  OSM address: - - - -
 Found 24 unmatched emergency.

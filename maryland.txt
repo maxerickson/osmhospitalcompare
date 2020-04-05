@@ -1,74 +1,105 @@
 85 OSM hospitals
 56 Medicare hospitals
-1. Eastern Shore Hospital Center
-	Post Office Box 800 Cambridge 21613 (CMS:no)
-	3.03 Eastern Shore Hospital Center
-	5262 Woods Road Cambridge 21613
-2. Adventist Healthcare White Oak Medical Center
-	12100 Plum Orchard Drive Silver Spring 20904 (CMS:yes)
-	1.80 Holy Cross Hospital Health Center at Montomery College
-	1500 Forest Glen Road Silver Spring 20910
-3. Umd Shore Medical Center At Easton
-	219 South Washington Street Easton 21601 (CMS:yes)
-	2.97 University of Maryland Shore Medical Center at Easton
-	219 South Washington Street Easton 21629
-4. Thomas B Finan Center
-	10102 Country Club Road, Post Office Box 1722 Cumberland 21502 (CMS:no)
-	2.30 Western Maryland Regional Medical Center
-	12500 Willowbrook Road Cumberland 21502
-5. Springfield Hospital Center
-	6655 Sykesville Road Sykesville 21784 (CMS:no)
-	3.01 Springfield Hospital Center
-	- - Sykesville 21784
-Kennedy Krieger Institute
-	707 North Broadway Baltimore 21205
-	 Emergency Mismatch (CMS:yes)
-	Kennedy Krieger Institute Hospital & Research Center
-6. Brook Lane Health Services
-	13215 Brook Lane Drive Hagerstown 21742 (CMS:no)
-	2.93 Brook Lane
-	13121 Brook Lane Hagerstown 21742
-Medstar Harbor Hospital
-	3001 South Hanover Street Baltimore 21225
-	 Emergency Mismatch (CMS:no)
-	MedStar Harbor Hospital
-Union Hospital Of Cecil County
-	106 Bow Street Elkton 21921
-	 Emergency Mismatch (CMS:no)
-	Union Hospital
-7. University Of Maryland Medical Center
-	22 South Greene Street Baltimore 21201 (CMS:yes)
-	2.33 UM Medical Center Midtown Campus (UMMC)
-	827 Linden Avenue Baltimore 21201
-8. Walter Reed National Military Med Cen
-	8901 Rockville Pike Bethesda 20889 (CMS:yes)
-	1.46 Suburban Hospital
-	86000 Old Georgetown Road Bethesda 20814
-9. Greater Baltimore Medical Center
-	6701 North Charles Street Baltimore 21204 (CMS:yes)
-	3.02 Greater Baltimore Medical Center
-	6701 North Charles Street Towson 21204
-Found 9 issues.
+1. Unmatched medicare hospital
+  Medicare name: Eastern Shore Hospital Center
+  Medicare address: Post Office Box 800 Cambridge 21613
+  Medicare emergency services: no
+  Best OSM Match: 3.03 Eastern Shore Hospital Center
+  OSM Address: 5262 Woods Road Cambridge 21613
+2. Unmatched medicare hospital
+  Medicare name: Adventist Healthcare White Oak Medical Center
+  Medicare address: 12100 Plum Orchard Drive Silver Spring 20904
+  Medicare emergency services: yes
+  Best OSM Match: 1.80 Holy Cross Hospital Health Center at Montomery College
+  OSM Address: 1500 Forest Glen Road Silver Spring 20910
+3. Unmatched medicare hospital
+  Medicare name: Umd Shore Medical Center At Easton
+  Medicare address: 219 South Washington Street Easton 21601
+  Medicare emergency services: yes
+  Best OSM Match: 2.97 University of Maryland Shore Medical Center at Easton
+  OSM Address: 219 South Washington Street Easton 21629
+4. Unmatched medicare hospital
+  Medicare name: Thomas B Finan Center
+  Medicare address: 10102 Country Club Road, Post Office Box 1722 Cumberland 21502
+  Medicare emergency services: no
+  Best OSM Match: 2.30 Western Maryland Regional Medical Center
+  OSM Address: 12500 Willowbrook Road Cumberland 21502
+5. Unmatched medicare hospital
+  Medicare name: Springfield Hospital Center
+  Medicare address: 6655 Sykesville Road Sykesville 21784
+  Medicare emergency services: no
+  Best OSM Match: 3.01 Springfield Hospital Center
+  OSM Address: - - Sykesville 21784
+6. Emergency services mismatch
+  Medicare name: Kennedy Krieger Institute
+  OSM name: Kennedy Krieger Institute Hospital & Research Center
+  OSM Address: 707 North Broadway Baltimore 21205
+  Medicare emergency services: yes
+  OSM Emergency: no
+7. Unmatched medicare hospital
+  Medicare name: Brook Lane Health Services
+  Medicare address: 13215 Brook Lane Drive Hagerstown 21742
+  Medicare emergency services: no
+  Best OSM Match: 2.93 Brook Lane
+  OSM Address: 13121 Brook Lane Hagerstown 21742
+8. Emergency services mismatch
+  Medicare name: Medstar Harbor Hospital
+  OSM name: MedStar Harbor Hospital
+  OSM Address: 3001 South Hanover Street Baltimore 21225
+  Medicare emergency services: no
+  OSM Emergency: yes
+9. Emergency services mismatch
+  Medicare name: Union Hospital Of Cecil County
+  OSM name: Union Hospital
+  OSM Address: 106 Bow Street Elkton 21921
+  Medicare emergency services: no
+  OSM Emergency: yes
+10. Unmatched medicare hospital
+  Medicare name: University Of Maryland Medical Center
+  Medicare address: 22 South Greene Street Baltimore 21201
+  Medicare emergency services: yes
+  Best OSM Match: 2.33 UM Medical Center Midtown Campus (UMMC)
+  OSM Address: 827 Linden Avenue Baltimore 21201
+11. Unmatched medicare hospital
+  Medicare name: Walter Reed National Military Med Cen
+  Medicare address: 8901 Rockville Pike Bethesda 20889
+  Medicare emergency services: yes
+  Best OSM Match: 1.46 Suburban Hospital
+  OSM Address: 86000 Old Georgetown Road Bethesda 20814
+12. Unmatched medicare hospital
+  Medicare name: Greater Baltimore Medical Center
+  Medicare address: 6701 North Charles Street Baltimore 21204
+  Medicare emergency services: yes
+  Best OSM Match: 3.02 Greater Baltimore Medical Center
+  OSM Address: 6701 North Charles Street Towson 21204
+Found 12 potential issues.
 
-Unmatched emergency=yes
-Upper Chesapeake Hospital (0.00)
-	- - - -
-Unmatched emergency=yes
-Malcolm Grow Medical Clinics and Surgery Center (0.00)
-	1050 West Perimeter Road Camp Springs -
-Unmatched emergency=yes
-Greater Baltimore Medical Center (3.02)
-	6701 North Charles Street Towson 21204
-Unmatched emergency=yes
-University of Maryland Shore Medical Center at Easton (2.97)
-	219 South Washington Street Easton 21629
-Unmatched emergency=yes
-University of Maryland Medical Center at Dorchester (0.00)
-	300 Byrne Street Cambridge 21613
-Unmatched emergency=yes
-Adventist HealthCare Takoma Park (0.00)
-	7600 Carroll Avenue Takoma Park 20912
-Unmatched emergency=yes
-Bowie Health Center (0.00)
-	15001 Health Center Drive Bowie 20716
+Unmatched emergency=yes in OSM
+  OSM name: Upper Chesapeake Hospital
+  Score of best match: 0.00
+  OSM address: - - - -
+Unmatched emergency=yes in OSM
+  OSM name: Malcolm Grow Medical Clinics and Surgery Center
+  Score of best match: 0.00
+  OSM address: 1050 West Perimeter Road Camp Springs -
+Unmatched emergency=yes in OSM
+  OSM name: Greater Baltimore Medical Center
+  Score of best match: 3.02
+  OSM address: 6701 North Charles Street Towson 21204
+Unmatched emergency=yes in OSM
+  OSM name: University of Maryland Shore Medical Center at Easton
+  Score of best match: 2.97
+  OSM address: 219 South Washington Street Easton 21629
+Unmatched emergency=yes in OSM
+  OSM name: University of Maryland Medical Center at Dorchester
+  Score of best match: 0.00
+  OSM address: 300 Byrne Street Cambridge 21613
+Unmatched emergency=yes in OSM
+  OSM name: Adventist HealthCare Takoma Park
+  Score of best match: 0.00
+  OSM address: 7600 Carroll Avenue Takoma Park 20912
+Unmatched emergency=yes in OSM
+  OSM name: Bowie Health Center
+  Score of best match: 0.00
+  OSM address: 15001 Health Center Drive Bowie 20716
 Found 7 unmatched emergency.

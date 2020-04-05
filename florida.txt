@@ -1,480 +1,675 @@
 354 OSM hospitals
 211 Medicare hospitals
-1. Suncoast Behavioral Health Center
-	4480 51St St W Bradenton 34210 (CMS:no)
-	2.05 Blake Medical Center
-	2020 59th Street West Bradenton 34209
-2. Adventhealth Lake Wales
-	410 S 11Th St Lake Wales 33853 (CMS:yes)
-	2.67 Lake Wales Medical Center
-	410 South 11th Street Lake Wales 33853
-3. Willough At Naples, The
-	9001 Tamiami Trail East Naples 34113 (CMS:no)
-	1.95 North Naples Hospital
-	11190 Health Park Boulevard Naples 34110
-4. Bayfront Health Seven Rivers
-	6201 N Suncoast Blvd Crystal River 34428 (CMS:yes)
-	2.84 Seven Rivers Regional Medical Center
-	6201 Suncoast Boulevard Crystal River 34428
-5. Ascension Sacred Heart Gulf
-	3801 E Hwy 98 Port Saint Joe 32456 (CMS:yes)
-	2.94 Sacred Heart Hospital on the Gulf
-	3801 East Highway 98 Port Saint Joe 32456
-Morton Plant North Bay Hospital
-	6600 Madison Street New Port Richey 34652
-	 Emergency Mismatch (CMS:no)
-	Morton Plant North Bay Hospital
-6. Steward Sebastian River Medical Center
-	13695 Us Hwy 1 Sebastian 32978 (CMS:yes)
-	2.70 Sebastian River Medical Center
-	13695 US 1 Sebastian 34958
-7. Adventhealth New Smyrna Beach
-	401 Palmetto St New Smyrna Beach 32170 (CMS:yes)
-	2.02 Florida Hospital New Smyrna
-	401 Palmetto Street New Smyrna 32168
-8. Adventhealth Orlando
-	601 E Rollins St Orlando 32803 (CMS:yes)
-	2.97 Florida Hospital Orlando
-	601 East Rollins Street Orlando 32803
-9. Saint Josephs Hospital
-	3001 W Martin Luther King Jr Blvd Tampa 33677 (CMS:yes)
-	3.03 Saint Joseph's Hospital
-	3001 West Dr. Martin Luther King Jr Boulevard Tampa 33603
-The Jerome Golden Center For Behavioral Health, In
-	1041 45th Street West Palm Beach 33407
-	 Emergency Mismatch (CMS:yes)
-	The Jerome Golden Center for Behavioral Health
-South Lake Hospital
-	1900 Don Wickham Drive Clermont 34711
-	 Emergency Mismatch (CMS:no)
-	South Lake Hospital
-10. Cleveland Clinic Indian River Hospital
-	1000 36Th St Vero Beach 32960 (CMS:yes)
-	2.50 Indian River Medical Center
-	1000 36th Street Vero Beach 34960
-11. River Point Behavioral Health
-	6300 Beach Blvd Jacksonville 32216 (CMS:no)
-	2.77 Ten Broeck Hospital Jacksonville
-	6700 Beach Boulevard Jacksonville 32216
-12. Larkin Community Hospital Behavioral Health Srvs
-	1201 N 37Th Ave Hollywood 33021 (CMS:no)
-	2.21 Memorial Regional Hospital
-	3501 Johnson Street Hollywood 33021
-13. Ascension Sacred Heart Pensacola
-	5151 N 9Th Ave Pensacola 32504 (CMS:yes)
-	3.00 Sacred Heart Hospital of Pensacola
-	5151 North 9th Avenue Pensacola 32504
-14. Aspire Health Partners
-	1800 Mercy Dr Orlando 32808 (CMS:no)
-	1.91 Winnie Palmer Hospital for Women & Babies
-	83 West Miller Street Orlando 32806
-15. Centerstone Of Florida
-	2020 26Th Ave E Bradenton 34208 (CMS:no)
-	2.31 Manatee Healthcare System
-	206 2nd Street East Bradenton 34208
-16. West Boca Medical Center
-	21644 State Rd 7 Boca Raton 33428 (CMS:yes)
-	3.06 West Boca Medical Center
-	21644 State Road 7 West Boca 33428
-17. Saint Anthonys Hospital
-	1200 Seventh Ave N Saint Petersburg 33705 (CMS:yes)
-	2.35 St. Anthony's Hospital
-	1200 7th Avenue North St. Petersburg 33713
-18. Larkin Community Hospital
-	7031 Sw 62Nd Ave South Miami 33143 (CMS:yes)
-	3.01 Larkin General Hospital
-	7031 Southwest 62nd Avenue South Miami 33143
-19. Southern Winds
-	4225 W 20Th Ave Hialeah 33012 (CMS:no)
-	2.25 Larkin Community Hospital Palm Springs Campus
-	1475 West 49th Place Hialeah 33012
-20. Adventhealth Palm Coast
-	60 Memorial Medical Pkwy Palm Coast 32164 (CMS:yes)
-	2.97 Florida Hospital Flagler
-	60 Memorial Medical Parkway Palm Coast 32164
-21. North Tampa Behavioral Health
-	29910 Sr 56 Wesley Chapel 33543 (CMS:yes)
-	1.79 AdventHealth Wesley Chapel
-	2600 Bruce B Downs Boulevard Wesley Chapel 33544
-22. Oak Hill Hospital
-	11375 Cortez Blvd Brooksville 34613 (CMS:yes)
-	2.89 Oak Hill Hospital
-	11375 Cortez Boulevard Spring Hill 34613
-23. Cleveland Clinic Hospital
-	3100 Weston Rd Weston 33331 (CMS:yes)
-	3.05 Cleveland Clinic Hospital
-	2950 Cleveland Clinc Boulevard Weston 33331
-Broward Health Imperial Point
-	6401 North Federal Highway Fort Lauderdale 33308
-	 Emergency Mismatch (CMS:no)
-	Broward Health Imperial Point
-24. Naples Community Hospital
-	350 7Th St N Naples 34102 (CMS:yes)
-	2.69 NCH Baker Hospital Downtown
-	350 7th Street North Naples 34102
-25. Adventhealth Daytona Beach
-	301 Memorial Medical Parkway Daytona Beach 32117 (CMS:no)
-	3.03 Florida Hospital Memorial Medical Center
-	301 Memorial Medical Parkway Daytona Beach 32117
-26. Springbrook Hospital
-	7007 Grove Rd Brooksville 34609 (CMS:no)
-	2.99 Springbrook Hospital
-	7007 Grove Road Spring Hill 34609
-27. Steward Rockledge Hospital
-	110 Longwood Ave Rockledge 32955 (CMS:yes)
-	3.03 Rockledge Regional Medical Center
-	110 Longwood Avenue Rockledge 32955
-28. Ascension Sacred Heart Bay
-	615 N Bonita Ave Panama City 32401 (CMS:yes)
-	2.72 Bay Medical Center
-	615 North Bonita Avenue Panama City 32401
-29. Blackberry Center
-	91 Beehive Cir Saint Cloud 34769 (CMS:no)
-	2.22 Saint Cloud Regional Medical Center
-	2906 17th Street Saint Cloud 34769
-30. Ascension Saint Vincent's Clay County
-	1670 St Vincents Way Middleburg 32068 (CMS:yes)
-	2.62 Saint Vincent’s Medical Center Clay County
-	1670 Saint Vincent's Way Middleburg 32073
-Port Saint Lucie Hospital
-	2250 Southeast Walton Road Port Saint Lucie 34952
-	 Emergency Mismatch (CMS:yes)
-	Port Saint Lucie Hospital
-31. Bethesda Hospital East
-	2815 S Seacrest Blvd Boynton Beach 33435 (CMS:yes)
-	2.98 Bethesda Hospital East
-	2815 South Seacrest Boulevard Delray Beach 33435
-32. Adventhealth Wauchula
-	735 S 5Th Ave Wauchula 33873 (CMS:yes)
-	2.94 Advent Hospital
-	735 5th Ave Wauchula 33873
-Memorial Regional Hospital
-	3501 Johnson Street Hollywood 33021
-	 Emergency Mismatch (CMS:no)
-	Memorial Regional Hospital
-33. Fort Lauderdale Behavioral Health Center
-	5757 N Dixie Hwy Oakland Park 33334 (CMS:no)
-	1.12 Westside Regional Medical Center
-	8201 West Broward Boulevard Plantation 33324
-Westside Regional Medical Center
-	8201 West Broward Boulevard Plantation 33324
-	 Emergency Mismatch (CMS:no)
-	Westside Regional Medical Center
-34. Lifestream Behavioral Center
-	2020 Tally Rd Leesburg 34748 (CMS:no)
-	2.37 Leesburg Regional Medical Center
-	600 East Dixie Avenue Leesburg 34748
-Doctors Memorial Hospital
-	2600 Hospital Drive Bonifay 32425
-	 Emergency Mismatch (CMS:no)
-	Doctor's Memorial Hospital
-35. Cleveland Clinic Martin North Hospital
-	200 Se Hospital Ave Stuart 34995 (CMS:yes)
-	2.74 Martin Medical Center
-	200 Southeast Hospital Avenue Stuart 34995
-36. Lakewood Ranch Medical Center
-	8330 Lakewood Ranch Blvd Bradenton 34202 (CMS:yes)
-	2.89 Lakewood Ranch Medical Center
-	8330 Lakewood Ranch Boulevard Lakewood Ranch 34202
-37. 96Th Medical Group (Eglin Afb)
-	96 Mdg 307 Boatner Rd Suite 114 Eglin Afb 32542 (CMS:yes)
-	2.15 96th Medical Group
-	307 Boatner Road Eglin Air Force Base 32542
-38. Eastside Psychiatric Hospital
-	2634B Capital Circle Ne, 2Nd Flr Tallahassee 32308 (CMS:no)
-	2.56 Apalachee Behavioral Health Center
-	2634 Capital Circle Northeast Tallahassee 32308
-39. Adventhealth Heart Of Florida
-	40100 Hwy 27 Davenport 33837 (CMS:yes)
-	2.81 Heart of Florida Regional Medical Center
-	40100 US Highway 27 Davenport 33837
-40. Palm Point Behavioral Health
-	2355 Truman Scarborough Way Titusville 32796 (CMS:no)
-	2.22 Parrish Medical Center
-	951 North Washington Avenue Titusville 32796
-41. Manatee Memorial Hospital
-	206 2Nd St E Bradenton 34208 (CMS:yes)
-	2.66 Manatee Healthcare System
-	206 2nd Street East Bradenton 34208
-Adventhealth Sebring
-	4200 Sun 'N Lake Boulevard Sebring 33872
-	 Emergency Mismatch (CMS:no)
-	AdventHealth Sebring
-42. Wekiva Springs
-	3947 Salisbury Rd Jacksonville 32216 (CMS:no)
-	2.29 Memorial Hospital
-	3625 University Boulevard South Jacksonville 32216
-43. Broward Health North
-	201 E Sample Rd Pompano Beach 33064 (CMS:yes)
-	2.92 Broward Health North
-	201 East Sample Road Deerfield Beach 33064
-44. Adventhealth Deland
-	701 W Plymouth Ave Deland 32720 (CMS:yes)
-	2.70 Florida Hospital Deland
-	701 West Plymouth Avenue DeLand 32720
-South Florida State Hospital
-	800 East Cypress Drive Pembroke Pines 33025
-	 Emergency Mismatch (CMS:yes)
-	South Florida State Hospital
-45. Adventhealth Waterman
-	1000 Waterman Way Tavares 32778 (CMS:no)
-	2.96 Florida Hospital Waterman
-	1000 Waterman Way Tavares 34778
-Found 45 issues.
+1. Unmatched medicare hospital
+  Medicare name: Suncoast Behavioral Health Center
+  Medicare address: 4480 51St St W Bradenton 34210
+  Medicare emergency services: no
+  Best OSM Match: 2.05 Blake Medical Center
+  OSM Address: 2020 59th Street West Bradenton 34209
+2. Unmatched medicare hospital
+  Medicare name: Adventhealth Lake Wales
+  Medicare address: 410 S 11Th St Lake Wales 33853
+  Medicare emergency services: yes
+  Best OSM Match: 2.67 Lake Wales Medical Center
+  OSM Address: 410 South 11th Street Lake Wales 33853
+3. Unmatched medicare hospital
+  Medicare name: Willough At Naples, The
+  Medicare address: 9001 Tamiami Trail East Naples 34113
+  Medicare emergency services: no
+  Best OSM Match: 1.95 North Naples Hospital
+  OSM Address: 11190 Health Park Boulevard Naples 34110
+4. Unmatched medicare hospital
+  Medicare name: Bayfront Health Seven Rivers
+  Medicare address: 6201 N Suncoast Blvd Crystal River 34428
+  Medicare emergency services: yes
+  Best OSM Match: 2.84 Seven Rivers Regional Medical Center
+  OSM Address: 6201 Suncoast Boulevard Crystal River 34428
+5. Unmatched medicare hospital
+  Medicare name: Ascension Sacred Heart Gulf
+  Medicare address: 3801 E Hwy 98 Port Saint Joe 32456
+  Medicare emergency services: yes
+  Best OSM Match: 2.94 Sacred Heart Hospital on the Gulf
+  OSM Address: 3801 East Highway 98 Port Saint Joe 32456
+6. Emergency services mismatch
+  Medicare name: Morton Plant North Bay Hospital
+  OSM name: Morton Plant North Bay Hospital
+  OSM Address: 6600 Madison Street New Port Richey 34652
+  Medicare emergency services: no
+  OSM Emergency: yes
+7. Unmatched medicare hospital
+  Medicare name: Steward Sebastian River Medical Center
+  Medicare address: 13695 Us Hwy 1 Sebastian 32978
+  Medicare emergency services: yes
+  Best OSM Match: 2.70 Sebastian River Medical Center
+  OSM Address: 13695 US 1 Sebastian 34958
+8. Unmatched medicare hospital
+  Medicare name: Adventhealth New Smyrna Beach
+  Medicare address: 401 Palmetto St New Smyrna Beach 32170
+  Medicare emergency services: yes
+  Best OSM Match: 2.02 Florida Hospital New Smyrna
+  OSM Address: 401 Palmetto Street New Smyrna 32168
+9. Unmatched medicare hospital
+  Medicare name: Adventhealth Orlando
+  Medicare address: 601 E Rollins St Orlando 32803
+  Medicare emergency services: yes
+  Best OSM Match: 2.97 Florida Hospital Orlando
+  OSM Address: 601 East Rollins Street Orlando 32803
+10. Unmatched medicare hospital
+  Medicare name: Saint Josephs Hospital
+  Medicare address: 3001 W Martin Luther King Jr Blvd Tampa 33677
+  Medicare emergency services: yes
+  Best OSM Match: 3.03 Saint Joseph's Hospital
+  OSM Address: 3001 West Dr. Martin Luther King Jr Boulevard Tampa 33603
+11. Emergency services mismatch
+  Medicare name: The Jerome Golden Center For Behavioral Health, In
+  OSM name: The Jerome Golden Center for Behavioral Health
+  OSM Address: 1041 45th Street West Palm Beach 33407
+  Medicare emergency services: yes
+  OSM Emergency: no
+12. Emergency services mismatch
+  Medicare name: South Lake Hospital
+  OSM name: South Lake Hospital
+  OSM Address: 1900 Don Wickham Drive Clermont 34711
+  Medicare emergency services: no
+  OSM Emergency: yes
+13. Unmatched medicare hospital
+  Medicare name: Cleveland Clinic Indian River Hospital
+  Medicare address: 1000 36Th St Vero Beach 32960
+  Medicare emergency services: yes
+  Best OSM Match: 2.50 Indian River Medical Center
+  OSM Address: 1000 36th Street Vero Beach 34960
+14. Unmatched medicare hospital
+  Medicare name: River Point Behavioral Health
+  Medicare address: 6300 Beach Blvd Jacksonville 32216
+  Medicare emergency services: no
+  Best OSM Match: 2.77 Ten Broeck Hospital Jacksonville
+  OSM Address: 6700 Beach Boulevard Jacksonville 32216
+15. Unmatched medicare hospital
+  Medicare name: Larkin Community Hospital Behavioral Health Srvs
+  Medicare address: 1201 N 37Th Ave Hollywood 33021
+  Medicare emergency services: no
+  Best OSM Match: 2.21 Memorial Regional Hospital
+  OSM Address: 3501 Johnson Street Hollywood 33021
+16. Unmatched medicare hospital
+  Medicare name: Ascension Sacred Heart Pensacola
+  Medicare address: 5151 N 9Th Ave Pensacola 32504
+  Medicare emergency services: yes
+  Best OSM Match: 3.00 Sacred Heart Hospital of Pensacola
+  OSM Address: 5151 North 9th Avenue Pensacola 32504
+17. Unmatched medicare hospital
+  Medicare name: Aspire Health Partners
+  Medicare address: 1800 Mercy Dr Orlando 32808
+  Medicare emergency services: no
+  Best OSM Match: 1.91 Winnie Palmer Hospital for Women & Babies
+  OSM Address: 83 West Miller Street Orlando 32806
+18. Unmatched medicare hospital
+  Medicare name: Centerstone Of Florida
+  Medicare address: 2020 26Th Ave E Bradenton 34208
+  Medicare emergency services: no
+  Best OSM Match: 2.31 Manatee Healthcare System
+  OSM Address: 206 2nd Street East Bradenton 34208
+19. Unmatched medicare hospital
+  Medicare name: West Boca Medical Center
+  Medicare address: 21644 State Rd 7 Boca Raton 33428
+  Medicare emergency services: yes
+  Best OSM Match: 3.06 West Boca Medical Center
+  OSM Address: 21644 State Road 7 West Boca 33428
+20. Unmatched medicare hospital
+  Medicare name: Saint Anthonys Hospital
+  Medicare address: 1200 Seventh Ave N Saint Petersburg 33705
+  Medicare emergency services: yes
+  Best OSM Match: 2.35 St. Anthony's Hospital
+  OSM Address: 1200 7th Avenue North St. Petersburg 33713
+21. Unmatched medicare hospital
+  Medicare name: Larkin Community Hospital
+  Medicare address: 7031 Sw 62Nd Ave South Miami 33143
+  Medicare emergency services: yes
+  Best OSM Match: 3.01 Larkin General Hospital
+  OSM Address: 7031 Southwest 62nd Avenue South Miami 33143
+22. Unmatched medicare hospital
+  Medicare name: Southern Winds
+  Medicare address: 4225 W 20Th Ave Hialeah 33012
+  Medicare emergency services: no
+  Best OSM Match: 2.25 Larkin Community Hospital Palm Springs Campus
+  OSM Address: 1475 West 49th Place Hialeah 33012
+23. Unmatched medicare hospital
+  Medicare name: Adventhealth Palm Coast
+  Medicare address: 60 Memorial Medical Pkwy Palm Coast 32164
+  Medicare emergency services: yes
+  Best OSM Match: 2.97 Florida Hospital Flagler
+  OSM Address: 60 Memorial Medical Parkway Palm Coast 32164
+24. Unmatched medicare hospital
+  Medicare name: North Tampa Behavioral Health
+  Medicare address: 29910 Sr 56 Wesley Chapel 33543
+  Medicare emergency services: yes
+  Best OSM Match: 1.79 AdventHealth Wesley Chapel
+  OSM Address: 2600 Bruce B Downs Boulevard Wesley Chapel 33544
+25. Unmatched medicare hospital
+  Medicare name: Oak Hill Hospital
+  Medicare address: 11375 Cortez Blvd Brooksville 34613
+  Medicare emergency services: yes
+  Best OSM Match: 2.89 Oak Hill Hospital
+  OSM Address: 11375 Cortez Boulevard Spring Hill 34613
+26. Unmatched medicare hospital
+  Medicare name: Cleveland Clinic Hospital
+  Medicare address: 3100 Weston Rd Weston 33331
+  Medicare emergency services: yes
+  Best OSM Match: 3.05 Cleveland Clinic Hospital
+  OSM Address: 2950 Cleveland Clinc Boulevard Weston 33331
+27. Emergency services mismatch
+  Medicare name: Broward Health Imperial Point
+  OSM name: Broward Health Imperial Point
+  OSM Address: 6401 North Federal Highway Fort Lauderdale 33308
+  Medicare emergency services: no
+  OSM Emergency: yes
+28. Unmatched medicare hospital
+  Medicare name: Naples Community Hospital
+  Medicare address: 350 7Th St N Naples 34102
+  Medicare emergency services: yes
+  Best OSM Match: 2.69 NCH Baker Hospital Downtown
+  OSM Address: 350 7th Street North Naples 34102
+29. Unmatched medicare hospital
+  Medicare name: Adventhealth Daytona Beach
+  Medicare address: 301 Memorial Medical Parkway Daytona Beach 32117
+  Medicare emergency services: no
+  Best OSM Match: 3.03 Florida Hospital Memorial Medical Center
+  OSM Address: 301 Memorial Medical Parkway Daytona Beach 32117
+30. Unmatched medicare hospital
+  Medicare name: Springbrook Hospital
+  Medicare address: 7007 Grove Rd Brooksville 34609
+  Medicare emergency services: no
+  Best OSM Match: 2.99 Springbrook Hospital
+  OSM Address: 7007 Grove Road Spring Hill 34609
+31. Unmatched medicare hospital
+  Medicare name: Steward Rockledge Hospital
+  Medicare address: 110 Longwood Ave Rockledge 32955
+  Medicare emergency services: yes
+  Best OSM Match: 3.03 Rockledge Regional Medical Center
+  OSM Address: 110 Longwood Avenue Rockledge 32955
+32. Unmatched medicare hospital
+  Medicare name: Ascension Sacred Heart Bay
+  Medicare address: 615 N Bonita Ave Panama City 32401
+  Medicare emergency services: yes
+  Best OSM Match: 2.72 Bay Medical Center
+  OSM Address: 615 North Bonita Avenue Panama City 32401
+33. Unmatched medicare hospital
+  Medicare name: Blackberry Center
+  Medicare address: 91 Beehive Cir Saint Cloud 34769
+  Medicare emergency services: no
+  Best OSM Match: 2.22 Saint Cloud Regional Medical Center
+  OSM Address: 2906 17th Street Saint Cloud 34769
+34. Unmatched medicare hospital
+  Medicare name: Ascension Saint Vincent's Clay County
+  Medicare address: 1670 St Vincents Way Middleburg 32068
+  Medicare emergency services: yes
+  Best OSM Match: 2.62 Saint Vincent’s Medical Center Clay County
+  OSM Address: 1670 Saint Vincent's Way Middleburg 32073
+35. Emergency services mismatch
+  Medicare name: Port Saint Lucie Hospital
+  OSM name: Port Saint Lucie Hospital
+  OSM Address: 2250 Southeast Walton Road Port Saint Lucie 34952
+  Medicare emergency services: yes
+  OSM Emergency: no
+36. Unmatched medicare hospital
+  Medicare name: Bethesda Hospital East
+  Medicare address: 2815 S Seacrest Blvd Boynton Beach 33435
+  Medicare emergency services: yes
+  Best OSM Match: 2.98 Bethesda Hospital East
+  OSM Address: 2815 South Seacrest Boulevard Delray Beach 33435
+37. Unmatched medicare hospital
+  Medicare name: Adventhealth Wauchula
+  Medicare address: 735 S 5Th Ave Wauchula 33873
+  Medicare emergency services: yes
+  Best OSM Match: 2.94 Advent Hospital
+  OSM Address: 735 5th Ave Wauchula 33873
+38. Emergency services mismatch
+  Medicare name: Memorial Regional Hospital
+  OSM name: Memorial Regional Hospital
+  OSM Address: 3501 Johnson Street Hollywood 33021
+  Medicare emergency services: no
+  OSM Emergency: yes
+39. Unmatched medicare hospital
+  Medicare name: Fort Lauderdale Behavioral Health Center
+  Medicare address: 5757 N Dixie Hwy Oakland Park 33334
+  Medicare emergency services: no
+  Best OSM Match: 1.12 Westside Regional Medical Center
+  OSM Address: 8201 West Broward Boulevard Plantation 33324
+40. Emergency services mismatch
+  Medicare name: Westside Regional Medical Center
+  OSM name: Westside Regional Medical Center
+  OSM Address: 8201 West Broward Boulevard Plantation 33324
+  Medicare emergency services: no
+  OSM Emergency: yes
+41. Unmatched medicare hospital
+  Medicare name: Lifestream Behavioral Center
+  Medicare address: 2020 Tally Rd Leesburg 34748
+  Medicare emergency services: no
+  Best OSM Match: 2.37 Leesburg Regional Medical Center
+  OSM Address: 600 East Dixie Avenue Leesburg 34748
+42. Emergency services mismatch
+  Medicare name: Doctors Memorial Hospital
+  OSM name: Doctor's Memorial Hospital
+  OSM Address: 2600 Hospital Drive Bonifay 32425
+  Medicare emergency services: no
+  OSM Emergency: yes
+43. Unmatched medicare hospital
+  Medicare name: Cleveland Clinic Martin North Hospital
+  Medicare address: 200 Se Hospital Ave Stuart 34995
+  Medicare emergency services: yes
+  Best OSM Match: 2.74 Martin Medical Center
+  OSM Address: 200 Southeast Hospital Avenue Stuart 34995
+44. Unmatched medicare hospital
+  Medicare name: Lakewood Ranch Medical Center
+  Medicare address: 8330 Lakewood Ranch Blvd Bradenton 34202
+  Medicare emergency services: yes
+  Best OSM Match: 2.89 Lakewood Ranch Medical Center
+  OSM Address: 8330 Lakewood Ranch Boulevard Lakewood Ranch 34202
+45. Unmatched medicare hospital
+  Medicare name: 96Th Medical Group (Eglin Afb)
+  Medicare address: 96 Mdg 307 Boatner Rd Suite 114 Eglin Afb 32542
+  Medicare emergency services: yes
+  Best OSM Match: 2.15 96th Medical Group
+  OSM Address: 307 Boatner Road Eglin Air Force Base 32542
+46. Unmatched medicare hospital
+  Medicare name: Eastside Psychiatric Hospital
+  Medicare address: 2634B Capital Circle Ne, 2Nd Flr Tallahassee 32308
+  Medicare emergency services: no
+  Best OSM Match: 2.56 Apalachee Behavioral Health Center
+  OSM Address: 2634 Capital Circle Northeast Tallahassee 32308
+47. Unmatched medicare hospital
+  Medicare name: Adventhealth Heart Of Florida
+  Medicare address: 40100 Hwy 27 Davenport 33837
+  Medicare emergency services: yes
+  Best OSM Match: 2.81 Heart of Florida Regional Medical Center
+  OSM Address: 40100 US Highway 27 Davenport 33837
+48. Unmatched medicare hospital
+  Medicare name: Palm Point Behavioral Health
+  Medicare address: 2355 Truman Scarborough Way Titusville 32796
+  Medicare emergency services: no
+  Best OSM Match: 2.22 Parrish Medical Center
+  OSM Address: 951 North Washington Avenue Titusville 32796
+49. Unmatched medicare hospital
+  Medicare name: Manatee Memorial Hospital
+  Medicare address: 206 2Nd St E Bradenton 34208
+  Medicare emergency services: yes
+  Best OSM Match: 2.66 Manatee Healthcare System
+  OSM Address: 206 2nd Street East Bradenton 34208
+50. Emergency services mismatch
+  Medicare name: Adventhealth Sebring
+  OSM name: AdventHealth Sebring
+  OSM Address: 4200 Sun 'N Lake Boulevard Sebring 33872
+  Medicare emergency services: no
+  OSM Emergency: yes
+51. Unmatched medicare hospital
+  Medicare name: Wekiva Springs
+  Medicare address: 3947 Salisbury Rd Jacksonville 32216
+  Medicare emergency services: no
+  Best OSM Match: 2.29 Memorial Hospital
+  OSM Address: 3625 University Boulevard South Jacksonville 32216
+52. Unmatched medicare hospital
+  Medicare name: Broward Health North
+  Medicare address: 201 E Sample Rd Pompano Beach 33064
+  Medicare emergency services: yes
+  Best OSM Match: 2.92 Broward Health North
+  OSM Address: 201 East Sample Road Deerfield Beach 33064
+53. Unmatched medicare hospital
+  Medicare name: Adventhealth Deland
+  Medicare address: 701 W Plymouth Ave Deland 32720
+  Medicare emergency services: yes
+  Best OSM Match: 2.70 Florida Hospital Deland
+  OSM Address: 701 West Plymouth Avenue DeLand 32720
+54. Emergency services mismatch
+  Medicare name: South Florida State Hospital
+  OSM name: South Florida State Hospital
+  OSM Address: 800 East Cypress Drive Pembroke Pines 33025
+  Medicare emergency services: yes
+  OSM Emergency: no
+55. Unmatched medicare hospital
+  Medicare name: Adventhealth Waterman
+  Medicare address: 1000 Waterman Way Tavares 32778
+  Medicare emergency services: no
+  Best OSM Match: 2.96 Florida Hospital Waterman
+  OSM Address: 1000 Waterman Way Tavares 34778
+Found 55 potential issues.
 
-Unmatched emergency=yes
-Bert Martin's Champions for Children Emergency Department & Trauma Center (0.00)
-	92 West Miller Street Orlando 32806
-Unmatched emergency=yes
-Sanatorio de COMEF (0.00)
-	- - - -
-Unmatched emergency=yes
-Golisano Children's Hospital of Southwest Florida (0.00)
-	9981 South Healthpark Drive Fort Myers 33908
-Unmatched emergency=yes
-Baptist Children's Hospital (0.00)
-	8900 North Kendall Drive Miami 33176
-Unmatched emergency=yes
-Birth Suites (0.00)
-	- - - -
-Unmatched emergency=yes
-Urgent Care Okeechobee (0.00)
-	305 Northeast Park St Okeechobee 34972
-Unmatched emergency=yes
-Florida Hospital Orlando (2.97)
-	601 East Rollins Street Orlando 32803
-Unmatched emergency=yes
-Florida Hospital Orlando Emergency Room (0.00)
-	- - - -
-Unmatched emergency=yes
-Arnold Palmer Hospital for Children (0.00)
-	92 West Miller Street Orlando 32806
-Unmatched emergency=yes
-St. Joseph's Hospital-North (0.00)
-	4211 Van Dyke Road Lutz 33558
-Unmatched emergency=yes
-Martin Hospital South (0.00)
-	2100 Southeast Salerno Road Stuart 34997
-Unmatched emergency=yes
-Martin Medical Center (2.74)
-	200 Southeast Hospital Avenue Stuart 34995
-Unmatched emergency=yes
-Cleveland Clinic Hospital (3.05)
-	2950 Cleveland Clinc Boulevard Weston 33331
-Unmatched emergency=yes
-Bascom Palmer Eye Institute/Anne Bates Leach Eye Hospital (0.00)
-	900 Northwest 17th Street Miami 33136
-Unmatched emergency=yes
-West Palm Beach Veterans Administration Medical Center (0.00)
-	7305 North Military Trail West Palm Beach 33410
-Unmatched emergency=yes
-Lakewood Ranch Medical Center (2.89)
-	8330 Lakewood Ranch Boulevard Lakewood Ranch 34202
-Unmatched emergency=yes
-Heart of Florida Regional Medical Center (2.81)
-	40100 US Highway 27 Davenport 33837
-Unmatched emergency=yes
-Sacred Heart Hospital of Pensacola (3.00)
-	5151 North 9th Avenue Pensacola 32504
-Unmatched emergency=yes
-Broward Health North (2.92)
-	201 East Sample Road Deerfield Beach 33064
-Unmatched emergency=yes
-Jackson South Medical Center (0.00)
-	9333 Southwest 152nd Street Miami 33157
-Unmatched emergency=yes
-Florida Medical Center Hospital (0.00)
-	5000 West Oakland Park Boulevard Lauderdale Lakes 33313
-Unmatched emergency=yes
-Rockledge Regional Medical Center (3.03)
-	110 Longwood Avenue Rockledge 32955
-Unmatched emergency=yes
-UF Health Shands Cancer Hospital (0.00)
-	1515 Southwest Archer Road Gainesville 32608
-Unmatched emergency=yes
-96th Medical Group (2.15)
-	307 Boatner Road Eglin Air Force Base 32542
-Unmatched emergency=yes
-Dr. P. Phillips Hospital (0.00)
-	9400 Turkey Lake Road Orlando 32819
-Unmatched emergency=yes
-Baptist Medical Center South (0.00)
-	14550 Old Saint Augustine Road Jacksonville 32258
-Unmatched emergency=yes
-West Marion Community Hospital (0.00)
-	4600 Southwest 46th Court Ocala 34474
-Unmatched emergency=yes
-Bethesda Hospital West (0.00)
-	9655 West Boynton Beach Boulevard Boynton Beach 33472
-Unmatched emergency=yes
-Florida Hospital Heartland Medical Center at Lake Placid (0.00)
-	1210 US Highway 27 North Lake Placid 33852
-Unmatched emergency=yes
-Emergency Center - Northeast (0.00)
-	1260 Metropolitan Boulevard Tallahassee 32308
-Unmatched emergency=yes
-Baptist Clay Medical Campus (0.00)
-	1771 Village Square Parkway Fleming Island 32003
-Unmatched emergency=yes
-Jackson North Medical Center (0.00)
-	160 Northwest 170th Street North Miami Beach 33169
-Unmatched emergency=yes
-Lake Wales Medical Center (2.67)
-	410 South 11th Street Lake Wales 33853
-Unmatched emergency=yes
-Florida Hospital Celebration Health (0.00)
-	400 Celebration Place Kissimmee 34747
-Unmatched emergency=yes
-Florida Hospital freestanding emergency Hospital (0.00)
-	305 East Brandon Boulevard brandon 33511
-Unmatched emergency=yes
-Bay Medical Center (2.72)
-	615 North Bonita Avenue Panama City 32401
-Unmatched emergency=yes
-Baptist Emergency at Town Center (0.00)
-	4085 Town Center Parkway Jacksonville 32246
-Unmatched emergency=yes
-HealthPark Medical Center (0.00)
-	9981 South Healthpark Drive Fort Myers 33908
-Unmatched emergency=yes
-Florida Hospital Apopka (0.00)
-	201 N Park Avenue Apopka 32703
-Unmatched emergency=yes
-Sacred Heart Hospital on the Gulf (2.94)
-	3801 East Highway 98 Port Saint Joe 32456
-Unmatched emergency=yes
-Campbellton-Graceville Hospital (0.00)
-	5429 College Drive Graceville 32440
-Unmatched emergency=yes
-Lake City VA Medical Center (0.00)
-	619 South Marion Avenue Lake City 32025
-Unmatched emergency=yes
-Saint Vincent’s Medical Center Clay County (2.62)
-	1670 Saint Vincent's Way Middleburg 32073
-Unmatched emergency=yes
-Florida Hospital Flagler (2.97)
-	60 Memorial Medical Parkway Palm Coast 32164
-Unmatched emergency=yes
-Florida Hospital Oceanside (0.00)
-	264 South Atlantic Avenue Ormond Beach 32176
-Unmatched emergency=yes
-Florida Hospital Memorial Medical Center (3.03)
-	301 Memorial Medical Parkway Daytona Beach 32117
-Unmatched emergency=yes
-Malcom Randall Veterans Administration Medical Center (0.00)
-	1601 Southwest Archer Road Gainesville 32608
-Unmatched emergency=yes
-Larkin General Hospital (3.01)
-	7031 Southwest 62nd Avenue South Miami 33143
-Unmatched emergency=yes
-University of Miami Hospital (0.00)
-	1400 Northwest 12th Avenue Miami 33136
-Unmatched emergency=yes
-Miami Veterans Affairs Medical Center (0.00)
-	1201 Northwest 16th Street Miami 33125
-Unmatched emergency=yes
-Mercy Hospital (0.00)
-	3663 South Miami Avenue Miami 33133
-Unmatched emergency=yes
-West Boca Medical Center (3.06)
-	21644 State Road 7 West Boca 33428
-Unmatched emergency=yes
-Bethesda Hospital East (2.98)
-	2815 South Seacrest Boulevard Delray Beach 33435
-Unmatched emergency=yes
-JFK Medical Center North Campus (0.00)
-	2201 45th Street West Palm Beach 33407
-Unmatched emergency=yes
-Indian River Medical Center (2.50)
-	1000 36th Street Vero Beach 34960
-Unmatched emergency=yes
-Sebastian River Medical Center (2.70)
-	13695 US 1 Sebastian 34958
-Unmatched emergency=yes
-Florida Hospital New Smyrna (2.02)
-	401 Palmetto Street New Smyrna 32168
-Unmatched emergency=yes
-Florida Hospital Deland (2.70)
-	701 West Plymouth Avenue DeLand 32720
-Unmatched emergency=yes
-Physicians Regional Medical Center- Collier Boulevard (0.00)
-	8300 Collier Boulevard Naples 34114
-Unmatched emergency=yes
-NCH Baker Hospital Downtown (2.69)
-	350 7th Street North Naples 34102
-Unmatched emergency=yes
-North Naples Hospital (1.95)
-	11190 Health Park Boulevard Naples 34110
-Unmatched emergency=yes
-Florida Hospital Wauchula (0.00)
-	533 Carlton Street Wauchula 33873
-Unmatched emergency=yes
-Manatee Healthcare System (2.66)
-	206 2nd Street East Bradenton 34208
-Unmatched emergency=yes
-Seven Rivers Regional Medical Center (2.84)
-	6201 Suncoast Boulevard Crystal River 34428
-Unmatched emergency=yes
-Florida Hospital Waterman (2.96)
-	1000 Waterman Way Tavares 34778
-Unmatched emergency=yes
-South Seminole Hospital (0.00)
-	555 West State Road 434 Longwood 32750
-Unmatched emergency=yes
-Florida Hospital Altamonte (0.00)
-	601 East Altamonte Drive Altamonte Springs 32701
-Unmatched emergency=yes
-Florida Hospital East Orlando (0.00)
-	7727 Lake Underhill Road Orlando 32822
-Unmatched emergency=yes
-Winter Park Memorial Hospital (0.00)
-	201 North Edinburgh Drive Winter Park 32792
-Unmatched emergency=yes
-Florida Hospital Kissimmee (0.00)
-	2450 North Orange Blossom Trail Kissimmee 34744
-Unmatched emergency=yes
-Oak Hill Hospital (2.89)
-	11375 Cortez Boulevard Spring Hill 34613
-Unmatched emergency=yes
-Bayfront Health Spring Hill (0.00)
-	10461 Quality Drive Spring Hill 34609
-Unmatched emergency=yes
-St. Joseph's Hospital-South (0.00)
-	6901 Simmons Loop Riverview 33578
-Unmatched emergency=yes
-James A. Haley Veterans' Hospital (0.00)
-	13000 Bruce B Downs Boulevard Tampa 33612
-Unmatched emergency=yes
-Saint Joseph's Hospital (3.03)
-	3001 West Dr. Martin Luther King Jr Boulevard Tampa 33603
-Unmatched emergency=yes
-Tampa Community Hospital (0.00)
-	6001 Webb Road Tampa 33615
-Unmatched emergency=yes
-Largo Medical Center Indian Rocks Road Campus (0.00)
-	2025 Indian Rocks Road Largo 33774
-Unmatched emergency=yes
-C.W. Bill Young VA Medical Center (0.00)
-	10000 Bay Pines Boulevard North Bay Pines 33744
-Unmatched emergency=yes
-St. Anthony's Hospital (2.35)
-	1200 7th Avenue North St. Petersburg 33713
-Unmatched emergency=yes
-TGH Brandon Healthplex (0.00)
-	10740 Palm River Road Tampa 33619
-Unmatched emergency=yes
-Charlotte Behavioral Health Care (0.00)
-	1700 Education Avenue Punta Gorda -
-Unmatched emergency=yes
-Park West ER (0.00)
-	6477 103rd ST Jacksonville 32210
-Unmatched emergency=yes
-Largo Medical Center Clearwater ER (0.00)
-	2339 Gulf to Bay Boulevard Clearwater 33765
-Unmatched emergency=yes
-Destin ER (0.00)
-	200 Tequesta Drive Destin 32541
-Unmatched emergency=yes
-Florida Hospital Orlando (0.00)
-	601 East Rollins Street Orlando 32803
+Unmatched emergency=yes in OSM
+  OSM name: Bert Martin's Champions for Children Emergency Department & Trauma Center
+  Score of best match: 0.00
+  OSM address: 92 West Miller Street Orlando 32806
+Unmatched emergency=yes in OSM
+  OSM name: Sanatorio de COMEF
+  Score of best match: 0.00
+  OSM address: - - - -
+Unmatched emergency=yes in OSM
+  OSM name: Golisano Children's Hospital of Southwest Florida
+  Score of best match: 0.00
+  OSM address: 9981 South Healthpark Drive Fort Myers 33908
+Unmatched emergency=yes in OSM
+  OSM name: Baptist Children's Hospital
+  Score of best match: 0.00
+  OSM address: 8900 North Kendall Drive Miami 33176
+Unmatched emergency=yes in OSM
+  OSM name: Birth Suites
+  Score of best match: 0.00
+  OSM address: - - - -
+Unmatched emergency=yes in OSM
+  OSM name: Urgent Care Okeechobee
+  Score of best match: 0.00
+  OSM address: 305 Northeast Park St Okeechobee 34972
+Unmatched emergency=yes in OSM
+  OSM name: Florida Hospital Orlando
+  Score of best match: 2.97
+  OSM address: 601 East Rollins Street Orlando 32803
+Unmatched emergency=yes in OSM
+  OSM name: Florida Hospital Orlando Emergency Room
+  Score of best match: 0.00
+  OSM address: - - - -
+Unmatched emergency=yes in OSM
+  OSM name: Arnold Palmer Hospital for Children
+  Score of best match: 0.00
+  OSM address: 92 West Miller Street Orlando 32806
+Unmatched emergency=yes in OSM
+  OSM name: St. Joseph's Hospital-North
+  Score of best match: 0.00
+  OSM address: 4211 Van Dyke Road Lutz 33558
+Unmatched emergency=yes in OSM
+  OSM name: Martin Hospital South
+  Score of best match: 0.00
+  OSM address: 2100 Southeast Salerno Road Stuart 34997
+Unmatched emergency=yes in OSM
+  OSM name: Martin Medical Center
+  Score of best match: 2.74
+  OSM address: 200 Southeast Hospital Avenue Stuart 34995
+Unmatched emergency=yes in OSM
+  OSM name: Cleveland Clinic Hospital
+  Score of best match: 3.05
+  OSM address: 2950 Cleveland Clinc Boulevard Weston 33331
+Unmatched emergency=yes in OSM
+  OSM name: Bascom Palmer Eye Institute/Anne Bates Leach Eye Hospital
+  Score of best match: 0.00
+  OSM address: 900 Northwest 17th Street Miami 33136
+Unmatched emergency=yes in OSM
+  OSM name: West Palm Beach Veterans Administration Medical Center
+  Score of best match: 0.00
+  OSM address: 7305 North Military Trail West Palm Beach 33410
+Unmatched emergency=yes in OSM
+  OSM name: Lakewood Ranch Medical Center
+  Score of best match: 2.89
+  OSM address: 8330 Lakewood Ranch Boulevard Lakewood Ranch 34202
+Unmatched emergency=yes in OSM
+  OSM name: Heart of Florida Regional Medical Center
+  Score of best match: 2.81
+  OSM address: 40100 US Highway 27 Davenport 33837
+Unmatched emergency=yes in OSM
+  OSM name: Sacred Heart Hospital of Pensacola
+  Score of best match: 3.00
+  OSM address: 5151 North 9th Avenue Pensacola 32504
+Unmatched emergency=yes in OSM
+  OSM name: Broward Health North
+  Score of best match: 2.92
+  OSM address: 201 East Sample Road Deerfield Beach 33064
+Unmatched emergency=yes in OSM
+  OSM name: Jackson South Medical Center
+  Score of best match: 0.00
+  OSM address: 9333 Southwest 152nd Street Miami 33157
+Unmatched emergency=yes in OSM
+  OSM name: Florida Medical Center Hospital
+  Score of best match: 0.00
+  OSM address: 5000 West Oakland Park Boulevard Lauderdale Lakes 33313
+Unmatched emergency=yes in OSM
+  OSM name: Rockledge Regional Medical Center
+  Score of best match: 3.03
+  OSM address: 110 Longwood Avenue Rockledge 32955
+Unmatched emergency=yes in OSM
+  OSM name: UF Health Shands Cancer Hospital
+  Score of best match: 0.00
+  OSM address: 1515 Southwest Archer Road Gainesville 32608
+Unmatched emergency=yes in OSM
+  OSM name: 96th Medical Group
+  Score of best match: 2.15
+  OSM address: 307 Boatner Road Eglin Air Force Base 32542
+Unmatched emergency=yes in OSM
+  OSM name: Dr. P. Phillips Hospital
+  Score of best match: 0.00
+  OSM address: 9400 Turkey Lake Road Orlando 32819
+Unmatched emergency=yes in OSM
+  OSM name: Baptist Medical Center South
+  Score of best match: 0.00
+  OSM address: 14550 Old Saint Augustine Road Jacksonville 32258
+Unmatched emergency=yes in OSM
+  OSM name: West Marion Community Hospital
+  Score of best match: 0.00
+  OSM address: 4600 Southwest 46th Court Ocala 34474
+Unmatched emergency=yes in OSM
+  OSM name: Bethesda Hospital West
+  Score of best match: 0.00
+  OSM address: 9655 West Boynton Beach Boulevard Boynton Beach 33472
+Unmatched emergency=yes in OSM
+  OSM name: Florida Hospital Heartland Medical Center at Lake Placid
+  Score of best match: 0.00
+  OSM address: 1210 US Highway 27 North Lake Placid 33852
+Unmatched emergency=yes in OSM
+  OSM name: Emergency Center - Northeast
+  Score of best match: 0.00
+  OSM address: 1260 Metropolitan Boulevard Tallahassee 32308
+Unmatched emergency=yes in OSM
+  OSM name: Baptist Clay Medical Campus
+  Score of best match: 0.00
+  OSM address: 1771 Village Square Parkway Fleming Island 32003
+Unmatched emergency=yes in OSM
+  OSM name: Jackson North Medical Center
+  Score of best match: 0.00
+  OSM address: 160 Northwest 170th Street North Miami Beach 33169
+Unmatched emergency=yes in OSM
+  OSM name: Lake Wales Medical Center
+  Score of best match: 2.67
+  OSM address: 410 South 11th Street Lake Wales 33853
+Unmatched emergency=yes in OSM
+  OSM name: Florida Hospital Celebration Health
+  Score of best match: 0.00
+  OSM address: 400 Celebration Place Kissimmee 34747
+Unmatched emergency=yes in OSM
+  OSM name: Florida Hospital freestanding emergency Hospital
+  Score of best match: 0.00
+  OSM address: 305 East Brandon Boulevard brandon 33511
+Unmatched emergency=yes in OSM
+  OSM name: Bay Medical Center
+  Score of best match: 2.72
+  OSM address: 615 North Bonita Avenue Panama City 32401
+Unmatched emergency=yes in OSM
+  OSM name: Baptist Emergency at Town Center
+  Score of best match: 0.00
+  OSM address: 4085 Town Center Parkway Jacksonville 32246
+Unmatched emergency=yes in OSM
+  OSM name: HealthPark Medical Center
+  Score of best match: 0.00
+  OSM address: 9981 South Healthpark Drive Fort Myers 33908
+Unmatched emergency=yes in OSM
+  OSM name: Florida Hospital Apopka
+  Score of best match: 0.00
+  OSM address: 201 N Park Avenue Apopka 32703
+Unmatched emergency=yes in OSM
+  OSM name: Sacred Heart Hospital on the Gulf
+  Score of best match: 2.94
+  OSM address: 3801 East Highway 98 Port Saint Joe 32456
+Unmatched emergency=yes in OSM
+  OSM name: Campbellton-Graceville Hospital
+  Score of best match: 0.00
+  OSM address: 5429 College Drive Graceville 32440
+Unmatched emergency=yes in OSM
+  OSM name: Lake City VA Medical Center
+  Score of best match: 0.00
+  OSM address: 619 South Marion Avenue Lake City 32025
+Unmatched emergency=yes in OSM
+  OSM name: Saint Vincent’s Medical Center Clay County
+  Score of best match: 2.62
+  OSM address: 1670 Saint Vincent's Way Middleburg 32073
+Unmatched emergency=yes in OSM
+  OSM name: Florida Hospital Flagler
+  Score of best match: 2.97
+  OSM address: 60 Memorial Medical Parkway Palm Coast 32164
+Unmatched emergency=yes in OSM
+  OSM name: Florida Hospital Oceanside
+  Score of best match: 0.00
+  OSM address: 264 South Atlantic Avenue Ormond Beach 32176
+Unmatched emergency=yes in OSM
+  OSM name: Florida Hospital Memorial Medical Center
+  Score of best match: 3.03
+  OSM address: 301 Memorial Medical Parkway Daytona Beach 32117
+Unmatched emergency=yes in OSM
+  OSM name: Malcom Randall Veterans Administration Medical Center
+  Score of best match: 0.00
+  OSM address: 1601 Southwest Archer Road Gainesville 32608
+Unmatched emergency=yes in OSM
+  OSM name: Larkin General Hospital
+  Score of best match: 3.01
+  OSM address: 7031 Southwest 62nd Avenue South Miami 33143
+Unmatched emergency=yes in OSM
+  OSM name: University of Miami Hospital
+  Score of best match: 0.00
+  OSM address: 1400 Northwest 12th Avenue Miami 33136
+Unmatched emergency=yes in OSM
+  OSM name: Miami Veterans Affairs Medical Center
+  Score of best match: 0.00
+  OSM address: 1201 Northwest 16th Street Miami 33125
+Unmatched emergency=yes in OSM
+  OSM name: Mercy Hospital
+  Score of best match: 0.00
+  OSM address: 3663 South Miami Avenue Miami 33133
+Unmatched emergency=yes in OSM
+  OSM name: West Boca Medical Center
+  Score of best match: 3.06
+  OSM address: 21644 State Road 7 West Boca 33428
+Unmatched emergency=yes in OSM
+  OSM name: Bethesda Hospital East
+  Score of best match: 2.98
+  OSM address: 2815 South Seacrest Boulevard Delray Beach 33435
+Unmatched emergency=yes in OSM
+  OSM name: JFK Medical Center North Campus
+  Score of best match: 0.00
+  OSM address: 2201 45th Street West Palm Beach 33407
+Unmatched emergency=yes in OSM
+  OSM name: Indian River Medical Center
+  Score of best match: 2.50
+  OSM address: 1000 36th Street Vero Beach 34960
+Unmatched emergency=yes in OSM
+  OSM name: Sebastian River Medical Center
+  Score of best match: 2.70
+  OSM address: 13695 US 1 Sebastian 34958
+Unmatched emergency=yes in OSM
+  OSM name: Florida Hospital New Smyrna
+  Score of best match: 2.02
+  OSM address: 401 Palmetto Street New Smyrna 32168
+Unmatched emergency=yes in OSM
+  OSM name: Florida Hospital Deland
+  Score of best match: 2.70
+  OSM address: 701 West Plymouth Avenue DeLand 32720
+Unmatched emergency=yes in OSM
+  OSM name: Physicians Regional Medical Center- Collier Boulevard
+  Score of best match: 0.00
+  OSM address: 8300 Collier Boulevard Naples 34114
+Unmatched emergency=yes in OSM
+  OSM name: NCH Baker Hospital Downtown
+  Score of best match: 2.69
+  OSM address: 350 7th Street North Naples 34102
+Unmatched emergency=yes in OSM
+  OSM name: North Naples Hospital
+  Score of best match: 1.95
+  OSM address: 11190 Health Park Boulevard Naples 34110
+Unmatched emergency=yes in OSM
+  OSM name: Florida Hospital Wauchula
+  Score of best match: 0.00
+  OSM address: 533 Carlton Street Wauchula 33873
+Unmatched emergency=yes in OSM
+  OSM name: Manatee Healthcare System
+  Score of best match: 2.66
+  OSM address: 206 2nd Street East Bradenton 34208
+Unmatched emergency=yes in OSM
+  OSM name: Seven Rivers Regional Medical Center
+  Score of best match: 2.84
+  OSM address: 6201 Suncoast Boulevard Crystal River 34428
+Unmatched emergency=yes in OSM
+  OSM name: Florida Hospital Waterman
+  Score of best match: 2.96
+  OSM address: 1000 Waterman Way Tavares 34778
+Unmatched emergency=yes in OSM
+  OSM name: South Seminole Hospital
+  Score of best match: 0.00
+  OSM address: 555 West State Road 434 Longwood 32750
+Unmatched emergency=yes in OSM
+  OSM name: Florida Hospital Altamonte
+  Score of best match: 0.00
+  OSM address: 601 East Altamonte Drive Altamonte Springs 32701
+Unmatched emergency=yes in OSM
+  OSM name: Florida Hospital East Orlando
+  Score of best match: 0.00
+  OSM address: 7727 Lake Underhill Road Orlando 32822
+Unmatched emergency=yes in OSM
+  OSM name: Winter Park Memorial Hospital
+  Score of best match: 0.00
+  OSM address: 201 North Edinburgh Drive Winter Park 32792
+Unmatched emergency=yes in OSM
+  OSM name: Florida Hospital Kissimmee
+  Score of best match: 0.00
+  OSM address: 2450 North Orange Blossom Trail Kissimmee 34744
+Unmatched emergency=yes in OSM
+  OSM name: Oak Hill Hospital
+  Score of best match: 2.89
+  OSM address: 11375 Cortez Boulevard Spring Hill 34613
+Unmatched emergency=yes in OSM
+  OSM name: Bayfront Health Spring Hill
+  Score of best match: 0.00
+  OSM address: 10461 Quality Drive Spring Hill 34609
+Unmatched emergency=yes in OSM
+  OSM name: St. Joseph's Hospital-South
+  Score of best match: 0.00
+  OSM address: 6901 Simmons Loop Riverview 33578
+Unmatched emergency=yes in OSM
+  OSM name: James A. Haley Veterans' Hospital
+  Score of best match: 0.00
+  OSM address: 13000 Bruce B Downs Boulevard Tampa 33612
+Unmatched emergency=yes in OSM
+  OSM name: Saint Joseph's Hospital
+  Score of best match: 3.03
+  OSM address: 3001 West Dr. Martin Luther King Jr Boulevard Tampa 33603
+Unmatched emergency=yes in OSM
+  OSM name: Tampa Community Hospital
+  Score of best match: 0.00
+  OSM address: 6001 Webb Road Tampa 33615
+Unmatched emergency=yes in OSM
+  OSM name: Largo Medical Center Indian Rocks Road Campus
+  Score of best match: 0.00
+  OSM address: 2025 Indian Rocks Road Largo 33774
+Unmatched emergency=yes in OSM
+  OSM name: C.W. Bill Young VA Medical Center
+  Score of best match: 0.00
+  OSM address: 10000 Bay Pines Boulevard North Bay Pines 33744
+Unmatched emergency=yes in OSM
+  OSM name: St. Anthony's Hospital
+  Score of best match: 2.35
+  OSM address: 1200 7th Avenue North St. Petersburg 33713
+Unmatched emergency=yes in OSM
+  OSM name: TGH Brandon Healthplex
+  Score of best match: 0.00
+  OSM address: 10740 Palm River Road Tampa 33619
+Unmatched emergency=yes in OSM
+  OSM name: Charlotte Behavioral Health Care
+  Score of best match: 0.00
+  OSM address: 1700 Education Avenue Punta Gorda -
+Unmatched emergency=yes in OSM
+  OSM name: Park West ER
+  Score of best match: 0.00
+  OSM address: 6477 103rd ST Jacksonville 32210
+Unmatched emergency=yes in OSM
+  OSM name: Largo Medical Center Clearwater ER
+  Score of best match: 0.00
+  OSM address: 2339 Gulf to Bay Boulevard Clearwater 33765
+Unmatched emergency=yes in OSM
+  OSM name: Destin ER
+  Score of best match: 0.00
+  OSM address: 200 Tequesta Drive Destin 32541
+Unmatched emergency=yes in OSM
+  OSM name: Florida Hospital Orlando
+  Score of best match: 0.00
+  OSM address: 601 East Rollins Street Orlando 32803
 Found 85 unmatched emergency.

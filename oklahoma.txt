@@ -1,172 +1,245 @@
 154 OSM hospitals
 130 Medicare hospitals
-1. Jefferson County Hospital
-	Intersection Hyws 81 & 70 Waurika 73573 (CMS:yes)
-	3.07 Jefferson County Hospital
-	- US Highway 70 & 81 Waurika 73573
-2. Parkside, Inc
-	1619 East 13Th Street Tulsa 74120 (CMS:yes)
-	2.07 Oklahoma State University Medical Center
-	744 West 9th Street Tulsa 74127
-3. Integris Community Hospital - Council Crossing
-	9417 N Council Road Oklahoma City 73162 (CMS:yes)
-	2.13 Mercy Hospital Oklahoma City
-	4300 West Memorial Road Oklahoma City 73120
-4. Northwest Center For Behavioral Health (Ncbh)
-	1 Mile East Us Highway 270 Fort Supply 73841 (CMS:no)
-	0.95 INTEGRIS Mental Health Spencer
-	2601 North Spencer Road Spencer 73084
-5. Carl Albert Community Mental Health Center
-	1101 East Monroe Mcalester 74501 (CMS:no)
-	3.02 Carl Albert Community Mental Health Center
-	1100 East Monroe Avenue McAlester 74502
-6. Seiling Municipal Hospital
-	809 Ne Highway 60 Seiling 73663 (CMS:yes)
-	2.57 Seiling Regional Medical Center
-	809 US 60 Seiling 73663
-7. Ssm Health Saint Anthony Hospital - Oklahoma City
-	1000 North Lee Avenue Oklahoma City 73101 (CMS:yes)
-	3.02 Saint Anthony Hospital
-	1000 North Lee Avenue Oklahoma City 73102
-Onecore Health
-	1044 Southwest 44th Street Oklahoma City 73109
-	 Emergency Mismatch (CMS:yes)
-	OneCore Health
-8. Mary Hurley Hospital
-	6 North Covington Coalgate 74538 (CMS:yes)
-	3.03 Coal County General Hospital
-	6 North Covington Street Coalgate 74538
-9. Cedar Ridge Behavioral Hospital
-	6501 Northeast 50Th Street Oklahoma City 73141 (CMS:no)
-	2.34 OU Medical Center
-	700 Northeast 13th Street Oklahoma City 73104
-10. Ssm Health Saint Anthony Hospital - Shawnee
-	1102 W Macarthur Shawnee 74804 (CMS:yes)
-	2.80 St. Anthony Shawnee Hospital
-	1102 West McArthur Road Shawnee 74804
-11. Weatherford Regional Hospital, Inc Of Weatherford
-	3701 E Main Weatherford 73096 (CMS:yes)
-	3.03 Weatherford Regional Hospital
-	3701 East Main Street Weatherford 73096
-12. Norman Regional
-	901 N Porter Norman 73070 (CMS:yes)
-	2.70 Norman Regional Hospital
-	901 North Porter Avenue Norman 73071
-13. Griffin Memorial Hospital
-	900 East Main Street Norman 73070 (CMS:no)
-	2.43 Robinson Medical Plaza
-	701 East Robinson Street Norman 73071
-Oklahoma Surgical Hospital, Llc
-	2408 East 81st Street Tulsa 74137
-	 Emergency Mismatch (CMS:yes)
-	Oklahoma Surgical Hospital
-Lakeside Women's Hospital, A Member Of Integris He
-	11200 North Portland Avenue Oklahoma City 73120
-	 Emergency Mismatch (CMS:yes)
-	Lakeside Women's Hospital
-14. Rolling Hills Hospital, Llc
-	1000 Rolling Hills Lane Ada 74820 (CMS:no)
-	2.29 Mercy Hospital Ada
-	430 North Monte Vista Street Ada 74820
-15. Sequoyah County-City Of Sallisaw Hospital Authorit
-	213 East Redwood Sallisaw 74955 (CMS:yes)
-	3.01 Sequoyah Memorial Hospital
-	213 East Redwood Avenue Sallisaw 74955
-16. Stillwater Medical - Perry
-	501 N 14Th St Perry 73077 (CMS:yes)
-	2.54 Perry Memorial Hospital
-	501 North 14th Street Perry 73077
-17. Brookhaven Hospital, Inc
-	201 South Garnett Road Tulsa 74128 (CMS:no)
-	2.01 Tulsa Spine & Specialty Hospital
-	6901 South Olympia Avenue Tulsa 74132
-18. Shadow Mountain Behavioral Health System
-	6262 South Sheridan Road Tulsa 74133 (CMS:yes)
-	2.29 Southwestern Regional Medical Center
-	10109 East 79th Street Tulsa 74133
-19. Oakwood Springs, Llc
-	13101 Memorial Springs Ct Oklahoma City 73114 (CMS:no)
-	2.15 McBride Orthopedic Hospital
-	9600 Broadway Extension Oklahoma City 73114
-20. Saint John Sapulpa, Inc
-	1004 East Bryan Sapulpa 74066 (CMS:yes)
-	2.79 Saint John Sapulpa
-	1004 East Bryan Avenue Sapulpa 74010
-21. Laureate Psychiatric Clinic And Hospital, Inc
-	6655 South Yale Avenue Tulsa 74136 (CMS:no)
-	3.03 Saint Francis Hospital
-	6161 South Yale Avenue Tulsa 74136
-22. Jim Taliaferro Comm Mental Health Ctr
-	602 Southwest 38Th Street Lawton 73505 (CMS:no)
-	2.89 Southwestern Behavioral Health
-	1602 Southwest 82nd Street Lawton 73505
-Tulsa Spine & Specialty Hospital
-	6901 South Olympia Avenue Tulsa 74132
-	 Emergency Mismatch (CMS:yes)
-	Tulsa Spine & Specialty Hospital
-Found 22 issues.
+1. Unmatched medicare hospital
+  Medicare name: Jefferson County Hospital
+  Medicare address: Intersection Hyws 81 & 70 Waurika 73573
+  Medicare emergency services: yes
+  Best OSM Match: 3.07 Jefferson County Hospital
+  OSM Address: - US Highway 70 & 81 Waurika 73573
+2. Unmatched medicare hospital
+  Medicare name: Parkside, Inc
+  Medicare address: 1619 East 13Th Street Tulsa 74120
+  Medicare emergency services: yes
+  Best OSM Match: 2.07 Oklahoma State University Medical Center
+  OSM Address: 744 West 9th Street Tulsa 74127
+3. Unmatched medicare hospital
+  Medicare name: Integris Community Hospital - Council Crossing
+  Medicare address: 9417 N Council Road Oklahoma City 73162
+  Medicare emergency services: yes
+  Best OSM Match: 2.13 Mercy Hospital Oklahoma City
+  OSM Address: 4300 West Memorial Road Oklahoma City 73120
+4. Unmatched medicare hospital
+  Medicare name: Northwest Center For Behavioral Health (Ncbh)
+  Medicare address: 1 Mile East Us Highway 270 Fort Supply 73841
+  Medicare emergency services: no
+  Best OSM Match: 0.95 INTEGRIS Mental Health Spencer
+  OSM Address: 2601 North Spencer Road Spencer 73084
+5. Unmatched medicare hospital
+  Medicare name: Carl Albert Community Mental Health Center
+  Medicare address: 1101 East Monroe Mcalester 74501
+  Medicare emergency services: no
+  Best OSM Match: 3.02 Carl Albert Community Mental Health Center
+  OSM Address: 1100 East Monroe Avenue McAlester 74502
+6. Unmatched medicare hospital
+  Medicare name: Seiling Municipal Hospital
+  Medicare address: 809 Ne Highway 60 Seiling 73663
+  Medicare emergency services: yes
+  Best OSM Match: 2.57 Seiling Regional Medical Center
+  OSM Address: 809 US 60 Seiling 73663
+7. Unmatched medicare hospital
+  Medicare name: Ssm Health Saint Anthony Hospital - Oklahoma City
+  Medicare address: 1000 North Lee Avenue Oklahoma City 73101
+  Medicare emergency services: yes
+  Best OSM Match: 3.02 Saint Anthony Hospital
+  OSM Address: 1000 North Lee Avenue Oklahoma City 73102
+8. Emergency services mismatch
+  Medicare name: Onecore Health
+  OSM name: OneCore Health
+  OSM Address: 1044 Southwest 44th Street Oklahoma City 73109
+  Medicare emergency services: yes
+  OSM Emergency: no
+9. Unmatched medicare hospital
+  Medicare name: Mary Hurley Hospital
+  Medicare address: 6 North Covington Coalgate 74538
+  Medicare emergency services: yes
+  Best OSM Match: 3.03 Coal County General Hospital
+  OSM Address: 6 North Covington Street Coalgate 74538
+10. Unmatched medicare hospital
+  Medicare name: Cedar Ridge Behavioral Hospital
+  Medicare address: 6501 Northeast 50Th Street Oklahoma City 73141
+  Medicare emergency services: no
+  Best OSM Match: 2.34 OU Medical Center
+  OSM Address: 700 Northeast 13th Street Oklahoma City 73104
+11. Unmatched medicare hospital
+  Medicare name: Ssm Health Saint Anthony Hospital - Shawnee
+  Medicare address: 1102 W Macarthur Shawnee 74804
+  Medicare emergency services: yes
+  Best OSM Match: 2.80 St. Anthony Shawnee Hospital
+  OSM Address: 1102 West McArthur Road Shawnee 74804
+12. Unmatched medicare hospital
+  Medicare name: Weatherford Regional Hospital, Inc Of Weatherford
+  Medicare address: 3701 E Main Weatherford 73096
+  Medicare emergency services: yes
+  Best OSM Match: 3.03 Weatherford Regional Hospital
+  OSM Address: 3701 East Main Street Weatherford 73096
+13. Unmatched medicare hospital
+  Medicare name: Norman Regional
+  Medicare address: 901 N Porter Norman 73070
+  Medicare emergency services: yes
+  Best OSM Match: 2.70 Norman Regional Hospital
+  OSM Address: 901 North Porter Avenue Norman 73071
+14. Unmatched medicare hospital
+  Medicare name: Griffin Memorial Hospital
+  Medicare address: 900 East Main Street Norman 73070
+  Medicare emergency services: no
+  Best OSM Match: 2.43 Robinson Medical Plaza
+  OSM Address: 701 East Robinson Street Norman 73071
+15. Emergency services mismatch
+  Medicare name: Oklahoma Surgical Hospital, Llc
+  OSM name: Oklahoma Surgical Hospital
+  OSM Address: 2408 East 81st Street Tulsa 74137
+  Medicare emergency services: yes
+  OSM Emergency: no
+16. Emergency services mismatch
+  Medicare name: Lakeside Women's Hospital, A Member Of Integris He
+  OSM name: Lakeside Women's Hospital
+  OSM Address: 11200 North Portland Avenue Oklahoma City 73120
+  Medicare emergency services: yes
+  OSM Emergency: no
+17. Unmatched medicare hospital
+  Medicare name: Rolling Hills Hospital, Llc
+  Medicare address: 1000 Rolling Hills Lane Ada 74820
+  Medicare emergency services: no
+  Best OSM Match: 2.29 Mercy Hospital Ada
+  OSM Address: 430 North Monte Vista Street Ada 74820
+18. Unmatched medicare hospital
+  Medicare name: Sequoyah County-City Of Sallisaw Hospital Authorit
+  Medicare address: 213 East Redwood Sallisaw 74955
+  Medicare emergency services: yes
+  Best OSM Match: 3.01 Sequoyah Memorial Hospital
+  OSM Address: 213 East Redwood Avenue Sallisaw 74955
+19. Unmatched medicare hospital
+  Medicare name: Stillwater Medical - Perry
+  Medicare address: 501 N 14Th St Perry 73077
+  Medicare emergency services: yes
+  Best OSM Match: 2.54 Perry Memorial Hospital
+  OSM Address: 501 North 14th Street Perry 73077
+20. Unmatched medicare hospital
+  Medicare name: Brookhaven Hospital, Inc
+  Medicare address: 201 South Garnett Road Tulsa 74128
+  Medicare emergency services: no
+  Best OSM Match: 2.01 Tulsa Spine & Specialty Hospital
+  OSM Address: 6901 South Olympia Avenue Tulsa 74132
+21. Unmatched medicare hospital
+  Medicare name: Shadow Mountain Behavioral Health System
+  Medicare address: 6262 South Sheridan Road Tulsa 74133
+  Medicare emergency services: yes
+  Best OSM Match: 2.29 Southwestern Regional Medical Center
+  OSM Address: 10109 East 79th Street Tulsa 74133
+22. Unmatched medicare hospital
+  Medicare name: Oakwood Springs, Llc
+  Medicare address: 13101 Memorial Springs Ct Oklahoma City 73114
+  Medicare emergency services: no
+  Best OSM Match: 2.15 McBride Orthopedic Hospital
+  OSM Address: 9600 Broadway Extension Oklahoma City 73114
+23. Unmatched medicare hospital
+  Medicare name: Saint John Sapulpa, Inc
+  Medicare address: 1004 East Bryan Sapulpa 74066
+  Medicare emergency services: yes
+  Best OSM Match: 2.79 Saint John Sapulpa
+  OSM Address: 1004 East Bryan Avenue Sapulpa 74010
+24. Unmatched medicare hospital
+  Medicare name: Laureate Psychiatric Clinic And Hospital, Inc
+  Medicare address: 6655 South Yale Avenue Tulsa 74136
+  Medicare emergency services: no
+  Best OSM Match: 3.03 Saint Francis Hospital
+  OSM Address: 6161 South Yale Avenue Tulsa 74136
+25. Unmatched medicare hospital
+  Medicare name: Jim Taliaferro Comm Mental Health Ctr
+  Medicare address: 602 Southwest 38Th Street Lawton 73505
+  Medicare emergency services: no
+  Best OSM Match: 2.89 Southwestern Behavioral Health
+  OSM Address: 1602 Southwest 82nd Street Lawton 73505
+26. Emergency services mismatch
+  Medicare name: Tulsa Spine & Specialty Hospital
+  OSM name: Tulsa Spine & Specialty Hospital
+  OSM Address: 6901 South Olympia Avenue Tulsa 74132
+  Medicare emergency services: yes
+  OSM Emergency: no
+Found 26 potential issues.
 
-Unmatched emergency=yes
-Jack C. Montgomery VA Medical Center (0.00)
-	1011 Honor Heights Drive Muskogee 74401
-Unmatched emergency=yes
-Saint Anthony Hospital (3.02)
-	1000 North Lee Avenue Oklahoma City 73102
-Unmatched emergency=yes
-The Children's Hospital at OU Medical Center (0.00)
-	1200 North Childrens Avenue Oklahoma City 73104
-Unmatched emergency=yes
-Norman Regional Hospital (2.70)
-	901 North Porter Avenue Norman 73071
-Unmatched emergency=yes
-Jefferson County Hospital (3.07)
-	- US Highway 70 & 81 Waurika 73573
-Unmatched emergency=yes
-Perry Memorial Hospital (2.54)
-	501 North 14th Street Perry 73077
-Unmatched emergency=yes
-Coal County General Hospital (3.03)
-	6 North Covington Street Coalgate 74538
-Unmatched emergency=yes
-Pauls Valley General Hospital (0.00)
-	100 Valley Drive Pauls Valley 73075
-Unmatched emergency=yes
-Latimer County General Hospital (0.00)
-	806 State Highway 2 North Wilburton 74578
-Unmatched emergency=yes
-Saint John Sapulpa (2.79)
-	1004 East Bryan Avenue Sapulpa 74010
-Unmatched emergency=yes
-Norman Regional Moore (0.00)
-	700 South Telephone Road Moore 73160
-Unmatched emergency=yes
-OU Medical Center (0.00)
-	1 South Bryant Avenue Edmond 73034
-Unmatched emergency=yes
-AllianceHealth Deaconess (0.00)
-	5501 North Portland Avenue Oklahoma City 73112
-Unmatched emergency=yes
-Mercy Hospital El Reno (0.00)
-	2115 Parkview Drive El Reno 73036
-Unmatched emergency=yes
-Epic Medical Center (0.00)
-	1 Hospital Drive Eufaula 74432
-Unmatched emergency=yes
-St. Anthony Shawnee Hospital (2.80)
-	1102 West McArthur Road Shawnee 74804
-Unmatched emergency=yes
-Saint Anthony Hospital (0.00)
-	1000 North Lee Avenue Oklahoma City 73102
-Unmatched emergency=yes
-Sequoyah Memorial Hospital (3.01)
-	213 East Redwood Avenue Sallisaw 74955
-Unmatched emergency=yes
-Weatherford Regional Hospital (3.03)
-	3701 East Main Street Weatherford 73096
-Unmatched emergency=yes
-Seiling Regional Medical Center (2.57)
-	809 US 60 Seiling 73663
-Unmatched emergency=yes
-Norman Regional HealthPlex (0.00)
-	3300 HealthPlex Parkway Norman 73072
+Unmatched emergency=yes in OSM
+  OSM name: Jack C. Montgomery VA Medical Center
+  Score of best match: 0.00
+  OSM address: 1011 Honor Heights Drive Muskogee 74401
+Unmatched emergency=yes in OSM
+  OSM name: Saint Anthony Hospital
+  Score of best match: 3.02
+  OSM address: 1000 North Lee Avenue Oklahoma City 73102
+Unmatched emergency=yes in OSM
+  OSM name: The Children's Hospital at OU Medical Center
+  Score of best match: 0.00
+  OSM address: 1200 North Childrens Avenue Oklahoma City 73104
+Unmatched emergency=yes in OSM
+  OSM name: Norman Regional Hospital
+  Score of best match: 2.70
+  OSM address: 901 North Porter Avenue Norman 73071
+Unmatched emergency=yes in OSM
+  OSM name: Jefferson County Hospital
+  Score of best match: 3.07
+  OSM address: - US Highway 70 & 81 Waurika 73573
+Unmatched emergency=yes in OSM
+  OSM name: Perry Memorial Hospital
+  Score of best match: 2.54
+  OSM address: 501 North 14th Street Perry 73077
+Unmatched emergency=yes in OSM
+  OSM name: Coal County General Hospital
+  Score of best match: 3.03
+  OSM address: 6 North Covington Street Coalgate 74538
+Unmatched emergency=yes in OSM
+  OSM name: Pauls Valley General Hospital
+  Score of best match: 0.00
+  OSM address: 100 Valley Drive Pauls Valley 73075
+Unmatched emergency=yes in OSM
+  OSM name: Latimer County General Hospital
+  Score of best match: 0.00
+  OSM address: 806 State Highway 2 North Wilburton 74578
+Unmatched emergency=yes in OSM
+  OSM name: Saint John Sapulpa
+  Score of best match: 2.79
+  OSM address: 1004 East Bryan Avenue Sapulpa 74010
+Unmatched emergency=yes in OSM
+  OSM name: Norman Regional Moore
+  Score of best match: 0.00
+  OSM address: 700 South Telephone Road Moore 73160
+Unmatched emergency=yes in OSM
+  OSM name: OU Medical Center
+  Score of best match: 0.00
+  OSM address: 1 South Bryant Avenue Edmond 73034
+Unmatched emergency=yes in OSM
+  OSM name: AllianceHealth Deaconess
+  Score of best match: 0.00
+  OSM address: 5501 North Portland Avenue Oklahoma City 73112
+Unmatched emergency=yes in OSM
+  OSM name: Mercy Hospital El Reno
+  Score of best match: 0.00
+  OSM address: 2115 Parkview Drive El Reno 73036
+Unmatched emergency=yes in OSM
+  OSM name: Epic Medical Center
+  Score of best match: 0.00
+  OSM address: 1 Hospital Drive Eufaula 74432
+Unmatched emergency=yes in OSM
+  OSM name: St. Anthony Shawnee Hospital
+  Score of best match: 2.80
+  OSM address: 1102 West McArthur Road Shawnee 74804
+Unmatched emergency=yes in OSM
+  OSM name: Saint Anthony Hospital
+  Score of best match: 0.00
+  OSM address: 1000 North Lee Avenue Oklahoma City 73102
+Unmatched emergency=yes in OSM
+  OSM name: Sequoyah Memorial Hospital
+  Score of best match: 3.01
+  OSM address: 213 East Redwood Avenue Sallisaw 74955
+Unmatched emergency=yes in OSM
+  OSM name: Weatherford Regional Hospital
+  Score of best match: 3.03
+  OSM address: 3701 East Main Street Weatherford 73096
+Unmatched emergency=yes in OSM
+  OSM name: Seiling Regional Medical Center
+  Score of best match: 2.57
+  OSM address: 809 US 60 Seiling 73663
+Unmatched emergency=yes in OSM
+  OSM name: Norman Regional HealthPlex
+  Score of best match: 0.00
+  OSM address: 3300 HealthPlex Parkway Norman 73072
 Found 21 unmatched emergency.

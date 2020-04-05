@@ -1,67 +1,93 @@
 70 OSM hospitals
 37 Medicare hospitals
-1. Saint Vincent's Medical Center
-	2800 Main St Bridgeport 06606 (CMS:yes)
-	2.31 St. Vincent's Medical Center
-	- Main Street Bridgeport -
-2. Connecticut Hospice Inc,The
-	100 Double Beach Road Branford 06405 (CMS:no)
-	1.24 Saint Francis Hospital and Medical Center
-	114 Woodland Street Hartford 06105
-3. Southwest Connecticut Mental Health
-	1635 Central Ave Bridgeport 06610 (CMS:no)
-	2.23 Bridgeport Hospital
-	267 Grant Street Bridgeport 06610
-4. Silver Hill Hospital Inc
-	208 Valley Road New Canaan 06840 (CMS:no)
-	1.21 Greenwich Hospital
-	5 Perryridge Road Greenwich 06830
-5. Connecticut Valley Hosp
-	Silver St Middletown 06457 (CMS:no)
-	2.89 Connecticut Valley Hospital
-	- - Middletown 06457
-6. Rockville General Hospital
-	31 Union St Rockville 06066 (CMS:yes)
-	2.73 Rockville General Hospital
-	31 Union Street Vernon 06066
-Connecticut Childrens Medical Center
-	282 Washington Street Hartford 06106
-	 Emergency Mismatch (CMS:yes)
-	Connecticut Children's Medical Center
-7. John Dempsey Hospital
-	263 Farmington Ave Farmington 06032 (CMS:yes)
-	2.56 University of Connecticut Health Center
-	263 Farmington Avenue Farmington 06030
-Found 7 issues.
+1. Unmatched medicare hospital
+  Medicare name: Saint Vincent's Medical Center
+  Medicare address: 2800 Main St Bridgeport 06606
+  Medicare emergency services: yes
+  Best OSM Match: 2.31 St. Vincent's Medical Center
+  OSM Address: - Main Street Bridgeport -
+2. Unmatched medicare hospital
+  Medicare name: Connecticut Hospice Inc,The
+  Medicare address: 100 Double Beach Road Branford 06405
+  Medicare emergency services: no
+  Best OSM Match: 1.24 Saint Francis Hospital and Medical Center
+  OSM Address: 114 Woodland Street Hartford 06105
+3. Unmatched medicare hospital
+  Medicare name: Southwest Connecticut Mental Health
+  Medicare address: 1635 Central Ave Bridgeport 06610
+  Medicare emergency services: no
+  Best OSM Match: 2.23 Bridgeport Hospital
+  OSM Address: 267 Grant Street Bridgeport 06610
+4. Unmatched medicare hospital
+  Medicare name: Silver Hill Hospital Inc
+  Medicare address: 208 Valley Road New Canaan 06840
+  Medicare emergency services: no
+  Best OSM Match: 1.21 Greenwich Hospital
+  OSM Address: 5 Perryridge Road Greenwich 06830
+5. Unmatched medicare hospital
+  Medicare name: Connecticut Valley Hosp
+  Medicare address: Silver St Middletown 06457
+  Medicare emergency services: no
+  Best OSM Match: 2.89 Connecticut Valley Hospital
+  OSM Address: - - Middletown 06457
+6. Unmatched medicare hospital
+  Medicare name: Rockville General Hospital
+  Medicare address: 31 Union St Rockville 06066
+  Medicare emergency services: yes
+  Best OSM Match: 2.73 Rockville General Hospital
+  OSM Address: 31 Union Street Vernon 06066
+7. Emergency services mismatch
+  Medicare name: Connecticut Childrens Medical Center
+  OSM name: Connecticut Children's Medical Center
+  OSM Address: 282 Washington Street Hartford 06106
+  Medicare emergency services: yes
+  OSM Emergency: no
+8. Unmatched medicare hospital
+  Medicare name: John Dempsey Hospital
+  Medicare address: 263 Farmington Ave Farmington 06032
+  Medicare emergency services: yes
+  Best OSM Match: 2.56 University of Connecticut Health Center
+  OSM Address: 263 Farmington Avenue Farmington 06030
+Found 8 potential issues.
 
-Unmatched emergency=yes
-Yale New Haven Children's Hospital (0.00)
-	1 Park Street New Haven 06510
-Unmatched emergency=yes
-St. Vincent's Medical Center (2.31)
-	- Main Street Bridgeport -
-Unmatched emergency=yes
-Shoreline Medical Center (0.00)
-	- - - -
-Unmatched emergency=yes
-Shoreline Medical Center (0.00)
-	250 Flat Rock Place Westbrook 06498
-Unmatched emergency=yes
-Yale New Haven Hospital Saint Raphael Campus (0.00)
-	1450 Chapel Street New Haven 06511
-Unmatched emergency=yes
-Rockville General Hospital (2.73)
-	31 Union Street Vernon 06066
-Unmatched emergency=yes
-Bradley Memorial Campus (0.00)
-	81 Meriden Avenue Southington 06489
-Unmatched emergency=yes
-University of Connecticut Health Center (2.56)
-	263 Farmington Avenue Farmington 06030
-Unmatched emergency=yes
-Middlesex Hospital (0.00)
-	28 Crescent Street Middletown 06457
-Unmatched emergency=yes
-New Milford Hospital (0.00)
-	21 Elm Street New Milford 06776
+Unmatched emergency=yes in OSM
+  OSM name: Yale New Haven Children's Hospital
+  Score of best match: 0.00
+  OSM address: 1 Park Street New Haven 06510
+Unmatched emergency=yes in OSM
+  OSM name: St. Vincent's Medical Center
+  Score of best match: 2.31
+  OSM address: - Main Street Bridgeport -
+Unmatched emergency=yes in OSM
+  OSM name: Shoreline Medical Center
+  Score of best match: 0.00
+  OSM address: - - - -
+Unmatched emergency=yes in OSM
+  OSM name: Shoreline Medical Center
+  Score of best match: 0.00
+  OSM address: 250 Flat Rock Place Westbrook 06498
+Unmatched emergency=yes in OSM
+  OSM name: Yale New Haven Hospital Saint Raphael Campus
+  Score of best match: 0.00
+  OSM address: 1450 Chapel Street New Haven 06511
+Unmatched emergency=yes in OSM
+  OSM name: Rockville General Hospital
+  Score of best match: 2.73
+  OSM address: 31 Union Street Vernon 06066
+Unmatched emergency=yes in OSM
+  OSM name: Bradley Memorial Campus
+  Score of best match: 0.00
+  OSM address: 81 Meriden Avenue Southington 06489
+Unmatched emergency=yes in OSM
+  OSM name: University of Connecticut Health Center
+  Score of best match: 2.56
+  OSM address: 263 Farmington Avenue Farmington 06030
+Unmatched emergency=yes in OSM
+  OSM name: Middlesex Hospital
+  Score of best match: 0.00
+  OSM address: 28 Crescent Street Middletown 06457
+Unmatched emergency=yes in OSM
+  OSM name: New Milford Hospital
+  Score of best match: 0.00
+  OSM address: 21 Elm Street New Milford 06776
 Found 10 unmatched emergency.

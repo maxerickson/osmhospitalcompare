@@ -1,26 +1,35 @@
 13 OSM hospitals
 9 Medicare hospitals
-1. Psychiatric Institute Of Washington Dc
-	4228 Wisconsin Avenue, Nw Washington 20016 (CMS:no)
-	2.65 Psychiatric Institute of Washington
-	4228 Wisconsin Avenue Northwest Washington -
-2. Children's Hospital Nmc
-	111 Michigan Ave, Nw Washington 20010 (CMS:yes)
-	2.92 Children's National Medical Center
-	111 Michigan Avenue Northwest Washington 20010
-3. Saint Elizabeths Hospital
-	1100 Alabama Avenue, Se Washington 20032 (CMS:no)
-	2.31 United Medical Center
-	1310 Southern Avenue Southeast Washington 20032
-Found 3 issues.
+1. Unmatched medicare hospital
+  Medicare name: Psychiatric Institute Of Washington Dc
+  Medicare address: 4228 Wisconsin Avenue, Nw Washington 20016
+  Medicare emergency services: no
+  Best OSM Match: 2.65 Psychiatric Institute of Washington
+  OSM Address: 4228 Wisconsin Avenue Northwest Washington -
+2. Unmatched medicare hospital
+  Medicare name: Children's Hospital Nmc
+  Medicare address: 111 Michigan Ave, Nw Washington 20010
+  Medicare emergency services: yes
+  Best OSM Match: 2.92 Children's National Medical Center
+  OSM Address: 111 Michigan Avenue Northwest Washington 20010
+3. Unmatched medicare hospital
+  Medicare name: Saint Elizabeths Hospital
+  Medicare address: 1100 Alabama Avenue, Se Washington 20032
+  Medicare emergency services: no
+  Best OSM Match: 2.31 United Medical Center
+  OSM Address: 1310 Southern Avenue Southeast Washington 20032
+Found 3 potential issues.
 
-Unmatched emergency=yes
-Children's National Medical Center (2.92)
-	111 Michigan Avenue Northwest Washington 20010
-Unmatched emergency=yes
-Providence Hospital (0.00)
-	1150 Varnum Street Northeast Washington 20017
-Unmatched emergency=yes
-Washington DC VA Medical Center (0.00)
-	50 Irving Street Northwest Washington 20422
+Unmatched emergency=yes in OSM
+  OSM name: Children's National Medical Center
+  Score of best match: 2.92
+  OSM address: 111 Michigan Avenue Northwest Washington 20010
+Unmatched emergency=yes in OSM
+  OSM name: Providence Hospital
+  Score of best match: 0.00
+  OSM address: 1150 Varnum Street Northeast Washington 20017
+Unmatched emergency=yes in OSM
+  OSM name: Washington DC VA Medical Center
+  Score of best match: 0.00
+  OSM address: 50 Irving Street Northwest Washington 20422
 Found 3 unmatched emergency.

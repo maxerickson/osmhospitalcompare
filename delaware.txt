@@ -1,57 +1,81 @@
 10 OSM hospitals
 12 Medicare hospitals
-1. Christiana Care Health Services, Inc.
-	4755 Ogletown-Stanton Road Newark 19718 (CMS:yes)
-	2.91 Christiana Hospital
-	4755 Ogleton-Stanton Road Newark 19713
-2. Delaware Psychiatric Center
-	1901 N Dupont Highway New Castle 19720 (CMS:no)
-	0.84 Veterans Affairs Medical Center Wilmington
-	1601 Kirkwood Highway Wilmington 19805
-3. Sun Behavioral Delaware Llc
-	21655 Biden Avenue Georgetown 19947 (CMS:no)
-	0.98 Nanticoke Memorial Hospital
-	801 Middleford Road Seaford 19973
-4. Alfred I Dupont Hospital For Children
-	1600 Rockland Rd Po Box 269 Wilmington 19899 (CMS:yes)
-	2.66 Nemours/Alfred I. duPont Hospital for Children
-	1600 Rockland Road Wilmington 19803
-5. Saint Francis Hospital
-	7Th And Clayton Sts Wilmington 19805 (CMS:yes)
-	2.91 Saint Francis Healthcare
-	701 North Clayton Street Wilmington 19805
-6. Dover Behavioral Health System
-	725 Horsepond Road Dover 19901 (CMS:no)
-	1.27 Bayhealth Kent General
-	640 South State Street Kent 19901
-7. Bayhealth Hospital, Sussex Campus
-	100 Wellness Way Milford 19963 (CMS:yes)
-	1.27 Nanticoke Memorial Hospital
-	801 Middleford Road Seaford 19973
-8. Bayhealth Hospital, Kent Campus
-	640 S State Street Dover 19901 (CMS:yes)
-	2.22 Bayhealth Kent General
-	640 South State Street Kent 19901
-9. Meadowwood Behavioral Health System
-	575 South Dupont Highway New Castle 19720 (CMS:no)
-	0.75 Christiana Hospital
-	4755 Ogleton-Stanton Road Newark 19713
-10. Rockford Center
-	100 Rockford Drive Newark 19713 (CMS:yes)
-	2.07 Christiana Hospital
-	4755 Ogleton-Stanton Road Newark 19713
-Found 10 issues.
+1. Unmatched medicare hospital
+  Medicare name: Christiana Care Health Services, Inc.
+  Medicare address: 4755 Ogletown-Stanton Road Newark 19718
+  Medicare emergency services: yes
+  Best OSM Match: 2.91 Christiana Hospital
+  OSM Address: 4755 Ogleton-Stanton Road Newark 19713
+2. Unmatched medicare hospital
+  Medicare name: Delaware Psychiatric Center
+  Medicare address: 1901 N Dupont Highway New Castle 19720
+  Medicare emergency services: no
+  Best OSM Match: 0.84 Veterans Affairs Medical Center Wilmington
+  OSM Address: 1601 Kirkwood Highway Wilmington 19805
+3. Unmatched medicare hospital
+  Medicare name: Sun Behavioral Delaware Llc
+  Medicare address: 21655 Biden Avenue Georgetown 19947
+  Medicare emergency services: no
+  Best OSM Match: 0.98 Nanticoke Memorial Hospital
+  OSM Address: 801 Middleford Road Seaford 19973
+4. Unmatched medicare hospital
+  Medicare name: Alfred I Dupont Hospital For Children
+  Medicare address: 1600 Rockland Rd Po Box 269 Wilmington 19899
+  Medicare emergency services: yes
+  Best OSM Match: 2.66 Nemours/Alfred I. duPont Hospital for Children
+  OSM Address: 1600 Rockland Road Wilmington 19803
+5. Unmatched medicare hospital
+  Medicare name: Saint Francis Hospital
+  Medicare address: 7Th And Clayton Sts Wilmington 19805
+  Medicare emergency services: yes
+  Best OSM Match: 2.91 Saint Francis Healthcare
+  OSM Address: 701 North Clayton Street Wilmington 19805
+6. Unmatched medicare hospital
+  Medicare name: Dover Behavioral Health System
+  Medicare address: 725 Horsepond Road Dover 19901
+  Medicare emergency services: no
+  Best OSM Match: 1.27 Bayhealth Kent General
+  OSM Address: 640 South State Street Kent 19901
+7. Unmatched medicare hospital
+  Medicare name: Bayhealth Hospital, Sussex Campus
+  Medicare address: 100 Wellness Way Milford 19963
+  Medicare emergency services: yes
+  Best OSM Match: 1.27 Nanticoke Memorial Hospital
+  OSM Address: 801 Middleford Road Seaford 19973
+8. Unmatched medicare hospital
+  Medicare name: Bayhealth Hospital, Kent Campus
+  Medicare address: 640 S State Street Dover 19901
+  Medicare emergency services: yes
+  Best OSM Match: 2.22 Bayhealth Kent General
+  OSM Address: 640 South State Street Kent 19901
+9. Unmatched medicare hospital
+  Medicare name: Meadowwood Behavioral Health System
+  Medicare address: 575 South Dupont Highway New Castle 19720
+  Medicare emergency services: no
+  Best OSM Match: 0.75 Christiana Hospital
+  OSM Address: 4755 Ogleton-Stanton Road Newark 19713
+10. Unmatched medicare hospital
+  Medicare name: Rockford Center
+  Medicare address: 100 Rockford Drive Newark 19713
+  Medicare emergency services: yes
+  Best OSM Match: 2.07 Christiana Hospital
+  OSM Address: 4755 Ogleton-Stanton Road Newark 19713
+Found 10 potential issues.
 
-Unmatched emergency=yes
-Bayhealth Kent General (2.22)
-	640 South State Street Kent 19901
-Unmatched emergency=yes
-Nemours/Alfred I. duPont Hospital for Children (2.66)
-	1600 Rockland Road Wilmington 19803
-Unmatched emergency=yes
-Saint Francis Healthcare (2.91)
-	701 North Clayton Street Wilmington 19805
-Unmatched emergency=yes
-Christiana Hospital (2.07)
-	4755 Ogleton-Stanton Road Newark 19713
+Unmatched emergency=yes in OSM
+  OSM name: Bayhealth Kent General
+  Score of best match: 2.22
+  OSM address: 640 South State Street Kent 19901
+Unmatched emergency=yes in OSM
+  OSM name: Nemours/Alfred I. duPont Hospital for Children
+  Score of best match: 2.66
+  OSM address: 1600 Rockland Road Wilmington 19803
+Unmatched emergency=yes in OSM
+  OSM name: Saint Francis Healthcare
+  Score of best match: 2.91
+  OSM address: 701 North Clayton Street Wilmington 19805
+Unmatched emergency=yes in OSM
+  OSM name: Christiana Hospital
+  Score of best match: 2.07
+  OSM address: 4755 Ogleton-Stanton Road Newark 19713
 Found 4 unmatched emergency.

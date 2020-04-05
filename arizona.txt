@@ -1,203 +1,289 @@
 131 OSM hospitals
 94 Medicare hospitals
-1. Sage Memorial Hospital
-	State Route 264 South 191 Ganado 86505 (CMS:no)
-	3.01 Sage Memorial Hospital
-	- - Ganado 86505
-2. Oro Valley Hospital
-	1551 East Tangerine Road Oro Valley 85755 (CMS:yes)
-	3.02 Oro Valley Hospital
-	1551 East Tangerine Road Tucson 85755
-3. Chinle Comprehensive Health Care Facility
-	Us Hwy 191, Hospital Road Chinle 86503 (CMS:yes)
-	3.01 Chinle Comprehensive Health Care Facility
-	- - Chinle 86503
-4. Parker Indian Health Center
-	12033 Agency Road Parker 85344 (CMS:yes)
-	2.88 Parker Indian Hospital
-	12033 West Agency Avenue Parker 85344
-5. Cornerstone Behavioral Health El Dorado
-	1400 North Wilmot Road Tucson 85712 (CMS:no)
-	2.46 Saint Joseph's Hospital
-	350 North Wilmot Road Tucson 85711
-6. Fort Defiance Indian Hospital
-	Po Box 649 Fort Defiance 86504 (CMS:yes)
-	2.17 Tséhootsooí Medical Center
-	- - Fort Defiance 86504
-7. Guidance Center, The
-	2187 North Vickey Street Flagstaff 86004 (CMS:no)
-	2.30 Flagstaff Medical Center: Children's Health Center
-	1215 North Beaver Street Flagstaff 86001
-Saint Luke's Medical Center
-	1800 East Van Buren Street Phoenix 85006
-	 Emergency Mismatch (CMS:yes)
-	Saint Lukes Behavioral Health Center
-Banner Baywood Medical Center
-	6644 East Baywood Avenue Mesa 85206
-	 Emergency Mismatch (CMS:no)
-	Banner Baywood Medical Center
-8. Hopi Health Care Center
-	Highway 264, Milepost 388 Polacca 86042 (CMS:no)
-	3.01 Hopi Health Care Center
-	- - Polacca 86042
-Whiteriver Phs Indian Hospital
-	200 West Hospital Drive Whiteriver 85941
-	 Emergency Mismatch (CMS:no)
-	Whiteriver Indian Hospital
-9. Oasis Behavioral Health Hospital
-	2190 North Grace Boulevard Chandler 85225 (CMS:no)
-	2.03 Dignity Health Arizona Specialty Hospital
-	2905 W Warner Rd Suite 1, Chandler, AZ 85224 Chandler 85224
-10. Sonora Behavioral Health Hospital
-	6050 North Corona Road Tucson 85704 (CMS:yes)
-	2.12 Northwest Medical Center
-	6020 North la Cholla Boulevard Tucson 85741
-11. Tuba City Regional Health Care Corporation
-	Po Box 600 Tuba City 86045 (CMS:no)
-	2.67 Tuba City Regional Heath Care
-	167 North Main Street Tuba City 86045
-Dignity Health - Arizona General Hospital
-	7171 South 51st Avenue Laveen 85339
-	 Emergency Mismatch (CMS:no)
-	Arizona General Hospital
-12. Sells Hospital
-	Highway 86, At Topawa Road Sells 85634 (CMS:yes)
-	2.65 Sells Indian Hospital
-	- - Sells 85634
-13. Scottsdale Thompson Peak Medical Center
-	7400 East Thompson Peak Parkway Scottsdale 85255 (CMS:yes)
-	2.82 HonorHealth Scottsdale Thompson Peak Medical Center
-	7400 North 73rd Street Scottsdale 85255
-14. Arizona State Hospital
-	2500 East Van Buren Street Phoenix 85008 (CMS:no)
-	2.66 OASIS Hospital
-	750 North 40th Street Phoenix 85008
-15. Windhaven Psychiatric Hospital
-	3347 North Windsong Drive Prescott Valley 86314 (CMS:no)
-	2.14 Yavapai Regional Medical Center
-	7700 East Florentine Road Prescott Valley 86314
-16. Palo Verde Behavioral Health
-	2695 North Craycroft Road Tucson 85712 (CMS:yes)
-	2.45 Tucson Medical Center
-	5301 East Grant Road Tucson 85712
-17. Banner Payson Medical Center
-	807 South Ponderosa Drive Payson 85541 (CMS:no)
-	2.90 Banner Payson Medical Center
-	807 South Ponderosa Street Payson 85072
-18. Valley Hospital
-	3550 East Pinchot Avenue Phoenix 85018 (CMS:yes)
-	3.00 Valley Hospital
-	3550 East Pinchot Avenue Phoenix -
-San Carlos Apache Healthcare
-	103 Medicine Way Road Peridot 85542
-	 Emergency Mismatch (CMS:no)
-	San Carlos Apache Healthcare Corporation
-Phoenix Children's Hospital
-	1919 East Thomas Road Phoenix 85016
-	 Emergency Mismatch (CMS:no)
-	Phoenix Children's Hospital
-19. Aurora Behavioral Health System
-	6015 West Peoria Avenue Glendale 85302 (CMS:no)
-	2.57 Corebella Addiction Treatment & Suboxone Clinic
-	5700 West Olive Avenue Glendale 85302
-20. Quail Run Behavioral Health
-	2545 West Quail Avenue Phoenix 85027 (CMS:no)
-	2.32 HonorHealth Deer Valley Medical Center
-	19829 North 27th Avenue Phoenix 85027
-Phoenix Indian Medical Center
-	4212 North 16th Street Phoenix 85016
-	 Emergency Mismatch (CMS:no)
-	Phoenix Indian Medical Center
-21. Dignity Health Arizona General Hospital
-	9130 East Elliot Road Mesa 85212 (CMS:yes)
-	2.07 Arizona Spine & Joint Hospital
-	4620 East Baseline Road Mesa 85206
-22. Changepoint Psychiatric Hospital
-	1920 West Commerce Drive Lakeside 85929 (CMS:yes)
-	1.16 Hacienda Children’s Hospital
-	610 West Jerome Avenue Mesa 85210
-23. Copper Springs Hospital, Llc
-	10550 West Mcdowell Road Avondale 85392 (CMS:yes)
-	1.42 Abrazo West Campus
-	13677 West McDowell Road Goodyear 85395
-Found 23 issues.
+1. Unmatched medicare hospital
+  Medicare name: Sage Memorial Hospital
+  Medicare address: State Route 264 South 191 Ganado 86505
+  Medicare emergency services: no
+  Best OSM Match: 3.01 Sage Memorial Hospital
+  OSM Address: - - Ganado 86505
+2. Unmatched medicare hospital
+  Medicare name: Oro Valley Hospital
+  Medicare address: 1551 East Tangerine Road Oro Valley 85755
+  Medicare emergency services: yes
+  Best OSM Match: 3.02 Oro Valley Hospital
+  OSM Address: 1551 East Tangerine Road Tucson 85755
+3. Unmatched medicare hospital
+  Medicare name: Chinle Comprehensive Health Care Facility
+  Medicare address: Us Hwy 191, Hospital Road Chinle 86503
+  Medicare emergency services: yes
+  Best OSM Match: 3.01 Chinle Comprehensive Health Care Facility
+  OSM Address: - - Chinle 86503
+4. Unmatched medicare hospital
+  Medicare name: Parker Indian Health Center
+  Medicare address: 12033 Agency Road Parker 85344
+  Medicare emergency services: yes
+  Best OSM Match: 2.88 Parker Indian Hospital
+  OSM Address: 12033 West Agency Avenue Parker 85344
+5. Unmatched medicare hospital
+  Medicare name: Cornerstone Behavioral Health El Dorado
+  Medicare address: 1400 North Wilmot Road Tucson 85712
+  Medicare emergency services: no
+  Best OSM Match: 2.46 Saint Joseph's Hospital
+  OSM Address: 350 North Wilmot Road Tucson 85711
+6. Unmatched medicare hospital
+  Medicare name: Fort Defiance Indian Hospital
+  Medicare address: Po Box 649 Fort Defiance 86504
+  Medicare emergency services: yes
+  Best OSM Match: 2.17 Tséhootsooí Medical Center
+  OSM Address: - - Fort Defiance 86504
+7. Unmatched medicare hospital
+  Medicare name: Guidance Center, The
+  Medicare address: 2187 North Vickey Street Flagstaff 86004
+  Medicare emergency services: no
+  Best OSM Match: 2.30 Flagstaff Medical Center: Children's Health Center
+  OSM Address: 1215 North Beaver Street Flagstaff 86001
+8. Emergency services mismatch
+  Medicare name: Saint Luke's Medical Center
+  OSM name: Saint Lukes Behavioral Health Center
+  OSM Address: 1800 East Van Buren Street Phoenix 85006
+  Medicare emergency services: yes
+  OSM Emergency: no
+9. Emergency services mismatch
+  Medicare name: Banner Baywood Medical Center
+  OSM name: Banner Baywood Medical Center
+  OSM Address: 6644 East Baywood Avenue Mesa 85206
+  Medicare emergency services: no
+  OSM Emergency: yes
+10. Unmatched medicare hospital
+  Medicare name: Hopi Health Care Center
+  Medicare address: Highway 264, Milepost 388 Polacca 86042
+  Medicare emergency services: no
+  Best OSM Match: 3.01 Hopi Health Care Center
+  OSM Address: - - Polacca 86042
+11. Emergency services mismatch
+  Medicare name: Whiteriver Phs Indian Hospital
+  OSM name: Whiteriver Indian Hospital
+  OSM Address: 200 West Hospital Drive Whiteriver 85941
+  Medicare emergency services: no
+  OSM Emergency: yes
+12. Unmatched medicare hospital
+  Medicare name: Oasis Behavioral Health Hospital
+  Medicare address: 2190 North Grace Boulevard Chandler 85225
+  Medicare emergency services: no
+  Best OSM Match: 2.03 Dignity Health Arizona Specialty Hospital
+  OSM Address: 2905 W Warner Rd Suite 1, Chandler, AZ 85224 Chandler 85224
+13. Unmatched medicare hospital
+  Medicare name: Sonora Behavioral Health Hospital
+  Medicare address: 6050 North Corona Road Tucson 85704
+  Medicare emergency services: yes
+  Best OSM Match: 2.12 Northwest Medical Center
+  OSM Address: 6020 North la Cholla Boulevard Tucson 85741
+14. Unmatched medicare hospital
+  Medicare name: Tuba City Regional Health Care Corporation
+  Medicare address: Po Box 600 Tuba City 86045
+  Medicare emergency services: no
+  Best OSM Match: 2.67 Tuba City Regional Heath Care
+  OSM Address: 167 North Main Street Tuba City 86045
+15. Emergency services mismatch
+  Medicare name: Dignity Health - Arizona General Hospital
+  OSM name: Arizona General Hospital
+  OSM Address: 7171 South 51st Avenue Laveen 85339
+  Medicare emergency services: no
+  OSM Emergency: yes
+16. Unmatched medicare hospital
+  Medicare name: Sells Hospital
+  Medicare address: Highway 86, At Topawa Road Sells 85634
+  Medicare emergency services: yes
+  Best OSM Match: 2.65 Sells Indian Hospital
+  OSM Address: - - Sells 85634
+17. Unmatched medicare hospital
+  Medicare name: Scottsdale Thompson Peak Medical Center
+  Medicare address: 7400 East Thompson Peak Parkway Scottsdale 85255
+  Medicare emergency services: yes
+  Best OSM Match: 2.82 HonorHealth Scottsdale Thompson Peak Medical Center
+  OSM Address: 7400 North 73rd Street Scottsdale 85255
+18. Unmatched medicare hospital
+  Medicare name: Arizona State Hospital
+  Medicare address: 2500 East Van Buren Street Phoenix 85008
+  Medicare emergency services: no
+  Best OSM Match: 2.66 OASIS Hospital
+  OSM Address: 750 North 40th Street Phoenix 85008
+19. Unmatched medicare hospital
+  Medicare name: Windhaven Psychiatric Hospital
+  Medicare address: 3347 North Windsong Drive Prescott Valley 86314
+  Medicare emergency services: no
+  Best OSM Match: 2.14 Yavapai Regional Medical Center
+  OSM Address: 7700 East Florentine Road Prescott Valley 86314
+20. Unmatched medicare hospital
+  Medicare name: Palo Verde Behavioral Health
+  Medicare address: 2695 North Craycroft Road Tucson 85712
+  Medicare emergency services: yes
+  Best OSM Match: 2.45 Tucson Medical Center
+  OSM Address: 5301 East Grant Road Tucson 85712
+21. Unmatched medicare hospital
+  Medicare name: Banner Payson Medical Center
+  Medicare address: 807 South Ponderosa Drive Payson 85541
+  Medicare emergency services: no
+  Best OSM Match: 2.90 Banner Payson Medical Center
+  OSM Address: 807 South Ponderosa Street Payson 85072
+22. Unmatched medicare hospital
+  Medicare name: Valley Hospital
+  Medicare address: 3550 East Pinchot Avenue Phoenix 85018
+  Medicare emergency services: yes
+  Best OSM Match: 3.00 Valley Hospital
+  OSM Address: 3550 East Pinchot Avenue Phoenix -
+23. Emergency services mismatch
+  Medicare name: San Carlos Apache Healthcare
+  OSM name: San Carlos Apache Healthcare Corporation
+  OSM Address: 103 Medicine Way Road Peridot 85542
+  Medicare emergency services: no
+  OSM Emergency: yes
+24. Emergency services mismatch
+  Medicare name: Phoenix Children's Hospital
+  OSM name: Phoenix Children's Hospital
+  OSM Address: 1919 East Thomas Road Phoenix 85016
+  Medicare emergency services: no
+  OSM Emergency: yes
+25. Unmatched medicare hospital
+  Medicare name: Aurora Behavioral Health System
+  Medicare address: 6015 West Peoria Avenue Glendale 85302
+  Medicare emergency services: no
+  Best OSM Match: 2.57 Corebella Addiction Treatment & Suboxone Clinic
+  OSM Address: 5700 West Olive Avenue Glendale 85302
+26. Unmatched medicare hospital
+  Medicare name: Quail Run Behavioral Health
+  Medicare address: 2545 West Quail Avenue Phoenix 85027
+  Medicare emergency services: no
+  Best OSM Match: 2.32 HonorHealth Deer Valley Medical Center
+  OSM Address: 19829 North 27th Avenue Phoenix 85027
+27. Emergency services mismatch
+  Medicare name: Phoenix Indian Medical Center
+  OSM name: Phoenix Indian Medical Center
+  OSM Address: 4212 North 16th Street Phoenix 85016
+  Medicare emergency services: no
+  OSM Emergency: yes
+28. Unmatched medicare hospital
+  Medicare name: Dignity Health Arizona General Hospital
+  Medicare address: 9130 East Elliot Road Mesa 85212
+  Medicare emergency services: yes
+  Best OSM Match: 2.07 Arizona Spine & Joint Hospital
+  OSM Address: 4620 East Baseline Road Mesa 85206
+29. Unmatched medicare hospital
+  Medicare name: Changepoint Psychiatric Hospital
+  Medicare address: 1920 West Commerce Drive Lakeside 85929
+  Medicare emergency services: yes
+  Best OSM Match: 1.16 Hacienda Children’s Hospital
+  OSM Address: 610 West Jerome Avenue Mesa 85210
+30. Unmatched medicare hospital
+  Medicare name: Copper Springs Hospital, Llc
+  Medicare address: 10550 West Mcdowell Road Avondale 85392
+  Medicare emergency services: yes
+  Best OSM Match: 1.42 Abrazo West Campus
+  OSM Address: 13677 West McDowell Road Goodyear 85395
+Found 30 potential issues.
 
-Unmatched emergency=yes
-Sage Memorial Hospital (3.01)
-	- - Ganado 86505
-Unmatched emergency=yes
-Banner Children’s at Cardon Children’s Medical Center (0.00)
-	- - - -
-Unmatched emergency=yes
-Abrazo Buckeye Emergency Center (0.00)
-	525 South Watson Road Buckeye 85326
-Unmatched emergency=yes
-Northwest Medical Emergency Center (0.00)
-	- - - -
-Unmatched emergency=yes
-Corebella Addiction Treatment & Suboxone Clinic (2.57)
-	5700 West Olive Avenue Glendale 85302
-Unmatched emergency=yes
-Southern Arizona VA Health Care System (0.00)
-	3601 South 6th Avenue Tucson 85723
-Unmatched emergency=yes
-Verde Valley Medical Center - Sedona Campus (0.00)
-	3700 West State Route 89A Sedona 86336
-Unmatched emergency=yes
-Tséhootsooí Medical Center (2.17)
-	- - Fort Defiance 86504
-Unmatched emergency=yes
-HonorHealth Scottsdale Shea Medical Center (0.00)
-	- - Scottsdale -
-Unmatched emergency=yes
-Valleywise Health (0.00)
-	5102 West Campbell Avenue Phoenix 85031
-Unmatched emergency=yes
-HonorHealth Scottsdale Thompson Peak Medical Center (2.82)
-	7400 North 73rd Street Scottsdale 85255
-Unmatched emergency=yes
-St Luke's Behavioral Health Center (0.00)
-	1800 East Van Buren Street Phoenix 85006
-Unmatched emergency=yes
-Arizona Heart Hospital (0.00)
-	1930 East Thomas Road Phoenix 85016
-Unmatched emergency=yes
-Carl T. Hayden Veterans Affairs Medical Center (0.00)
-	650 East Indian School Road Phoenix 85012
-Unmatched emergency=yes
-Dignity Health St. Joseph's Westgate Medical Center (0.00)
-	7300 North 99th Avenue Glendale 85307
-Unmatched emergency=yes
-Chinle Comprehensive Health Care Facility (3.01)
-	- - Chinle 86503
-Unmatched emergency=yes
-Hopi Health Care Center (3.01)
-	- - Polacca 86042
-Unmatched emergency=yes
-Tuba City Regional Heath Care (2.67)
-	167 North Main Street Tuba City 86045
-Unmatched emergency=yes
-Parker Indian Hospital (2.88)
-	12033 West Agency Avenue Parker 85344
-Unmatched emergency=yes
-Sells Indian Hospital (2.65)
-	- - Sells 85634
-Unmatched emergency=yes
-Banner Payson Medical Center (2.90)
-	807 South Ponderosa Street Payson 85072
-Unmatched emergency=yes
-Northern Arizona VA Health Care System (0.00)
-	500 Highway 89 North Prescott 86313
-Unmatched emergency=yes
-Yavapai Regional Medical Center (2.14)
-	7700 East Florentine Road Prescott Valley 86314
-Unmatched emergency=yes
-Tempe St. Luke Hospital (0.00)
-	1500 South Mill Avenue Tempe 85281
-Unmatched emergency=yes
-Oro Valley Hospital (3.02)
-	1551 East Tangerine Road Tucson 85755
-Unmatched emergency=yes
-Florence Hospital at Anthem (0.00)
-	4545 North Hunt Highway Florence 85132
+Unmatched emergency=yes in OSM
+  OSM name: Sage Memorial Hospital
+  Score of best match: 3.01
+  OSM address: - - Ganado 86505
+Unmatched emergency=yes in OSM
+  OSM name: Banner Children’s at Cardon Children’s Medical Center
+  Score of best match: 0.00
+  OSM address: - - - -
+Unmatched emergency=yes in OSM
+  OSM name: Abrazo Buckeye Emergency Center
+  Score of best match: 0.00
+  OSM address: 525 South Watson Road Buckeye 85326
+Unmatched emergency=yes in OSM
+  OSM name: Northwest Medical Emergency Center
+  Score of best match: 0.00
+  OSM address: - - - -
+Unmatched emergency=yes in OSM
+  OSM name: Corebella Addiction Treatment & Suboxone Clinic
+  Score of best match: 2.57
+  OSM address: 5700 West Olive Avenue Glendale 85302
+Unmatched emergency=yes in OSM
+  OSM name: Southern Arizona VA Health Care System
+  Score of best match: 0.00
+  OSM address: 3601 South 6th Avenue Tucson 85723
+Unmatched emergency=yes in OSM
+  OSM name: Verde Valley Medical Center - Sedona Campus
+  Score of best match: 0.00
+  OSM address: 3700 West State Route 89A Sedona 86336
+Unmatched emergency=yes in OSM
+  OSM name: Tséhootsooí Medical Center
+  Score of best match: 2.17
+  OSM address: - - Fort Defiance 86504
+Unmatched emergency=yes in OSM
+  OSM name: HonorHealth Scottsdale Shea Medical Center
+  Score of best match: 0.00
+  OSM address: - - Scottsdale -
+Unmatched emergency=yes in OSM
+  OSM name: Valleywise Health
+  Score of best match: 0.00
+  OSM address: 5102 West Campbell Avenue Phoenix 85031
+Unmatched emergency=yes in OSM
+  OSM name: HonorHealth Scottsdale Thompson Peak Medical Center
+  Score of best match: 2.82
+  OSM address: 7400 North 73rd Street Scottsdale 85255
+Unmatched emergency=yes in OSM
+  OSM name: St Luke's Behavioral Health Center
+  Score of best match: 0.00
+  OSM address: 1800 East Van Buren Street Phoenix 85006
+Unmatched emergency=yes in OSM
+  OSM name: Arizona Heart Hospital
+  Score of best match: 0.00
+  OSM address: 1930 East Thomas Road Phoenix 85016
+Unmatched emergency=yes in OSM
+  OSM name: Carl T. Hayden Veterans Affairs Medical Center
+  Score of best match: 0.00
+  OSM address: 650 East Indian School Road Phoenix 85012
+Unmatched emergency=yes in OSM
+  OSM name: Dignity Health St. Joseph's Westgate Medical Center
+  Score of best match: 0.00
+  OSM address: 7300 North 99th Avenue Glendale 85307
+Unmatched emergency=yes in OSM
+  OSM name: Chinle Comprehensive Health Care Facility
+  Score of best match: 3.01
+  OSM address: - - Chinle 86503
+Unmatched emergency=yes in OSM
+  OSM name: Hopi Health Care Center
+  Score of best match: 3.01
+  OSM address: - - Polacca 86042
+Unmatched emergency=yes in OSM
+  OSM name: Tuba City Regional Heath Care
+  Score of best match: 2.67
+  OSM address: 167 North Main Street Tuba City 86045
+Unmatched emergency=yes in OSM
+  OSM name: Parker Indian Hospital
+  Score of best match: 2.88
+  OSM address: 12033 West Agency Avenue Parker 85344
+Unmatched emergency=yes in OSM
+  OSM name: Sells Indian Hospital
+  Score of best match: 2.65
+  OSM address: - - Sells 85634
+Unmatched emergency=yes in OSM
+  OSM name: Banner Payson Medical Center
+  Score of best match: 2.90
+  OSM address: 807 South Ponderosa Street Payson 85072
+Unmatched emergency=yes in OSM
+  OSM name: Northern Arizona VA Health Care System
+  Score of best match: 0.00
+  OSM address: 500 Highway 89 North Prescott 86313
+Unmatched emergency=yes in OSM
+  OSM name: Yavapai Regional Medical Center
+  Score of best match: 2.14
+  OSM address: 7700 East Florentine Road Prescott Valley 86314
+Unmatched emergency=yes in OSM
+  OSM name: Tempe St. Luke Hospital
+  Score of best match: 0.00
+  OSM address: 1500 South Mill Avenue Tempe 85281
+Unmatched emergency=yes in OSM
+  OSM name: Oro Valley Hospital
+  Score of best match: 3.02
+  OSM address: 1551 East Tangerine Road Tucson 85755
+Unmatched emergency=yes in OSM
+  OSM name: Florence Hospital at Anthem
+  Score of best match: 0.00
+  OSM address: 4545 North Hunt Highway Florence 85132
 Found 26 unmatched emergency.

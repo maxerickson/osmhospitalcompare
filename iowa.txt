@@ -1,120 +1,167 @@
 136 OSM hospitals
 118 Medicare hospitals
-1. Compass Memorial Healthcare
-	300 W May St Marengo 52301 (CMS:yes)
-	2.89 Marengo Memorial Hospital
-	300 West May Street Marengo 52301
-2. Hancock County Health System
-	532 1St St Nw Britt 50423 (CMS:yes)
-	2.82 Hancock County Memorial Hospital
-	532 1st Street Northwest Britt 50423
-3. Mercy Medical Center - Cedar Rapids
-	701 10Th Street Se Cedar Rapids 52403 (CMS:yes)
-	3.08 Mercy Medical Center
-	701 10th Street Northeast Cedar Rapids 52403
-4. Genesis Medical Center-Dewitt
-	1118 11Th Street Dewitt 52742 (CMS:yes)
-	2.89 Genesis Medical Center, DeWitt Campus
-	1118 11th Avenue DeWitt 52742
-5. Unitypoint Health-Marshalltown
-	3 S 4Th Ave Marshalltown 50158 (CMS:yes)
-	2.65 Central Iowa Healthcare
-	3 South 4th Avenue Marshalltown 50158
-6. Mercyone Clinton Medical Center
-	1410 North 4Th Street Clinton 52732 (CMS:yes)
-	1.45 Lucas County Health Center
-	1200 North 7th Street Chariton 50049
-7. Avera Merrill Pioneer Hospital
-	1100 S 10Th Ave Rock Rapids 51246 (CMS:yes)
-	2.25 Sanford Rock Rapids Medical Center
-	801 South Green Street Rock Rapids 51246
-Mental Health Institute
-	1251 West Cedar Loop Cherokee 51012
-	 Emergency Mismatch (CMS:yes)
-	Cherokee Mental Health Institute
-8. Mercy Medical Center-North Iowa
-	1000 Fourth Street Sw Mason City 50401 (CMS:yes)
-	2.93 MercyOne North Iowa Medical Center
-	1000 4th Street Southwest Mason City 50401
-9. Saint Lukes Regional Medical Center
-	2720 Stone Park Boulevard Sioux City 51104 (CMS:yes)
-	3.08 UnityPoint Health | St. Luke's
-	2720 Stone Park Boulevard Sioux City 51104
-10. Sioux Center Health
-	1101 9Th Street Se Sioux Center 51250 (CMS:yes)
-	3.03 Sioux Center Community Hospital
-	1101 9th Street Southeast Sioux Center 51250
-11. Mercyone Dyersville Medical Center
-	1111 3Rd Street Sw Dyersville 52040 (CMS:yes)
-	2.98 Mercy Medical Center - Dyersville
-	1111 3rd Street Southwest Dyersville 52040
-12. Unitypoint Health - Keokuk
-	1600 Morgan Street Keokuk 52632 (CMS:yes)
-	3.07 Keokuk Area Hospital
-	1600 Morgan Street Keokuk 52632
-Found 12 issues.
+1. Unmatched medicare hospital
+  Medicare name: Compass Memorial Healthcare
+  Medicare address: 300 W May St Marengo 52301
+  Medicare emergency services: yes
+  Best OSM Match: 2.89 Marengo Memorial Hospital
+  OSM Address: 300 West May Street Marengo 52301
+2. Unmatched medicare hospital
+  Medicare name: Hancock County Health System
+  Medicare address: 532 1St St Nw Britt 50423
+  Medicare emergency services: yes
+  Best OSM Match: 2.82 Hancock County Memorial Hospital
+  OSM Address: 532 1st Street Northwest Britt 50423
+3. Unmatched medicare hospital
+  Medicare name: Mercy Medical Center - Cedar Rapids
+  Medicare address: 701 10Th Street Se Cedar Rapids 52403
+  Medicare emergency services: yes
+  Best OSM Match: 3.08 Mercy Medical Center
+  OSM Address: 701 10th Street Northeast Cedar Rapids 52403
+4. Unmatched medicare hospital
+  Medicare name: Genesis Medical Center-Dewitt
+  Medicare address: 1118 11Th Street Dewitt 52742
+  Medicare emergency services: yes
+  Best OSM Match: 2.89 Genesis Medical Center, DeWitt Campus
+  OSM Address: 1118 11th Avenue DeWitt 52742
+5. Unmatched medicare hospital
+  Medicare name: Unitypoint Health-Marshalltown
+  Medicare address: 3 S 4Th Ave Marshalltown 50158
+  Medicare emergency services: yes
+  Best OSM Match: 2.65 Central Iowa Healthcare
+  OSM Address: 3 South 4th Avenue Marshalltown 50158
+6. Unmatched medicare hospital
+  Medicare name: Mercyone Clinton Medical Center
+  Medicare address: 1410 North 4Th Street Clinton 52732
+  Medicare emergency services: yes
+  Best OSM Match: 1.45 Lucas County Health Center
+  OSM Address: 1200 North 7th Street Chariton 50049
+7. Unmatched medicare hospital
+  Medicare name: Avera Merrill Pioneer Hospital
+  Medicare address: 1100 S 10Th Ave Rock Rapids 51246
+  Medicare emergency services: yes
+  Best OSM Match: 2.25 Sanford Rock Rapids Medical Center
+  OSM Address: 801 South Green Street Rock Rapids 51246
+8. Emergency services mismatch
+  Medicare name: Mental Health Institute
+  OSM name: Cherokee Mental Health Institute
+  OSM Address: 1251 West Cedar Loop Cherokee 51012
+  Medicare emergency services: yes
+  OSM Emergency: no
+9. Unmatched medicare hospital
+  Medicare name: Mercy Medical Center-North Iowa
+  Medicare address: 1000 Fourth Street Sw Mason City 50401
+  Medicare emergency services: yes
+  Best OSM Match: 2.93 MercyOne North Iowa Medical Center
+  OSM Address: 1000 4th Street Southwest Mason City 50401
+10. Unmatched medicare hospital
+  Medicare name: Saint Lukes Regional Medical Center
+  Medicare address: 2720 Stone Park Boulevard Sioux City 51104
+  Medicare emergency services: yes
+  Best OSM Match: 3.08 UnityPoint Health | St. Luke's
+  OSM Address: 2720 Stone Park Boulevard Sioux City 51104
+11. Unmatched medicare hospital
+  Medicare name: Sioux Center Health
+  Medicare address: 1101 9Th Street Se Sioux Center 51250
+  Medicare emergency services: yes
+  Best OSM Match: 3.03 Sioux Center Community Hospital
+  OSM Address: 1101 9th Street Southeast Sioux Center 51250
+12. Unmatched medicare hospital
+  Medicare name: Mercyone Dyersville Medical Center
+  Medicare address: 1111 3Rd Street Sw Dyersville 52040
+  Medicare emergency services: yes
+  Best OSM Match: 2.98 Mercy Medical Center - Dyersville
+  OSM Address: 1111 3rd Street Southwest Dyersville 52040
+13. Unmatched medicare hospital
+  Medicare name: Unitypoint Health - Keokuk
+  Medicare address: 1600 Morgan Street Keokuk 52632
+  Medicare emergency services: yes
+  Best OSM Match: 3.07 Keokuk Area Hospital
+  OSM Address: 1600 Morgan Street Keokuk 52632
+Found 13 potential issues.
 
-Unmatched emergency=yes
-Emergency Department (0.00)
-	1221 South Gear Avenue Burlington 52655
-Unmatched emergency=yes
-Mercy Medical Center (3.08)
-	701 10th Street Northeast Cedar Rapids 52403
-Unmatched emergency=yes
-Methodist West Hospital (0.00)
-	1660 Westown Parkway West Des Moines 50266
-Unmatched emergency=yes
-Genesis Medical Center (0.00)
-	1401 West Central Park Avenue Davenport 52804
-Unmatched emergency=yes
-VA Medical Center (0.00)
-	3600 30th Street Des Moines 50310
-Unmatched emergency=yes
-Central Iowa Healthcare (2.65)
-	3 South 4th Avenue Marshalltown 50158
-Unmatched emergency=yes
-University of Iowa Stead Family Children’s Hospital (0.00)
-	200 Hawkins Drive Iowa City 52242
-Unmatched emergency=yes
-UnityPoint Health | St. Luke's (3.08)
-	2720 Stone Park Boulevard Sioux City 51104
-Unmatched emergency=yes
-Mercy Medical Center-West Lakes (0.00)
-	1755 59th Place West Des Moines 50266
-Unmatched emergency=yes
-Keokuk Area Hospital (3.07)
-	1600 Morgan Street Keokuk 52632
-Unmatched emergency=yes
-Mercy Medical Center - Dyersville (2.98)
-	1111 3rd Street Southwest Dyersville 52040
-Unmatched emergency=yes
-MercyOne (0.00)
-	- - - -
-Unmatched emergency=yes
-Iowa City VA Health Care System (0.00)
-	601 Highway 6 West Iowa City 52246
-Unmatched emergency=yes
-MercyOne North Iowa Medical Center (2.93)
-	1000 4th Street Southwest Mason City 50401
-Unmatched emergency=yes
-Marengo Memorial Hospital (2.89)
-	300 West May Street Marengo 52301
-Unmatched emergency=yes
-Sioux Center Community Hospital (3.03)
-	1101 9th Street Southeast Sioux Center 51250
-Unmatched emergency=yes
-Sanford Rock Rapids Medical Center (2.25)
-	801 South Green Street Rock Rapids 51246
-Unmatched emergency=yes
-Hancock County Memorial Hospital (2.82)
-	532 1st Street Northwest Britt 50423
-Unmatched emergency=yes
-Genesis Medical Center, DeWitt Campus (2.89)
-	1118 11th Avenue DeWitt 52742
-Unmatched emergency=yes
-Jefferson County Health Center (0.00)
-	2000 South Main Street Fairfield 52556
-Unmatched emergency=yes
-Great River Medical Center (0.00)
-	1221 South Gear Avenue Burlington 52655
+Unmatched emergency=yes in OSM
+  OSM name: Emergency Department
+  Score of best match: 0.00
+  OSM address: 1221 South Gear Avenue Burlington 52655
+Unmatched emergency=yes in OSM
+  OSM name: Mercy Medical Center
+  Score of best match: 3.08
+  OSM address: 701 10th Street Northeast Cedar Rapids 52403
+Unmatched emergency=yes in OSM
+  OSM name: Methodist West Hospital
+  Score of best match: 0.00
+  OSM address: 1660 Westown Parkway West Des Moines 50266
+Unmatched emergency=yes in OSM
+  OSM name: Genesis Medical Center
+  Score of best match: 0.00
+  OSM address: 1401 West Central Park Avenue Davenport 52804
+Unmatched emergency=yes in OSM
+  OSM name: VA Medical Center
+  Score of best match: 0.00
+  OSM address: 3600 30th Street Des Moines 50310
+Unmatched emergency=yes in OSM
+  OSM name: Central Iowa Healthcare
+  Score of best match: 2.65
+  OSM address: 3 South 4th Avenue Marshalltown 50158
+Unmatched emergency=yes in OSM
+  OSM name: University of Iowa Stead Family Children’s Hospital
+  Score of best match: 0.00
+  OSM address: 200 Hawkins Drive Iowa City 52242
+Unmatched emergency=yes in OSM
+  OSM name: UnityPoint Health | St. Luke's
+  Score of best match: 3.08
+  OSM address: 2720 Stone Park Boulevard Sioux City 51104
+Unmatched emergency=yes in OSM
+  OSM name: Mercy Medical Center-West Lakes
+  Score of best match: 0.00
+  OSM address: 1755 59th Place West Des Moines 50266
+Unmatched emergency=yes in OSM
+  OSM name: Keokuk Area Hospital
+  Score of best match: 3.07
+  OSM address: 1600 Morgan Street Keokuk 52632
+Unmatched emergency=yes in OSM
+  OSM name: Mercy Medical Center - Dyersville
+  Score of best match: 2.98
+  OSM address: 1111 3rd Street Southwest Dyersville 52040
+Unmatched emergency=yes in OSM
+  OSM name: MercyOne
+  Score of best match: 0.00
+  OSM address: - - - -
+Unmatched emergency=yes in OSM
+  OSM name: Iowa City VA Health Care System
+  Score of best match: 0.00
+  OSM address: 601 Highway 6 West Iowa City 52246
+Unmatched emergency=yes in OSM
+  OSM name: MercyOne North Iowa Medical Center
+  Score of best match: 2.93
+  OSM address: 1000 4th Street Southwest Mason City 50401
+Unmatched emergency=yes in OSM
+  OSM name: Marengo Memorial Hospital
+  Score of best match: 2.89
+  OSM address: 300 West May Street Marengo 52301
+Unmatched emergency=yes in OSM
+  OSM name: Sioux Center Community Hospital
+  Score of best match: 3.03
+  OSM address: 1101 9th Street Southeast Sioux Center 51250
+Unmatched emergency=yes in OSM
+  OSM name: Sanford Rock Rapids Medical Center
+  Score of best match: 2.25
+  OSM address: 801 South Green Street Rock Rapids 51246
+Unmatched emergency=yes in OSM
+  OSM name: Hancock County Memorial Hospital
+  Score of best match: 2.82
+  OSM address: 532 1st Street Northwest Britt 50423
+Unmatched emergency=yes in OSM
+  OSM name: Genesis Medical Center, DeWitt Campus
+  Score of best match: 2.89
+  OSM address: 1118 11th Avenue DeWitt 52742
+Unmatched emergency=yes in OSM
+  OSM name: Jefferson County Health Center
+  Score of best match: 0.00
+  OSM address: 2000 South Main Street Fairfield 52556
+Unmatched emergency=yes in OSM
+  OSM name: Great River Medical Center
+  Score of best match: 0.00
+  OSM address: 1221 South Gear Avenue Burlington 52655
 Found 21 unmatched emergency.

@@ -1,94 +1,133 @@
 67 OSM hospitals
 64 Medicare hospitals
-1. Big Horn Hospital
-	17 N Miles Hardin 59034 (CMS:yes)
-	2.88 Big Horn County Memorial Hospital
-	17 North Miles Avenue Hardin 59034
-2. Ruby Valley Medical Center
-	321 Madison St Sheridan 59749 (CMS:yes)
-	2.25 Ruby Valley Hospital
-	220 East Crofoot Street Sheridan 59759
-3. Benefis Hospitals Inc
-	1101 26Th St S Great Falls 59405 (CMS:yes)
-	2.89 Benefis East
-	1101 26th Street South Great Falls 59405
-4. The Healthcenter
-	320 Sunnyview Lane Kalispell 59901 (CMS:no)
-	3.02 Kalispell Regional Medical Center
-	310 Sunnyview Lane Kalispell 59901
-5. Northern Montana Hospital
-	30 13Th St Havre 59501 (CMS:yes)
-	2.95 Northern Montana Health Care
-	30 13th Street West Havre 59501
-6. P H S Indian Hospital Crow / Northern Cheyenne
-	1010 South 7650 East, Post Office Box 9 Crow Agency 59022 (CMS:yes)
-	2.39 Crow/Northern Cheyenne Hospital
-	237 Hospital Loop Crow Agency 59022
-7. Big Sandy Medical Center
-	166 Montana Ave E Big Sandy 59520 (CMS:yes)
-	1.72 Big Sky Medical Center
-	334 Town Center Avenue Big Sky 59716
-8. Wheatland Memorial Hospital
-	530 3Rd St Nw Harlowton 59036 (CMS:yes)
-	3.04 Wheatland Memorial Healthcare
-	530 3rd Street Northwest Harlowton 59036
-9. P H S Indian Hospital At Browning - Blackfeet
-	760 Hospital Circle, Post Office Box 760 Browning 59417 (CMS:yes)
-	2.09 Blackfeet Community Hospital
-	- - Browning 59417
-10. P H S Indian Hospital-Fort Belknap At Harlem
-	456 Gros Ventre Ave, Rr 1 Harlem 59526 (CMS:yes)
-	2.33 Fort Belknap Hospital
-	669 Agency Main Street Harlem 59526
-11. Daniels Memorial Hospital
-	105 5Th Ave E Scobey 59263 (CMS:yes)
-	3.02 Daniels Memorial Healthcare Center
-	105 5th Avenue East Scobey 59263
-12. Phillips County Medical Center
-	311 S 8Th Ave E Malta 59538 (CMS:yes)
-	2.80 Phillips County Hospital and Family Health Clinic
-	311 South 8th Avenue East Malta 59538
-13. Saint Peters Hospital
-	2475 Broadway Helena 59601 (CMS:yes)
-	3.08 Saint Peter's Health
-	2475 East Broadway Street Helena 59601
-14. Montana State Hospital
-	100 Garnet Way Warm Springs 59756 (CMS:no)
-	2.38 Montana State Hospital
-	- - Warm Springs 59425
-Found 14 issues.
+1. Unmatched medicare hospital
+  Medicare name: Big Horn Hospital
+  Medicare address: 17 N Miles Hardin 59034
+  Medicare emergency services: yes
+  Best OSM Match: 2.88 Big Horn County Memorial Hospital
+  OSM Address: 17 North Miles Avenue Hardin 59034
+2. Unmatched medicare hospital
+  Medicare name: Ruby Valley Medical Center
+  Medicare address: 321 Madison St Sheridan 59749
+  Medicare emergency services: yes
+  Best OSM Match: 2.25 Ruby Valley Hospital
+  OSM Address: 220 East Crofoot Street Sheridan 59759
+3. Unmatched medicare hospital
+  Medicare name: Benefis Hospitals Inc
+  Medicare address: 1101 26Th St S Great Falls 59405
+  Medicare emergency services: yes
+  Best OSM Match: 2.89 Benefis East
+  OSM Address: 1101 26th Street South Great Falls 59405
+4. Unmatched medicare hospital
+  Medicare name: The Healthcenter
+  Medicare address: 320 Sunnyview Lane Kalispell 59901
+  Medicare emergency services: no
+  Best OSM Match: 3.02 Kalispell Regional Medical Center
+  OSM Address: 310 Sunnyview Lane Kalispell 59901
+5. Unmatched medicare hospital
+  Medicare name: Northern Montana Hospital
+  Medicare address: 30 13Th St Havre 59501
+  Medicare emergency services: yes
+  Best OSM Match: 2.95 Northern Montana Health Care
+  OSM Address: 30 13th Street West Havre 59501
+6. Unmatched medicare hospital
+  Medicare name: P H S Indian Hospital Crow / Northern Cheyenne
+  Medicare address: 1010 South 7650 East, Post Office Box 9 Crow Agency 59022
+  Medicare emergency services: yes
+  Best OSM Match: 2.39 Crow/Northern Cheyenne Hospital
+  OSM Address: 237 Hospital Loop Crow Agency 59022
+7. Unmatched medicare hospital
+  Medicare name: Big Sandy Medical Center
+  Medicare address: 166 Montana Ave E Big Sandy 59520
+  Medicare emergency services: yes
+  Best OSM Match: 1.72 Big Sky Medical Center
+  OSM Address: 334 Town Center Avenue Big Sky 59716
+8. Unmatched medicare hospital
+  Medicare name: Wheatland Memorial Hospital
+  Medicare address: 530 3Rd St Nw Harlowton 59036
+  Medicare emergency services: yes
+  Best OSM Match: 3.04 Wheatland Memorial Healthcare
+  OSM Address: 530 3rd Street Northwest Harlowton 59036
+9. Unmatched medicare hospital
+  Medicare name: P H S Indian Hospital At Browning - Blackfeet
+  Medicare address: 760 Hospital Circle, Post Office Box 760 Browning 59417
+  Medicare emergency services: yes
+  Best OSM Match: 2.09 Blackfeet Community Hospital
+  OSM Address: - - Browning 59417
+10. Unmatched medicare hospital
+  Medicare name: P H S Indian Hospital-Fort Belknap At Harlem
+  Medicare address: 456 Gros Ventre Ave, Rr 1 Harlem 59526
+  Medicare emergency services: yes
+  Best OSM Match: 2.33 Fort Belknap Hospital
+  OSM Address: 669 Agency Main Street Harlem 59526
+11. Unmatched medicare hospital
+  Medicare name: Daniels Memorial Hospital
+  Medicare address: 105 5Th Ave E Scobey 59263
+  Medicare emergency services: yes
+  Best OSM Match: 3.02 Daniels Memorial Healthcare Center
+  OSM Address: 105 5th Avenue East Scobey 59263
+12. Unmatched medicare hospital
+  Medicare name: Phillips County Medical Center
+  Medicare address: 311 S 8Th Ave E Malta 59538
+  Medicare emergency services: yes
+  Best OSM Match: 2.80 Phillips County Hospital and Family Health Clinic
+  OSM Address: 311 South 8th Avenue East Malta 59538
+13. Unmatched medicare hospital
+  Medicare name: Saint Peters Hospital
+  Medicare address: 2475 Broadway Helena 59601
+  Medicare emergency services: yes
+  Best OSM Match: 3.08 Saint Peter's Health
+  OSM Address: 2475 East Broadway Street Helena 59601
+14. Unmatched medicare hospital
+  Medicare name: Montana State Hospital
+  Medicare address: 100 Garnet Way Warm Springs 59756
+  Medicare emergency services: no
+  Best OSM Match: 2.38 Montana State Hospital
+  OSM Address: - - Warm Springs 59425
+Found 14 potential issues.
 
-Unmatched emergency=yes
-Benefis East (2.89)
-	1101 26th Street South Great Falls 59405
-Unmatched emergency=yes
-Saint Peter's Health (3.08)
-	2475 East Broadway Street Helena 59601
-Unmatched emergency=yes
-Daniels Memorial Healthcare Center (3.02)
-	105 5th Avenue East Scobey 59263
-Unmatched emergency=yes
-Crow/Northern Cheyenne Hospital (2.39)
-	237 Hospital Loop Crow Agency 59022
-Unmatched emergency=yes
-Big Horn County Memorial Hospital (2.88)
-	17 North Miles Avenue Hardin 59034
-Unmatched emergency=yes
-Phillips County Hospital and Family Health Clinic (2.80)
-	311 South 8th Avenue East Malta 59538
-Unmatched emergency=yes
-Northern Montana Health Care (2.95)
-	30 13th Street West Havre 59501
-Unmatched emergency=yes
-Wheatland Memorial Healthcare (3.04)
-	530 3rd Street Northwest Harlowton 59036
-Unmatched emergency=yes
-Ruby Valley Hospital (2.25)
-	220 East Crofoot Street Sheridan 59759
-Unmatched emergency=yes
-Blackfeet Community Hospital (2.09)
-	- - Browning 59417
-Unmatched emergency=yes
-Fort Belknap Hospital (2.33)
-	669 Agency Main Street Harlem 59526
+Unmatched emergency=yes in OSM
+  OSM name: Benefis East
+  Score of best match: 2.89
+  OSM address: 1101 26th Street South Great Falls 59405
+Unmatched emergency=yes in OSM
+  OSM name: Saint Peter's Health
+  Score of best match: 3.08
+  OSM address: 2475 East Broadway Street Helena 59601
+Unmatched emergency=yes in OSM
+  OSM name: Daniels Memorial Healthcare Center
+  Score of best match: 3.02
+  OSM address: 105 5th Avenue East Scobey 59263
+Unmatched emergency=yes in OSM
+  OSM name: Crow/Northern Cheyenne Hospital
+  Score of best match: 2.39
+  OSM address: 237 Hospital Loop Crow Agency 59022
+Unmatched emergency=yes in OSM
+  OSM name: Big Horn County Memorial Hospital
+  Score of best match: 2.88
+  OSM address: 17 North Miles Avenue Hardin 59034
+Unmatched emergency=yes in OSM
+  OSM name: Phillips County Hospital and Family Health Clinic
+  Score of best match: 2.80
+  OSM address: 311 South 8th Avenue East Malta 59538
+Unmatched emergency=yes in OSM
+  OSM name: Northern Montana Health Care
+  Score of best match: 2.95
+  OSM address: 30 13th Street West Havre 59501
+Unmatched emergency=yes in OSM
+  OSM name: Wheatland Memorial Healthcare
+  Score of best match: 3.04
+  OSM address: 530 3rd Street Northwest Harlowton 59036
+Unmatched emergency=yes in OSM
+  OSM name: Ruby Valley Hospital
+  Score of best match: 2.25
+  OSM address: 220 East Crofoot Street Sheridan 59759
+Unmatched emergency=yes in OSM
+  OSM name: Blackfeet Community Hospital
+  Score of best match: 2.09
+  OSM address: - - Browning 59417
+Unmatched emergency=yes in OSM
+  OSM name: Fort Belknap Hospital
+  Score of best match: 2.33
+  OSM address: 669 Agency Main Street Harlem 59526
 Found 11 unmatched emergency.

@@ -1,92 +1,131 @@
 33 OSM hospitals
 26 Medicare hospitals
-1. Kanakanak Hospital
-	P O Box 130 Dillingham 99576 (CMS:yes)
-	3.00 Kanakanak Hospital
-	6000 Kanakanak Road Dillingham 99576
-2. Petersburg Medical Center
-	Po Box 589 Petersburg 99833 (CMS:yes)
-	3.03 Petersburg Medical Center
-	103 Fram Street Petersburg 99833
-3. Bassett Ach (Fort Wainwright)
-	4076 Neely Road Fort Wainwright 99703 (CMS:yes)
-	0.89 Fairbanks Memorial Hospital
-	1650 Cowles Street Fairbanks 99701
-4. North Star Hospital
-	2530 Debarr Rd Anchorage 99508 (CMS:yes)
-	2.90 Alaska Regional Hospital
-	2801 Debarr Road Anchorage 99508
-5. Maniilaq Health Center
-	Po Box 43 Kotzebue 99752 (CMS:yes)
-	2.63 Maniilaq Medical Center
-	436 5th Avenue Kotzeblue 99752
-6. Yukon Kuskokwim Delta Reg Hospital
-	Po Box 287 Bethel 99559 (CMS:yes)
-	2.83 Yukon-Kuskokwim Delta Regional Hospital
-	900 Chief Eddie Hoffman Highway Bethel 99559
-7. Sitka Community Hospital
-	209 Moller Drive Sitka 99835 (CMS:yes)
-	2.62 Mt. Edgecumbe Hospital
-	222 Tongass Drive Sitka 99835
-8. 673Rd Medical Group (Joint Base Elmendorf-Richardson)
-	673 Mdg 5955 Zeamer Ave Jber 99506 (CMS:yes)
-	0.83 Alaska Regional Hospital
-	2801 Debarr Road Anchorage 99508
-9. Samuel Simmonds Memorial Hospital
-	7000 Uula St Barrow 99723 (CMS:yes)
-	2.75 Samuel Simmonds Memorial Hospital
-	7000 Uula Street Utkiagvik 99723
-10. Providence Seward Hospital
-	417 First Avenue, Po Box 365 Seward 99664 (CMS:yes)
-	2.91 Providence Seward Medical Center
-	417 1st Avenue Seward 99664
-11. Providence Kodiak Island Medical Ctr
-	1915 East Rezanof Drive Kodiak 99615 (CMS:yes)
-	1.43 Providence Alaska Medical Center
-	3200 Providence Drive Anchorage 99515
-12. Alaska Native Medical Center
-	4315 Diplomacy Dr Anchorage 99508 (CMS:yes)
-	2.30 Alaska Regional Hospital
-	2801 Debarr Road Anchorage 99508
-13. Providence Valdez Medical Center
-	Po Box 550 Valdez 99686 (CMS:yes)
-	3.02 Providence Valdez Medical Center
-	911 Meals Avenue Valdez 99686
-Searhc Wrangell Medical Center-Cah
-	310 Bennett Street Wrangell 99929
-	 Emergency Mismatch (CMS:no)
-	Wrangell Medical Center
-14. Alaska Psychiatric Institute
-	3700 Piper Street Anchorage 99508 (CMS:no)
-	2.40 St. Elias
-	4800 Cordova Street Anchorage 99508
-Found 14 issues.
+1. Unmatched medicare hospital
+  Medicare name: Kanakanak Hospital
+  Medicare address: P O Box 130 Dillingham 99576
+  Medicare emergency services: yes
+  Best OSM Match: 3.00 Kanakanak Hospital
+  OSM Address: 6000 Kanakanak Road Dillingham 99576
+2. Unmatched medicare hospital
+  Medicare name: Petersburg Medical Center
+  Medicare address: Po Box 589 Petersburg 99833
+  Medicare emergency services: yes
+  Best OSM Match: 3.03 Petersburg Medical Center
+  OSM Address: 103 Fram Street Petersburg 99833
+3. Unmatched medicare hospital
+  Medicare name: Bassett Ach (Fort Wainwright)
+  Medicare address: 4076 Neely Road Fort Wainwright 99703
+  Medicare emergency services: yes
+  Best OSM Match: 0.89 Fairbanks Memorial Hospital
+  OSM Address: 1650 Cowles Street Fairbanks 99701
+4. Unmatched medicare hospital
+  Medicare name: North Star Hospital
+  Medicare address: 2530 Debarr Rd Anchorage 99508
+  Medicare emergency services: yes
+  Best OSM Match: 2.90 Alaska Regional Hospital
+  OSM Address: 2801 Debarr Road Anchorage 99508
+5. Unmatched medicare hospital
+  Medicare name: Maniilaq Health Center
+  Medicare address: Po Box 43 Kotzebue 99752
+  Medicare emergency services: yes
+  Best OSM Match: 2.63 Maniilaq Medical Center
+  OSM Address: 436 5th Avenue Kotzeblue 99752
+6. Unmatched medicare hospital
+  Medicare name: Yukon Kuskokwim Delta Reg Hospital
+  Medicare address: Po Box 287 Bethel 99559
+  Medicare emergency services: yes
+  Best OSM Match: 2.83 Yukon-Kuskokwim Delta Regional Hospital
+  OSM Address: 900 Chief Eddie Hoffman Highway Bethel 99559
+7. Unmatched medicare hospital
+  Medicare name: Sitka Community Hospital
+  Medicare address: 209 Moller Drive Sitka 99835
+  Medicare emergency services: yes
+  Best OSM Match: 2.62 Mt. Edgecumbe Hospital
+  OSM Address: 222 Tongass Drive Sitka 99835
+8. Unmatched medicare hospital
+  Medicare name: 673Rd Medical Group (Joint Base Elmendorf-Richardson)
+  Medicare address: 673 Mdg 5955 Zeamer Ave Jber 99506
+  Medicare emergency services: yes
+  Best OSM Match: 0.83 Alaska Regional Hospital
+  OSM Address: 2801 Debarr Road Anchorage 99508
+9. Unmatched medicare hospital
+  Medicare name: Samuel Simmonds Memorial Hospital
+  Medicare address: 7000 Uula St Barrow 99723
+  Medicare emergency services: yes
+  Best OSM Match: 2.75 Samuel Simmonds Memorial Hospital
+  OSM Address: 7000 Uula Street Utkiagvik 99723
+10. Unmatched medicare hospital
+  Medicare name: Providence Seward Hospital
+  Medicare address: 417 First Avenue, Po Box 365 Seward 99664
+  Medicare emergency services: yes
+  Best OSM Match: 2.91 Providence Seward Medical Center
+  OSM Address: 417 1st Avenue Seward 99664
+11. Unmatched medicare hospital
+  Medicare name: Providence Kodiak Island Medical Ctr
+  Medicare address: 1915 East Rezanof Drive Kodiak 99615
+  Medicare emergency services: yes
+  Best OSM Match: 1.43 Providence Alaska Medical Center
+  OSM Address: 3200 Providence Drive Anchorage 99515
+12. Unmatched medicare hospital
+  Medicare name: Alaska Native Medical Center
+  Medicare address: 4315 Diplomacy Dr Anchorage 99508
+  Medicare emergency services: yes
+  Best OSM Match: 2.30 Alaska Regional Hospital
+  OSM Address: 2801 Debarr Road Anchorage 99508
+13. Unmatched medicare hospital
+  Medicare name: Providence Valdez Medical Center
+  Medicare address: Po Box 550 Valdez 99686
+  Medicare emergency services: yes
+  Best OSM Match: 3.02 Providence Valdez Medical Center
+  OSM Address: 911 Meals Avenue Valdez 99686
+14. Emergency services mismatch
+  Medicare name: Searhc Wrangell Medical Center-Cah
+  OSM name: Wrangell Medical Center
+  OSM Address: 310 Bennett Street Wrangell 99929
+  Medicare emergency services: no
+  OSM Emergency: yes
+15. Unmatched medicare hospital
+  Medicare name: Alaska Psychiatric Institute
+  Medicare address: 3700 Piper Street Anchorage 99508
+  Medicare emergency services: no
+  Best OSM Match: 2.40 St. Elias
+  OSM Address: 4800 Cordova Street Anchorage 99508
+Found 15 potential issues.
 
-Unmatched emergency=yes
-Petersburg Medical Center (3.03)
-	103 Fram Street Petersburg 99833
-Unmatched emergency=yes
-Maniilaq Medical Center (2.63)
-	436 5th Avenue Kotzeblue 99752
-Unmatched emergency=yes
-Providence Valdez Medical Center (3.02)
-	911 Meals Avenue Valdez 99686
-Unmatched emergency=yes
-Yukon-Kuskokwim Delta Regional Hospital (2.83)
-	900 Chief Eddie Hoffman Highway Bethel 99559
-Unmatched emergency=yes
-Samuel Simmonds Memorial Hospital (2.75)
-	7000 Uula Street Utkiagvik 99723
-Unmatched emergency=yes
-Providence Seward Medical Center (2.91)
-	417 1st Avenue Seward 99664
-Unmatched emergency=yes
-Kanakanak Hospital (3.00)
-	6000 Kanakanak Road Dillingham 99576
-Unmatched emergency=yes
-Alaska Native Medical Center Health Campus (0.00)
-	- - - -
-Unmatched emergency=yes
-King Cove Clinic (0.00)
-	238 Slocum Drive King Cove 99612
+Unmatched emergency=yes in OSM
+  OSM name: Petersburg Medical Center
+  Score of best match: 3.03
+  OSM address: 103 Fram Street Petersburg 99833
+Unmatched emergency=yes in OSM
+  OSM name: Maniilaq Medical Center
+  Score of best match: 2.63
+  OSM address: 436 5th Avenue Kotzeblue 99752
+Unmatched emergency=yes in OSM
+  OSM name: Providence Valdez Medical Center
+  Score of best match: 3.02
+  OSM address: 911 Meals Avenue Valdez 99686
+Unmatched emergency=yes in OSM
+  OSM name: Yukon-Kuskokwim Delta Regional Hospital
+  Score of best match: 2.83
+  OSM address: 900 Chief Eddie Hoffman Highway Bethel 99559
+Unmatched emergency=yes in OSM
+  OSM name: Samuel Simmonds Memorial Hospital
+  Score of best match: 2.75
+  OSM address: 7000 Uula Street Utkiagvik 99723
+Unmatched emergency=yes in OSM
+  OSM name: Providence Seward Medical Center
+  Score of best match: 2.91
+  OSM address: 417 1st Avenue Seward 99664
+Unmatched emergency=yes in OSM
+  OSM name: Kanakanak Hospital
+  Score of best match: 3.00
+  OSM address: 6000 Kanakanak Road Dillingham 99576
+Unmatched emergency=yes in OSM
+  OSM name: Alaska Native Medical Center Health Campus
+  Score of best match: 0.00
+  OSM address: - - - -
+Unmatched emergency=yes in OSM
+  OSM name: King Cove Clinic
+  Score of best match: 0.00
+  OSM address: 238 Slocum Drive King Cove 99612
 Found 9 unmatched emergency.

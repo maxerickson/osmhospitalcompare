@@ -1,46 +1,63 @@
 78 OSM hospitals
 52 Medicare hospitals
-1. Utah State Hospital
-	1300 East Center Street Provo 84605 (CMS:yes)
-	2.42 Utah Valley Hospital
-	1034 North 500 West Provo 84604
-Fillmore Community Hospital
-	647 South Highway 99 Fillmore 84631
-	 Emergency Mismatch (CMS:no)
-	Fillmore Community Hospital
-2. Marian Center
-	451 East Bishop Federal Lane Salt Lake City 84115 (CMS:no)
-	1.89 Huntsman Cancer Hospital
-	1950 Circle of Hope Salt Lake City 84112
-3. Salt Lake Behavioral Health
-	3802 South 700 East Salt Lake City 84106 (CMS:no)
-	2.30 Sugar House Health Center
-	1280 Stringham Avenue Salt Lake City 84106
-4. Ogden Regional Medical Center
-	5475 South 500 East Ogden 84405 (CMS:yes)
-	3.03 Ogden Regional Medical Center
-	5475 South 500 East Washington Terrace 84405
-Found 4 issues.
+1. Unmatched medicare hospital
+  Medicare name: Utah State Hospital
+  Medicare address: 1300 East Center Street Provo 84605
+  Medicare emergency services: yes
+  Best OSM Match: 2.42 Utah Valley Hospital
+  OSM Address: 1034 North 500 West Provo 84604
+2. Emergency services mismatch
+  Medicare name: Fillmore Community Hospital
+  OSM name: Fillmore Community Hospital
+  OSM Address: 647 South Highway 99 Fillmore 84631
+  Medicare emergency services: no
+  OSM Emergency: yes
+3. Unmatched medicare hospital
+  Medicare name: Marian Center
+  Medicare address: 451 East Bishop Federal Lane Salt Lake City 84115
+  Medicare emergency services: no
+  Best OSM Match: 1.89 Huntsman Cancer Hospital
+  OSM Address: 1950 Circle of Hope Salt Lake City 84112
+4. Unmatched medicare hospital
+  Medicare name: Salt Lake Behavioral Health
+  Medicare address: 3802 South 700 East Salt Lake City 84106
+  Medicare emergency services: no
+  Best OSM Match: 2.30 Sugar House Health Center
+  OSM Address: 1280 Stringham Avenue Salt Lake City 84106
+5. Unmatched medicare hospital
+  Medicare name: Ogden Regional Medical Center
+  Medicare address: 5475 South 500 East Ogden 84405
+  Medicare emergency services: yes
+  Best OSM Match: 3.03 Ogden Regional Medical Center
+  OSM Address: 5475 South 500 East Washington Terrace 84405
+Found 5 potential issues.
 
-Unmatched emergency=yes
-delta hospital (0.00)
-	- - - -
-Unmatched emergency=yes
-Jordan Valley Medical Center - West Valley Campus (0.00)
-	3460 South 4155 West West Valley City 84120
-Unmatched emergency=yes
-Redwood Health Center (0.00)
-	- West 2100 South Salt Lake City -
-Unmatched emergency=yes
-Ogden Regional Medical Center (3.03)
-	5475 South 500 East Washington Terrace 84405
-Unmatched emergency=yes
-George E. Wahlen Department of Veterans Affairs Medical Center (0.00)
-	500 Foothill Drive Salt Lake City 84148
-Unmatched emergency=yes
-University of Utah Healthcare - South Jordan Health Center (0.00)
-	5126 Daybreak Parkway South Jordan 84009
-Unmatched emergency=yes
-Mountain Point Medical Center (0.00)
-	3000 Triumph Boulevard Lehi 84043
+Unmatched emergency=yes in OSM
+  OSM name: delta hospital
+  Score of best match: 0.00
+  OSM address: - - - -
+Unmatched emergency=yes in OSM
+  OSM name: Jordan Valley Medical Center - West Valley Campus
+  Score of best match: 0.00
+  OSM address: 3460 South 4155 West West Valley City 84120
+Unmatched emergency=yes in OSM
+  OSM name: Redwood Health Center
+  Score of best match: 0.00
+  OSM address: - West 2100 South Salt Lake City -
+Unmatched emergency=yes in OSM
+  OSM name: Ogden Regional Medical Center
+  Score of best match: 3.03
+  OSM address: 5475 South 500 East Washington Terrace 84405
+Unmatched emergency=yes in OSM
+  OSM name: George E. Wahlen Department of Veterans Affairs Medical Center
+  Score of best match: 0.00
+  OSM address: 500 Foothill Drive Salt Lake City 84148
+Unmatched emergency=yes in OSM
+  OSM name: University of Utah Healthcare - South Jordan Health Center
+  Score of best match: 0.00
+  OSM address: 5126 Daybreak Parkway South Jordan 84009
+Unmatched emergency=yes in OSM
+  OSM name: Mountain Point Medical Center
+  Score of best match: 0.00
+  OSM address: 3000 Triumph Boulevard Lehi 84043
 Found 7 unmatched emergency.

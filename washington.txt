@@ -1,128 +1,181 @@
 130 OSM hospitals
 101 Medicare hospitals
-1. Nh Oak Harbor
-	3475 North Saratoga Street Oak Harbor 98277 (CMS:no)
-	1.19 PeaceHealth Peace Island Medical Center
-	1117 Spring Street Friday Harbor 98250
-2. Smokey Point Behavioral Hospital
-	3955 156Th St Ne Marysville 98271 (CMS:no)
-	1.10 Island Hospital
-	1211 24th Street Anacortes 98221
-Kaiser Permanente Central Hospital
-	201 16th Avenue East Seattle 98112
-	 Emergency Mismatch (CMS:yes)
-	Kaiser Permanente Capitol Hill Campus
-3. Virginia Mason Medical Center
-	925 Seneca St Seattle 98101 (CMS:yes)
-	2.65 Virginia Mason Hospital & Seattle Medical Center
-	1100 9th Avenue Seattle 98101
-4. Mary Bridge Children's Hospital
-	317 Martin Luther King Jr W Box 5299 Tacoma 98415 (CMS:yes)
-	3.05 Mary Bridge Children's Hospital
-	317 Martin Luther King Jr Way Tacoma 98403
-5. Tacoma General Allenmore Hospital
-	315 S Mlk Jr Way Tacoma 98405 (CMS:yes)
-	2.59 MultiCare Allenmore Hospital
-	1901 South Union Avenue Tacoma 98405
-6. Lourdes Counseling Center
-	1175 Carondelet Drive Richland 99352 (CMS:no)
-	2.23 Kadlec Regional Medical Center
-	888 Swift Boulevard Richland 99352
-7. Multicare Valley Hospital
-	12606 East Mission Avenue Spokane 99216 (CMS:yes)
-	3.01 Valley Hospital
-	12606 East Mission Avenue Spokane Valley 99216
-8. Inland Northwest Behavioral Health
-	104 W 5Th Ave Spokane 99204 (CMS:no)
-	2.45 Providence Sacred Heart Medical Center and Children's Hospital
-	101 West 8th Avenue Spokane 99204
-Dayton General Hospital
-	1012 South 3rd Street Dayton 99328
-	 Emergency Mismatch (CMS:no)
-	Dayton General Hospital
-9. Astria Toppenish Hospital
-	502 W Fourth Ave Toppenish 98948 (CMS:yes)
-	2.93 Toppenish Community Hospital
-	502 West 4th Avenue Toppenish 98948
-10. Evergreenhealth Medical Center
-	12040 Ne 128Th Street Kirkland 98034 (CMS:yes)
-	3.06 EvergreenHealth Kirkland
-	12040 Northeast 128th Street Kirkland 98034
-11. Navos
-	2600 Southwest Holden Seattle 98126 (CMS:no)
-	2.85 Navos West Seattle Campus
-	2600 Southwest Holden Street Seattle 98126
-12. Providence Regional Medical Center Everett
-	1321 Colby Avenue Everett 98201 (CMS:yes)
-	3.09 Providence Regional Medical Center Everett
-	1700 13th Street Everett 98201
-13. Whitman Hospital And Medical Center
-	1200 West Fairview Colfax 99111 (CMS:yes)
-	3.09 Whitman Hospital
-	1200 West Fairview Street Colfax 99111
-14. Trios
-	900 South Auburn Street Kennewick 99336 (CMS:yes)
-	3.06 Trios Women's and Children's Hospital
-	900 South Auburn Street Kennewick 99336
-15. Nh Bremerton
-	1 Boone Road Bremerton Bremerton 98312 (CMS:no)
-	2.22 Harrison Bremerton
-	2520 Cherry Avenue Bremerton 98310
-16. Skagit Valley Hospital
-	1415 Kincaid Street Mount Vernon 98274 (CMS:yes)
-	3.04 Skagit Valley Hospital
-	300 Hospital Parkway Mount Vernon 98274
-Found 16 issues.
+1. Unmatched medicare hospital
+  Medicare name: Nh Oak Harbor
+  Medicare address: 3475 North Saratoga Street Oak Harbor 98277
+  Medicare emergency services: no
+  Best OSM Match: 1.19 PeaceHealth Peace Island Medical Center
+  OSM Address: 1117 Spring Street Friday Harbor 98250
+2. Unmatched medicare hospital
+  Medicare name: Smokey Point Behavioral Hospital
+  Medicare address: 3955 156Th St Ne Marysville 98271
+  Medicare emergency services: no
+  Best OSM Match: 1.10 Island Hospital
+  OSM Address: 1211 24th Street Anacortes 98221
+3. Emergency services mismatch
+  Medicare name: Kaiser Permanente Central Hospital
+  OSM name: Kaiser Permanente Capitol Hill Campus
+  OSM Address: 201 16th Avenue East Seattle 98112
+  Medicare emergency services: yes
+  OSM Emergency: no
+4. Unmatched medicare hospital
+  Medicare name: Virginia Mason Medical Center
+  Medicare address: 925 Seneca St Seattle 98101
+  Medicare emergency services: yes
+  Best OSM Match: 2.65 Virginia Mason Hospital & Seattle Medical Center
+  OSM Address: 1100 9th Avenue Seattle 98101
+5. Unmatched medicare hospital
+  Medicare name: Mary Bridge Children's Hospital
+  Medicare address: 317 Martin Luther King Jr W Box 5299 Tacoma 98415
+  Medicare emergency services: yes
+  Best OSM Match: 3.05 Mary Bridge Children's Hospital
+  OSM Address: 317 Martin Luther King Jr Way Tacoma 98403
+6. Unmatched medicare hospital
+  Medicare name: Tacoma General Allenmore Hospital
+  Medicare address: 315 S Mlk Jr Way Tacoma 98405
+  Medicare emergency services: yes
+  Best OSM Match: 2.59 MultiCare Allenmore Hospital
+  OSM Address: 1901 South Union Avenue Tacoma 98405
+7. Unmatched medicare hospital
+  Medicare name: Lourdes Counseling Center
+  Medicare address: 1175 Carondelet Drive Richland 99352
+  Medicare emergency services: no
+  Best OSM Match: 2.23 Kadlec Regional Medical Center
+  OSM Address: 888 Swift Boulevard Richland 99352
+8. Unmatched medicare hospital
+  Medicare name: Multicare Valley Hospital
+  Medicare address: 12606 East Mission Avenue Spokane 99216
+  Medicare emergency services: yes
+  Best OSM Match: 3.01 Valley Hospital
+  OSM Address: 12606 East Mission Avenue Spokane Valley 99216
+9. Unmatched medicare hospital
+  Medicare name: Inland Northwest Behavioral Health
+  Medicare address: 104 W 5Th Ave Spokane 99204
+  Medicare emergency services: no
+  Best OSM Match: 2.45 Providence Sacred Heart Medical Center and Children's Hospital
+  OSM Address: 101 West 8th Avenue Spokane 99204
+10. Emergency services mismatch
+  Medicare name: Dayton General Hospital
+  OSM name: Dayton General Hospital
+  OSM Address: 1012 South 3rd Street Dayton 99328
+  Medicare emergency services: no
+  OSM Emergency: yes
+11. Unmatched medicare hospital
+  Medicare name: Astria Toppenish Hospital
+  Medicare address: 502 W Fourth Ave Toppenish 98948
+  Medicare emergency services: yes
+  Best OSM Match: 2.93 Toppenish Community Hospital
+  OSM Address: 502 West 4th Avenue Toppenish 98948
+12. Unmatched medicare hospital
+  Medicare name: Evergreenhealth Medical Center
+  Medicare address: 12040 Ne 128Th Street Kirkland 98034
+  Medicare emergency services: yes
+  Best OSM Match: 3.06 EvergreenHealth Kirkland
+  OSM Address: 12040 Northeast 128th Street Kirkland 98034
+13. Unmatched medicare hospital
+  Medicare name: Navos
+  Medicare address: 2600 Southwest Holden Seattle 98126
+  Medicare emergency services: no
+  Best OSM Match: 2.85 Navos West Seattle Campus
+  OSM Address: 2600 Southwest Holden Street Seattle 98126
+14. Unmatched medicare hospital
+  Medicare name: Providence Regional Medical Center Everett
+  Medicare address: 1321 Colby Avenue Everett 98201
+  Medicare emergency services: yes
+  Best OSM Match: 3.09 Providence Regional Medical Center Everett
+  OSM Address: 1700 13th Street Everett 98201
+15. Unmatched medicare hospital
+  Medicare name: Whitman Hospital And Medical Center
+  Medicare address: 1200 West Fairview Colfax 99111
+  Medicare emergency services: yes
+  Best OSM Match: 3.09 Whitman Hospital
+  OSM Address: 1200 West Fairview Street Colfax 99111
+16. Unmatched medicare hospital
+  Medicare name: Trios
+  Medicare address: 900 South Auburn Street Kennewick 99336
+  Medicare emergency services: yes
+  Best OSM Match: 3.06 Trios Women's and Children's Hospital
+  OSM Address: 900 South Auburn Street Kennewick 99336
+17. Unmatched medicare hospital
+  Medicare name: Nh Bremerton
+  Medicare address: 1 Boone Road Bremerton Bremerton 98312
+  Medicare emergency services: no
+  Best OSM Match: 2.22 Harrison Bremerton
+  OSM Address: 2520 Cherry Avenue Bremerton 98310
+18. Unmatched medicare hospital
+  Medicare name: Skagit Valley Hospital
+  Medicare address: 1415 Kincaid Street Mount Vernon 98274
+  Medicare emergency services: yes
+  Best OSM Match: 3.04 Skagit Valley Hospital
+  OSM Address: 300 Hospital Parkway Mount Vernon 98274
+Found 18 potential issues.
 
-Unmatched emergency=yes
-Mary Bridge Children's Hospital (3.05)
-	317 Martin Luther King Jr Way Tacoma 98403
-Unmatched emergency=yes
-MultiCare Allenmore Hospital (2.59)
-	1901 South Union Avenue Tacoma 98405
-Unmatched emergency=yes
-VA Medical Center - Seattle (0.00)
-	1660 South Columbian Way Seattle 98108
-Unmatched emergency=yes
-Swedish Hospital (0.00)
-	18100 Northeast Union Hill Road Redmond 98052
-Unmatched emergency=yes
-Whitman Hospital (3.09)
-	1200 West Fairview Street Colfax 99111
-Unmatched emergency=yes
-Walla Walla General Hospital (0.00)
-	1025 South 2nd Avenue Walla Walla 99362
-Unmatched emergency=yes
-Providence Regional Medical Center Everett (3.09)
-	1700 13th Street Everett 98201
-Unmatched emergency=yes
-MultiCare Tacoma General Hospital (0.00)
-	315 Martin Luther King Jr Way Tacoma 98403
-Unmatched emergency=yes
-Swedish Medical Center Ballard Campus (0.00)
-	5300 Tallman Avenue Northwest Seattle 98107
-Unmatched emergency=yes
-Virginia Mason Hospital & Seattle Medical Center (2.65)
-	1100 9th Avenue Seattle 98101
-Unmatched emergency=yes
-Skagit Valley Hospital (3.04)
-	300 Hospital Parkway Mount Vernon 98274
-Unmatched emergency=yes
-Trios Southridge Hospital (0.00)
-	3810 Plaza Way Kennewick 99336
-Unmatched emergency=yes
-Swedish Medical Center - Mill Creek (0.00)
-	13020 Meridian Avenue South Everett 98208
-Unmatched emergency=yes
-EvergreenHealth Kirkland (3.06)
-	12040 Northeast 128th Street Kirkland 98034
-Unmatched emergency=yes
-Harrison Medical Center (0.00)
-	1800 Northwest Myhre Road Silverdale 98383
-Unmatched emergency=yes
-Toppenish Community Hospital (2.93)
-	502 West 4th Avenue Toppenish 98948
-Unmatched emergency=yes
-Valley Hospital (3.01)
-	12606 East Mission Avenue Spokane Valley 99216
+Unmatched emergency=yes in OSM
+  OSM name: Mary Bridge Children's Hospital
+  Score of best match: 3.05
+  OSM address: 317 Martin Luther King Jr Way Tacoma 98403
+Unmatched emergency=yes in OSM
+  OSM name: MultiCare Allenmore Hospital
+  Score of best match: 2.59
+  OSM address: 1901 South Union Avenue Tacoma 98405
+Unmatched emergency=yes in OSM
+  OSM name: VA Medical Center - Seattle
+  Score of best match: 0.00
+  OSM address: 1660 South Columbian Way Seattle 98108
+Unmatched emergency=yes in OSM
+  OSM name: Swedish Hospital
+  Score of best match: 0.00
+  OSM address: 18100 Northeast Union Hill Road Redmond 98052
+Unmatched emergency=yes in OSM
+  OSM name: Whitman Hospital
+  Score of best match: 3.09
+  OSM address: 1200 West Fairview Street Colfax 99111
+Unmatched emergency=yes in OSM
+  OSM name: Walla Walla General Hospital
+  Score of best match: 0.00
+  OSM address: 1025 South 2nd Avenue Walla Walla 99362
+Unmatched emergency=yes in OSM
+  OSM name: Providence Regional Medical Center Everett
+  Score of best match: 3.09
+  OSM address: 1700 13th Street Everett 98201
+Unmatched emergency=yes in OSM
+  OSM name: MultiCare Tacoma General Hospital
+  Score of best match: 0.00
+  OSM address: 315 Martin Luther King Jr Way Tacoma 98403
+Unmatched emergency=yes in OSM
+  OSM name: Swedish Medical Center Ballard Campus
+  Score of best match: 0.00
+  OSM address: 5300 Tallman Avenue Northwest Seattle 98107
+Unmatched emergency=yes in OSM
+  OSM name: Virginia Mason Hospital & Seattle Medical Center
+  Score of best match: 2.65
+  OSM address: 1100 9th Avenue Seattle 98101
+Unmatched emergency=yes in OSM
+  OSM name: Skagit Valley Hospital
+  Score of best match: 3.04
+  OSM address: 300 Hospital Parkway Mount Vernon 98274
+Unmatched emergency=yes in OSM
+  OSM name: Trios Southridge Hospital
+  Score of best match: 0.00
+  OSM address: 3810 Plaza Way Kennewick 99336
+Unmatched emergency=yes in OSM
+  OSM name: Swedish Medical Center - Mill Creek
+  Score of best match: 0.00
+  OSM address: 13020 Meridian Avenue South Everett 98208
+Unmatched emergency=yes in OSM
+  OSM name: EvergreenHealth Kirkland
+  Score of best match: 3.06
+  OSM address: 12040 Northeast 128th Street Kirkland 98034
+Unmatched emergency=yes in OSM
+  OSM name: Harrison Medical Center
+  Score of best match: 0.00
+  OSM address: 1800 Northwest Myhre Road Silverdale 98383
+Unmatched emergency=yes in OSM
+  OSM name: Toppenish Community Hospital
+  Score of best match: 2.93
+  OSM address: 502 West 4th Avenue Toppenish 98948
+Unmatched emergency=yes in OSM
+  OSM name: Valley Hospital
+  Score of best match: 3.01
+  OSM address: 12606 East Mission Avenue Spokane Valley 99216
 Found 17 unmatched emergency.

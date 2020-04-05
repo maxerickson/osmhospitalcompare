@@ -1,215 +1,303 @@
 167 OSM hospitals
 118 Medicare hospitals
-1. Behavioral Healthcare Center At Memphis, Inc
-	1505 N Second Street Memphis 38107 (CMS:no)
-	1.99 Regional Medical Center
-	877 Jefferson Avenue Memphis 38103
-2. Tennova Healthcare-North Knoxville Medical Center
-	7565 Dannaher Way Powell Powell 37849 (CMS:yes)
-	1.33 Claiborne Medical Center
-	1850 Old Knoxville Road Tazewell 37879
-3. Southern Tennessee Regional Health System Lawrence
-	Hwy 43 S Box 847 Lawrenceburg 38464 (CMS:yes)
-	2.52 Southern Tennessee - Lawrenceburg
-	1604 South Locust Avenue Lawrenceburg 38464
-4. Erlanger Medical Center
-	975 E 3Rd St Chattanooga 37403 (CMS:yes)
-	2.95 Erlanger Health System
-	975 East 3rd Street Chattanooga 37403
-5. Middle Tn Mental Health Institute
-	221 Stewarts Ferry Pike Nashville 37214 (CMS:no)
-	1.82 TriStar Southern Hills Medical Center
-	391 Wallace Road Nashville 37211
-6. Rolling Hills Psychiatric Hospital
-	2014 Quail Hollow Circle Franklin 37067 (CMS:yes)
-	2.14 Williamson Medical Center
-	4321 Carothers Parkway Franklin 37067
-7. Oak Hills Behavioral Center
-	49 Old Hickory Blvd Jackson 38305 (CMS:no)
-	2.21 West Tennessee Healthcare North Hospital
-	367 Hospital Boulevard Jackson 38305
-8. Methodist Healthcare Memphis Hospitals
-	1265 Union Ave Suite 700 Memphis 38104 (CMS:yes)
-	3.08 Methodist Central Hospital
-	1265 Union Avenue Memphis 38104
-9. Northcrest Medical Center
-	100 Northcrest Drive Springfield 37172 (CMS:yes)
-	3.10 Northcrest Medical Center
-	100 Northcrest Drive Portland 37172
-10. Pathways Of Tennessee, Inc
-	238 Summar Dr Jackson 38301 (CMS:no)
-	2.24 Jackson-Madison County General Hospital
-	620 Skyline Drive Jackson 38301
-11. Memorial Healthcare System, Inc
-	2525 Desales Ave Chattanooga 37404 (CMS:yes)
-	3.05 CHI Memorial Hospital
-	2525 Desales Avenue Chattanooga 37404
-12. Unicoi County Hospital
-	2030 Temple Hill Road Erwin 37650 (CMS:yes)
-	2.78 Unicoi County Memorial Hospital
-	100 Greenway Circle Erwin 37650
-13. Ten Broeck Tennessee
-	1 Medical Center Blvd 5 West Cookeville 38501 (CMS:yes)
-	2.56 Cookeville Regional Medical Center
-	1 Medical Center Boulevard Cookeville 38501
-14. Ridgeview Psychiatric Hospital And Center
-	240 W Tyrone Rd Oak Ridge 37830 (CMS:no)
-	3.00 Ridgeview Behavioral Health Services
-	240 West Tyrone Road Oak Ridge 37830
-15. Erlanger Behavioral Hospital, Llc
-	804 North Holtzclaw Avenue Chattanooga 37404 (CMS:no)
-	2.48 HealthSouth Chattanooga Rehabilitation Hospital
-	2412 McCallie Avenue Chattanooga 37404
-16. Big South Fork Medical Center
-	18797 Alberta Street Oneida 37841 (CMS:yes)
-	1.33 Newport Medical Center
-	435 2nd Street Newport 37821
-17. Lakeside Behavioral Health System
-	2911 Brunswick Rd Memphis 38133 (CMS:no)
-	1.87 Regional Medical Center
-	877 Jefferson Avenue Memphis 38103
-18. Behavioral Healthcare Center At Columbia
-	1400 Rosewood Drive Columbia 38401 (CMS:yes)
-	2.53 Maury Regional Medical Center
-	1224 Trotwood Avenue Columbia 38401
-19. Morristown Hamblen Hospital Association
-	908 W 4Th North St Morristown 37814 (CMS:yes)
-	3.07 Morristown-Hamblen Healthcare System
-	908 West 4th North Street Morristown 37814
-Saint Thomas Hickman Hospital
-	135 East Swan Street Centerville 37033
-	 Emergency Mismatch (CMS:no)
-	Saint Thomas Hickman Hospital
-20. Crestwyn Behavioral Health
-	9485 Crestwyn Hills Cove Memphis 38125 (CMS:yes)
-	1.93 Baptist Memorial Hospital for Women
-	6225 Humphrey's Boulevard Memphis 38120
-21. Tennova Healthcare-Newport Medical Center
-	435 2Nd St Newport 37821 (CMS:yes)
-	3.05 Newport Medical Center
-	435 2nd Street Newport 37821
-22. Behavioral Healthcare Center At Clarksville
-	930 Professional Park Drive Clarksville 37040 (CMS:no)
-	2.50 Tennova Healthcare – Clarksville
-	651 Dunlop Lane Clarksville 37040
-23. Memphis Mental Health Institute
-	951 Court Avenue Memphis 38103 (CMS:yes)
-	2.45 Regional Medical Center
-	877 Jefferson Avenue Memphis 38103
-24. Henderson County Community Hospital
-	200 W Church St Lexington 38351 (CMS:yes)
-	1.40 Johnson County Community Hospital
-	1901 South Shady Street Mountain City 37683
-Behavioral Healthcare Center At Martin
-	458 Hannings Lane Martin 38237
-	 Emergency Mismatch (CMS:yes)
-	Behavioral Healthcare Center at Martin
-25. Starr Regional Medical Center Athens
-	1114 W Madison Ave Athens 37371 (CMS:yes)
-	2.89 Starr Regional Medical Center
-	1114 West Madison Avenue Athens 37303
-Found 25 issues.
+1. Unmatched medicare hospital
+  Medicare name: Behavioral Healthcare Center At Memphis, Inc
+  Medicare address: 1505 N Second Street Memphis 38107
+  Medicare emergency services: no
+  Best OSM Match: 1.99 Regional Medical Center
+  OSM Address: 877 Jefferson Avenue Memphis 38103
+2. Unmatched medicare hospital
+  Medicare name: Tennova Healthcare-North Knoxville Medical Center
+  Medicare address: 7565 Dannaher Way Powell Powell 37849
+  Medicare emergency services: yes
+  Best OSM Match: 1.33 Claiborne Medical Center
+  OSM Address: 1850 Old Knoxville Road Tazewell 37879
+3. Unmatched medicare hospital
+  Medicare name: Southern Tennessee Regional Health System Lawrence
+  Medicare address: Hwy 43 S Box 847 Lawrenceburg 38464
+  Medicare emergency services: yes
+  Best OSM Match: 2.52 Southern Tennessee - Lawrenceburg
+  OSM Address: 1604 South Locust Avenue Lawrenceburg 38464
+4. Unmatched medicare hospital
+  Medicare name: Erlanger Medical Center
+  Medicare address: 975 E 3Rd St Chattanooga 37403
+  Medicare emergency services: yes
+  Best OSM Match: 2.95 Erlanger Health System
+  OSM Address: 975 East 3rd Street Chattanooga 37403
+5. Unmatched medicare hospital
+  Medicare name: Middle Tn Mental Health Institute
+  Medicare address: 221 Stewarts Ferry Pike Nashville 37214
+  Medicare emergency services: no
+  Best OSM Match: 1.82 TriStar Southern Hills Medical Center
+  OSM Address: 391 Wallace Road Nashville 37211
+6. Unmatched medicare hospital
+  Medicare name: Rolling Hills Psychiatric Hospital
+  Medicare address: 2014 Quail Hollow Circle Franklin 37067
+  Medicare emergency services: yes
+  Best OSM Match: 2.14 Williamson Medical Center
+  OSM Address: 4321 Carothers Parkway Franklin 37067
+7. Unmatched medicare hospital
+  Medicare name: Oak Hills Behavioral Center
+  Medicare address: 49 Old Hickory Blvd Jackson 38305
+  Medicare emergency services: no
+  Best OSM Match: 2.21 West Tennessee Healthcare North Hospital
+  OSM Address: 367 Hospital Boulevard Jackson 38305
+8. Unmatched medicare hospital
+  Medicare name: Methodist Healthcare Memphis Hospitals
+  Medicare address: 1265 Union Ave Suite 700 Memphis 38104
+  Medicare emergency services: yes
+  Best OSM Match: 3.08 Methodist Central Hospital
+  OSM Address: 1265 Union Avenue Memphis 38104
+9. Unmatched medicare hospital
+  Medicare name: Northcrest Medical Center
+  Medicare address: 100 Northcrest Drive Springfield 37172
+  Medicare emergency services: yes
+  Best OSM Match: 3.10 Northcrest Medical Center
+  OSM Address: 100 Northcrest Drive Portland 37172
+10. Unmatched medicare hospital
+  Medicare name: Pathways Of Tennessee, Inc
+  Medicare address: 238 Summar Dr Jackson 38301
+  Medicare emergency services: no
+  Best OSM Match: 2.24 Jackson-Madison County General Hospital
+  OSM Address: 620 Skyline Drive Jackson 38301
+11. Unmatched medicare hospital
+  Medicare name: Memorial Healthcare System, Inc
+  Medicare address: 2525 Desales Ave Chattanooga 37404
+  Medicare emergency services: yes
+  Best OSM Match: 3.05 CHI Memorial Hospital
+  OSM Address: 2525 Desales Avenue Chattanooga 37404
+12. Unmatched medicare hospital
+  Medicare name: Unicoi County Hospital
+  Medicare address: 2030 Temple Hill Road Erwin 37650
+  Medicare emergency services: yes
+  Best OSM Match: 2.78 Unicoi County Memorial Hospital
+  OSM Address: 100 Greenway Circle Erwin 37650
+13. Unmatched medicare hospital
+  Medicare name: Ten Broeck Tennessee
+  Medicare address: 1 Medical Center Blvd 5 West Cookeville 38501
+  Medicare emergency services: yes
+  Best OSM Match: 2.56 Cookeville Regional Medical Center
+  OSM Address: 1 Medical Center Boulevard Cookeville 38501
+14. Unmatched medicare hospital
+  Medicare name: Ridgeview Psychiatric Hospital And Center
+  Medicare address: 240 W Tyrone Rd Oak Ridge 37830
+  Medicare emergency services: no
+  Best OSM Match: 3.00 Ridgeview Behavioral Health Services
+  OSM Address: 240 West Tyrone Road Oak Ridge 37830
+15. Unmatched medicare hospital
+  Medicare name: Erlanger Behavioral Hospital, Llc
+  Medicare address: 804 North Holtzclaw Avenue Chattanooga 37404
+  Medicare emergency services: no
+  Best OSM Match: 2.48 HealthSouth Chattanooga Rehabilitation Hospital
+  OSM Address: 2412 McCallie Avenue Chattanooga 37404
+16. Unmatched medicare hospital
+  Medicare name: Big South Fork Medical Center
+  Medicare address: 18797 Alberta Street Oneida 37841
+  Medicare emergency services: yes
+  Best OSM Match: 1.33 Newport Medical Center
+  OSM Address: 435 2nd Street Newport 37821
+17. Unmatched medicare hospital
+  Medicare name: Lakeside Behavioral Health System
+  Medicare address: 2911 Brunswick Rd Memphis 38133
+  Medicare emergency services: no
+  Best OSM Match: 1.87 Regional Medical Center
+  OSM Address: 877 Jefferson Avenue Memphis 38103
+18. Unmatched medicare hospital
+  Medicare name: Behavioral Healthcare Center At Columbia
+  Medicare address: 1400 Rosewood Drive Columbia 38401
+  Medicare emergency services: yes
+  Best OSM Match: 2.53 Maury Regional Medical Center
+  OSM Address: 1224 Trotwood Avenue Columbia 38401
+19. Unmatched medicare hospital
+  Medicare name: Morristown Hamblen Hospital Association
+  Medicare address: 908 W 4Th North St Morristown 37814
+  Medicare emergency services: yes
+  Best OSM Match: 3.07 Morristown-Hamblen Healthcare System
+  OSM Address: 908 West 4th North Street Morristown 37814
+20. Emergency services mismatch
+  Medicare name: Saint Thomas Hickman Hospital
+  OSM name: Saint Thomas Hickman Hospital
+  OSM Address: 135 East Swan Street Centerville 37033
+  Medicare emergency services: no
+  OSM Emergency: yes
+21. Unmatched medicare hospital
+  Medicare name: Crestwyn Behavioral Health
+  Medicare address: 9485 Crestwyn Hills Cove Memphis 38125
+  Medicare emergency services: yes
+  Best OSM Match: 1.93 Baptist Memorial Hospital for Women
+  OSM Address: 6225 Humphrey's Boulevard Memphis 38120
+22. Unmatched medicare hospital
+  Medicare name: Tennova Healthcare-Newport Medical Center
+  Medicare address: 435 2Nd St Newport 37821
+  Medicare emergency services: yes
+  Best OSM Match: 3.05 Newport Medical Center
+  OSM Address: 435 2nd Street Newport 37821
+23. Unmatched medicare hospital
+  Medicare name: Behavioral Healthcare Center At Clarksville
+  Medicare address: 930 Professional Park Drive Clarksville 37040
+  Medicare emergency services: no
+  Best OSM Match: 2.50 Tennova Healthcare – Clarksville
+  OSM Address: 651 Dunlop Lane Clarksville 37040
+24. Unmatched medicare hospital
+  Medicare name: Memphis Mental Health Institute
+  Medicare address: 951 Court Avenue Memphis 38103
+  Medicare emergency services: yes
+  Best OSM Match: 2.45 Regional Medical Center
+  OSM Address: 877 Jefferson Avenue Memphis 38103
+25. Unmatched medicare hospital
+  Medicare name: Henderson County Community Hospital
+  Medicare address: 200 W Church St Lexington 38351
+  Medicare emergency services: yes
+  Best OSM Match: 1.40 Johnson County Community Hospital
+  OSM Address: 1901 South Shady Street Mountain City 37683
+26. Emergency services mismatch
+  Medicare name: Behavioral Healthcare Center At Martin
+  OSM name: Behavioral Healthcare Center at Martin
+  OSM Address: 458 Hannings Lane Martin 38237
+  Medicare emergency services: yes
+  OSM Emergency: no
+27. Unmatched medicare hospital
+  Medicare name: Starr Regional Medical Center Athens
+  Medicare address: 1114 W Madison Ave Athens 37371
+  Medicare emergency services: yes
+  Best OSM Match: 2.89 Starr Regional Medical Center
+  OSM Address: 1114 West Madison Avenue Athens 37303
+Found 27 potential issues.
 
-Unmatched emergency=yes
-TriStar Portland ER (0.00)
-	105 Red Bud Drive Portland 37148
-Unmatched emergency=yes
-Alvin C. York Campus (0.00)
-	3400 Lebanon Pike Murfreesboro 37129
-Unmatched emergency=yes
-Monroe Carell Jr. Children's Hospital at Vanderbilt (0.00)
-	2200 Children's Way Nashville 37232
-Unmatched emergency=yes
-TriStar Spring Hill ER (0.00)
-	3001 Reserve Boulevard Spring Hill 37174
-Unmatched emergency=yes
-The Children's Hospital at TriStar Centennial (0.00)
-	2221 Murphy Avenue Nashville 37203
-Unmatched emergency=yes
-Spence and Becky Wilson Baptist Children's Hospital (0.00)
-	6225 Humphreys Boulevard Memphis 38120
-Unmatched emergency=yes
-James H. Quillen VA Medical Center (0.00)
-	- Mountain Home Johnson City 37684
-Unmatched emergency=yes
-Colonel Florence A Blanchfield Army Community Hospital (0.00)
-	650 Joel Drive Fort Campbell 42223
-Unmatched emergency=yes
-Southern Tennessee - Lawrenceburg (2.52)
-	1604 South Locust Avenue Lawrenceburg 38464
-Unmatched emergency=yes
-Methodist Central Hospital (3.08)
-	1265 Union Avenue Memphis 38104
-Unmatched emergency=yes
-Le Bonheur Children's Hospital (0.00)
-	848 Adams Avenue Memphis 38103
-Unmatched emergency=yes
-Memphis VA Medical Center (0.00)
-	1030 Jefferson Avenue Memphis 38104
-Unmatched emergency=yes
-Methodist South Hospital (0.00)
-	1300 Wesley Drive Memphis 38116
-Unmatched emergency=yes
-Methodist North Hospital (0.00)
-	3960 New Covington Pike Memphis 38128
-Unmatched emergency=yes
-Methodist Le Bonheur Germantown Hospital (0.00)
-	7691 Poplar Avenue Germantown 38138
-Unmatched emergency=yes
-Unicoi County Memorial Hospital (2.78)
-	100 Greenway Circle Erwin 37650
-Unmatched emergency=yes
-Takoma Regional Hospital (0.00)
-	401 Takoma Avenue Greeneville 37743
-Unmatched emergency=yes
-Lakeway Regional Hospital (0.00)
-	726 McFarland Street Morristown 37814
-Unmatched emergency=yes
-Morristown-Hamblen Healthcare System (3.07)
-	908 West 4th North Street Morristown 37814
-Unmatched emergency=yes
-Physicians Regional Medical Center (0.00)
-	900 East Oak Hill Avenue Knoxville 37917
-Unmatched emergency=yes
-Tennova Healthcare - Jamestown (0.00)
-	436 West Central Avenue Jamestown 38556
-Unmatched emergency=yes
-Starr Regional Medical Center (2.89)
-	1114 West Madison Avenue Athens 37303
-Unmatched emergency=yes
-Starr Regional Medical Center (0.00)
-	- - Etowah 37331
-Unmatched emergency=yes
-Erlanger East Hospital (0.00)
-	1751 Gunbarrel Road Chattanooga 37421
-Unmatched emergency=yes
-CHI Memorial Hospital (3.05)
-	2525 Desales Avenue Chattanooga 37404
-Unmatched emergency=yes
-Erlanger Health System (2.95)
-	975 East 3rd Street Chattanooga 37403
-Unmatched emergency=yes
-CHI Memorial Hospital Hixson (0.00)
-	2051 Hamill Road Hixson 37343
-Unmatched emergency=yes
-Southern Tennessee - Sewanee (0.00)
-	1260 University Avenue Sewanee 37375
-Unmatched emergency=yes
-Northcrest Medical Center (3.10)
-	100 Northcrest Drive Portland 37172
-Unmatched emergency=yes
-Tennessee Valley Healthcare System - Nashville Campus (0.00)
-	1310 24th Avenue South Nashville 37212
-Unmatched emergency=yes
-Newport Medical Center (3.05)
-	435 2nd Street Newport 37821
-Unmatched emergency=yes
-West Tennessee Healthcare North Hospital (2.21)
-	367 Hospital Boulevard Jackson 38305
-Unmatched emergency=yes
-Parkridge East Hospital (0.00)
-	941 Spring Creek Road Chattanooga 37412
-Unmatched emergency=yes
-hospital (0.00)
-	- Peavine Road Crossville -
+Unmatched emergency=yes in OSM
+  OSM name: TriStar Portland ER
+  Score of best match: 0.00
+  OSM address: 105 Red Bud Drive Portland 37148
+Unmatched emergency=yes in OSM
+  OSM name: Alvin C. York Campus
+  Score of best match: 0.00
+  OSM address: 3400 Lebanon Pike Murfreesboro 37129
+Unmatched emergency=yes in OSM
+  OSM name: Monroe Carell Jr. Children's Hospital at Vanderbilt
+  Score of best match: 0.00
+  OSM address: 2200 Children's Way Nashville 37232
+Unmatched emergency=yes in OSM
+  OSM name: TriStar Spring Hill ER
+  Score of best match: 0.00
+  OSM address: 3001 Reserve Boulevard Spring Hill 37174
+Unmatched emergency=yes in OSM
+  OSM name: The Children's Hospital at TriStar Centennial
+  Score of best match: 0.00
+  OSM address: 2221 Murphy Avenue Nashville 37203
+Unmatched emergency=yes in OSM
+  OSM name: Spence and Becky Wilson Baptist Children's Hospital
+  Score of best match: 0.00
+  OSM address: 6225 Humphreys Boulevard Memphis 38120
+Unmatched emergency=yes in OSM
+  OSM name: James H. Quillen VA Medical Center
+  Score of best match: 0.00
+  OSM address: - Mountain Home Johnson City 37684
+Unmatched emergency=yes in OSM
+  OSM name: Colonel Florence A Blanchfield Army Community Hospital
+  Score of best match: 0.00
+  OSM address: 650 Joel Drive Fort Campbell 42223
+Unmatched emergency=yes in OSM
+  OSM name: Southern Tennessee - Lawrenceburg
+  Score of best match: 2.52
+  OSM address: 1604 South Locust Avenue Lawrenceburg 38464
+Unmatched emergency=yes in OSM
+  OSM name: Methodist Central Hospital
+  Score of best match: 3.08
+  OSM address: 1265 Union Avenue Memphis 38104
+Unmatched emergency=yes in OSM
+  OSM name: Le Bonheur Children's Hospital
+  Score of best match: 0.00
+  OSM address: 848 Adams Avenue Memphis 38103
+Unmatched emergency=yes in OSM
+  OSM name: Memphis VA Medical Center
+  Score of best match: 0.00
+  OSM address: 1030 Jefferson Avenue Memphis 38104
+Unmatched emergency=yes in OSM
+  OSM name: Methodist South Hospital
+  Score of best match: 0.00
+  OSM address: 1300 Wesley Drive Memphis 38116
+Unmatched emergency=yes in OSM
+  OSM name: Methodist North Hospital
+  Score of best match: 0.00
+  OSM address: 3960 New Covington Pike Memphis 38128
+Unmatched emergency=yes in OSM
+  OSM name: Methodist Le Bonheur Germantown Hospital
+  Score of best match: 0.00
+  OSM address: 7691 Poplar Avenue Germantown 38138
+Unmatched emergency=yes in OSM
+  OSM name: Unicoi County Memorial Hospital
+  Score of best match: 2.78
+  OSM address: 100 Greenway Circle Erwin 37650
+Unmatched emergency=yes in OSM
+  OSM name: Takoma Regional Hospital
+  Score of best match: 0.00
+  OSM address: 401 Takoma Avenue Greeneville 37743
+Unmatched emergency=yes in OSM
+  OSM name: Lakeway Regional Hospital
+  Score of best match: 0.00
+  OSM address: 726 McFarland Street Morristown 37814
+Unmatched emergency=yes in OSM
+  OSM name: Morristown-Hamblen Healthcare System
+  Score of best match: 3.07
+  OSM address: 908 West 4th North Street Morristown 37814
+Unmatched emergency=yes in OSM
+  OSM name: Physicians Regional Medical Center
+  Score of best match: 0.00
+  OSM address: 900 East Oak Hill Avenue Knoxville 37917
+Unmatched emergency=yes in OSM
+  OSM name: Tennova Healthcare - Jamestown
+  Score of best match: 0.00
+  OSM address: 436 West Central Avenue Jamestown 38556
+Unmatched emergency=yes in OSM
+  OSM name: Starr Regional Medical Center
+  Score of best match: 2.89
+  OSM address: 1114 West Madison Avenue Athens 37303
+Unmatched emergency=yes in OSM
+  OSM name: Starr Regional Medical Center
+  Score of best match: 0.00
+  OSM address: - - Etowah 37331
+Unmatched emergency=yes in OSM
+  OSM name: Erlanger East Hospital
+  Score of best match: 0.00
+  OSM address: 1751 Gunbarrel Road Chattanooga 37421
+Unmatched emergency=yes in OSM
+  OSM name: CHI Memorial Hospital
+  Score of best match: 3.05
+  OSM address: 2525 Desales Avenue Chattanooga 37404
+Unmatched emergency=yes in OSM
+  OSM name: Erlanger Health System
+  Score of best match: 2.95
+  OSM address: 975 East 3rd Street Chattanooga 37403
+Unmatched emergency=yes in OSM
+  OSM name: CHI Memorial Hospital Hixson
+  Score of best match: 0.00
+  OSM address: 2051 Hamill Road Hixson 37343
+Unmatched emergency=yes in OSM
+  OSM name: Southern Tennessee - Sewanee
+  Score of best match: 0.00
+  OSM address: 1260 University Avenue Sewanee 37375
+Unmatched emergency=yes in OSM
+  OSM name: Northcrest Medical Center
+  Score of best match: 3.10
+  OSM address: 100 Northcrest Drive Portland 37172
+Unmatched emergency=yes in OSM
+  OSM name: Tennessee Valley Healthcare System - Nashville Campus
+  Score of best match: 0.00
+  OSM address: 1310 24th Avenue South Nashville 37212
+Unmatched emergency=yes in OSM
+  OSM name: Newport Medical Center
+  Score of best match: 3.05
+  OSM address: 435 2nd Street Newport 37821
+Unmatched emergency=yes in OSM
+  OSM name: West Tennessee Healthcare North Hospital
+  Score of best match: 2.21
+  OSM address: 367 Hospital Boulevard Jackson 38305
+Unmatched emergency=yes in OSM
+  OSM name: Parkridge East Hospital
+  Score of best match: 0.00
+  OSM address: 941 Spring Creek Road Chattanooga 37412
+Unmatched emergency=yes in OSM
+  OSM name: hospital
+  Score of best match: 0.00
+  OSM address: - Peavine Road Crossville -
 Found 34 unmatched emergency.

@@ -1,362 +1,515 @@
 88 OSM hospitals
 57 Medicare hospitals
-1. Hospital San Francisco
-	371 De Diego Ave San Juan 00923 (CMS:yes)
-	2.30 Hospital San Francisco
-	371 Avenida José de Diego Rio Piedras 00923
-2. Auxilio Mutuo Hospital
-	Ponce De Leon Avenue Stop 37 1/2 Hato Rey 00918 (CMS:yes)
-	1.80 Hospital Auxilio Mutuo
-	Ave Ponce De Leon Pda 37.5 San Juan 00919-1227 Hato Rey 00919-1227
-3. Hospital Menonita Guayama
-	Ave. Pedro Albizu Campos Urb. La Hacienda Guayama 00785 (CMS:yes)
-	3.00 Hospital Menonita Guayama
-	Ave Pedro Albizu Campos C/Principal Urb La Hacienda Guayama 00785 Guayama 00785
-4. Hospital Oncologico Dr Isaac Gonzalez Martinez
-	Bo. Monacillos Carr 22 Centro Medico De Puerto Ric San Juan 00935 (CMS:no)
-	2.07 Administracion De Servicios Medicos De Puerto Rico
-	Centro Medico San Juan 00922-2129 San Juan 00935
-5. Hospital De La Concepcion
-	Road Number 2 Km 173.4 Cain Alto San German 00683 (CMS:yes)
-	2.26 Hospital De La Concepcion
-	Carr. Estatal Núm. 2, Km. 174.3 San Germán 00683-0285
-6. Metropolitan Hospital
-	Carretera 21 1785 Urb Las Lomas San Juan 00915 (CMS:yes)
-	2.03 HealthproMed
-	2018-2020 Avenida Borinquen San Juan 00915
-7. Inspira Behavior Care Corp
-	Calle Guadalupe 184 (Antiguo Hospital San Lucas) Ponce 00733 (CMS:no)
-	1.76 Hospital Psiquiatria Forense De Ponce
-	Pr-14 Km 4.2 Ponce 00731 Ponce 00731
-8. Doctor Center Hospital San Fernando De La Carolina
-	Edif Jesus T Pineiro Ave Fernandez Juncos Bo Puebl Carolina 00979 (CMS:yes)
-	1.57 Hospital de la UPR - Dr. Federico Trilla
-	Pr-3 Km 8.1 Ave 65 Inf Carolina 00984 Carolina 00984
-9. Doctors' Center Hospital, Inc
-	Marginal Carretera No 2, Km 47 7 Manati 00674 (CMS:yes)
-	2.07 Doctors' Center Hospital
-	Carretera 2 Km. 47.7 Manatí 00674-0532
-10. First Hospital Panamericano
-	State Road 787 Km 1 5 Cidra 00739 (CMS:no)
-	2.45 First Hospital Panamericano
-	Pr-787 Km 1.5 Cidra 00739-1400 Cidra 00739-1400
-11. Hospital San Cristobal
-	Carr 506 Km 1 0 Coto Laurel 00780 (CMS:yes)
-	3.00 Hospital San Cristóbal
-	Pr-506 Ponce 00731 Coto Laurel 00780
-12. Presbyterian Community Hosp
-	1451 Ashford Avenue San Juan 00907 (CMS:yes)
-	3.05 Ashford Presbyterian Community Hospital
-	Ave Ashford 1451 San Juan 00902-0032 San Juan 00907
-13. San Luke's Memorial Hospital Inc
-	Tito Castro Ave #917 Ponce 00733 (CMS:yes)
-	1.90 Hospital San Lucas
-	Pr-14 Ave Tito Castro 917 Ponce 00733-6810 Ponce 00733-6810
-14. Hospital Menonita De Cayey
-	Bo. Rincon Sector Las Lomas Km.3.1 Carr 14 Cayey 00737 (CMS:yes)
-	3.06 Hospital Menonita de Cayey
-	- Carretera 14, Interior Cayey 00737
-15. Hospital Metropolitano De La Montana
-	Calle Isaac Gonzalez Esquina Ledesma Bda Nueva 00641 (CMS:yes)
-	1.85 Hospital Metropolitano de la Montaña
-	- Calle Isaac González Martínez Utuado 00641-0590
-16. Hospital Dr Cayetano Coll Y Toste
-	Carretera 129 Km.1 Avenida San Luis Arecibo 00613 (CMS:yes)
-	2.62 Hospital Pavia Arecibo
-	Carr. 129 Ave. San Luis, Km. 0.7 Arecibo Arecibo 00613
-17. Centro Cardiovascular
-	Avenida Americo Miranda, Entrada Principal Cm Rio Piedras 00936 (CMS:no)
-	1.81 Hospital San Francisco
-	371 Avenida José de Diego Rio Piedras 00923
-18. Hospital Menonita Caguas Inc
-	Carr 172 Exit 21 Urb Turabo Gardens Caguas 00725 (CMS:yes)
-	2.14 Hospital General Menonita de Caguas
-	Pr-172 Urb Turabo Gardens (Salida 21) Caguas 00726-4964 Caguas 00726-4964
-19. Mennonite General Hospital Inc
-	Calle Jose C Vasquez Bo. Caonillas Aibonito 00705 (CMS:yes)
-	2.55 Hospital General Menonita de Aibonito
-	- Carretera 726, Calle José C. Vázquez Aibonito 00705
-20. Hospital Universitario Dr Ruiz Arnau
-	Laurel Ave Santa Juanita #100 Bayamon 00956 (CMS:yes)
-	2.63 Hospital Universitario Dr. Ramón Ruiz Arnau
-	Ave Laurel - Urb Santa Juanita Bayamon 00956 Bayamón 00956
-21. Hima San Pablo-Caguas
-	Ave Luis Munoz Marin Caguas 00725 (CMS:yes)
-	2.28 Hospital HIMA San Pablo Caguas
-	Lote 100 Ave Munoz Marin Urb Mariolga Caguas 00726-4980 Caguas 00726-4980
-22. San Juan Capestrano Hospital Inc
-	Carr 877 Km 1 6 Camino Las Lomas Rr2 Rio Piedras 00928 (CMS:no)
-	2.05 HIMA•San Pablo Cupey
-	Pr-844 Km 0.5 Río Piedras 00928 Río Piedras 00928
-23. Doctors' Center Hospital San Juan
-	Pda. 20 C/ San Rafael # 1395 Fernandez Juncos 00909 (CMS:yes)
-	1.82 Doctors' Center Hospital San Juan
-	1395 C/San Rafael Santurce San Juan 00910-3428 San Juan 00910-3428
-24. Hima San Pablo Cupey
-	Carr 844 Km 5 Cupey Bajo San Juan 00928 (CMS:yes)
-	2.36 HIMA•San Pablo Cupey
-	Pr-844 Km 0.5 Río Piedras 00928 Río Piedras 00928
-25. Manati Medical Center Dr Otero Lopez
-	Calle Hernandez Carrion Urb Atenas Manati 00674 (CMS:yes)
-	2.11 Manatí Medical Center
-	Calle Hernandez Carrion 668 Manati 00674-1142 Manatí 00674-1142
-26. Hospital Pavia Hato Rey, Inc
-	Ave Ponce De Leon 435 Hato Rey 00919 (CMS:yes)
-	2.20 Hospital Auxilio Mutuo
-	Ave Ponce De Leon Pda 37.5 San Juan 00919-1227 Hato Rey 00919-1227
-27. Hospital Pavia Santurce
-	Calle Profesor Augusto Rodriguez #1462 Fernandez Juncos 00910 (CMS:yes)
-	2.65 Hospital Pavía - Santurce
-	1462 Calle Prof. Augusto Rodríguez San Juan 00910
-28. Hospital Metropolitano Dr Tito Mattei
-	Road 128 Km 1.0 Yauco 00698 (CMS:yes)
-	1.58 Hospital Pavia Yauco
-	Carr. 128, Km. 1.0 Yauco 00698-0068
-29. Hospital Hermanos Melendez Inc
-	Carretera #2 Km 11 7 Bayamon 00960 (CMS:yes)
-	2.36 Hospital Hermanos Meléndez
-	Carr. Núm. 2, Km. 11.7 Bayamón 00959
-30. Mayaguez Medical Center Dr Ramon Emeterio Betances
-	Carr 2 Bo Sabalos Mayaguez 00682 (CMS:yes)
-	2.22 Mayagüez Medical Center
-	Pr-2 Km 15.7 Ave Hostos 410 Centro Medico Mayaguez 00681-1838 Mayagüez 00682
-31. Hosp Comunitario Buen Samaritano
-	Carr.2 Km.1.4 Ave. Severiano Cuevas #18 Aguadilla 00603 (CMS:yes)
-	2.79 Hospital Comunitario Buen Samaritano Inc
-	Carr 2 Km 141.1 Ave Kennedy Aguadilla 00605 Aguadilla 00603
-32. Hima San Pablo Humacao
-	Calle Font Martelo #3 Humacao 00791 (CMS:yes)
-	2.98 HIMA•San Pablo Humacao
-	3 Avenida Font Martelo Humacao 00792
-33. Asociacion Hospital Del Maestro, Inc
-	Sergio Cuevas Bustamante Street 550 San Juan 00936 (CMS:yes)
-	2.22 Hospital Del Maestro
-	C/Sergio Cuevas Bustamante 550 San Juan 00939-4708 San Juan 00939-4708
-34. Hospital Psiquiatrico Metropolitano Cabo Rojo
-	108 Munoz Rivera Street Bo Ballaja 00623 (CMS:yes)
-	1.50 Metropolitano Psiquiatrico De Cabo Rojo
-	Calle Muñoz Rivera 108 Cabo Rojo 00623-0910 Cabo Rojo 00623-0910
-35. Hospital San Carlos Borromeo
-	Calle Concepcion Vera Ayala #550 S Moca 00676 (CMS:yes)
-	1.57 Centro AYANI
-	140 Calle Monseñor Jose Torres Moca 00680
-36. San Juan Municipal Hospital
-	Barrio Monacillos,Centro Medico Rio Piedras 00936 (CMS:yes)
-	1.78 Hospital San Francisco
-	371 Avenida José de Diego Rio Piedras 00923
-37. Bella Vista Hospital
-	Carr 349 Km 2 7 Cerro Las Mesas Mayaguez 00681 (CMS:yes)
-	2.07 Hospital Bella Vista
-	Carr. 349, Km. 2.9, Cerro Las Mesas Mayagüez 00681
-38. Centro Medico Wilma N Vazquez
-	Carr. 2 Km 39.5 Road Number 2 Bo Algarrobo Vega Baja 00693 (CMS:yes)
-	0.91 Administracion De Servicios Medicos De Puerto Rico
-	Centro Medico San Juan 00922-2129 San Juan 00935
-39. University Pediatric Hospital
-	Puerto Rico Medical Center In Rio Piedras San Juan 00935 (CMS:yes)
-	2.13 Administracion De Servicios Medicos De Puerto Rico
-	Centro Medico San Juan 00922-2129 San Juan 00935
-40. Doctors Center Hospital Bayamon
-	9 J Street Ext Hermanas Davila Bayamon 00959 (CMS:yes)
-	2.06 Hospital Hermanos Meléndez
-	Carr. Núm. 2, Km. 11.7 Bayamón 00959
-41. Hima San Pablo Bayamon
-	70 Calle Santa Cruz Bayamon 00961 (CMS:yes)
-	2.85 HIMA•San Pablo - Bayamón
-	Calle Santa Cruz 70 Bayamon 00960 Bayamón 00959
-42. Centro De Salud Conductual Menonita-Cima
-	Carr Estatal 14 Interior Sargento Gerardo Santiago Aibonito 00705 (CMS:no)
-	2.23 Hospital General Menonita de Aibonito
-	- Carretera 726, Calle José C. Vázquez Aibonito 00705
-43. Hospital Universitario De Adulto
-	Barrio Monacillos Centromedico Rio Piedras 00927 (CMS:yes)
-	1.90 Hospital San Francisco
-	371 Avenida José de Diego Rio Piedras 00923
-44. Professional Hospital Guaynabo Inc
-	Ave Las Cumbres St 199Km 1 2 Alt De Santa 00969 (CMS:yes)
-	2.06 Professional Hospital
-	- Avenida Las Cumbres Guaynabo 00969
-45. Admin De Servicios Medicos Puerto Ric
-	Bo Monacillo Carr Num 22 San Juan 00935 (CMS:yes)
-	2.73 Administracion De Servicios Medicos De Puerto Rico
-	Centro Medico San Juan 00922-2129 San Juan 00935
-46. Hospital Damas Inc
-	Ponce By Pass #2213 Ponce 00717 (CMS:yes)
-	2.58 Hospital Damas
-	Pr-2 Ponce Bypass Ponce 00717-1318 Ponce 00717-1318
-47. Hospital Metropolitano San German
-	Calle Javilla #8 Al Costado Parque De Bombas San German 00683 (CMS:yes)
-	2.92 Hospital Metropolitano De San German
-	Calle Javilla 8 San German 00683 San Germán 00683
-48. Hospital Upr, Dr Federico Trilla
-	Carr 3 Km 8 3 Ave 65Th Infanteria Box 6021 Carolina 00984 (CMS:no)
-	2.93 Hospital de la UPR - Dr. Federico Trilla
-	Pr-3 Km 8.1 Ave 65 Inf Carolina 00984 Carolina 00984
-49. Hospital Metropolitano Dr Pila
-	2435 Las Americas Ave Ponce 00733 (CMS:yes)
-	2.52 El Hospital Metropolitano Dr. Pila
-	Ave Las Americas 2431 Ponce 00733-1910 Ponce 00733-1910
-50. Hospital Dr Susoni Inc
-	55 Palm St Arecibo 00614 (CMS:yes)
-	2.41 Hospital Metropolitano Dr. Susoni
-	Calle Palma #55 Arecibo 00614 Arecibo 00612
-51. Hospital General De Castaner
-	Carr 135 Km 64 2 Castaner 00631 (CMS:yes)
-	2.15 Hospital General Castañer
-	Pr-135 Km 64.2 Lares 00631-1003 Castañer 00631-1003
-Found 51 issues.
+1. Unmatched medicare hospital
+  Medicare name: Hospital San Francisco
+  Medicare address: 371 De Diego Ave San Juan 00923
+  Medicare emergency services: yes
+  Best OSM Match: 2.30 Hospital San Francisco
+  OSM Address: 371 Avenida José de Diego Rio Piedras 00923
+2. Unmatched medicare hospital
+  Medicare name: Auxilio Mutuo Hospital
+  Medicare address: Ponce De Leon Avenue Stop 37 1/2 Hato Rey 00918
+  Medicare emergency services: yes
+  Best OSM Match: 1.80 Hospital Auxilio Mutuo
+  OSM Address: Ave Ponce De Leon Pda 37.5 San Juan 00919-1227 Hato Rey 00919-1227
+3. Unmatched medicare hospital
+  Medicare name: Hospital Menonita Guayama
+  Medicare address: Ave. Pedro Albizu Campos Urb. La Hacienda Guayama 00785
+  Medicare emergency services: yes
+  Best OSM Match: 3.00 Hospital Menonita Guayama
+  OSM Address: Ave Pedro Albizu Campos C/Principal Urb La Hacienda Guayama 00785 Guayama 00785
+4. Unmatched medicare hospital
+  Medicare name: Hospital Oncologico Dr Isaac Gonzalez Martinez
+  Medicare address: Bo. Monacillos Carr 22 Centro Medico De Puerto Ric San Juan 00935
+  Medicare emergency services: no
+  Best OSM Match: 2.07 Administracion De Servicios Medicos De Puerto Rico
+  OSM Address: Centro Medico San Juan 00922-2129 San Juan 00935
+5. Unmatched medicare hospital
+  Medicare name: Hospital De La Concepcion
+  Medicare address: Road Number 2 Km 173.4 Cain Alto San German 00683
+  Medicare emergency services: yes
+  Best OSM Match: 2.26 Hospital De La Concepcion
+  OSM Address: Carr. Estatal Núm. 2, Km. 174.3 San Germán 00683-0285
+6. Unmatched medicare hospital
+  Medicare name: Metropolitan Hospital
+  Medicare address: Carretera 21 1785 Urb Las Lomas San Juan 00915
+  Medicare emergency services: yes
+  Best OSM Match: 2.03 HealthproMed
+  OSM Address: 2018-2020 Avenida Borinquen San Juan 00915
+7. Unmatched medicare hospital
+  Medicare name: Inspira Behavior Care Corp
+  Medicare address: Calle Guadalupe 184 (Antiguo Hospital San Lucas) Ponce 00733
+  Medicare emergency services: no
+  Best OSM Match: 1.76 Hospital Psiquiatria Forense De Ponce
+  OSM Address: Pr-14 Km 4.2 Ponce 00731 Ponce 00731
+8. Unmatched medicare hospital
+  Medicare name: Doctor Center Hospital San Fernando De La Carolina
+  Medicare address: Edif Jesus T Pineiro Ave Fernandez Juncos Bo Puebl Carolina 00979
+  Medicare emergency services: yes
+  Best OSM Match: 1.57 Hospital de la UPR - Dr. Federico Trilla
+  OSM Address: Pr-3 Km 8.1 Ave 65 Inf Carolina 00984 Carolina 00984
+9. Unmatched medicare hospital
+  Medicare name: Doctors' Center Hospital, Inc
+  Medicare address: Marginal Carretera No 2, Km 47 7 Manati 00674
+  Medicare emergency services: yes
+  Best OSM Match: 2.07 Doctors' Center Hospital
+  OSM Address: Carretera 2 Km. 47.7 Manatí 00674-0532
+10. Unmatched medicare hospital
+  Medicare name: First Hospital Panamericano
+  Medicare address: State Road 787 Km 1 5 Cidra 00739
+  Medicare emergency services: no
+  Best OSM Match: 2.45 First Hospital Panamericano
+  OSM Address: Pr-787 Km 1.5 Cidra 00739-1400 Cidra 00739-1400
+11. Unmatched medicare hospital
+  Medicare name: Hospital San Cristobal
+  Medicare address: Carr 506 Km 1 0 Coto Laurel 00780
+  Medicare emergency services: yes
+  Best OSM Match: 3.00 Hospital San Cristóbal
+  OSM Address: Pr-506 Ponce 00731 Coto Laurel 00780
+12. Unmatched medicare hospital
+  Medicare name: Presbyterian Community Hosp
+  Medicare address: 1451 Ashford Avenue San Juan 00907
+  Medicare emergency services: yes
+  Best OSM Match: 3.05 Ashford Presbyterian Community Hospital
+  OSM Address: Ave Ashford 1451 San Juan 00902-0032 San Juan 00907
+13. Unmatched medicare hospital
+  Medicare name: San Luke's Memorial Hospital Inc
+  Medicare address: Tito Castro Ave #917 Ponce 00733
+  Medicare emergency services: yes
+  Best OSM Match: 1.90 Hospital San Lucas
+  OSM Address: Pr-14 Ave Tito Castro 917 Ponce 00733-6810 Ponce 00733-6810
+14. Unmatched medicare hospital
+  Medicare name: Hospital Menonita De Cayey
+  Medicare address: Bo. Rincon Sector Las Lomas Km.3.1 Carr 14 Cayey 00737
+  Medicare emergency services: yes
+  Best OSM Match: 3.06 Hospital Menonita de Cayey
+  OSM Address: - Carretera 14, Interior Cayey 00737
+15. Unmatched medicare hospital
+  Medicare name: Hospital Metropolitano De La Montana
+  Medicare address: Calle Isaac Gonzalez Esquina Ledesma Bda Nueva 00641
+  Medicare emergency services: yes
+  Best OSM Match: 1.85 Hospital Metropolitano de la Montaña
+  OSM Address: - Calle Isaac González Martínez Utuado 00641-0590
+16. Unmatched medicare hospital
+  Medicare name: Hospital Dr Cayetano Coll Y Toste
+  Medicare address: Carretera 129 Km.1 Avenida San Luis Arecibo 00613
+  Medicare emergency services: yes
+  Best OSM Match: 2.62 Hospital Pavia Arecibo
+  OSM Address: Carr. 129 Ave. San Luis, Km. 0.7 Arecibo Arecibo 00613
+17. Unmatched medicare hospital
+  Medicare name: Centro Cardiovascular
+  Medicare address: Avenida Americo Miranda, Entrada Principal Cm Rio Piedras 00936
+  Medicare emergency services: no
+  Best OSM Match: 1.81 Hospital San Francisco
+  OSM Address: 371 Avenida José de Diego Rio Piedras 00923
+18. Unmatched medicare hospital
+  Medicare name: Hospital Menonita Caguas Inc
+  Medicare address: Carr 172 Exit 21 Urb Turabo Gardens Caguas 00725
+  Medicare emergency services: yes
+  Best OSM Match: 2.14 Hospital General Menonita de Caguas
+  OSM Address: Pr-172 Urb Turabo Gardens (Salida 21) Caguas 00726-4964 Caguas 00726-4964
+19. Unmatched medicare hospital
+  Medicare name: Mennonite General Hospital Inc
+  Medicare address: Calle Jose C Vasquez Bo. Caonillas Aibonito 00705
+  Medicare emergency services: yes
+  Best OSM Match: 2.55 Hospital General Menonita de Aibonito
+  OSM Address: - Carretera 726, Calle José C. Vázquez Aibonito 00705
+20. Unmatched medicare hospital
+  Medicare name: Hospital Universitario Dr Ruiz Arnau
+  Medicare address: Laurel Ave Santa Juanita #100 Bayamon 00956
+  Medicare emergency services: yes
+  Best OSM Match: 2.63 Hospital Universitario Dr. Ramón Ruiz Arnau
+  OSM Address: Ave Laurel - Urb Santa Juanita Bayamon 00956 Bayamón 00956
+21. Unmatched medicare hospital
+  Medicare name: Hima San Pablo-Caguas
+  Medicare address: Ave Luis Munoz Marin Caguas 00725
+  Medicare emergency services: yes
+  Best OSM Match: 2.28 Hospital HIMA San Pablo Caguas
+  OSM Address: Lote 100 Ave Munoz Marin Urb Mariolga Caguas 00726-4980 Caguas 00726-4980
+22. Unmatched medicare hospital
+  Medicare name: San Juan Capestrano Hospital Inc
+  Medicare address: Carr 877 Km 1 6 Camino Las Lomas Rr2 Rio Piedras 00928
+  Medicare emergency services: no
+  Best OSM Match: 2.05 HIMA•San Pablo Cupey
+  OSM Address: Pr-844 Km 0.5 Río Piedras 00928 Río Piedras 00928
+23. Unmatched medicare hospital
+  Medicare name: Doctors' Center Hospital San Juan
+  Medicare address: Pda. 20 C/ San Rafael # 1395 Fernandez Juncos 00909
+  Medicare emergency services: yes
+  Best OSM Match: 1.82 Doctors' Center Hospital San Juan
+  OSM Address: 1395 C/San Rafael Santurce San Juan 00910-3428 San Juan 00910-3428
+24. Unmatched medicare hospital
+  Medicare name: Hima San Pablo Cupey
+  Medicare address: Carr 844 Km 5 Cupey Bajo San Juan 00928
+  Medicare emergency services: yes
+  Best OSM Match: 2.36 HIMA•San Pablo Cupey
+  OSM Address: Pr-844 Km 0.5 Río Piedras 00928 Río Piedras 00928
+25. Unmatched medicare hospital
+  Medicare name: Manati Medical Center Dr Otero Lopez
+  Medicare address: Calle Hernandez Carrion Urb Atenas Manati 00674
+  Medicare emergency services: yes
+  Best OSM Match: 2.11 Manatí Medical Center
+  OSM Address: Calle Hernandez Carrion 668 Manati 00674-1142 Manatí 00674-1142
+26. Unmatched medicare hospital
+  Medicare name: Hospital Pavia Hato Rey, Inc
+  Medicare address: Ave Ponce De Leon 435 Hato Rey 00919
+  Medicare emergency services: yes
+  Best OSM Match: 2.20 Hospital Auxilio Mutuo
+  OSM Address: Ave Ponce De Leon Pda 37.5 San Juan 00919-1227 Hato Rey 00919-1227
+27. Unmatched medicare hospital
+  Medicare name: Hospital Pavia Santurce
+  Medicare address: Calle Profesor Augusto Rodriguez #1462 Fernandez Juncos 00910
+  Medicare emergency services: yes
+  Best OSM Match: 2.65 Hospital Pavía - Santurce
+  OSM Address: 1462 Calle Prof. Augusto Rodríguez San Juan 00910
+28. Unmatched medicare hospital
+  Medicare name: Hospital Metropolitano Dr Tito Mattei
+  Medicare address: Road 128 Km 1.0 Yauco 00698
+  Medicare emergency services: yes
+  Best OSM Match: 1.58 Hospital Pavia Yauco
+  OSM Address: Carr. 128, Km. 1.0 Yauco 00698-0068
+29. Unmatched medicare hospital
+  Medicare name: Hospital Hermanos Melendez Inc
+  Medicare address: Carretera #2 Km 11 7 Bayamon 00960
+  Medicare emergency services: yes
+  Best OSM Match: 2.36 Hospital Hermanos Meléndez
+  OSM Address: Carr. Núm. 2, Km. 11.7 Bayamón 00959
+30. Unmatched medicare hospital
+  Medicare name: Mayaguez Medical Center Dr Ramon Emeterio Betances
+  Medicare address: Carr 2 Bo Sabalos Mayaguez 00682
+  Medicare emergency services: yes
+  Best OSM Match: 2.22 Mayagüez Medical Center
+  OSM Address: Pr-2 Km 15.7 Ave Hostos 410 Centro Medico Mayaguez 00681-1838 Mayagüez 00682
+31. Unmatched medicare hospital
+  Medicare name: Hosp Comunitario Buen Samaritano
+  Medicare address: Carr.2 Km.1.4 Ave. Severiano Cuevas #18 Aguadilla 00603
+  Medicare emergency services: yes
+  Best OSM Match: 2.79 Hospital Comunitario Buen Samaritano Inc
+  OSM Address: Carr 2 Km 141.1 Ave Kennedy Aguadilla 00605 Aguadilla 00603
+32. Unmatched medicare hospital
+  Medicare name: Hima San Pablo Humacao
+  Medicare address: Calle Font Martelo #3 Humacao 00791
+  Medicare emergency services: yes
+  Best OSM Match: 2.98 HIMA•San Pablo Humacao
+  OSM Address: 3 Avenida Font Martelo Humacao 00792
+33. Unmatched medicare hospital
+  Medicare name: Asociacion Hospital Del Maestro, Inc
+  Medicare address: Sergio Cuevas Bustamante Street 550 San Juan 00936
+  Medicare emergency services: yes
+  Best OSM Match: 2.22 Hospital Del Maestro
+  OSM Address: C/Sergio Cuevas Bustamante 550 San Juan 00939-4708 San Juan 00939-4708
+34. Unmatched medicare hospital
+  Medicare name: Hospital Psiquiatrico Metropolitano Cabo Rojo
+  Medicare address: 108 Munoz Rivera Street Bo Ballaja 00623
+  Medicare emergency services: yes
+  Best OSM Match: 1.50 Metropolitano Psiquiatrico De Cabo Rojo
+  OSM Address: Calle Muñoz Rivera 108 Cabo Rojo 00623-0910 Cabo Rojo 00623-0910
+35. Unmatched medicare hospital
+  Medicare name: Hospital San Carlos Borromeo
+  Medicare address: Calle Concepcion Vera Ayala #550 S Moca 00676
+  Medicare emergency services: yes
+  Best OSM Match: 1.57 Centro AYANI
+  OSM Address: 140 Calle Monseñor Jose Torres Moca 00680
+36. Unmatched medicare hospital
+  Medicare name: San Juan Municipal Hospital
+  Medicare address: Barrio Monacillos,Centro Medico Rio Piedras 00936
+  Medicare emergency services: yes
+  Best OSM Match: 1.78 Hospital San Francisco
+  OSM Address: 371 Avenida José de Diego Rio Piedras 00923
+37. Unmatched medicare hospital
+  Medicare name: Bella Vista Hospital
+  Medicare address: Carr 349 Km 2 7 Cerro Las Mesas Mayaguez 00681
+  Medicare emergency services: yes
+  Best OSM Match: 2.07 Hospital Bella Vista
+  OSM Address: Carr. 349, Km. 2.9, Cerro Las Mesas Mayagüez 00681
+38. Unmatched medicare hospital
+  Medicare name: Centro Medico Wilma N Vazquez
+  Medicare address: Carr. 2 Km 39.5 Road Number 2 Bo Algarrobo Vega Baja 00693
+  Medicare emergency services: yes
+  Best OSM Match: 0.91 Administracion De Servicios Medicos De Puerto Rico
+  OSM Address: Centro Medico San Juan 00922-2129 San Juan 00935
+39. Unmatched medicare hospital
+  Medicare name: University Pediatric Hospital
+  Medicare address: Puerto Rico Medical Center In Rio Piedras San Juan 00935
+  Medicare emergency services: yes
+  Best OSM Match: 2.13 Administracion De Servicios Medicos De Puerto Rico
+  OSM Address: Centro Medico San Juan 00922-2129 San Juan 00935
+40. Unmatched medicare hospital
+  Medicare name: Doctors Center Hospital Bayamon
+  Medicare address: 9 J Street Ext Hermanas Davila Bayamon 00959
+  Medicare emergency services: yes
+  Best OSM Match: 2.06 Hospital Hermanos Meléndez
+  OSM Address: Carr. Núm. 2, Km. 11.7 Bayamón 00959
+41. Unmatched medicare hospital
+  Medicare name: Hima San Pablo Bayamon
+  Medicare address: 70 Calle Santa Cruz Bayamon 00961
+  Medicare emergency services: yes
+  Best OSM Match: 2.85 HIMA•San Pablo - Bayamón
+  OSM Address: Calle Santa Cruz 70 Bayamon 00960 Bayamón 00959
+42. Unmatched medicare hospital
+  Medicare name: Centro De Salud Conductual Menonita-Cima
+  Medicare address: Carr Estatal 14 Interior Sargento Gerardo Santiago Aibonito 00705
+  Medicare emergency services: no
+  Best OSM Match: 2.23 Hospital General Menonita de Aibonito
+  OSM Address: - Carretera 726, Calle José C. Vázquez Aibonito 00705
+43. Unmatched medicare hospital
+  Medicare name: Hospital Universitario De Adulto
+  Medicare address: Barrio Monacillos Centromedico Rio Piedras 00927
+  Medicare emergency services: yes
+  Best OSM Match: 1.90 Hospital San Francisco
+  OSM Address: 371 Avenida José de Diego Rio Piedras 00923
+44. Unmatched medicare hospital
+  Medicare name: Professional Hospital Guaynabo Inc
+  Medicare address: Ave Las Cumbres St 199Km 1 2 Alt De Santa 00969
+  Medicare emergency services: yes
+  Best OSM Match: 2.06 Professional Hospital
+  OSM Address: - Avenida Las Cumbres Guaynabo 00969
+45. Unmatched medicare hospital
+  Medicare name: Admin De Servicios Medicos Puerto Ric
+  Medicare address: Bo Monacillo Carr Num 22 San Juan 00935
+  Medicare emergency services: yes
+  Best OSM Match: 2.73 Administracion De Servicios Medicos De Puerto Rico
+  OSM Address: Centro Medico San Juan 00922-2129 San Juan 00935
+46. Unmatched medicare hospital
+  Medicare name: Hospital Damas Inc
+  Medicare address: Ponce By Pass #2213 Ponce 00717
+  Medicare emergency services: yes
+  Best OSM Match: 2.58 Hospital Damas
+  OSM Address: Pr-2 Ponce Bypass Ponce 00717-1318 Ponce 00717-1318
+47. Unmatched medicare hospital
+  Medicare name: Hospital Metropolitano San German
+  Medicare address: Calle Javilla #8 Al Costado Parque De Bombas San German 00683
+  Medicare emergency services: yes
+  Best OSM Match: 2.92 Hospital Metropolitano De San German
+  OSM Address: Calle Javilla 8 San German 00683 San Germán 00683
+48. Unmatched medicare hospital
+  Medicare name: Hospital Upr, Dr Federico Trilla
+  Medicare address: Carr 3 Km 8 3 Ave 65Th Infanteria Box 6021 Carolina 00984
+  Medicare emergency services: no
+  Best OSM Match: 2.93 Hospital de la UPR - Dr. Federico Trilla
+  OSM Address: Pr-3 Km 8.1 Ave 65 Inf Carolina 00984 Carolina 00984
+49. Unmatched medicare hospital
+  Medicare name: Hospital Metropolitano Dr Pila
+  Medicare address: 2435 Las Americas Ave Ponce 00733
+  Medicare emergency services: yes
+  Best OSM Match: 2.52 El Hospital Metropolitano Dr. Pila
+  OSM Address: Ave Las Americas 2431 Ponce 00733-1910 Ponce 00733-1910
+50. Unmatched medicare hospital
+  Medicare name: Hospital Dr Susoni Inc
+  Medicare address: 55 Palm St Arecibo 00614
+  Medicare emergency services: yes
+  Best OSM Match: 2.41 Hospital Metropolitano Dr. Susoni
+  OSM Address: Calle Palma #55 Arecibo 00614 Arecibo 00612
+51. Unmatched medicare hospital
+  Medicare name: Hospital General De Castaner
+  Medicare address: Carr 135 Km 64 2 Castaner 00631
+  Medicare emergency services: yes
+  Best OSM Match: 2.15 Hospital General Castañer
+  OSM Address: Pr-135 Km 64.2 Lares 00631-1003 Castañer 00631-1003
+Found 51 potential issues.
 
-Unmatched emergency=yes
-Hospital Hermanos Meléndez (2.06)
-	Carr. Núm. 2, Km. 11.7 Bayamón 00959
-Unmatched emergency=yes
-Doctors' Center Hospital Bayamón (0.00)
-	C/2 J-9 Ext Hermanos Davila Bayamon 00674-0532 Bayamón 00674-0532
-Unmatched emergency=yes
-Hospital San Carlos de Borromeo (0.00)
-	Pr-110 Km 12.2 C/Concepcion Vera Ayala 555 Moca 00676-0068 - 00676-0068
-Unmatched emergency=yes
-Hospital San Antonio Inc (0.00)
-	Calle Post 18 Norte Mayaguez 00681 Norte Mayagüez 00680
-Unmatched emergency=yes
-HIMA•San Pablo Humacao (2.98)
-	3 Avenida Font Martelo Humacao 00792
-Unmatched emergency=yes
-Administracion De Servicios Medicos De Puerto Rico (2.73)
-	Centro Medico San Juan 00922-2129 San Juan 00935
-Unmatched emergency=yes
-Puerto Rico Children's Hospital, Inc. Bayamon (0.00)
-	Carr. 2 Km. 11.9 Barrio Pájaros Bayamón 00960
-Unmatched emergency=yes
-Centro Cardiovascular De PR y el Caribe Dr. Ramon M. Suárez (0.00)
-	Ave Americo Miranda - Entrada Principal Centro Medico San Juan 00936-6528 San Juan 00921-6528
-Unmatched emergency=yes
-Hospital de la UPR - Dr. Federico Trilla (2.93)
-	Pr-3 Km 8.1 Ave 65 Inf Carolina 00984 Carolina 00984
-Unmatched emergency=yes
-Hospital Auxilio Mutuo (2.20)
-	Ave Ponce De Leon Pda 37.5 San Juan 00919-1227 Hato Rey 00919-1227
-Unmatched emergency=yes
-Mayagüez Medical Center (2.22)
-	Pr-2 Km 15.7 Ave Hostos 410 Centro Medico Mayaguez 00681-1838 Mayagüez 00682
-Unmatched emergency=yes
-Hospital General Menonita de Caguas (2.14)
-	Pr-172 Urb Turabo Gardens (Salida 21) Caguas 00726-4964 Caguas 00726-4964
-Unmatched emergency=yes
-HIMA•San Pablo - Bayamón (2.85)
-	Calle Santa Cruz 70 Bayamon 00960 Bayamón 00959
-Unmatched emergency=yes
-Guaynabo Medical Mall (0.00)
-	140 Avenida Las Cumbres Guaynabo 00970
-Unmatched emergency=yes
-Hospital Municipal De San Juan Dr. Rafael López Nussa (0.00)
-	Centro Medico San Juan 00936-8344 San Juan 00936-8344
-Unmatched emergency=yes
-Hospital Pediatrico Universitario Dr. Antonio Ortiz (0.00)
-	Centro Medico San Juan 00919-1079 San Juan 00919-1079
-Unmatched emergency=yes
-Professional Hospital (2.06)
-	- Avenida Las Cumbres Guaynabo 00969
-Unmatched emergency=yes
-Doctors' Center Hospital (2.07)
-	Carretera 2 Km. 47.7 Manatí 00674-0532
-Unmatched emergency=yes
-SJ Veteran's Administration Caribbean Healthcare System (0.00)
-	10 Calle Casia San Juan 00921
-Unmatched emergency=yes
-Hospital Pavía de Hato Rey (0.00)
-	435 Avenida Juan Ponce de León San Juan 00919-0828
-Unmatched emergency=yes
-HealthproMed (2.03)
-	2018-2020 Avenida Borinquen San Juan 00915
-Unmatched emergency=yes
-Hospital Del Maestro (2.22)
-	C/Sergio Cuevas Bustamante 550 San Juan 00939-4708 San Juan 00939-4708
-Unmatched emergency=yes
-Hospital HIMA San Pablo Caguas (2.28)
-	Lote 100 Ave Munoz Marin Urb Mariolga Caguas 00726-4980 Caguas 00726-4980
-Unmatched emergency=yes
-Hospital Metropolitano De San Juan (0.00)
-	Pr-21 Urb Las Lomas 1785 San Juan 00922 San Juan 00922
-Unmatched emergency=yes
-Metro Pavia Clinic (0.00)
-	- Avenida Arnaldo Bristol Barrio Pueblo -
-Unmatched emergency=yes
-Centro Médico Correccional (0.00)
-	- - - -
-Unmatched emergency=yes
-Hospital Menonita Guayama (3.00)
-	Ave Pedro Albizu Campos C/Principal Urb La Hacienda Guayama 00785 Guayama 00785
-Unmatched emergency=yes
-Hospital Lafayette (0.00)
-	Pr-753 Km 0.1 Sector Cuatro Calles Arroyo 00714 - 00714
-Unmatched emergency=yes
-Hospital Menonita de Cayey (3.06)
-	- Carretera 14, Interior Cayey 00737
-Unmatched emergency=yes
-Hospital Pavia Yauco (1.58)
-	Carr. 128, Km. 1.0 Yauco 00698-0068
-Unmatched emergency=yes
-Hospital Damas (2.58)
-	Pr-2 Ponce Bypass Ponce 00717-1318 Ponce 00717-1318
-Unmatched emergency=yes
-El Hospital Metropolitano Dr. Pila (2.52)
-	Ave Las Americas 2431 Ponce 00733-1910 Ponce 00733-1910
-Unmatched emergency=yes
-Hospital Metropolitano De San German (2.92)
-	Calle Javilla 8 San German 00683 San Germán 00683
-Unmatched emergency=yes
-Hospital De La Concepcion (2.26)
-	Carr. Estatal Núm. 2, Km. 174.3 San Germán 00683-0285
-Unmatched emergency=yes
-Hospital General Castañer (2.15)
-	Pr-135 Km 64.2 Lares 00631-1003 Castañer 00631-1003
-Unmatched emergency=yes
-Hospital Bella Vista (2.07)
-	Carr. 349, Km. 2.9, Cerro Las Mesas Mayagüez 00681
-Unmatched emergency=yes
-Hospital General Menonita de Aibonito (2.23)
-	- Carretera 726, Calle José C. Vázquez Aibonito 00705
-Unmatched emergency=yes
-Hospital Comunitario Buen Samaritano Inc (2.79)
-	Carr 2 Km 141.1 Ave Kennedy Aguadilla 00605 Aguadilla 00603
-Unmatched emergency=yes
-HIMA•San Pablo Cupey (2.36)
-	Pr-844 Km 0.5 Río Piedras 00928 Río Piedras 00928
-Unmatched emergency=yes
-Ashford Presbyterian Community Hospital (3.05)
-	Ave Ashford 1451 San Juan 00902-0032 San Juan 00907
-Unmatched emergency=yes
-Hospital San Cristóbal (3.00)
-	Pr-506 Ponce 00731 Coto Laurel 00780
-Unmatched emergency=yes
-Hospital San Lucas (1.90)
-	Pr-14 Ave Tito Castro 917 Ponce 00733-6810 Ponce 00733-6810
-Unmatched emergency=yes
-Hospital Metropolitano de la Montaña (1.85)
-	- Calle Isaac González Martínez Utuado 00641-0590
-Unmatched emergency=yes
-Metropolitano Psiquiatrico De Cabo Rojo (1.50)
-	Calle Muñoz Rivera 108 Cabo Rojo 00623-0910 Cabo Rojo 00623-0910
-Unmatched emergency=yes
-Hospital Metropolitano Dr. Susoni (2.41)
-	Calle Palma #55 Arecibo 00614 Arecibo 00612
-Unmatched emergency=yes
-Hospital Pavia Arecibo (2.62)
-	Carr. 129 Ave. San Luis, Km. 0.7 Arecibo Arecibo 00613
-Unmatched emergency=yes
-Manatí Medical Center (2.11)
-	Calle Hernandez Carrion 668 Manati 00674-1142 Manatí 00674-1142
-Unmatched emergency=yes
-Hospital Universitario Dr. Ramón Ruiz Arnau (2.63)
-	Ave Laurel - Urb Santa Juanita Bayamon 00956 Bayamón 00956
-Unmatched emergency=yes
-Hospital San Francisco (1.90)
-	371 Avenida José de Diego Rio Piedras 00923
-Unmatched emergency=yes
-Hospital Pavía - Santurce (2.65)
-	1462 Calle Prof. Augusto Rodríguez San Juan 00910
-Unmatched emergency=yes
-Doctors' Center Hospital San Juan (1.82)
-	1395 C/San Rafael Santurce San Juan 00910-3428 San Juan 00910-3428
+Unmatched emergency=yes in OSM
+  OSM name: Hospital Hermanos Meléndez
+  Score of best match: 2.06
+  OSM address: Carr. Núm. 2, Km. 11.7 Bayamón 00959
+Unmatched emergency=yes in OSM
+  OSM name: Doctors' Center Hospital Bayamón
+  Score of best match: 0.00
+  OSM address: C/2 J-9 Ext Hermanos Davila Bayamon 00674-0532 Bayamón 00674-0532
+Unmatched emergency=yes in OSM
+  OSM name: Hospital San Carlos de Borromeo
+  Score of best match: 0.00
+  OSM address: Pr-110 Km 12.2 C/Concepcion Vera Ayala 555 Moca 00676-0068 - 00676-0068
+Unmatched emergency=yes in OSM
+  OSM name: Hospital San Antonio Inc
+  Score of best match: 0.00
+  OSM address: Calle Post 18 Norte Mayaguez 00681 Norte Mayagüez 00680
+Unmatched emergency=yes in OSM
+  OSM name: HIMA•San Pablo Humacao
+  Score of best match: 2.98
+  OSM address: 3 Avenida Font Martelo Humacao 00792
+Unmatched emergency=yes in OSM
+  OSM name: Administracion De Servicios Medicos De Puerto Rico
+  Score of best match: 2.73
+  OSM address: Centro Medico San Juan 00922-2129 San Juan 00935
+Unmatched emergency=yes in OSM
+  OSM name: Puerto Rico Children's Hospital, Inc. Bayamon
+  Score of best match: 0.00
+  OSM address: Carr. 2 Km. 11.9 Barrio Pájaros Bayamón 00960
+Unmatched emergency=yes in OSM
+  OSM name: Centro Cardiovascular De PR y el Caribe Dr. Ramon M. Suárez
+  Score of best match: 0.00
+  OSM address: Ave Americo Miranda - Entrada Principal Centro Medico San Juan 00936-6528 San Juan 00921-6528
+Unmatched emergency=yes in OSM
+  OSM name: Hospital de la UPR - Dr. Federico Trilla
+  Score of best match: 2.93
+  OSM address: Pr-3 Km 8.1 Ave 65 Inf Carolina 00984 Carolina 00984
+Unmatched emergency=yes in OSM
+  OSM name: Hospital Auxilio Mutuo
+  Score of best match: 2.20
+  OSM address: Ave Ponce De Leon Pda 37.5 San Juan 00919-1227 Hato Rey 00919-1227
+Unmatched emergency=yes in OSM
+  OSM name: Mayagüez Medical Center
+  Score of best match: 2.22
+  OSM address: Pr-2 Km 15.7 Ave Hostos 410 Centro Medico Mayaguez 00681-1838 Mayagüez 00682
+Unmatched emergency=yes in OSM
+  OSM name: Hospital General Menonita de Caguas
+  Score of best match: 2.14
+  OSM address: Pr-172 Urb Turabo Gardens (Salida 21) Caguas 00726-4964 Caguas 00726-4964
+Unmatched emergency=yes in OSM
+  OSM name: HIMA•San Pablo - Bayamón
+  Score of best match: 2.85
+  OSM address: Calle Santa Cruz 70 Bayamon 00960 Bayamón 00959
+Unmatched emergency=yes in OSM
+  OSM name: Guaynabo Medical Mall
+  Score of best match: 0.00
+  OSM address: 140 Avenida Las Cumbres Guaynabo 00970
+Unmatched emergency=yes in OSM
+  OSM name: Hospital Municipal De San Juan Dr. Rafael López Nussa
+  Score of best match: 0.00
+  OSM address: Centro Medico San Juan 00936-8344 San Juan 00936-8344
+Unmatched emergency=yes in OSM
+  OSM name: Hospital Pediatrico Universitario Dr. Antonio Ortiz
+  Score of best match: 0.00
+  OSM address: Centro Medico San Juan 00919-1079 San Juan 00919-1079
+Unmatched emergency=yes in OSM
+  OSM name: Professional Hospital
+  Score of best match: 2.06
+  OSM address: - Avenida Las Cumbres Guaynabo 00969
+Unmatched emergency=yes in OSM
+  OSM name: Doctors' Center Hospital
+  Score of best match: 2.07
+  OSM address: Carretera 2 Km. 47.7 Manatí 00674-0532
+Unmatched emergency=yes in OSM
+  OSM name: SJ Veteran's Administration Caribbean Healthcare System
+  Score of best match: 0.00
+  OSM address: 10 Calle Casia San Juan 00921
+Unmatched emergency=yes in OSM
+  OSM name: Hospital Pavía de Hato Rey
+  Score of best match: 0.00
+  OSM address: 435 Avenida Juan Ponce de León San Juan 00919-0828
+Unmatched emergency=yes in OSM
+  OSM name: HealthproMed
+  Score of best match: 2.03
+  OSM address: 2018-2020 Avenida Borinquen San Juan 00915
+Unmatched emergency=yes in OSM
+  OSM name: Hospital Del Maestro
+  Score of best match: 2.22
+  OSM address: C/Sergio Cuevas Bustamante 550 San Juan 00939-4708 San Juan 00939-4708
+Unmatched emergency=yes in OSM
+  OSM name: Hospital HIMA San Pablo Caguas
+  Score of best match: 2.28
+  OSM address: Lote 100 Ave Munoz Marin Urb Mariolga Caguas 00726-4980 Caguas 00726-4980
+Unmatched emergency=yes in OSM
+  OSM name: Hospital Metropolitano De San Juan
+  Score of best match: 0.00
+  OSM address: Pr-21 Urb Las Lomas 1785 San Juan 00922 San Juan 00922
+Unmatched emergency=yes in OSM
+  OSM name: Metro Pavia Clinic
+  Score of best match: 0.00
+  OSM address: - Avenida Arnaldo Bristol Barrio Pueblo -
+Unmatched emergency=yes in OSM
+  OSM name: Centro Médico Correccional
+  Score of best match: 0.00
+  OSM address: - - - -
+Unmatched emergency=yes in OSM
+  OSM name: Hospital Menonita Guayama
+  Score of best match: 3.00
+  OSM address: Ave Pedro Albizu Campos C/Principal Urb La Hacienda Guayama 00785 Guayama 00785
+Unmatched emergency=yes in OSM
+  OSM name: Hospital Lafayette
+  Score of best match: 0.00
+  OSM address: Pr-753 Km 0.1 Sector Cuatro Calles Arroyo 00714 - 00714
+Unmatched emergency=yes in OSM
+  OSM name: Hospital Menonita de Cayey
+  Score of best match: 3.06
+  OSM address: - Carretera 14, Interior Cayey 00737
+Unmatched emergency=yes in OSM
+  OSM name: Hospital Pavia Yauco
+  Score of best match: 1.58
+  OSM address: Carr. 128, Km. 1.0 Yauco 00698-0068
+Unmatched emergency=yes in OSM
+  OSM name: Hospital Damas
+  Score of best match: 2.58
+  OSM address: Pr-2 Ponce Bypass Ponce 00717-1318 Ponce 00717-1318
+Unmatched emergency=yes in OSM
+  OSM name: El Hospital Metropolitano Dr. Pila
+  Score of best match: 2.52
+  OSM address: Ave Las Americas 2431 Ponce 00733-1910 Ponce 00733-1910
+Unmatched emergency=yes in OSM
+  OSM name: Hospital Metropolitano De San German
+  Score of best match: 2.92
+  OSM address: Calle Javilla 8 San German 00683 San Germán 00683
+Unmatched emergency=yes in OSM
+  OSM name: Hospital De La Concepcion
+  Score of best match: 2.26
+  OSM address: Carr. Estatal Núm. 2, Km. 174.3 San Germán 00683-0285
+Unmatched emergency=yes in OSM
+  OSM name: Hospital General Castañer
+  Score of best match: 2.15
+  OSM address: Pr-135 Km 64.2 Lares 00631-1003 Castañer 00631-1003
+Unmatched emergency=yes in OSM
+  OSM name: Hospital Bella Vista
+  Score of best match: 2.07
+  OSM address: Carr. 349, Km. 2.9, Cerro Las Mesas Mayagüez 00681
+Unmatched emergency=yes in OSM
+  OSM name: Hospital General Menonita de Aibonito
+  Score of best match: 2.23
+  OSM address: - Carretera 726, Calle José C. Vázquez Aibonito 00705
+Unmatched emergency=yes in OSM
+  OSM name: Hospital Comunitario Buen Samaritano Inc
+  Score of best match: 2.79
+  OSM address: Carr 2 Km 141.1 Ave Kennedy Aguadilla 00605 Aguadilla 00603
+Unmatched emergency=yes in OSM
+  OSM name: HIMA•San Pablo Cupey
+  Score of best match: 2.36
+  OSM address: Pr-844 Km 0.5 Río Piedras 00928 Río Piedras 00928
+Unmatched emergency=yes in OSM
+  OSM name: Ashford Presbyterian Community Hospital
+  Score of best match: 3.05
+  OSM address: Ave Ashford 1451 San Juan 00902-0032 San Juan 00907
+Unmatched emergency=yes in OSM
+  OSM name: Hospital San Cristóbal
+  Score of best match: 3.00
+  OSM address: Pr-506 Ponce 00731 Coto Laurel 00780
+Unmatched emergency=yes in OSM
+  OSM name: Hospital San Lucas
+  Score of best match: 1.90
+  OSM address: Pr-14 Ave Tito Castro 917 Ponce 00733-6810 Ponce 00733-6810
+Unmatched emergency=yes in OSM
+  OSM name: Hospital Metropolitano de la Montaña
+  Score of best match: 1.85
+  OSM address: - Calle Isaac González Martínez Utuado 00641-0590
+Unmatched emergency=yes in OSM
+  OSM name: Metropolitano Psiquiatrico De Cabo Rojo
+  Score of best match: 1.50
+  OSM address: Calle Muñoz Rivera 108 Cabo Rojo 00623-0910 Cabo Rojo 00623-0910
+Unmatched emergency=yes in OSM
+  OSM name: Hospital Metropolitano Dr. Susoni
+  Score of best match: 2.41
+  OSM address: Calle Palma #55 Arecibo 00614 Arecibo 00612
+Unmatched emergency=yes in OSM
+  OSM name: Hospital Pavia Arecibo
+  Score of best match: 2.62
+  OSM address: Carr. 129 Ave. San Luis, Km. 0.7 Arecibo Arecibo 00613
+Unmatched emergency=yes in OSM
+  OSM name: Manatí Medical Center
+  Score of best match: 2.11
+  OSM address: Calle Hernandez Carrion 668 Manati 00674-1142 Manatí 00674-1142
+Unmatched emergency=yes in OSM
+  OSM name: Hospital Universitario Dr. Ramón Ruiz Arnau
+  Score of best match: 2.63
+  OSM address: Ave Laurel - Urb Santa Juanita Bayamon 00956 Bayamón 00956
+Unmatched emergency=yes in OSM
+  OSM name: Hospital San Francisco
+  Score of best match: 1.90
+  OSM address: 371 Avenida José de Diego Rio Piedras 00923
+Unmatched emergency=yes in OSM
+  OSM name: Hospital Pavía - Santurce
+  Score of best match: 2.65
+  OSM address: 1462 Calle Prof. Augusto Rodríguez San Juan 00910
+Unmatched emergency=yes in OSM
+  OSM name: Doctors' Center Hospital San Juan
+  Score of best match: 1.82
+  OSM address: 1395 C/San Rafael Santurce San Juan 00910-3428 San Juan 00910-3428
 Found 51 unmatched emergency.

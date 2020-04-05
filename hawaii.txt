@@ -1,41 +1,57 @@
 26 OSM hospitals
 25 Medicare hospitals
-1. Kaiser Foundation Hospital
-	3288 Moanalua Rd Honolulu 96819 (CMS:yes)
-	2.99 Kaiser Permanente Moanalua Medical Center
-	3288 Moanalua Road Honolulu 96819
-2. Kahi Mohala
-	91-2301 Fort Weaver Road Ewa Beach 96706 (CMS:no)
-	2.85 The Queen's Medical Center - West Oahu
-	91-2141 Fort Weaver Road Ewa Beach 96706
-3. Tripler Amc (Fort Shafter)
-	1 Jarrett White Rd Honolulu 96859 (CMS:yes)
-	1.82 Kaiser Permanente Moanalua Medical Center
-	3288 Moanalua Road Honolulu 96819
-Maui Memorial Medical Center
-	221 Mahalani Street Wailuku 96793
-	 Emergency Mismatch (CMS:no)
-	Maui Memorial Medical Center
-4. Shriners Hospital For Children
-	1310 Punahou Street Honolulu 96826 (CMS:no)
-	3.09 Kapi'olani Medical Center for Women and Children
-	1319 Punahou Street Honolulu 96826
-5. Adventist Health Castle
-	640 Ulukahiki St Kailua 96734 (CMS:yes)
-	2.86 Castle Medical Center
-	640 Ulukahiki Street Kailua 96734
-Found 5 issues.
+1. Unmatched medicare hospital
+  Medicare name: Kaiser Foundation Hospital
+  Medicare address: 3288 Moanalua Rd Honolulu 96819
+  Medicare emergency services: yes
+  Best OSM Match: 2.99 Kaiser Permanente Moanalua Medical Center
+  OSM Address: 3288 Moanalua Road Honolulu 96819
+2. Unmatched medicare hospital
+  Medicare name: Kahi Mohala
+  Medicare address: 91-2301 Fort Weaver Road Ewa Beach 96706
+  Medicare emergency services: no
+  Best OSM Match: 2.85 The Queen's Medical Center - West Oahu
+  OSM Address: 91-2141 Fort Weaver Road Ewa Beach 96706
+3. Unmatched medicare hospital
+  Medicare name: Tripler Amc (Fort Shafter)
+  Medicare address: 1 Jarrett White Rd Honolulu 96859
+  Medicare emergency services: yes
+  Best OSM Match: 1.82 Kaiser Permanente Moanalua Medical Center
+  OSM Address: 3288 Moanalua Road Honolulu 96819
+4. Emergency services mismatch
+  Medicare name: Maui Memorial Medical Center
+  OSM name: Maui Memorial Medical Center
+  OSM Address: 221 Mahalani Street Wailuku 96793
+  Medicare emergency services: no
+  OSM Emergency: yes
+5. Unmatched medicare hospital
+  Medicare name: Shriners Hospital For Children
+  Medicare address: 1310 Punahou Street Honolulu 96826
+  Medicare emergency services: no
+  Best OSM Match: 3.09 Kapi'olani Medical Center for Women and Children
+  OSM Address: 1319 Punahou Street Honolulu 96826
+6. Unmatched medicare hospital
+  Medicare name: Adventist Health Castle
+  Medicare address: 640 Ulukahiki St Kailua 96734
+  Medicare emergency services: yes
+  Best OSM Match: 2.86 Castle Medical Center
+  OSM Address: 640 Ulukahiki Street Kailua 96734
+Found 6 potential issues.
 
-Unmatched emergency=yes
-Kaiser Permanente Moanalua Medical Center (1.82)
-	3288 Moanalua Road Honolulu 96819
-Unmatched emergency=yes
-Hana Health (0.00)
-	- - - -
-Unmatched emergency=yes
-Castle Medical Center (2.86)
-	640 Ulukahiki Street Kailua 96734
-Unmatched emergency=yes
-The Queen's Medical Center - West Oahu (2.85)
-	91-2141 Fort Weaver Road Ewa Beach 96706
+Unmatched emergency=yes in OSM
+  OSM name: Kaiser Permanente Moanalua Medical Center
+  Score of best match: 1.82
+  OSM address: 3288 Moanalua Road Honolulu 96819
+Unmatched emergency=yes in OSM
+  OSM name: Hana Health
+  Score of best match: 0.00
+  OSM address: - - - -
+Unmatched emergency=yes in OSM
+  OSM name: Castle Medical Center
+  Score of best match: 2.86
+  OSM address: 640 Ulukahiki Street Kailua 96734
+Unmatched emergency=yes in OSM
+  OSM name: The Queen's Medical Center - West Oahu
+  Score of best match: 2.85
+  OSM address: 91-2141 Fort Weaver Road Ewa Beach 96706
 Found 4 unmatched emergency.

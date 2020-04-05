@@ -1,199 +1,285 @@
 188 OSM hospitals
 138 Medicare hospitals
-Saint Joseph's Hospital
-	45 West 10th Street Saint Paul 55102
-	 Emergency Mismatch (CMS:no)
-	St. Joseph's Hospital
-1. Child & Adolescent Behavioral Health Services
-	1701 Technology Drive Ne Willmar 56201 (CMS:no)
-	2.28 Rice Memorial Hospital
-	301 Becker Avenue Southeast Willmar 56201
-2. Saint Gabriels Hospital
-	815 Southeast Second Street Little Falls 56345 (CMS:yes)
-	3.05 St. Gabriel's Hospital
-	815 2nd Street Southeast Little Falls 56345
-Healtheast Woodwinds Hospital
-	1925 Woodwinds Drive Woodbury 55125
-	 Emergency Mismatch (CMS:no)
-	Woodwinds Health Campus
-3. Winona Health Services
-	855 Mankato Avenue Winona 55987 (CMS:yes)
-	3.08 Community Memorial Hospital
-	855 Mankato Avenue Winona 55987
-4. Community Behavioral Hospital Fergus Falls
-	1801 West Alcott Fergus Falls 56537 (CMS:no)
-	2.14 Lake Region Healthcare
-	712 South Cascade Street Fergus Falls 56537
-5. Cambridge Medical Center
-	701 South Dellwood Avenue Cambridge 55008 (CMS:yes)
-	2.71 --
-	701 South Dellwood Street Cambridge 55008
-6. Red Lake Hospital A
-	Po Box 497 Redlake 56671 (CMS:no)
-	2.55 Red Lake Hospital
-	24760 Hospital Road Red Lake 56671
-7. Community Behavioral Health Hospital Annandale
-	400 Annandale Boulevard Annandale 55302 (CMS:no)
-	1.27 CentraCare Health – Monticello
-	1013 Hart Boulevard Monticello 55362
-8. Mayo Clinic Hospital Rochester
-	1216 Second Street Southwest Rochester 55902 (CMS:yes)
-	3.07 Mayo Clinic Saint Marys Campus
-	1216 2nd Street Southwest Rochester 55902
-9. Community Behavioral Health Hospital Rochester
-	251 Wood Lake Drive Southeast Rochester 55904 (CMS:no)
-	2.46 Olmsted Medical Center Hospital
-	1650 4th Street Southeast Rochester 55904
-10. Comm Behavioral Health Hosp
-	1610 8Th Avenue East Alexandria 56308 (CMS:no)
-	2.72 Douglas County Hopsital
-	111 17th Avenue East Alexandria 56308
-Essentia Health Saint Marys - Detroit Lakes
-	1027 Washington Avenue Detroit Lakes 56501
-	 Emergency Mismatch (CMS:no)
-	Essentia Health Saint Mary's - Detroit Lakes
-11. Sanford Behavioral Health Center
-	120 Labree Avenue South Thief River Falls 56701 (CMS:no)
-	2.48 Sanford Thief River Falls Medical Center
-	3001 Sanford Parkway Thief River Falls 56701
-12. Madison Hospital
-	820 Third Avenue Madison 56256 (CMS:yes)
-	3.01 Madison Healthcare Services
-	820 3rd Avenue Madison 56256
-13. University Medical Center-Mesabi/ Mesaba Clinics
-	750 East 34Th St Hibbing 55746 (CMS:yes)
-	2.89 Fairview Range Medical Center
-	750 East 34th Street Hibbing 55746
-14. North Shore Health
-	515 5Th Ave West Grand Marais 55604 (CMS:yes)
-	3.08 North Shore Health Hospital and Care Center
-	515 5th Avenue West Grand Marais 55604
-15. Fairview Lakes Medical Center
-	5200 Fairview Boulevard Wyoming 55092 (CMS:yes)
-	3.01 Fairview Lakes Medical Center
-	5200 Fairview Boulevard Stillwater 55092
-Essentia Health Virginia
-	901 9th Street North Virginia 55792
-	 Emergency Mismatch (CMS:no)
-	Essentia Health Virginia Hospital
-16. Alomere Health
-	111 17Th Avenue East Alexandria 56308 (CMS:yes)
-	2.91 Douglas County Hopsital
-	111 17th Avenue East Alexandria 56308
-17. Sanford Bagley Medical Center
-	203 4Th Street Northwest Bagley 56621 (CMS:yes)
-	2.03 Sanford Bemidji Medical Center
-	1300 Anne Street Northwest Bemidji 56601
-18. Community Behavioral Health Hospital - Baxter
-	14241 Grand Oaks Drive Baxter 56425 (CMS:no)
-	1.10 Swift County Benson Health Services
-	1815 Wisconsin Avenue Benson 56215
-19. Anoka-Metro Reg Treatment Ctr
-	3301 Seventh Ave North Anoka 55303 (CMS:no)
-	1.27 Glencoe Regional Health Services
-	1805 Hennepin Avenue North Glencoe 55336
-Buffalo Hospital
-	303 Catlin Street Buffalo 55313
-	 Emergency Mismatch (CMS:no)
-	Buffalo Hospital
-20. Carris Health Llc
-	301 Becker Ave Sw Willmar 56201 (CMS:yes)
-	2.62 Rice Memorial Hospital
-	301 Becker Avenue Southeast Willmar 56201
-21. Municipal Hospital And Granite Manor
-	345 Tenth Avenue Granite Falls 56241 (CMS:yes)
-	2.81 Granite Falls Health
-	345 10th Avenue Granite Falls 56241
-22. Deer River Healthcare Center
-	115 10Th Avenue Northeast Deer River 56636 (CMS:yes)
-	3.06 Essentia Health-Deer River
-	115 10th Avenue Northeast Deer River 56636
-23. Minnesota Valley Health Center Inc
-	621 South Fourth Street Le Sueur 56058 (CMS:yes)
-	2.89 Ridgeview Le Sueur Medical Center
-	621 South 4th Street Le Sueur 56058
-24. Lake View Memorial Hospital
-	325 Eleventh Ave Two Harbors 55616 (CMS:yes)
-	3.06 Lake View Hospital
-	325 11th Avenue Two Harbors 55616
-Mayo Clinic Health System - Saint James
-	1101 Mountain & Parsons Drive Saint James 56081
-	 Emergency Mismatch (CMS:no)
-	Mayo Clinic Health System Saint James
-25. Community Behavioral Health Hospital - Bemidji
-	800 Bemidji Avenue North Suite 200 Bemidji 56601 (CMS:no)
-	2.27 Sanford Bemidji Medical Center
-	1300 Anne Street Northwest Bemidji 56601
-26. Essentia Health Duluth
-	502 East Second Street Duluth 55805 (CMS:no)
-	2.88 Essentia Health Saint Mary's Medical Center
-	407 East 3rd Street Duluth 55805
-Found 26 issues.
+1. Emergency services mismatch
+  Medicare name: Saint Joseph's Hospital
+  OSM name: St. Joseph's Hospital
+  OSM Address: 45 West 10th Street Saint Paul 55102
+  Medicare emergency services: no
+  OSM Emergency: yes
+2. Unmatched medicare hospital
+  Medicare name: Child & Adolescent Behavioral Health Services
+  Medicare address: 1701 Technology Drive Ne Willmar 56201
+  Medicare emergency services: no
+  Best OSM Match: 2.28 Rice Memorial Hospital
+  OSM Address: 301 Becker Avenue Southeast Willmar 56201
+3. Unmatched medicare hospital
+  Medicare name: Saint Gabriels Hospital
+  Medicare address: 815 Southeast Second Street Little Falls 56345
+  Medicare emergency services: yes
+  Best OSM Match: 3.05 St. Gabriel's Hospital
+  OSM Address: 815 2nd Street Southeast Little Falls 56345
+4. Emergency services mismatch
+  Medicare name: Healtheast Woodwinds Hospital
+  OSM name: Woodwinds Health Campus
+  OSM Address: 1925 Woodwinds Drive Woodbury 55125
+  Medicare emergency services: no
+  OSM Emergency: yes
+5. Unmatched medicare hospital
+  Medicare name: Winona Health Services
+  Medicare address: 855 Mankato Avenue Winona 55987
+  Medicare emergency services: yes
+  Best OSM Match: 3.08 Community Memorial Hospital
+  OSM Address: 855 Mankato Avenue Winona 55987
+6. Unmatched medicare hospital
+  Medicare name: Community Behavioral Hospital Fergus Falls
+  Medicare address: 1801 West Alcott Fergus Falls 56537
+  Medicare emergency services: no
+  Best OSM Match: 2.14 Lake Region Healthcare
+  OSM Address: 712 South Cascade Street Fergus Falls 56537
+7. Unmatched medicare hospital
+  Medicare name: Cambridge Medical Center
+  Medicare address: 701 South Dellwood Avenue Cambridge 55008
+  Medicare emergency services: yes
+  Best OSM Match: 2.71 --
+  OSM Address: 701 South Dellwood Street Cambridge 55008
+8. Unmatched medicare hospital
+  Medicare name: Red Lake Hospital A
+  Medicare address: Po Box 497 Redlake 56671
+  Medicare emergency services: no
+  Best OSM Match: 2.55 Red Lake Hospital
+  OSM Address: 24760 Hospital Road Red Lake 56671
+9. Unmatched medicare hospital
+  Medicare name: Community Behavioral Health Hospital Annandale
+  Medicare address: 400 Annandale Boulevard Annandale 55302
+  Medicare emergency services: no
+  Best OSM Match: 1.27 CentraCare Health – Monticello
+  OSM Address: 1013 Hart Boulevard Monticello 55362
+10. Unmatched medicare hospital
+  Medicare name: Mayo Clinic Hospital Rochester
+  Medicare address: 1216 Second Street Southwest Rochester 55902
+  Medicare emergency services: yes
+  Best OSM Match: 3.07 Mayo Clinic Saint Marys Campus
+  OSM Address: 1216 2nd Street Southwest Rochester 55902
+11. Unmatched medicare hospital
+  Medicare name: Community Behavioral Health Hospital Rochester
+  Medicare address: 251 Wood Lake Drive Southeast Rochester 55904
+  Medicare emergency services: no
+  Best OSM Match: 2.46 Olmsted Medical Center Hospital
+  OSM Address: 1650 4th Street Southeast Rochester 55904
+12. Unmatched medicare hospital
+  Medicare name: Comm Behavioral Health Hosp
+  Medicare address: 1610 8Th Avenue East Alexandria 56308
+  Medicare emergency services: no
+  Best OSM Match: 2.72 Douglas County Hopsital
+  OSM Address: 111 17th Avenue East Alexandria 56308
+13. Emergency services mismatch
+  Medicare name: Essentia Health Saint Marys - Detroit Lakes
+  OSM name: Essentia Health Saint Mary's - Detroit Lakes
+  OSM Address: 1027 Washington Avenue Detroit Lakes 56501
+  Medicare emergency services: no
+  OSM Emergency: yes
+14. Unmatched medicare hospital
+  Medicare name: Sanford Behavioral Health Center
+  Medicare address: 120 Labree Avenue South Thief River Falls 56701
+  Medicare emergency services: no
+  Best OSM Match: 2.48 Sanford Thief River Falls Medical Center
+  OSM Address: 3001 Sanford Parkway Thief River Falls 56701
+15. Unmatched medicare hospital
+  Medicare name: Madison Hospital
+  Medicare address: 820 Third Avenue Madison 56256
+  Medicare emergency services: yes
+  Best OSM Match: 3.01 Madison Healthcare Services
+  OSM Address: 820 3rd Avenue Madison 56256
+16. Unmatched medicare hospital
+  Medicare name: University Medical Center-Mesabi/ Mesaba Clinics
+  Medicare address: 750 East 34Th St Hibbing 55746
+  Medicare emergency services: yes
+  Best OSM Match: 2.89 Fairview Range Medical Center
+  OSM Address: 750 East 34th Street Hibbing 55746
+17. Unmatched medicare hospital
+  Medicare name: North Shore Health
+  Medicare address: 515 5Th Ave West Grand Marais 55604
+  Medicare emergency services: yes
+  Best OSM Match: 3.08 North Shore Health Hospital and Care Center
+  OSM Address: 515 5th Avenue West Grand Marais 55604
+18. Unmatched medicare hospital
+  Medicare name: Fairview Lakes Medical Center
+  Medicare address: 5200 Fairview Boulevard Wyoming 55092
+  Medicare emergency services: yes
+  Best OSM Match: 3.01 Fairview Lakes Medical Center
+  OSM Address: 5200 Fairview Boulevard Stillwater 55092
+19. Emergency services mismatch
+  Medicare name: Essentia Health Virginia
+  OSM name: Essentia Health Virginia Hospital
+  OSM Address: 901 9th Street North Virginia 55792
+  Medicare emergency services: no
+  OSM Emergency: yes
+20. Unmatched medicare hospital
+  Medicare name: Alomere Health
+  Medicare address: 111 17Th Avenue East Alexandria 56308
+  Medicare emergency services: yes
+  Best OSM Match: 2.91 Douglas County Hopsital
+  OSM Address: 111 17th Avenue East Alexandria 56308
+21. Unmatched medicare hospital
+  Medicare name: Sanford Bagley Medical Center
+  Medicare address: 203 4Th Street Northwest Bagley 56621
+  Medicare emergency services: yes
+  Best OSM Match: 2.03 Sanford Bemidji Medical Center
+  OSM Address: 1300 Anne Street Northwest Bemidji 56601
+22. Unmatched medicare hospital
+  Medicare name: Community Behavioral Health Hospital - Baxter
+  Medicare address: 14241 Grand Oaks Drive Baxter 56425
+  Medicare emergency services: no
+  Best OSM Match: 1.10 Swift County Benson Health Services
+  OSM Address: 1815 Wisconsin Avenue Benson 56215
+23. Unmatched medicare hospital
+  Medicare name: Anoka-Metro Reg Treatment Ctr
+  Medicare address: 3301 Seventh Ave North Anoka 55303
+  Medicare emergency services: no
+  Best OSM Match: 1.27 Glencoe Regional Health Services
+  OSM Address: 1805 Hennepin Avenue North Glencoe 55336
+24. Emergency services mismatch
+  Medicare name: Buffalo Hospital
+  OSM name: Buffalo Hospital
+  OSM Address: 303 Catlin Street Buffalo 55313
+  Medicare emergency services: no
+  OSM Emergency: yes
+25. Unmatched medicare hospital
+  Medicare name: Carris Health Llc
+  Medicare address: 301 Becker Ave Sw Willmar 56201
+  Medicare emergency services: yes
+  Best OSM Match: 2.62 Rice Memorial Hospital
+  OSM Address: 301 Becker Avenue Southeast Willmar 56201
+26. Unmatched medicare hospital
+  Medicare name: Municipal Hospital And Granite Manor
+  Medicare address: 345 Tenth Avenue Granite Falls 56241
+  Medicare emergency services: yes
+  Best OSM Match: 2.81 Granite Falls Health
+  OSM Address: 345 10th Avenue Granite Falls 56241
+27. Unmatched medicare hospital
+  Medicare name: Deer River Healthcare Center
+  Medicare address: 115 10Th Avenue Northeast Deer River 56636
+  Medicare emergency services: yes
+  Best OSM Match: 3.06 Essentia Health-Deer River
+  OSM Address: 115 10th Avenue Northeast Deer River 56636
+28. Unmatched medicare hospital
+  Medicare name: Minnesota Valley Health Center Inc
+  Medicare address: 621 South Fourth Street Le Sueur 56058
+  Medicare emergency services: yes
+  Best OSM Match: 2.89 Ridgeview Le Sueur Medical Center
+  OSM Address: 621 South 4th Street Le Sueur 56058
+29. Unmatched medicare hospital
+  Medicare name: Lake View Memorial Hospital
+  Medicare address: 325 Eleventh Ave Two Harbors 55616
+  Medicare emergency services: yes
+  Best OSM Match: 3.06 Lake View Hospital
+  OSM Address: 325 11th Avenue Two Harbors 55616
+30. Emergency services mismatch
+  Medicare name: Mayo Clinic Health System - Saint James
+  OSM name: Mayo Clinic Health System Saint James
+  OSM Address: 1101 Mountain & Parsons Drive Saint James 56081
+  Medicare emergency services: no
+  OSM Emergency: yes
+31. Unmatched medicare hospital
+  Medicare name: Community Behavioral Health Hospital - Bemidji
+  Medicare address: 800 Bemidji Avenue North Suite 200 Bemidji 56601
+  Medicare emergency services: no
+  Best OSM Match: 2.27 Sanford Bemidji Medical Center
+  OSM Address: 1300 Anne Street Northwest Bemidji 56601
+32. Unmatched medicare hospital
+  Medicare name: Essentia Health Duluth
+  Medicare address: 502 East Second Street Duluth 55805
+  Medicare emergency services: no
+  Best OSM Match: 2.88 Essentia Health Saint Mary's Medical Center
+  OSM Address: 407 East 3rd Street Duluth 55805
+Found 32 potential issues.
 
-Unmatched emergency=yes
-M Health West Bank Emergency Department (0.00)
-	2312 South 6th Street Minneapolis 55454
-Unmatched emergency=yes
-Hutchinson Health Hospital (0.00)
-	1095 Highway 15 Hutchinson 55350
-Unmatched emergency=yes
-Mercy Hospital Emergency Department (0.00)
-	4050 Coon Rapids Boulevard Northwest Coon Rapids 55433
-Unmatched emergency=yes
-Mercy Hospital - Unity Campus (0.00)
-	550 Osborne Road Northeast Fridley 55432
-Unmatched emergency=yes
-Mayo Clinic Saint Marys Campus (3.07)
-	1216 2nd Street Southwest Rochester 55902
-Unmatched emergency=yes
-University of Minnesota Medical Center East Bank Hospital (0.00)
-	500 Southeast Harvard Street Minneapolis 55455
-Unmatched emergency=yes
-Fairview Lakes Medical Center (3.01)
-	5200 Fairview Boulevard Stillwater 55092
-Unmatched emergency=yes
-Rice Memorial Hospital (2.62)
-	301 Becker Avenue Southeast Willmar 56201
-Unmatched emergency=yes
-Douglas County Hopsital (2.91)
-	111 17th Avenue East Alexandria 56308
-Unmatched emergency=yes
-Austin Medical Center (0.00)
-	1000 1st Drive Northwest Austin 55912
-Unmatched emergency=yes
-North Shore Health Hospital and Care Center (3.08)
-	515 5th Avenue West Grand Marais 55604
-Unmatched emergency=yes
-Community Memorial Hospital (3.08)
-	855 Mankato Avenue Winona 55987
-Unmatched emergency=yes
-Fairview Range Medical Center (2.89)
-	750 East 34th Street Hibbing 55746
-Unmatched emergency=yes
-Lake View Hospital (3.06)
-	325 11th Avenue Two Harbors 55616
-Unmatched emergency=yes
-St. Gabriel's Hospital (3.05)
-	815 2nd Street Southeast Little Falls 56345
-Unmatched emergency=yes
-Red Lake Hospital (2.55)
-	24760 Hospital Road Red Lake 56671
-Unmatched emergency=yes
-Essentia Health-Deer River (3.06)
-	115 10th Avenue Northeast Deer River 56636
-Unmatched emergency=yes
--- (2.71)
-	701 South Dellwood Street Cambridge 55008
-Unmatched emergency=yes
-Granite Falls Health (2.81)
-	345 10th Avenue Granite Falls 56241
-Unmatched emergency=yes
-Madison Healthcare Services (3.01)
-	820 3rd Avenue Madison 56256
-Unmatched emergency=yes
-Ridgeview Le Sueur Medical Center (2.89)
-	621 South 4th Street Le Sueur 56058
-Unmatched emergency=yes
-University of Minnesota Medical Center East Bank (0.00)
-	500 Southeast Harvard Street Minneapolis 55455
+Unmatched emergency=yes in OSM
+  OSM name: M Health West Bank Emergency Department
+  Score of best match: 0.00
+  OSM address: 2312 South 6th Street Minneapolis 55454
+Unmatched emergency=yes in OSM
+  OSM name: Hutchinson Health Hospital
+  Score of best match: 0.00
+  OSM address: 1095 Highway 15 Hutchinson 55350
+Unmatched emergency=yes in OSM
+  OSM name: Mercy Hospital Emergency Department
+  Score of best match: 0.00
+  OSM address: 4050 Coon Rapids Boulevard Northwest Coon Rapids 55433
+Unmatched emergency=yes in OSM
+  OSM name: Mercy Hospital - Unity Campus
+  Score of best match: 0.00
+  OSM address: 550 Osborne Road Northeast Fridley 55432
+Unmatched emergency=yes in OSM
+  OSM name: Mayo Clinic Saint Marys Campus
+  Score of best match: 3.07
+  OSM address: 1216 2nd Street Southwest Rochester 55902
+Unmatched emergency=yes in OSM
+  OSM name: University of Minnesota Medical Center East Bank Hospital
+  Score of best match: 0.00
+  OSM address: 500 Southeast Harvard Street Minneapolis 55455
+Unmatched emergency=yes in OSM
+  OSM name: Fairview Lakes Medical Center
+  Score of best match: 3.01
+  OSM address: 5200 Fairview Boulevard Stillwater 55092
+Unmatched emergency=yes in OSM
+  OSM name: Rice Memorial Hospital
+  Score of best match: 2.62
+  OSM address: 301 Becker Avenue Southeast Willmar 56201
+Unmatched emergency=yes in OSM
+  OSM name: Douglas County Hopsital
+  Score of best match: 2.91
+  OSM address: 111 17th Avenue East Alexandria 56308
+Unmatched emergency=yes in OSM
+  OSM name: Austin Medical Center
+  Score of best match: 0.00
+  OSM address: 1000 1st Drive Northwest Austin 55912
+Unmatched emergency=yes in OSM
+  OSM name: North Shore Health Hospital and Care Center
+  Score of best match: 3.08
+  OSM address: 515 5th Avenue West Grand Marais 55604
+Unmatched emergency=yes in OSM
+  OSM name: Community Memorial Hospital
+  Score of best match: 3.08
+  OSM address: 855 Mankato Avenue Winona 55987
+Unmatched emergency=yes in OSM
+  OSM name: Fairview Range Medical Center
+  Score of best match: 2.89
+  OSM address: 750 East 34th Street Hibbing 55746
+Unmatched emergency=yes in OSM
+  OSM name: Lake View Hospital
+  Score of best match: 3.06
+  OSM address: 325 11th Avenue Two Harbors 55616
+Unmatched emergency=yes in OSM
+  OSM name: St. Gabriel's Hospital
+  Score of best match: 3.05
+  OSM address: 815 2nd Street Southeast Little Falls 56345
+Unmatched emergency=yes in OSM
+  OSM name: Red Lake Hospital
+  Score of best match: 2.55
+  OSM address: 24760 Hospital Road Red Lake 56671
+Unmatched emergency=yes in OSM
+  OSM name: Essentia Health-Deer River
+  Score of best match: 3.06
+  OSM address: 115 10th Avenue Northeast Deer River 56636
+Unmatched emergency=yes in OSM
+  OSM name: --
+  Score of best match: 2.71
+  OSM address: 701 South Dellwood Street Cambridge 55008
+Unmatched emergency=yes in OSM
+  OSM name: Granite Falls Health
+  Score of best match: 2.81
+  OSM address: 345 10th Avenue Granite Falls 56241
+Unmatched emergency=yes in OSM
+  OSM name: Madison Healthcare Services
+  Score of best match: 3.01
+  OSM address: 820 3rd Avenue Madison 56256
+Unmatched emergency=yes in OSM
+  OSM name: Ridgeview Le Sueur Medical Center
+  Score of best match: 2.89
+  OSM address: 621 South 4th Street Le Sueur 56058
+Unmatched emergency=yes in OSM
+  OSM name: University of Minnesota Medical Center East Bank
+  Score of best match: 0.00
+  OSM address: 500 Southeast Harvard Street Minneapolis 55455
 Found 22 unmatched emergency.

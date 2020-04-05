@@ -1,37 +1,49 @@
 69 OSM hospitals
 53 Medicare hospitals
-1. Broaddus Hospital Association, Inc
-	1 Healthcare Drive Mansfield Hill Philippi 26416 (CMS:yes)
-	2.94 Broaddus Hospital
-	1 Healthcare Drive Philippi 26416
-Highland-Clarksburg Hospital Inc
-	3 Hospital Plaza Clarksburg 26301
-	 Emergency Mismatch (CMS:yes)
-	Highland-Clarksburg Hospital
-Found 1 issues.
+1. Unmatched medicare hospital
+  Medicare name: Broaddus Hospital Association, Inc
+  Medicare address: 1 Healthcare Drive Mansfield Hill Philippi 26416
+  Medicare emergency services: yes
+  Best OSM Match: 2.94 Broaddus Hospital
+  OSM Address: 1 Healthcare Drive Philippi 26416
+2. Emergency services mismatch
+  Medicare name: Highland-Clarksburg Hospital Inc
+  OSM name: Highland-Clarksburg Hospital
+  OSM Address: 3 Hospital Plaza Clarksburg 26301
+  Medicare emergency services: yes
+  OSM Emergency: no
+Found 2 potential issues.
 
-Unmatched emergency=yes
-Charleston Area Medical Center - Memorial Hospital (0.00)
-	3200 Maccorkle Avenue Southeast Charleston 25304
-Unmatched emergency=yes
-Charleston Area Medical Center - Women and Children's Hospital (0.00)
-	800 Pennsylvania Avenue Charleston 25302
-Unmatched emergency=yes
-Martinsburg Veterans Affairs Medical Center (0.00)
-	510 Butler Avenue Martinsburg 25405
-Unmatched emergency=yes
-Beckley Veterans Affairs Medical Center (0.00)
-	200 Veterans Avenue Beckley 25801
-Unmatched emergency=yes
-Huntington Veterans Affairs Medical Center (0.00)
-	1540 Spring Valley Drive Huntington 25704
-Unmatched emergency=yes
-CAMC Teays Valley Hospital (0.00)
-	1400 Hospital Drive Hurricane 25526
-Unmatched emergency=yes
-Louis A Johnson Veterans Administration Medical Center (0.00)
-	1 Medical Center Drive Clarksburg 26301
-Unmatched emergency=yes
-Broaddus Hospital (2.94)
-	1 Healthcare Drive Philippi 26416
+Unmatched emergency=yes in OSM
+  OSM name: Charleston Area Medical Center - Memorial Hospital
+  Score of best match: 0.00
+  OSM address: 3200 Maccorkle Avenue Southeast Charleston 25304
+Unmatched emergency=yes in OSM
+  OSM name: Charleston Area Medical Center - Women and Children's Hospital
+  Score of best match: 0.00
+  OSM address: 800 Pennsylvania Avenue Charleston 25302
+Unmatched emergency=yes in OSM
+  OSM name: Martinsburg Veterans Affairs Medical Center
+  Score of best match: 0.00
+  OSM address: 510 Butler Avenue Martinsburg 25405
+Unmatched emergency=yes in OSM
+  OSM name: Beckley Veterans Affairs Medical Center
+  Score of best match: 0.00
+  OSM address: 200 Veterans Avenue Beckley 25801
+Unmatched emergency=yes in OSM
+  OSM name: Huntington Veterans Affairs Medical Center
+  Score of best match: 0.00
+  OSM address: 1540 Spring Valley Drive Huntington 25704
+Unmatched emergency=yes in OSM
+  OSM name: CAMC Teays Valley Hospital
+  Score of best match: 0.00
+  OSM address: 1400 Hospital Drive Hurricane 25526
+Unmatched emergency=yes in OSM
+  OSM name: Louis A Johnson Veterans Administration Medical Center
+  Score of best match: 0.00
+  OSM address: 1 Medical Center Drive Clarksburg 26301
+Unmatched emergency=yes in OSM
+  OSM name: Broaddus Hospital
+  Score of best match: 2.94
+  OSM address: 1 Healthcare Drive Philippi 26416
 Found 8 unmatched emergency.

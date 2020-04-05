@@ -1,250 +1,353 @@
 180 OSM hospitals
 136 Medicare hospitals
-1. Hayward Area Memorial Hospital
-	11040 N State Rd 77 Hayward 54843 (CMS:yes)
-	2.51 Hayward Area Memorial Hospital
-	11040N State Highway 27 Hayward -
-2. Willow Creek Behavioral Health
-	1351 Ontario Rd Green Bay 54311 (CMS:no)
-	2.28 Aurora BayCare Medical Center
-	2845 Greenbriar Road Green Bay 54311
-3. Aurora Medical Ctr Washington County
-	1032 E Sumner St Hartford 53027 (CMS:yes)
-	3.07 Aurora Medical Center
-	1032 East Sumner Street Hartford 53027
-4. Aurora Medical Ctr Kenosha
-	10400 75Th St Kenosha 53142 (CMS:yes)
-	2.87 Aurora Medical Center
-	10400 75th Street Kenosha 53143
-5. Aurora Psychiatric Hospital
-	1220 Dewey Ave Wauwatosa 53213 (CMS:no)
-	2.87 Aurora Psychiatric Hospital
-	1220 Dewey Avenue Milwaukee 53213
-6. Crossing Rivers Health Medical Center
-	37868 Us Hwy 18 Prairie Du Chien 53821 (CMS:yes)
-	3.03 Crossing Rivers Health
-	37868 US 18 Prairie du Chien 53821
-7. Bellin Memorial Hospital
-	744 S Webster Ave Green Bay 54305 (CMS:yes)
-	3.06 Bellin Hospital Green Bay
-	744 South Webster Avenue Green Bay 54305
-8. Aurora Medical Center Summit
-	36500 Aurora Drive Summit 53066 (CMS:yes)
-	2.89 Aurora Medical Center
-	36500 Aurora Drive Summit 53549
-9. The Monroe Clinic
-	2005 5Th Street Monroe 53566 (CMS:yes)
-	2.66 Monroe Clinic Hospital
-	515 22nd Avenue Monroe 53566
-10. Tomah Memorial Hospital
-	501 Gopher Dr Tomah 54660 (CMS:yes)
-	3.04 Tomah Memorial Hospital
-	321 Butts Avenue Tomah 54660
-11. Ascension All Saints Hospital
-	3801 Spring St Racine 53405 (CMS:yes)
-	2.46 Ascension All Saints Hospital Spring Street Campus
-	3801 Spring Street Racine 53132
-12. Midwest Orthopedic Specialty Hospital
-	10101 South 27Th St 2Nd Floor Franklin 53132 (CMS:no)
-	2.64 Wheaton Franciscan Healthcare-Franklin
-	10101 South 27th Street Franklin 53132
-13. Aurora Medical Center Bay Area
-	3003 University Dr Marinette 54143 (CMS:yes)
-	1.45 Aurora Medical Center
-	10400 75th Street Kenosha 53143
-14. Ascension Saint Francis Hospital
-	3237 S 16Th St Milwaukee 53215 (CMS:yes)
-	2.69 Wheaton Franciscan Healthcare-St. Francis
-	3237 South 16th Street Milwaukee 53215
-15. Childrens Hospital Of Wisconsin Fox Valley
-	130 Second St Neenah 54956 (CMS:yes)
-	2.53 ThedaCare Regional Medical Center-Neenah
-	130 2nd Street Neenah 54956
-16. Bellin Psychiatric Center
-	301 E St Joseph St Green Bay 54301 (CMS:no)
-	1.99 Bellin Hospital Green Bay
-	744 South Webster Avenue Green Bay 54305
-17. Fond Du Lac County Acute Psych Unit
-	459 E First St Fond Du Lac 54935 (CMS:yes)
-	2.09 St. Agnes Hospital
-	430 East Division Street Fond du Lac 54935
-18. Childrens Hospital Of Wisconsin
-	9000 W Wisconsin Ave Milwaukee 53226 (CMS:yes)
-	2.88 Froedtert Hospital
-	9200 West Wisconsin Avenue Milwaukee 53226
-19. Brown County Community Treatment Ctr
-	3150 Gershwin Drive Green Bay 54311 (CMS:no)
-	2.19 Aurora BayCare Medical Center
-	2845 Greenbriar Road Green Bay 54311
-20. Waukesha County Mental Health Ctr
-	1501 Airport Rd Waukesha 53188 (CMS:yes)
-	2.42 Waukesha Memorial Hospital
-	725 American Avenue Waukesha 53188
-21. Froedtert South - Kenosha Medical Center
-	6308 Eighth Ave Kenosha 53143 (CMS:yes)
-	2.94 Froedtert Kenosha Hospital
-	6308 8th Avenue Kenosha 53143
-22. Aspirus Riverview Hospital & Clinics Inc
-	410 Dewey St Wisconsin Rapids 54495 (CMS:yes)
-	3.00 Aspirus Riverview Hospital
-	410 Dewey Street Wisconsin Rapids 54494
-23. Indianhead Medical Center Shell Lake
-	113 4Th Ave Shell Lake 54871 (CMS:yes)
-	2.72 Indianhead Medial Center
-	113 4th Avenue Shell Lake 54871-4457
-24. Ladd Memorial Hospital
-	2600 65Th Avenue Osceola 54020 (CMS:yes)
-	3.09 Osceola Medical Center
-	2600 65th Avenue Osceola 54020
-25. Ssm Health Saint Clare Hospital - Baraboo
-	707 14Th St Baraboo 53913 (CMS:yes)
-	3.02 Saint Clare Hospital
-	707 14th Street Baraboo 53913
-Milwaukee County Behavioral Health Division
-	9455 Watertown Plank Road Milwaukee 53226
-	 Emergency Mismatch (CMS:yes)
-	Milwaukee County Behavioral Health Division
-26. Adventhealth Durand
-	1220 3Rd Ave W Durand 54736 (CMS:yes)
-	2.66 Chippewa Valley Hospital
-	1220 3rd Avenue West Durand 54736
-27. Burnett Medical Center
-	257 W St George Ave Grantsburg 54840 (CMS:yes)
-	2.97 Burnett General Hospital
-	257 West Saint George Avenue Grantsburg 54840
-28. Ascension Ne Wisconsin - Saint Elizabeth Campus
-	1506 S Oneida St Appleton 54915 (CMS:yes)
-	3.08 Ascension Saint Elizabeth Hospital
-	1506 South Oneida Street Appleton 54915
-29. Holy Family Memorial
-	2300 Western Ave Manitowoc 54221 (CMS:yes)
-	2.81 Holy Family Memorial Medical Center
-	2300 Western Avenue Manitowoc 54221-1450
-30. North Central Health Care
-	1100 Lakeview Dr Wausau 54403 (CMS:no)
-	1.71 Aspirus Wausau Hospital
-	425 Pine Ridge Boulevard Wausau 54401
-31. Ascension Se Wisconsin Hospital - Saint Joseph Campus
-	5000 W Chambers St Milwaukee 53210 (CMS:yes)
-	2.80 Saint Joseph Hospital
-	5000 West Chambers Court Milwaukee 53210
-Found 31 issues.
+1. Unmatched medicare hospital
+  Medicare name: Hayward Area Memorial Hospital
+  Medicare address: 11040 N State Rd 77 Hayward 54843
+  Medicare emergency services: yes
+  Best OSM Match: 2.51 Hayward Area Memorial Hospital
+  OSM Address: 11040N State Highway 27 Hayward -
+2. Unmatched medicare hospital
+  Medicare name: Willow Creek Behavioral Health
+  Medicare address: 1351 Ontario Rd Green Bay 54311
+  Medicare emergency services: no
+  Best OSM Match: 2.28 Aurora BayCare Medical Center
+  OSM Address: 2845 Greenbriar Road Green Bay 54311
+3. Unmatched medicare hospital
+  Medicare name: Aurora Medical Ctr Washington County
+  Medicare address: 1032 E Sumner St Hartford 53027
+  Medicare emergency services: yes
+  Best OSM Match: 3.07 Aurora Medical Center
+  OSM Address: 1032 East Sumner Street Hartford 53027
+4. Unmatched medicare hospital
+  Medicare name: Aurora Medical Ctr Kenosha
+  Medicare address: 10400 75Th St Kenosha 53142
+  Medicare emergency services: yes
+  Best OSM Match: 2.87 Aurora Medical Center
+  OSM Address: 10400 75th Street Kenosha 53143
+5. Unmatched medicare hospital
+  Medicare name: Aurora Psychiatric Hospital
+  Medicare address: 1220 Dewey Ave Wauwatosa 53213
+  Medicare emergency services: no
+  Best OSM Match: 2.87 Aurora Psychiatric Hospital
+  OSM Address: 1220 Dewey Avenue Milwaukee 53213
+6. Unmatched medicare hospital
+  Medicare name: Crossing Rivers Health Medical Center
+  Medicare address: 37868 Us Hwy 18 Prairie Du Chien 53821
+  Medicare emergency services: yes
+  Best OSM Match: 3.03 Crossing Rivers Health
+  OSM Address: 37868 US 18 Prairie du Chien 53821
+7. Unmatched medicare hospital
+  Medicare name: Bellin Memorial Hospital
+  Medicare address: 744 S Webster Ave Green Bay 54305
+  Medicare emergency services: yes
+  Best OSM Match: 3.06 Bellin Hospital Green Bay
+  OSM Address: 744 South Webster Avenue Green Bay 54305
+8. Unmatched medicare hospital
+  Medicare name: Aurora Medical Center Summit
+  Medicare address: 36500 Aurora Drive Summit 53066
+  Medicare emergency services: yes
+  Best OSM Match: 2.89 Aurora Medical Center
+  OSM Address: 36500 Aurora Drive Summit 53549
+9. Unmatched medicare hospital
+  Medicare name: The Monroe Clinic
+  Medicare address: 2005 5Th Street Monroe 53566
+  Medicare emergency services: yes
+  Best OSM Match: 2.66 Monroe Clinic Hospital
+  OSM Address: 515 22nd Avenue Monroe 53566
+10. Unmatched medicare hospital
+  Medicare name: Tomah Memorial Hospital
+  Medicare address: 501 Gopher Dr Tomah 54660
+  Medicare emergency services: yes
+  Best OSM Match: 3.04 Tomah Memorial Hospital
+  OSM Address: 321 Butts Avenue Tomah 54660
+11. Unmatched medicare hospital
+  Medicare name: Ascension All Saints Hospital
+  Medicare address: 3801 Spring St Racine 53405
+  Medicare emergency services: yes
+  Best OSM Match: 2.46 Ascension All Saints Hospital Spring Street Campus
+  OSM Address: 3801 Spring Street Racine 53132
+12. Unmatched medicare hospital
+  Medicare name: Midwest Orthopedic Specialty Hospital
+  Medicare address: 10101 South 27Th St 2Nd Floor Franklin 53132
+  Medicare emergency services: no
+  Best OSM Match: 2.64 Wheaton Franciscan Healthcare-Franklin
+  OSM Address: 10101 South 27th Street Franklin 53132
+13. Unmatched medicare hospital
+  Medicare name: Aurora Medical Center Bay Area
+  Medicare address: 3003 University Dr Marinette 54143
+  Medicare emergency services: yes
+  Best OSM Match: 1.45 Aurora Medical Center
+  OSM Address: 10400 75th Street Kenosha 53143
+14. Unmatched medicare hospital
+  Medicare name: Ascension Saint Francis Hospital
+  Medicare address: 3237 S 16Th St Milwaukee 53215
+  Medicare emergency services: yes
+  Best OSM Match: 2.69 Wheaton Franciscan Healthcare-St. Francis
+  OSM Address: 3237 South 16th Street Milwaukee 53215
+15. Unmatched medicare hospital
+  Medicare name: Childrens Hospital Of Wisconsin Fox Valley
+  Medicare address: 130 Second St Neenah 54956
+  Medicare emergency services: yes
+  Best OSM Match: 2.53 ThedaCare Regional Medical Center-Neenah
+  OSM Address: 130 2nd Street Neenah 54956
+16. Unmatched medicare hospital
+  Medicare name: Bellin Psychiatric Center
+  Medicare address: 301 E St Joseph St Green Bay 54301
+  Medicare emergency services: no
+  Best OSM Match: 1.99 Bellin Hospital Green Bay
+  OSM Address: 744 South Webster Avenue Green Bay 54305
+17. Unmatched medicare hospital
+  Medicare name: Fond Du Lac County Acute Psych Unit
+  Medicare address: 459 E First St Fond Du Lac 54935
+  Medicare emergency services: yes
+  Best OSM Match: 2.09 St. Agnes Hospital
+  OSM Address: 430 East Division Street Fond du Lac 54935
+18. Unmatched medicare hospital
+  Medicare name: Childrens Hospital Of Wisconsin
+  Medicare address: 9000 W Wisconsin Ave Milwaukee 53226
+  Medicare emergency services: yes
+  Best OSM Match: 2.88 Froedtert Hospital
+  OSM Address: 9200 West Wisconsin Avenue Milwaukee 53226
+19. Unmatched medicare hospital
+  Medicare name: Brown County Community Treatment Ctr
+  Medicare address: 3150 Gershwin Drive Green Bay 54311
+  Medicare emergency services: no
+  Best OSM Match: 2.19 Aurora BayCare Medical Center
+  OSM Address: 2845 Greenbriar Road Green Bay 54311
+20. Unmatched medicare hospital
+  Medicare name: Waukesha County Mental Health Ctr
+  Medicare address: 1501 Airport Rd Waukesha 53188
+  Medicare emergency services: yes
+  Best OSM Match: 2.42 Waukesha Memorial Hospital
+  OSM Address: 725 American Avenue Waukesha 53188
+21. Unmatched medicare hospital
+  Medicare name: Froedtert South - Kenosha Medical Center
+  Medicare address: 6308 Eighth Ave Kenosha 53143
+  Medicare emergency services: yes
+  Best OSM Match: 2.94 Froedtert Kenosha Hospital
+  OSM Address: 6308 8th Avenue Kenosha 53143
+22. Unmatched medicare hospital
+  Medicare name: Aspirus Riverview Hospital & Clinics Inc
+  Medicare address: 410 Dewey St Wisconsin Rapids 54495
+  Medicare emergency services: yes
+  Best OSM Match: 3.00 Aspirus Riverview Hospital
+  OSM Address: 410 Dewey Street Wisconsin Rapids 54494
+23. Unmatched medicare hospital
+  Medicare name: Indianhead Medical Center Shell Lake
+  Medicare address: 113 4Th Ave Shell Lake 54871
+  Medicare emergency services: yes
+  Best OSM Match: 2.72 Indianhead Medial Center
+  OSM Address: 113 4th Avenue Shell Lake 54871-4457
+24. Unmatched medicare hospital
+  Medicare name: Ladd Memorial Hospital
+  Medicare address: 2600 65Th Avenue Osceola 54020
+  Medicare emergency services: yes
+  Best OSM Match: 3.09 Osceola Medical Center
+  OSM Address: 2600 65th Avenue Osceola 54020
+25. Unmatched medicare hospital
+  Medicare name: Ssm Health Saint Clare Hospital - Baraboo
+  Medicare address: 707 14Th St Baraboo 53913
+  Medicare emergency services: yes
+  Best OSM Match: 3.02 Saint Clare Hospital
+  OSM Address: 707 14th Street Baraboo 53913
+26. Emergency services mismatch
+  Medicare name: Milwaukee County Behavioral Health Division
+  OSM name: Milwaukee County Behavioral Health Division
+  OSM Address: 9455 Watertown Plank Road Milwaukee 53226
+  Medicare emergency services: yes
+  OSM Emergency: no
+27. Unmatched medicare hospital
+  Medicare name: Adventhealth Durand
+  Medicare address: 1220 3Rd Ave W Durand 54736
+  Medicare emergency services: yes
+  Best OSM Match: 2.66 Chippewa Valley Hospital
+  OSM Address: 1220 3rd Avenue West Durand 54736
+28. Unmatched medicare hospital
+  Medicare name: Burnett Medical Center
+  Medicare address: 257 W St George Ave Grantsburg 54840
+  Medicare emergency services: yes
+  Best OSM Match: 2.97 Burnett General Hospital
+  OSM Address: 257 West Saint George Avenue Grantsburg 54840
+29. Unmatched medicare hospital
+  Medicare name: Ascension Ne Wisconsin - Saint Elizabeth Campus
+  Medicare address: 1506 S Oneida St Appleton 54915
+  Medicare emergency services: yes
+  Best OSM Match: 3.08 Ascension Saint Elizabeth Hospital
+  OSM Address: 1506 South Oneida Street Appleton 54915
+30. Unmatched medicare hospital
+  Medicare name: Holy Family Memorial
+  Medicare address: 2300 Western Ave Manitowoc 54221
+  Medicare emergency services: yes
+  Best OSM Match: 2.81 Holy Family Memorial Medical Center
+  OSM Address: 2300 Western Avenue Manitowoc 54221-1450
+31. Unmatched medicare hospital
+  Medicare name: North Central Health Care
+  Medicare address: 1100 Lakeview Dr Wausau 54403
+  Medicare emergency services: no
+  Best OSM Match: 1.71 Aspirus Wausau Hospital
+  OSM Address: 425 Pine Ridge Boulevard Wausau 54401
+32. Unmatched medicare hospital
+  Medicare name: Ascension Se Wisconsin Hospital - Saint Joseph Campus
+  Medicare address: 5000 W Chambers St Milwaukee 53210
+  Medicare emergency services: yes
+  Best OSM Match: 2.80 Saint Joseph Hospital
+  OSM Address: 5000 West Chambers Court Milwaukee 53210
+Found 32 potential issues.
 
-Unmatched emergency=yes
-Crossing Rivers Health (3.03)
-	37868 US 18 Prairie du Chien 53821
-Unmatched emergency=yes
-Children's Hospital of Wisconsin (0.00)
-	- - - -
-Unmatched emergency=yes
-Marshfield Children's Hospital (0.00)
-	611 Saint Joseph Avenue Marshfield 54449
-Unmatched emergency=yes
-American Family Children's Hospital (0.00)
-	1675 Highland Avenue Madison 53705
-Unmatched emergency=yes
-Aurora Sinai Medical Center (0.00)
-	945 North 12th Street Milwaukee 53233
-Unmatched emergency=yes
-Aurora Medical Center (0.00)
-	- - - -
-Unmatched emergency=yes
-Burnett General Hospital (2.97)
-	257 West Saint George Avenue Grantsburg 54840
-Unmatched emergency=yes
-Edgerton Care Center (0.00)
-	313 Stoughton Road Edgerton 53534
-Unmatched emergency=yes
-Saint Clare Hospital (3.02)
-	707 14th Street Baraboo 53913
-Unmatched emergency=yes
-William S. Middleton Memorial Veterans Hospital (0.00)
-	2500 Overlook Terrace Madison 53705
-Unmatched emergency=yes
-Aspirus Riverview Hospital (3.00)
-	410 Dewey Street Wisconsin Rapids 54494
-Unmatched emergency=yes
-Ascension Saint Elizabeth Hospital (3.08)
-	1506 South Oneida Street Appleton 54915
-Unmatched emergency=yes
-Holy Family Memorial Medical Center (2.81)
-	2300 Western Avenue Manitowoc 54221-1450
-Unmatched emergency=yes
-Green Bay Health Care Center (0.00)
-	- - - -
-Unmatched emergency=yes
-Aurora St. Luke's South Shore (0.00)
-	5900 South Lake Drive Cudahy 53110
-Unmatched emergency=yes
-Bellin Hospital Green Bay (1.99)
-	744 South Webster Avenue Green Bay 54305
-Unmatched emergency=yes
-Ascension All Saints Hospital Spring Street Campus (2.46)
-	3801 Spring Street Racine 53132
-Unmatched emergency=yes
-Monroe Clinic Hospital (2.66)
-	515 22nd Avenue Monroe 53566
-Unmatched emergency=yes
-Saint Joseph Hospital (2.80)
-	5000 West Chambers Court Milwaukee 53210
-Unmatched emergency=yes
-Wheaton Franciscan Healthcare-Franklin (2.64)
-	10101 South 27th Street Franklin 53132
-Unmatched emergency=yes
-Wheaton Franciscan Healthcare-St. Francis (2.69)
-	3237 South 16th Street Milwaukee 53215
-Unmatched emergency=yes
-Clement J Zablocki Veterans Affairs Medical Center (0.00)
-	5000 West National Avenue Milwaukee 53295
-Unmatched emergency=yes
-Aurora Medical Center (3.07)
-	1032 East Sumner Street Hartford 53027
-Unmatched emergency=yes
-Elmbrook Memorial Hospital (0.00)
-	19333 West North Avenue Brookfield 53045
-Unmatched emergency=yes
-Froedtert Kenosha Hospital (2.94)
-	6308 8th Avenue Kenosha 53143
-Unmatched emergency=yes
-Aurora Medical Center (2.89)
-	36500 Aurora Drive Summit 53549
-Unmatched emergency=yes
-Aurora Medical Center (1.45)
-	10400 75th Street Kenosha 53143
-Unmatched emergency=yes
-Froedtert Pleasant Prairie Hospital (0.00)
-	9555 76th Street Pleasant Prairie 53158
-Unmatched emergency=yes
-Tomah Memorial Hospital (3.04)
-	321 Butts Avenue Tomah 54660
-Unmatched emergency=yes
-UW Health at The American Center (0.00)
-	4602 Eastpark Boulevard Madison 53718
-Unmatched emergency=yes
--- (0.00)
-	5409 Vern Holmes Drive Stevens Point 54482
-Unmatched emergency=yes
-Children’s Wisconsin (0.00)
-	8915 West Connell Court Milwaukee 53226
-Unmatched emergency=yes
-Ascension Columbia Saint Mary's Milwaukee Campus (0.00)
-	- - - -
-Unmatched emergency=yes
-Hayward Area Memorial Hospital (2.51)
-	11040N State Highway 27 Hayward -
-Unmatched emergency=yes
-Osceola Medical Center (3.09)
-	2600 65th Avenue Osceola 54020
-Unmatched emergency=yes
-Indianhead Medial Center (2.72)
-	113 4th Avenue Shell Lake 54871-4457
-Unmatched emergency=yes
-Tomah Health (0.00)
-	501 Gopher Avenue Tomah 54660
-Unmatched emergency=yes
-Mercy Medical Center (0.00)
-	500 South Oakwood Road Oshkosh 54904
-Unmatched emergency=yes
-Chippewa Valley Hospital (2.66)
-	1220 3rd Avenue West Durand 54736
+Unmatched emergency=yes in OSM
+  OSM name: Crossing Rivers Health
+  Score of best match: 3.03
+  OSM address: 37868 US 18 Prairie du Chien 53821
+Unmatched emergency=yes in OSM
+  OSM name: Children's Hospital of Wisconsin
+  Score of best match: 0.00
+  OSM address: - - - -
+Unmatched emergency=yes in OSM
+  OSM name: Marshfield Children's Hospital
+  Score of best match: 0.00
+  OSM address: 611 Saint Joseph Avenue Marshfield 54449
+Unmatched emergency=yes in OSM
+  OSM name: American Family Children's Hospital
+  Score of best match: 0.00
+  OSM address: 1675 Highland Avenue Madison 53705
+Unmatched emergency=yes in OSM
+  OSM name: Aurora Sinai Medical Center
+  Score of best match: 0.00
+  OSM address: 945 North 12th Street Milwaukee 53233
+Unmatched emergency=yes in OSM
+  OSM name: Aurora Medical Center
+  Score of best match: 0.00
+  OSM address: - - - -
+Unmatched emergency=yes in OSM
+  OSM name: Burnett General Hospital
+  Score of best match: 2.97
+  OSM address: 257 West Saint George Avenue Grantsburg 54840
+Unmatched emergency=yes in OSM
+  OSM name: Edgerton Care Center
+  Score of best match: 0.00
+  OSM address: 313 Stoughton Road Edgerton 53534
+Unmatched emergency=yes in OSM
+  OSM name: Saint Clare Hospital
+  Score of best match: 3.02
+  OSM address: 707 14th Street Baraboo 53913
+Unmatched emergency=yes in OSM
+  OSM name: William S. Middleton Memorial Veterans Hospital
+  Score of best match: 0.00
+  OSM address: 2500 Overlook Terrace Madison 53705
+Unmatched emergency=yes in OSM
+  OSM name: Aspirus Riverview Hospital
+  Score of best match: 3.00
+  OSM address: 410 Dewey Street Wisconsin Rapids 54494
+Unmatched emergency=yes in OSM
+  OSM name: Ascension Saint Elizabeth Hospital
+  Score of best match: 3.08
+  OSM address: 1506 South Oneida Street Appleton 54915
+Unmatched emergency=yes in OSM
+  OSM name: Holy Family Memorial Medical Center
+  Score of best match: 2.81
+  OSM address: 2300 Western Avenue Manitowoc 54221-1450
+Unmatched emergency=yes in OSM
+  OSM name: Green Bay Health Care Center
+  Score of best match: 0.00
+  OSM address: - - - -
+Unmatched emergency=yes in OSM
+  OSM name: Aurora St. Luke's South Shore
+  Score of best match: 0.00
+  OSM address: 5900 South Lake Drive Cudahy 53110
+Unmatched emergency=yes in OSM
+  OSM name: Bellin Hospital Green Bay
+  Score of best match: 1.99
+  OSM address: 744 South Webster Avenue Green Bay 54305
+Unmatched emergency=yes in OSM
+  OSM name: Ascension All Saints Hospital Spring Street Campus
+  Score of best match: 2.46
+  OSM address: 3801 Spring Street Racine 53132
+Unmatched emergency=yes in OSM
+  OSM name: Monroe Clinic Hospital
+  Score of best match: 2.66
+  OSM address: 515 22nd Avenue Monroe 53566
+Unmatched emergency=yes in OSM
+  OSM name: Saint Joseph Hospital
+  Score of best match: 2.80
+  OSM address: 5000 West Chambers Court Milwaukee 53210
+Unmatched emergency=yes in OSM
+  OSM name: Wheaton Franciscan Healthcare-Franklin
+  Score of best match: 2.64
+  OSM address: 10101 South 27th Street Franklin 53132
+Unmatched emergency=yes in OSM
+  OSM name: Wheaton Franciscan Healthcare-St. Francis
+  Score of best match: 2.69
+  OSM address: 3237 South 16th Street Milwaukee 53215
+Unmatched emergency=yes in OSM
+  OSM name: Clement J Zablocki Veterans Affairs Medical Center
+  Score of best match: 0.00
+  OSM address: 5000 West National Avenue Milwaukee 53295
+Unmatched emergency=yes in OSM
+  OSM name: Aurora Medical Center
+  Score of best match: 3.07
+  OSM address: 1032 East Sumner Street Hartford 53027
+Unmatched emergency=yes in OSM
+  OSM name: Elmbrook Memorial Hospital
+  Score of best match: 0.00
+  OSM address: 19333 West North Avenue Brookfield 53045
+Unmatched emergency=yes in OSM
+  OSM name: Froedtert Kenosha Hospital
+  Score of best match: 2.94
+  OSM address: 6308 8th Avenue Kenosha 53143
+Unmatched emergency=yes in OSM
+  OSM name: Aurora Medical Center
+  Score of best match: 2.89
+  OSM address: 36500 Aurora Drive Summit 53549
+Unmatched emergency=yes in OSM
+  OSM name: Aurora Medical Center
+  Score of best match: 1.45
+  OSM address: 10400 75th Street Kenosha 53143
+Unmatched emergency=yes in OSM
+  OSM name: Froedtert Pleasant Prairie Hospital
+  Score of best match: 0.00
+  OSM address: 9555 76th Street Pleasant Prairie 53158
+Unmatched emergency=yes in OSM
+  OSM name: Tomah Memorial Hospital
+  Score of best match: 3.04
+  OSM address: 321 Butts Avenue Tomah 54660
+Unmatched emergency=yes in OSM
+  OSM name: UW Health at The American Center
+  Score of best match: 0.00
+  OSM address: 4602 Eastpark Boulevard Madison 53718
+Unmatched emergency=yes in OSM
+  OSM name: --
+  Score of best match: 0.00
+  OSM address: 5409 Vern Holmes Drive Stevens Point 54482
+Unmatched emergency=yes in OSM
+  OSM name: Children’s Wisconsin
+  Score of best match: 0.00
+  OSM address: 8915 West Connell Court Milwaukee 53226
+Unmatched emergency=yes in OSM
+  OSM name: Ascension Columbia Saint Mary's Milwaukee Campus
+  Score of best match: 0.00
+  OSM address: - - - -
+Unmatched emergency=yes in OSM
+  OSM name: Hayward Area Memorial Hospital
+  Score of best match: 2.51
+  OSM address: 11040N State Highway 27 Hayward -
+Unmatched emergency=yes in OSM
+  OSM name: Osceola Medical Center
+  Score of best match: 3.09
+  OSM address: 2600 65th Avenue Osceola 54020
+Unmatched emergency=yes in OSM
+  OSM name: Indianhead Medial Center
+  Score of best match: 2.72
+  OSM address: 113 4th Avenue Shell Lake 54871-4457
+Unmatched emergency=yes in OSM
+  OSM name: Tomah Health
+  Score of best match: 0.00
+  OSM address: 501 Gopher Avenue Tomah 54660
+Unmatched emergency=yes in OSM
+  OSM name: Mercy Medical Center
+  Score of best match: 0.00
+  OSM address: 500 South Oakwood Road Oshkosh 54904
+Unmatched emergency=yes in OSM
+  OSM name: Chippewa Valley Hospital
+  Score of best match: 2.66
+  OSM address: 1220 3rd Avenue West Durand 54736
 Found 39 unmatched emergency.

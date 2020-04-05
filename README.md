@@ -2,9 +2,7 @@
 
 Each file has 2 reports. 
 
-The numbered list is a result of going through hospital data from Medicare and trying to find a match in OSM. Medicare listings that don't have a strong match are reported. The reported entries say CMS=yes or CMS=no to indicate whether Medicare lists the hospital as providing emergency services.
-
-The unnumbered items in the list are hospitals where the two datasets match well but disagree on whether the facility has an emergency department.
+The numbered list is a result of going through hospital data from Medicare and trying to find a match in OSM. Medicare listings that don't have a strong match and matches that have differing information about emergency services are reported.
 
 The next report works in the other direction, going through hospitals in OSM that have an emergency=yes tag and trying to match them in the Medicare data.
 
