@@ -1,309 +1,377 @@
-171
-147
-1. Four County Counseling Center
-	1015 Michigan Ave Logansport 46947 (CMS:no)
-	1.78 Logansport State Hospital
-	 1098 South State Road 25 Logansport 47947
-2. Highpoint Health
-	600 Wilson Creek Rd Lawrenceburg 47025 (CMS:yes)
-	3.02 Dearborn County Hospital
-	 600 Wilson Creek Road Lawrenceburg 47025
-3. Options Behavioral Health System
-	5602 Caito Drive Indianapolis 46226 (CMS:no)
-	2.26 Fairbanks Addiction Treatment Center
-	 8102 Clearvista Drive Indianapolis 46256
-4. Porter-Starke Services Inc
-	701 Wall St Valparaiso 46383 (CMS:no)
-	2.16 Porter Regional Hospital
-	 85 East US-6 Frontage Road Valparaiso 46383
-5. Iu Health Bloomington Hospital
-	601 W Second St Bloomington 47403 (CMS:yes)
-	3.06 IU Health Bloomington Hospital
-	 601 West 2nd Street Bloomington 47402
-6. Saint Vincent Evansville
-	3700 Washington Ave Evansville 47750 (CMS:yes)
-	3.08 Saint Mary's Medical Center
-	 3700 Washington Avenue Evansville 47750
-7. Neurodiagnostic Institute
-	5435 E 16Th St Indianapolis 46218 (CMS:yes)
-	1.80 Community Hospital East
-	 1500 North Ritter Avenue Indianapolis 46219
-8. Neuropsychiatric Hospital Of Indianapolis, Llc
-	6720 Parkdale Place, Suite 100 Indianapolis 46254 (CMS:no)
-	1.90 Community Hospital North
-	 7150 Clearvista Drive Indianapolis 46256
-9. Hamilton Center Inc
-	620 8Th Ave Terre Haute 47804 (CMS:no)
-	2.23 Union Hospital
-	 1606 North 7th Street Terre Haute 47804
-10. Memorial Hospital And Health Care Center
-	800 W 9Th St Jasper 47546 (CMS:yes)
-	2.86 Memorial Hospital
-	 800 West 9th Street Jasper 47546
-11. Saint Vincent Kokomo
-	1907 W Sycamore St Kokomo 46904 (CMS:yes)
-	3.01 Saint Vincent Kokomo Hospital
-	 1907 West Sycamore Street Kokomo 46901
-Madison State Hospital
-	 711 Green Road Madison 47250
-	 Emergency Mismatch (CMS:yes)
-	 Madison State Hospital
-12. Medical Behavioral Hospital - Mishawaka
-	1625 East Jefferson Blvd Mishawaka 46545 (CMS:no)
-	2.39 Unity Medical & Surgical Hospital
-	 4455 Edison Lakes Parkway Mishawaka 46545
-13. Richmond State Hospital
-	498 Nw 18Th St Richmond 47374 (CMS:yes)
-	3.02 Richmond State Hospital
-	 - - Richmond 47374
-14. Indiana University Health
-	1701 N Senate Blvd Indianapolis 46202 (CMS:yes)
-	2.79 IU Methodist Hospital
-	 1701 North Senate Boulevard Indianapolis 46202
-15. Iu Health Jay
-	500 W Votaw St Portland 47371 (CMS:yes)
-	2.90 Indiana University Health Jay Hospital
-	 500 West Votaw Street Portland 47371
-16. Assurance Health Psychiatric Hospital
-	900 North High School Road Indianapolis 46214 (CMS:no)
-	1.99 Community Hospital East
-	 1500 North Ritter Avenue Indianapolis 46219
-17. Cameron Memorial Community Hospital Inc
-	416 E Maumee St Angola 46703 (CMS:yes)
-	1.23 Rush Memorial Hospital
-	 1300 North Main Street Rushville 46173
-18. Meridian Services Corp
-	2401 W University Ave Muncie 47303 (CMS:no)
-	2.86 Ball Memorial Hospital
-	 2401 University Avenue Muncie 47303
-19. Saint Joseph Regional Medical Center - Plymouth
-	1915 Lake Ave Plymouth 46563 (CMS:yes)
-	3.04 Plymouth Medical Center
-	 1915 Lake Avenue Plymouth 46563
-20. Bloomington Meadows Hospital
-	3600 N Prow Rd Bloomington 47404 (CMS:no)
-	2.21 IU Health Bloomington Hospital
-	 601 West 2nd Street Bloomington 47402
-21. Valle Vista Health System
-	898 E Main St Greenwood 46143 (CMS:no)
-	1.20 Hancock Regional Hospital
-	 801 North State Street Greenfield 46140
-22. Michiana Behavioral Health Center
-	1800 N Oak Rd Plymouth 46563 (CMS:yes)
-	2.30 Plymouth Medical Center
-	 1915 Lake Avenue Plymouth 46563
-23. Orthopaedic Hospital At Parkview North Llc
-	11130 Parkview Circle Dr Fort Wayne 46845 (CMS:yes)
-	3.06 Parkview Ortho Hospital
-	 11130 Parkview Circle Fort Wayne 46845
-24. Saint Vincent Neighborhood Hospital
-	9613 East Us Highway 36 Avon 46123 (CMS:yes)
-	3.00 St. Vincent Neighborhood Hospital
-	 9613 Rockville Road Avon 46123
-25. Indiana University Health White Memorial Hospital
-	720 South Sixth St Monticello 47960 (CMS:yes)
-	3.03 White Memorial Hospital
-	 720 South 6th Street Monticello 47960
-26. Park Center, Inc
-	1909 Carew Street Fort Wayne 46805 (CMS:no)
-	2.22 Parkview Hospital Randallia
-	 2200 Randalia Drive Fort Wayne 46805
-27. Witham Health Services
-	2605 N Lebanon St Lebanon 46052 (CMS:yes)
-	2.95 Witham Hospital
-	 2605 North Lebanon Street Lebanon 46052
-28. Saint Vincent Mercy Hospital
-	1331 S A St Elwood 46036 (CMS:yes)
-	3.04 St. Vincent Mercy
-	 1331 South A Street Elwood 46036
-29. Saint Vincent Dunn Hospital Inc
-	1600 23Rd St Bedford 47421 (CMS:yes)
-	3.02 St. Vincent Dunn
-	 1600 23rd Street Bedford 47421
-30. Northeastern Center
-	1850 Wesley Rd Auburn 46706 (CMS:no)
-	2.12 DeKalb Health
-	 1317 East 7th Street Auburn 46706
-31. Neuro Behavioral Hospital
-	9330 Broadway Crown Point 46307 (CMS:no)
-	2.36 Pinnacle Hospital
-	 9301 Connecticut Drive Crown Point 46307
-32. Brentwood Springs
-	4488 Roslin Rd Newburgh 47630 (CMS:no)
-	2.19 Deaconess Gateway Hospital
-	 4011 Gateway Boulevard Newburgh 47630
-33. Grant-Blackford Mental Health, Inc
-	505 Wabash Ave Marion 46952 (CMS:no)
-	2.45 Marion General Hospital
-	 441 North Wabash Avenue Marion 46952
-34. Starke Hospital
-	102 E Culver Rd Knox 46534 (CMS:yes)
-	2.95 Starke County Hospital
-	 102 East Culver Road knox 46534
-35. Sycamore Springs Hospital Llc
-	833 Park East Blvd Lafayette 47905 (CMS:no)
-	2.20 Indiana University Health Arnett Hospital
-	 5165 McCarty Lane Lafayette 47905
-36. Otis R Bowen Center For Human Services Inc
-	9 Pequignot Dr Pierceton 46562 (CMS:yes)
-	0.98 Gibson General Hospital
-	 1808 Sherman Drive Princeton 47670
-37. Fairbanks
-	8102 Clearvista Parkway Indianapolis 46256 (CMS:no)
-	2.76 Fairbanks Addiction Treatment Center
-	 8102 Clearvista Drive Indianapolis 46256
-38. Major Hospital
-	2451 Intelliplex Dr Shelbyville 46176 (CMS:yes)
-	2.96 MHP Medical Center
-	 2451 Intelliplex Drive Shelbyville 46176
-39. Oaklawn Psychiatric Center Inc
-	330 Lakeview Dr Goshen 46527 (CMS:no)
-	1.77 Goshen Health Hospital
-	 200 High Park Avenue Goshen 46526
-Wellstone Regional Hospital
-	 2700 Vissing Park Road Jeffersonville 47130
-	 Emergency Mismatch (CMS:yes)
-	 Wellstone Regional Hospital
-40. Dukes Memorial Hospital
-	275 W 12Th St Peru 46970 (CMS:yes)
-	1.53 Dukes Memorial Hospital
-	 275 West 12th Street - -
-41. Community Mental Health Center Inc
-	285 Bielby Rd Lawrenceburg 47025 (CMS:yes)
-	2.24 Dearborn County Hospital
-	 600 Wilson Creek Road Lawrenceburg 47025
-42. Harsha Behavioral Center Inc
-	1980 E Woodsmall Dr Terre Haute 47802 (CMS:no)
-	2.21 Terre Haute Regional Hospital
-	 3901 South 7th Street Terre Haute 47802
-Good Samaritan Hospital
-	 520 South 7th Street Vincennes 47591
-	 Emergency Mismatch (CMS:yes)
-	 Good Samaritan Hospital
-43. Memorial Hospital
-	1101 Michigan Ave Logansport 46947 (CMS:yes)
-	2.05 Logansport State Hospital
-	 1098 South State Road 25 Logansport 47947
-44. Parkview Wabash Hospital, Inc
-	10 John Kissinger Drive Wabash 46992 (CMS:yes)
-	2.95 Parkview Wabash Hospital
-	 710 North East Street Wabash 46992
-45. Saint Vincent Hospital & Health Services
-	2001 W 86Th St Indianapolis 46260 (CMS:yes)
-	2.87 Peyton Manning Children's Hospital At St. Vincent
-	 2001 West 86th Street Indianapolis 46260
-46. Doctors Neuropsychiatric Hospital
-	417 S Whitlock St Bremen 46506 (CMS:no)
-	2.24 Bremen Community Hospital
-	 1020 High Road Bremen 46506
-47. Franciscan Health Michigan City
-	3500 Franciscan Way Michigan City 46360 (CMS:yes)
-	2.69 Franciscan ExpressCare Michigan City
-	 301 West Homer Street Michigan City 46360
-Found 47 issues.
+171 OSM hospitals
+0 Medicare hospitals
+Found 0 issues.
+
 Unmatched emergency=yes
-Peyton Manning Children's Hospital At St. Vincent (2.87)
-	 2001 West 86th Street Indianapolis 46260
+Peyton Manning Children's Hospital At St. Vincent (0.00)
+	2001 West 86th Street Indianapolis 46260
 Unmatched emergency=yes
 Michael & Susan Smith Emergency Department at Eskenazi Health (0.00)
-	 - - - -
+	- - - -
 Unmatched emergency=yes
 Future IU Health Bloomington (0.00)
-	 - - - -
+	- - - -
 Unmatched emergency=yes
-St. Vincent Neighborhood Hospital (3.00)
-	 9613 Rockville Road Avon 46123
+St. Vincent Neighborhood Hospital (0.00)
+	9613 Rockville Road Avon 46123
 Unmatched emergency=yes
-Saint Mary's Medical Center (3.08)
-	 3700 Washington Avenue Evansville 47750
+Saint Joseph Hospital (0.00)
+	700 Broadway Fort Wayne 46802
 Unmatched emergency=yes
-IU Health Bloomington Hospital (2.21)
-	 601 West 2nd Street Bloomington 47402
+Elkhart General Hospital (0.00)
+	600 East Boulevard Elkhart 46514
+Unmatched emergency=yes
+Saint Mary's Medical Center (0.00)
+	3700 Washington Avenue Evansville 47750
+Unmatched emergency=yes
+Saint Mary Medical Center (0.00)
+	1500 South Lake Park Avenue Hobart 46342
+Unmatched emergency=yes
+IU Health Bloomington Hospital (0.00)
+	601 West 2nd Street Bloomington 47402
+Unmatched emergency=yes
+Memorial Hospital of South Bend (0.00)
+	615 North Michigan Street South Bend 46601
+Unmatched emergency=yes
+DeKalb Health (0.00)
+	1317 East 7th Street Auburn 46706
+Unmatched emergency=yes
+Community Hospital (0.00)
+	901 MacArthur Boulevard Munster 46321
+Unmatched emergency=yes
+Community Hospital North (0.00)
+	7150 Clearvista Drive Indianapolis 46256
 Unmatched emergency=yes
 -- (0.00)
-	 - - - -
+	- - - -
+Unmatched emergency=yes
+Schneck Medical Center (0.00)
+	411 West Tipton Street Seymour 47274
+Unmatched emergency=yes
+Bremen Community Hospital (0.00)
+	1020 High Road Bremen 46506
+Unmatched emergency=yes
+Mishawaka Medical Center (0.00)
+	5215 Holy Cross Parkway Mishawaka 46545
+Unmatched emergency=yes
+Sidney & Lois Eskenazi Hospital (0.00)
+	720 Eskenazi Avenue Indianapolis 46202
+Unmatched emergency=yes
+Franciscan Health Crown Point (0.00)
+	1201 South Main Street Crown Point 46307
+Unmatched emergency=yes
+Terre Haute Regional Hospital (0.00)
+	3901 South 7th Street Terre Haute 47802
+Unmatched emergency=yes
+Reid Health (0.00)
+	1100 Reid Parkway Richmond 47374
 Unmatched emergency=yes
 Saint Vincent Indianapolis (0.00)
-	 2001 West 86th Street Indianapolis 46260
+	2001 West 86th Street Indianapolis 46260
 Unmatched emergency=yes
-Dearborn County Hospital (2.24)
-	 600 Wilson Creek Road Lawrenceburg 47025
+Fayette Regional Health System (0.00)
+	1941 Virginia Avenue Connersville 47331
 Unmatched emergency=yes
-Memorial Hospital (2.86)
-	 800 West 9th Street Jasper 47546
+Dearborn County Hospital (0.00)
+	600 Wilson Creek Road Lawrenceburg 47025
+Unmatched emergency=yes
+Columbus Regional Health (0.00)
+	2400 East 17th Street Columbus 47201
+Unmatched emergency=yes
+Franciscan Health Lafayette East (0.00)
+	1701 South Creasy Lane Lafayette 47905
+Unmatched emergency=yes
+Ball Memorial Hospital (0.00)
+	2401 University Avenue Muncie 47303
+Unmatched emergency=yes
+Northlake Campus Methodist Hospitals (0.00)
+	600 Grant Street Gary 46402
+Unmatched emergency=yes
+Goshen Health Hospital (0.00)
+	200 High Park Avenue Goshen 46526
+Unmatched emergency=yes
+Indiana University Health Frankfort Hospital (0.00)
+	1300 South Jackson Street Frankfort 46041
+Unmatched emergency=yes
+Community Hospital Anderson (0.00)
+	1515 North Madison Avenue Anderson 46011
+Unmatched emergency=yes
+Franciscan Health Hammond (0.00)
+	5454 Hohman Avenue Hammond 46320
+Unmatched emergency=yes
+Memorial Hospital (0.00)
+	800 West 9th Street Jasper 47546
+Unmatched emergency=yes
+Sullivan County Community Hospital (0.00)
+	2200 North Section Street Sullivan 47882
+Unmatched emergency=yes
+Riverview Health (0.00)
+	395 Westfield Road Noblesville 46060
+Unmatched emergency=yes
+St. Vincent Fishers (0.00)
+	13861 Olio Road Fishers 46037
 Unmatched emergency=yes
 IU Health Saxony Hospital (0.00)
-	 13000 East 136th Street Fishers 46037
+	13000 East 136th Street Fishers 46037
 Unmatched emergency=yes
-Deaconess Gateway Hospital (2.19)
-	 4011 Gateway Boulevard Newburgh 47630
+Margaret Mary Health (0.00)
+	321 Mitchell Avenue Batesville 47006
 Unmatched emergency=yes
-St. Vincent Dunn (3.02)
-	 1600 23rd Street Bedford 47421
+Deaconess Hospital (0.00)
+	600 Mary Street Evansville 47747
+Unmatched emergency=yes
+Deaconess Gateway Hospital (0.00)
+	4011 Gateway Boulevard Newburgh 47630
+Unmatched emergency=yes
+The Women's Hospital (0.00)
+	4199 Gateway Boulevard Newburgh 47630
+Unmatched emergency=yes
+Baptist Health Floyd (0.00)
+	1850 State Street New Albany 47150
+Unmatched emergency=yes
+Clark Memorial Hospital (0.00)
+	1220 Missouri Avenue Jeffersonville 47130
+Unmatched emergency=yes
+Scottsburg Memorial Hospital (0.00)
+	1451 North Gardner Street Scottsburg 47170
+Unmatched emergency=yes
+Kings Daughters' Hospital (0.00)
+	1373 East State Road 62 Madison 47250
+Unmatched emergency=yes
+Decatur County Memorial Hospital (0.00)
+	720 North Lincoln Street Greensburg 47240
+Unmatched emergency=yes
+Indiana University Health Bedford Hospital (0.00)
+	2900 West 16th Street Bedford 47421
+Unmatched emergency=yes
+St. Vincent Dunn (0.00)
+	1600 23rd Street Bedford 47421
+Unmatched emergency=yes
+Monroe Hospital (0.00)
+	4011 South Monroe Medical Park Boulevard Bloomington 47403
+Unmatched emergency=yes
+Greene County General Hospital (0.00)
+	1185 North 1000 West Linton 47441
+Unmatched emergency=yes
+Union Hospital (0.00)
+	1606 North 7th Street Terre Haute 47804
 Unmatched emergency=yes
 IU Health Morgan Hospital (0.00)
-	 2209 John R Wooden Drive Martinsville 46151
+	2209 John R Wooden Drive Martinsville 46151
 Unmatched emergency=yes
-MHP Medical Center (2.96)
-	 2451 Intelliplex Drive Shelbyville 46176
+Johnson Memorial Hospital (0.00)
+	1125 West Jefferson Street Franklin 46131
+Unmatched emergency=yes
+MHP Medical Center (0.00)
+	2451 Intelliplex Drive Shelbyville 46176
+Unmatched emergency=yes
+Rush Memorial Hospital (0.00)
+	1300 North Main Street Rushville 46173
+Unmatched emergency=yes
+Franciscan Health Mooresville (0.00)
+	1201 Hadley Road Mooresville 46158
+Unmatched emergency=yes
+Community Hospital South (0.00)
+	1402 East County Line Road Indianapolis 46227
+Unmatched emergency=yes
+Franciscan Health Indianapolis (0.00)
+	8111 South Emerson Avenue Indianapolis 46237
 Unmatched emergency=yes
 Riley Hospital for Children (0.00)
-	 705 Riley Hospital Drive Indianapolis 46202
+	705 Riley Hospital Drive Indianapolis 46202
 Unmatched emergency=yes
-IU Methodist Hospital (2.79)
-	 1701 North Senate Boulevard Indianapolis 46202
+IU Methodist Hospital (0.00)
+	1701 North Senate Boulevard Indianapolis 46202
 Unmatched emergency=yes
 Community Heart and Vascular Hospital (0.00)
-	 8075 North Shadeland Avenue Indianapolis 46250
+	8075 North Shadeland Avenue Indianapolis 46250
 Unmatched emergency=yes
-Witham Hospital (2.95)
-	 2605 North Lebanon Street Lebanon 46052
+Community Hospital East (0.00)
+	1500 North Ritter Avenue Indianapolis 46219
 Unmatched emergency=yes
-St. Vincent Mercy (3.04)
-	 1331 South A Street Elwood 46036
+IU Health West Hospital (0.00)
+	1111 Ronald Reagan Parkway Avon 46123
 Unmatched emergency=yes
-White Memorial Hospital (3.03)
-	 720 South 6th Street Monticello 47960
+Hendricks Regional Health (0.00)
+	1000 East Main Street Danville 46122
+Unmatched emergency=yes
+Indiana University North Hospital (0.00)
+	11700 North Meridian Street Carmel 46032
+Unmatched emergency=yes
+Saint Vincent Carmel Hospital (0.00)
+	13500 North Meridian Street Carmel 46032
+Unmatched emergency=yes
+Witham Hospital (0.00)
+	2605 North Lebanon Street Lebanon 46052
+Unmatched emergency=yes
+Community Howard Regional Health (0.00)
+	3500 South Lafountain Street Kokomo 46902
+Unmatched emergency=yes
+St. Vincent Mercy (0.00)
+	1331 South A Street Elwood 46036
+Unmatched emergency=yes
+Bluffton Regional Medical Center (0.00)
+	303 South Main Street Bluffton 46714
+Unmatched emergency=yes
+Franciscan Health Rensselaer (0.00)
+	1104 East Grace Street Rensselaer 47978
+Unmatched emergency=yes
+White Memorial Hospital (0.00)
+	720 South 6th Street Monticello 47960
 Unmatched emergency=yes
 -- (0.00)
-	 - - - -
+	- - - -
 Unmatched emergency=yes
-Parkview Hospital Randallia (2.22)
-	 2200 Randalia Drive Fort Wayne 46805
+Lutheran Hospital (0.00)
+	7950 West Jefferson Boulevard Fort Wayne 46804
 Unmatched emergency=yes
-Franciscan ExpressCare Michigan City (2.69)
-	 301 West Homer Street Michigan City 46360
+Parkview Hospital Randallia (0.00)
+	2200 Randalia Drive Fort Wayne 46805
 Unmatched emergency=yes
-Starke County Hospital (2.95)
-	 102 East Culver Road knox 46534
+Parkview Regional Medical Center (0.00)
+	11109 Parkview Plaza Drive Fort Wayne 46845
+Unmatched emergency=yes
+Parkview Noble Hospital (0.00)
+	401 Sawyer Road Kendallville 46755
+Unmatched emergency=yes
+La Porte Hospital (0.00)
+	1007 Lincolnway La Porte 46350
+Unmatched emergency=yes
+Franciscan ExpressCare Michigan City (0.00)
+	301 West Homer Street Michigan City 46360
+Unmatched emergency=yes
+Starke County Hospital (0.00)
+	102 East Culver Road knox 46534
 Unmatched emergency=yes
 Valparaiso Medical Center (0.00)
-	 1900-2000 Roosevelt Road Valparaiso 46383
+	1900-2000 Roosevelt Road Valparaiso 46383
+Unmatched emergency=yes
+Porter Regional Hospital (0.00)
+	85 East US-6 Frontage Road Valparaiso 46383
 Unmatched emergency=yes
 Portage Hospital (0.00)
-	 3630 Willowcreek Road Portage 46368
+	3630 Willowcreek Road Portage 46368
 Unmatched emergency=yes
 Methodist Hospitals - Southlake Campus (0.00)
-	 8701 Broadway Merrillville 46410
+	8701 Broadway Merrillville 46410
+Unmatched emergency=yes
+Franciscan Health Dyer (0.00)
+	24 Joliet Street Dyer 46311
+Unmatched emergency=yes
+Saint Catherine Hospital (0.00)
+	4321 Fir Street East Chicago 46312
+Unmatched emergency=yes
+Adams Memorial Hospital (0.00)
+	1100 Mercer Avenue Decatur 46733
+Unmatched emergency=yes
+Saint Vincent Anderson (0.00)
+	2015 Jackson Street Anderson 46016
+Unmatched emergency=yes
+Indiana University Health Blackford Hospital (0.00)
+	410 Pilgrim Boulevard Hartford City 47348
+Unmatched emergency=yes
+Harrison County Hospital (0.00)
+	1141 Hospital Drive Northwest Corydon 47112
 Unmatched emergency=yes
 Hendricks Regional Health Brownsburg Hospital (0.00)
-	 5292 Ronald Reagan Parkway Brownsburg 46278
+	5292 Ronald Reagan Parkway Brownsburg 46278
 Unmatched emergency=yes
-Saint Vincent Kokomo Hospital (3.01)
-	 1907 West Sycamore Street Kokomo 46901
+Perry County Memorial Hospital (0.00)
+	8885 IN 237 Tell City 47586
 Unmatched emergency=yes
-Plymouth Medical Center (2.30)
-	 1915 Lake Avenue Plymouth 46563
+St. Vincent Heart Center of Indiana (0.00)
+	10590 North Meridian Street Indianapolis 46290
+Unmatched emergency=yes
+Saint Vincent Kokomo Hospital (0.00)
+	1907 West Sycamore Street Kokomo 46901
+Unmatched emergency=yes
+Marion General Hospital (0.00)
+	441 North Wabash Avenue Marion 46952
+Unmatched emergency=yes
+Franciscan Health Crawfordsville (0.00)
+	1710 Lafayette Road Crawfordsville 47933
+Unmatched emergency=yes
+Henry County Memorial Hospital (0.00)
+	1000 North 16th Street New Castle 47362
+Unmatched emergency=yes
+Hancock Regional Hospital (0.00)
+	801 North State Street Greenfield 46140
+Unmatched emergency=yes
+Daviess Community Hospital (0.00)
+	1314 East Walnut Street Washington 47501
+Unmatched emergency=yes
+Plymouth Medical Center (0.00)
+	1915 Lake Avenue Plymouth 46563
+Unmatched emergency=yes
+Parkview Huntington Hospital (0.00)
+	2001 Stults Road Huntington 46750
+Unmatched emergency=yes
+Parkview Whitley Hospital (0.00)
+	1260 East State Route 205 Columbia City 46725
+Unmatched emergency=yes
+Kosciusko Community Hospital (0.00)
+	2101 East Dubois Drive Warsaw 46580
+Unmatched emergency=yes
+Dupont Hospital (0.00)
+	2520 East Dupont Road Fort Wayne 46825
+Unmatched emergency=yes
+Franciscan Health Munster (0.00)
+	701 Superior Avenue Munster 46321
+Unmatched emergency=yes
+Indiana University Health Arnett Hospital (0.00)
+	5165 McCarty Lane Lafayette 47905
 Unmatched emergency=yes
 Kentuckiana Medical Center (0.00)
-	 4601 Medical Plaza Way Clarksville 47129
+	4601 Medical Plaza Way Clarksville 47129
 Unmatched emergency=yes
-Parkview Wabash Hospital (2.95)
-	 710 North East Street Wabash 46992
+Saint Vincent Randolph (0.00)
+	473 East Greenville Avenue Winchester 47394
 Unmatched emergency=yes
-Indiana University Health Jay Hospital (2.90)
-	 500 West Votaw Street Portland 47371
+Saint Vincent Jennings Hospital (0.00)
+	301 Henry Street North Henry 47265
+Unmatched emergency=yes
+Pulaski Memorial Hospital (0.00)
+	616 East 13th Street Winamac 46996
+Unmatched emergency=yes
+Indiana University Health Paoli Hospital (0.00)
+	642 West Hospital Road Paoli 47454
+Unmatched emergency=yes
+Saint Vincent Williamsport Hospital (0.00)
+	412 North Monroe Street Williamsport 47993
+Unmatched emergency=yes
+Saint Vincent Clay Hospital (0.00)
+	1206 East National Avenue Brazil 47834
+Unmatched emergency=yes
+Parkview Wabash Hospital (0.00)
+	710 North East Street Wabash 46992
+Unmatched emergency=yes
+Indiana University Health Tipton Hospital (0.00)
+	1000 South Main Street Tipton 46072
+Unmatched emergency=yes
+Saint Vincent Salem Hospital (0.00)
+	911 North Shelby Street Salem 47167
+Unmatched emergency=yes
+Gibson General Hospital (0.00)
+	1808 Sherman Drive Princeton 47670
+Unmatched emergency=yes
+Indiana University Health Jay Hospital (0.00)
+	500 West Votaw Street Portland 47371
+Unmatched emergency=yes
+Parkview LaGrange Hospital (0.00)
+	207 North Townline Road LaGrange 46761
+Unmatched emergency=yes
+Saint Vincent Warrick Hospital (0.00)
+	1116 Millis Avenue Boonville 47601
+Unmatched emergency=yes
+Union Hospital Clinton (0.00)
+	801 South Main Street Clinton 47842
+Unmatched emergency=yes
+Putnam County Hospital (0.00)
+	1542 South Bloomington Street Greencastle 46135
+Unmatched emergency=yes
+Woodlawn Hospital (0.00)
+	1400 East 9th Street Rochester 46975
 Unmatched emergency=yes
 Beacon Granger Hospital (0.00)
-	 3220 Beacon Parkway Granger 46530
-Found 35 unmatched emergency.
+	3220 Beacon Parkway Granger 46530
+Found 124 unmatched emergency.

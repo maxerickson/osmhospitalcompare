@@ -1,49 +1,137 @@
-64
-45
-1. Intermountain Hospital
-	303 North Allumbaugh Street Boise 83704 (CMS:no)
-	2.58 Treasure Valley Hospital
-	 8800 West Emerald Street Boise 83704
-2. Saint Luke's Mccall
-	1000 State Street Burgdorf 83638 (CMS:yes)
-	2.51 Saint Luke's McCall Medical Center
-	 1000 State Street McCall 83638
-3. Grove Creek Medical Center
-	350 North Meridian Street Blackfoot 83221 (CMS:no)
-	3.04 Idaho Doctors' Hospital
-	 350 North Meridian Street Blackfoot 83221
-4. West Valley Medical Center
-	1717 Arlington Street Caldwell 83605 (CMS:yes)
-	3.10 West Valley Medical Center
-	 1717 Arlington Avenue Caldwell 83605-5407
-North Canyon Medical Center
-	 267 North Canyon Drive Gooding 83330
-	 Emergency Mismatch (CMS:no)
-	 North Canyon Medical Center
-Mountain View Hospital
-	 2327 Coronado Street Idaho Falls 83404
-	 Emergency Mismatch (CMS:no)
-	 Idaho Falls Community/Mountain View Hospital
-Found 4 issues.
+64 OSM hospitals
+0 Medicare hospitals
+Found 0 issues.
+
 Unmatched emergency=yes
-West Valley Medical Center (3.10)
-	 1717 Arlington Avenue Caldwell 83605-5407
+Saint Alphonsus Medical Center - Nampa (0.00)
+	4300 East Flamingo Avenue Nampa 83687
+Unmatched emergency=yes
+St. Luke's Magic Valley Regional Medical Center (0.00)
+	801 Pole Line Road West Twin Falls 83301
+Unmatched emergency=yes
+West Valley Medical Center (0.00)
+	1717 Arlington Avenue Caldwell 83605-5407
+Unmatched emergency=yes
+Eastern Idaho Regional Medical Center (0.00)
+	3100 Channing Way Idaho Falls 83404
+Unmatched emergency=yes
+Minidoka Memorial Hospital (0.00)
+	1224 8th Street Rupert 83350
+Unmatched emergency=yes
+Bonner County Hospital (0.00)
+	520 North 3rd Avenue Sandpoint 83864
+Unmatched emergency=yes
+Kootenai Medical Center (0.00)
+	2003 Kootenai Health Way Coeur d'Alene 83814
+Unmatched emergency=yes
+Shoshone Medical Center (0.00)
+	25 Jacobs Gulch Road Kellogg 83837
+Unmatched emergency=yes
+Saint Joseph's Regional Medical Center (0.00)
+	415 6th Street Lewiston 83501
+Unmatched emergency=yes
+Syringa Hospital & Clinics (0.00)
+	607 West Main Street Grangeville 83530
+Unmatched emergency=yes
+Weiser Memorial Hospital (0.00)
+	645 East 5th Street Weiser 83672
 Unmatched emergency=yes
 Saint Alphonsus Medical Center (0.00)
-	 1512 12th Avenue Road Nampa 83686
+	1512 12th Avenue Road Nampa 83686
 Unmatched emergency=yes
 Saint Lukes Meridian Medical Center (0.00)
-	 520 South Eagle Road Nampa 83642
+	520 South Eagle Road Nampa 83642
 Unmatched emergency=yes
 Saint Alphonsus Eagle Health Plaza (0.00)
-	 323 East Riverside Drive Eagle 83616
+	323 East Riverside Drive Eagle 83616
+Unmatched emergency=yes
+Saint Alphonsus Regional Medical Center (0.00)
+	1055 North Curtis Road Boise 83706
+Unmatched emergency=yes
+St. Luke's Boise Medical Center (0.00)
+	190 East Bannock Street Boise 83712
+Unmatched emergency=yes
+St. Luke's Elmore Medical Center (0.00)
+	895 North 6th East Street Mountain Home 83647
+Unmatched emergency=yes
+St Luke's Wood River Medical Center (0.00)
+	100 Hospital Drive Ketchum 83340
+Unmatched emergency=yes
+Saint Luke's Jerome Medical Center (0.00)
+	709 North Lincoln Avenue Jerome 83338
+Unmatched emergency=yes
+Lost Rivers Medical Center (0.00)
+	551 Highland Drive Arco 83213
+Unmatched emergency=yes
+Cassia Regional Hospital (0.00)
+	1501 Hiland Avenue Burley 83318
+Unmatched emergency=yes
+Nell J. Redfield Memorial Hospital (0.00)
+	150 North 200 West Malad City 83252
+Unmatched emergency=yes
+Power County Hospital District (0.00)
+	510 Roosevelt Street American Falls 83211
+Unmatched emergency=yes
+Madison Memorial Hospital (0.00)
+	450 East Main Street Rexburg 83440
+Unmatched emergency=yes
+Franklin County Medical Center (0.00)
+	44 East 1st North Preston 83263
+Unmatched emergency=yes
+Gritman Medical Center (0.00)
+	700 South Main Street Moscow 83843
+Unmatched emergency=yes
+Clearwater Valley Hospital (0.00)
+	301 Cedar Street Orofino 83544
+Unmatched emergency=yes
+Saint Mary's Hospital (0.00)
+	701 Lewiston Street Cottonwood 83522
+Unmatched emergency=yes
+Valor Health Hospital (0.00)
+	1202 East Locust Street Emmett 83617
+Unmatched emergency=yes
+St. Luke’s Nampa Medical Center (0.00)
+	9850 West Saint Luke's Drive Nampa 83687
 Unmatched emergency=yes
 Boise VA Medical Center (0.00)
-	 500 West Fort Street Boise 83702
+	500 West Fort Street Boise 83702
 Unmatched emergency=yes
-Saint Luke's McCall Medical Center (2.51)
-	 1000 State Street McCall 83638
+Bingham Memorial Hospital (0.00)
+	98 Poplar Street Blackfoot 83221
+Unmatched emergency=yes
+Portneuf Medical Center (0.00)
+	777 Hospital Way Pocatello 83201
+Unmatched emergency=yes
+Boundary Community Hospital (0.00)
+	6640 Kaniksu Street Bonners Ferry 83805
+Unmatched emergency=yes
+North Canyon Medical Center (0.00)
+	267 North Canyon Drive Gooding 83330
+Unmatched emergency=yes
+Steele Memorial Medical Center (0.00)
+	203 South Daisy Street Salmon 83467
+Unmatched emergency=yes
+Cascade Medical Center (0.00)
+	402 Lake Cascade Parkway Cascade 83611
+Unmatched emergency=yes
+Caribou Memorial Hospital (0.00)
+	300 South 3rd West Street Soda Springs 83276
+Unmatched emergency=yes
+Saint Luke's McCall Medical Center (0.00)
+	1000 State Street McCall 83638
+Unmatched emergency=yes
+Teton Valley Hospital (0.00)
+	120 East Howard Avenue Driggs 83422
+Unmatched emergency=yes
+Bear Lake Memorial Hospital (0.00)
+	164 South 5th Street Montpelier 83254
+Unmatched emergency=yes
+Benewah Community Hospital (0.00)
+	229 South 7th Street Saint Maries 83861
 Unmatched emergency=yes
 Just 4 Kids Urgent Care (0.00)
-	 3320 South 25th East Idaho Falls 83404
-Found 7 unmatched emergency.
+	3320 South 25th East Idaho Falls 83404
+Unmatched emergency=yes
+Idaho Falls Community/Mountain View Hospital (0.00)
+	2327 Coronado Street Idaho Falls 83404
+Found 44 unmatched emergency.

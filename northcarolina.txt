@@ -1,134 +1,28 @@
 188 OSM hospitals
-120 Medicare hospitals
-1. Maria Parham Medical Center
-	Po Box 59 Henderson 27536 (CMS:yes)
-	1.17 CarolinaEast Medical Center
-	2000 Neuse Boulevard New Bern 28561
-2. Cherokee Indian Hospital Authority
-	Caller Box C268 Cherokee 28719 (CMS:yes)
-	2.76 Cherokee Indian Hospital
-	1 Hospital Road Cherokee 28719
-3. Alleghany County Memorial Hospital
-	617 Doctors Street Sparta 28675 (CMS:yes)
-	1.34 Caldwell Memorial Hospital
-	321 Mulberry Street Southwest Lenoir 28645
-4. University Of North Carolina Hospital
-	101 Manning Drive Chapel Hill 27514 (CMS:yes)
-	3.03 UNC Medical Center
-	101 Manning Drive Chapel Hill 27514
-5. Margaret R Pardee Memorial Hospital
-	800 N Justice St Hendersonville 28791 (CMS:yes)
-	3.00 Pardee Hospital
-	800 North Justice Street Hendersonville 28791
-6. Atrium Health Stanly
-	301 Yadkin St Albemarle 28001 (CMS:yes)
-	2.79 Carolinas HealthCare System Stanly
-	301 Yadkin Street Albemarle 28002
-7. Atrium Health Anson
-	2301 Us Highway 74 West Wadesboro 28170 (CMS:yes)
-	2.92 Carolinas HealthCare System Anson
-	2301 US 74 West Wadesboro 28170
-8. Strategic Behavioral Center-Charlotte
-	1715 Sharon Road West Charlotte 28210 (CMS:no)
-	2.31 Carolinas HealthCare System Pineville
-	10628 Park Road Charlotte 28210
-9. Johnston Health
-	509 Bright Leaf Blvd Smithfield 27577 (CMS:yes)
-	2.09 Med First Primary & Urgent Care
-	388-I Venture Drive Smithfield 27577
-10. Davis Regional Medical Center
-	218 Old Mocksbville Rd Po Box 1823 Statesville 28687 (CMS:yes)
-	2.90 Davis Regional Medical Center
-	218 Old Mocksville Road Statesville 28625
-11. Charles A Cannon Jr Memorial Hospital
-	434 Hospital Drive Linville 28646 (CMS:yes)
-	1.53 Ashe Memorial Hospital
-	200 Hospital Avenue Jefferson 28640
-12. Strategic Behavioral Center-Leland
-	2050 Mercantile Drive Leland 28451 (CMS:no)
-	1.23 Highlands-Cashiers Hospital
-	190 Hospital Drive Highlands 28741
-13. New Hanover Regional Medical Center
-	2131 S 17Th St Box 9000 Wilmington 28402 (CMS:yes)
-	2.97 New Hanover Regional Medical Center
-	2131 South 17th Street Wilmington 28401
-14. Novant Health Matthews Medical Center
-	1500 Matthews Twnshp Prkwy Box 3310 Matthews 28106 (CMS:yes)
-	2.87 Matthews Medical Center
-	1500 Matthews Township Parkway Matthews 28105
-15. Strategic Behavorial Center-Garner
-	3200 Waterfield Drive Garner 27529 (CMS:no)
-	1.30 Mission Hospital McDowell
-	430 Rankin Drive Marion 28752
-16. Brynn Marr Hosp
-	192 Village Drive Jacksonville 28540 (CMS:yes)
-	1.90 Onslow Memorial Hospital
-	317 Western Boulevard Jacksonville 28546
-17. Rj Blackley Alcohol And Drug Abuse Treatment Ctr
-	Bldg 29, 30 Barrett Bldg, 100 H Street Butner 27509 (CMS:no)
-	2.31 Murdoch Developmental Center
-	1600 East C Street Butner 27509
-Central Regional Hospital
-	300 Veazey Road Butner 27509
-	 Emergency Mismatch (CMS:yes)
-	Central Regional Hospital
-18. Washington County Hosp Inc
-	958 Us Hwy 64 East Plymouth 27962 (CMS:yes)
-	2.87 Washington Regional Medical Center
-	958 U.S. Highway 64 East Plymouth 27962
-19. Novant Health Brunswick Medical Center
-	1 Medical Center Dr Po Box 139 Supply 28462 (CMS:yes)
-	1.39 Novant Health Rowan Medical Center
-	612 Mocksville Avenue Salisbury 28144
-20. Southeastern Regional Medical Center
-	300 W 27 St Po Box 1408 Lumberton 28359 (CMS:yes)
-	2.64 Southeastern Health
-	300 West 27th Street Lumberton 28359
-21. Julian F Keith Alcohol & Drug Abuse Tx
-	201 Tabernacle Road Black Mountain 28711 (CMS:no)
-	1.11 Lake Norman Regional Medical Center
-	171 Fairview Road Mooresville 28117
-22. Good Hope Hospital, Inc
-	410 Denim Drive Erwin 28339 (CMS:no)
-	1.30 Betsy Johnson Hospital
-	800 Tilghman Drive Dunn 28334
-23. Lexington Memorial Hospital Inc
-	250 Hospital Drive Po Box 1817 Lexington 27293 (CMS:yes)
-	2.58 Lexington Medical Center
-	250 Hospital Drive Lexington 27292
-24. Novant Health Presbyterian Medical Center
-	200 Hawthorne Lane Box 33549 Charlotte 28233 (CMS:yes)
-	2.97 Novant Health Presbyterian Medical Center
-	200 Hawthorne Lane Charlotte 28204
-25. Wakemed
-	1900 Kildare Farm Road Cary 27518 (CMS:yes)
-	2.85 WakeMed Cary Hospital
-	1900 Kildaire Farm Road Cary 27512
-26. Novant Health Mint Hill Medical Center
-	8201 Healthcare Loop Charlotte 28215 (CMS:yes)
-	2.31 Novant Health Presbyterian Medical Center
-	200 Hawthorne Lane Charlotte 28204
-27. Davie Medical Center
-	223 Hospital Street Mocksville 27028 (CMS:yes)
-	1.57 Thomasville Medical Center
-	207 Old Lexington Road Thomasville 27360
-28. Womack Amc (Fort Bragg)
-	2817 Reilly Road Fort Bragg 28307 (CMS:yes)
-	1.05 FirstHealth Moore Regional Hospital-Hoke Campus
-	6408 Fayetteville Road Raeford 28376
-29. Memorial Mission Hospital And Asheville Surgery Ce
-	509 Biltmore Ave Asheville 28801 (CMS:yes)
-	3.07 Mission Hospital
-	509 Biltmore Avenue Asheville 28801
-30. Carteret General Hospital
-	3500 Arendell St Morehead City 28557 (CMS:yes)
-	3.04 Carteret Health Care Medical Center
-	3500 Arendell Street Morehead City 28557
-Found 30 issues.
+0 Medicare hospitals
+Found 0 issues.
 
 Unmatched emergency=yes
-Southeastern Health (2.64)
+Rutherford Regional Health System (0.00)
+	288 South Ridgecrest Street Rutherfordton 28139
+Unmatched emergency=yes
+Betsy Johnson Hospital (0.00)
+	800 Tilghman Drive Dunn 28334
+Unmatched emergency=yes
+UNC REX Healthcare (0.00)
+	4420 Lake Boone Trail Raleigh 27607
+Unmatched emergency=yes
+Southeastern Health (0.00)
 	300 West 27th Street Lumberton 28359
+Unmatched emergency=yes
+Haywood Regional Medical Center (0.00)
+	262 Leroy George Drive Clyde 28721
+Unmatched emergency=yes
+Alamance Regional Medical Center (0.00)
+	1240 Huffman Mill Road Burlington 27215
+Unmatched emergency=yes
+Novant Health Huntersville Medical Center (0.00)
+	10030 Gilead Road Huntersville 28078
 Unmatched emergency=yes
 Hemby Children's Hospital (0.00)
 	200 Hawthorne Lane Charlotte 28204
@@ -139,7 +33,7 @@ Unmatched emergency=yes
 Bladen Medical Associates (0.00)
 	273 White Lake Drive White Lake -
 Unmatched emergency=yes
-Med First Primary & Urgent Care (2.09)
+Med First Primary & Urgent Care (0.00)
 	388-I Venture Drive Smithfield 27577
 Unmatched emergency=yes
 Princeton Pediatrics (0.00)
@@ -151,23 +45,59 @@ Unmatched emergency=yes
 Horizon Family Medicine (0.00)
 	100 Cunningham Lane Clayton 27527
 Unmatched emergency=yes
-Washington Regional Medical Center (2.87)
+Cape Fear Valley Medical Center (0.00)
+	1638 Owen Drive Fayetteville 28304
+Unmatched emergency=yes
+Washington Regional Medical Center (0.00)
 	958 U.S. Highway 64 East Plymouth 27962
+Unmatched emergency=yes
+Duke Raleigh Hospital (0.00)
+	3400 Wake Forest Road Raleigh 27609
 Unmatched emergency=yes
 WakeMed Health & Hospitals: Raleigh Campus (0.00)
 	3000 New Bern Avenue Raleigh 27610
 Unmatched emergency=yes
+Watauga Medical Center (0.00)
+	336 Deerfield Road Boone 28607
+Unmatched emergency=yes
 Johnston UNC Health Care Clayton (0.00)
 	2138 NC 42 Clayton 27524
 Unmatched emergency=yes
-Carteret Health Care Medical Center (3.04)
+Nash General Hospital (0.00)
+	2460 Curtis Ellis Drive Rocky Mount 27804
+Unmatched emergency=yes
+Carolinas Medical Center (0.00)
+	1000 Blythe Blvd Charlotte 28203
+Unmatched emergency=yes
+Pioneer Community Hospital (0.00)
+	1570 NC 8 & 89 Highway North Danbury 27016
+Unmatched emergency=yes
+Carteret Health Care Medical Center (0.00)
 	3500 Arendell Street Morehead City 28557
 Unmatched emergency=yes
-WakeMed Cary Hospital (2.85)
+Duke University Hospital (0.00)
+	2301 Erwin Road Durham 27710
+Unmatched emergency=yes
+Murphy Medical Center (0.00)
+	3990 East US 64 Alternate Murphy 28906
+Unmatched emergency=yes
+WakeMed Cary Hospital (0.00)
 	1900 Kildaire Farm Road Cary 27512
 Unmatched emergency=yes
-New Hanover Regional Medical Center (2.97)
+Frye Regional Medical Center (0.00)
+	420 North Center Street Hickory 28601
+Unmatched emergency=yes
+Catawba Valley Medical Center (0.00)
+	810 Fairgrove Church Road Southeast Hickory 28602
+Unmatched emergency=yes
+Novant Health Rowan Medical Center (0.00)
+	612 Mocksville Avenue Salisbury 28144
+Unmatched emergency=yes
+New Hanover Regional Medical Center (0.00)
 	2131 South 17th Street Wilmington 28401
+Unmatched emergency=yes
+Randolph Health (0.00)
+	364 White Oak Street Asheboro 27204
 Unmatched emergency=yes
 WakeMed North Family Health & Women’s Hospital (0.00)
 	10000 Falls of Neuse Road Raleigh 27614
@@ -178,62 +108,242 @@ Unmatched emergency=yes
 New Hanover Regional Medical Center Orthopedic Hospital (0.00)
 	5301 Wrightsville Avenue Wilmington 28403
 Unmatched emergency=yes
+Iredell Memorial Hospital (0.00)
+	557 Brookdale Drive Statesville 28677
+Unmatched emergency=yes
+Central Carolina Hospital (0.00)
+	1135 Carthage Street Sanford 27339
+Unmatched emergency=yes
+Person Memorial Hospital (0.00)
+	615 Ridge Road Roxboro 27573
+Unmatched emergency=yes
+Onslow Memorial Hospital (0.00)
+	317 Western Boulevard Jacksonville 28546
+Unmatched emergency=yes
 Carolinas HealthCare System Harrisburg (0.00)
 	9592 Rocky River Road Harrisburg 28215
 Unmatched emergency=yes
-Carolinas HealthCare System Stanly (2.79)
+Lake Norman Regional Medical Center (0.00)
+	171 Fairview Road Mooresville 28117
+Unmatched emergency=yes
+Carolinas HealthCare System Kings Mountain (0.00)
+	706 West King Street Kings Mountain 28086
+Unmatched emergency=yes
+Carolinas Medical Center - Union (0.00)
+	600 Hospital Drive Monroe 28112
+Unmatched emergency=yes
+Carolinas HealthCare System Stanly (0.00)
 	301 Yadkin Street Albemarle 28002
 Unmatched emergency=yes
-Pardee Hospital (3.00)
+Wilkes Regional Medical Center (0.00)
+	1370 West D Street North Wilkesboro 28659
+Unmatched emergency=yes
+Carolinas Healthcare System Lincoln (0.00)
+	433 McAlister Road Lincolnton 28092
+Unmatched emergency=yes
+Swain County Hospital (0.00)
+	45 Plateau Street Bryson City 28713
+Unmatched emergency=yes
+Harris Regional Hospital (0.00)
+	68 Hospital Road Sylva 28779
+Unmatched emergency=yes
+Transylvania Regional Hospital (0.00)
+	260 Hospital Drive Brevard 28712
+Unmatched emergency=yes
+Saint Luke's Hospital (0.00)
+	101 Hospital Drive Columbus 28722
+Unmatched emergency=yes
+Pardee Hospital (0.00)
 	800 North Justice Street Hendersonville 28791
 Unmatched emergency=yes
-Mission Hospital (3.07)
+Park Ridge Health (0.00)
+	100 Hospital Drive Hendersonville 28792
+Unmatched emergency=yes
+Mission Hospital (0.00)
 	509 Biltmore Avenue Asheville 28801
+Unmatched emergency=yes
+Blue Ridge Regional Hospital (0.00)
+	125 Hospital Drive Spruce Pine 28777
 Unmatched emergency=yes
 Carolinas HealthCare System Blue Ridge - Valdese (0.00)
 	720 Malcolm Boulevard Valdese 28690
 Unmatched emergency=yes
-Davis Regional Medical Center (2.90)
+Caldwell Memorial Hospital (0.00)
+	321 Mulberry Street Southwest Lenoir 28645
+Unmatched emergency=yes
+Northern Hospital of Surry County (0.00)
+	830 Rockford Street Mount Airy 27030
+Unmatched emergency=yes
+Hugh Chatham Memorial Hospital (0.00)
+	180 Parkwood Drive Elkin 28621
+Unmatched emergency=yes
+Davis Regional Medical Center (0.00)
 	218 Old Mocksville Road Statesville 28625
 Unmatched emergency=yes
-Matthews Medical Center (2.87)
+CaroMont Regional Medical Center (0.00)
+	2525 Court Drive Gastonia 28054
+Unmatched emergency=yes
+Carolinas HealthCare System Pineville (0.00)
+	10628 Park Road Charlotte 28210
+Unmatched emergency=yes
+Matthews Medical Center (0.00)
 	1500 Matthews Township Parkway Matthews 28105
+Unmatched emergency=yes
+Carolinas HealthCare System NorthEast (0.00)
+	920 Church Street North Concord 28025
 Unmatched emergency=yes
 Carolinas Medical Center-Mercy (0.00)
 	2001 Vail Avenue Charlotte 28207
 Unmatched emergency=yes
-Novant Health Presbyterian Medical Center (2.31)
+Novant Health Presbyterian Medical Center (0.00)
 	200 Hawthorne Lane Charlotte 28204
 Unmatched emergency=yes
-Lexington Medical Center (2.58)
+Forsyth Medical Center (0.00)
+	3333 Silas Creek Parkway Southwest Winston-Salem 27103
+Unmatched emergency=yes
+Wake Forest Baptist Medical Center (0.00)
+	1 Medical Center Boulevard Winston-Salem 27157
+Unmatched emergency=yes
+Lexington Medical Center (0.00)
 	250 Hospital Drive Lexington 27292
+Unmatched emergency=yes
+Thomasville Medical Center (0.00)
+	207 Old Lexington Road Thomasville 27360
+Unmatched emergency=yes
+High Point Regional Hospital (0.00)
+	601 North Elm Street High Point 27262
 Unmatched emergency=yes
 Wesley Long Hospital (0.00)
 	501 North Elam Avenue Greensboro 27403
 Unmatched emergency=yes
+The Moses H. Cone Memorial Hospital (0.00)
+	1200 North Elm Street Greensboro 27401
+Unmatched emergency=yes
+UNC Rockingham Health Care (0.00)
+	117 East Kings Highway Eden 27288
+Unmatched emergency=yes
 Arnie Penn Hospital (0.00)
 	618 South Main Street Reidsville 27320
 Unmatched emergency=yes
-Carolinas HealthCare System Anson (2.92)
+FirstHealth Montgomery Memorial Hospital (0.00)
+	420 Allen Street Troy 27371
+Unmatched emergency=yes
+Carolinas HealthCare System Anson (0.00)
 	2301 US 74 West Wadesboro 28170
+Unmatched emergency=yes
+Naval Hospital Camp Lejeune (0.00)
+	100 Brewster Boulevard Camp Lejeune 28547
+Unmatched emergency=yes
+Dosher Memorial Hospital (0.00)
+	924 North Howe Street Southport 28461
 Unmatched emergency=yes
 Brunswick Medical Center (0.00)
 	240 Hospital Drive Northeast Bolivia 28422
 Unmatched emergency=yes
+Columbus Regional Healthcare System (0.00)
+	500 Jefferson Street Whiteville 28472
+Unmatched emergency=yes
+Bladen County Hospital (0.00)
+	501 South Poplar Street Elizabethtown 28337
+Unmatched emergency=yes
+Sampson Regional Medical Center (0.00)
+	607 Beaman Street Clinton 28328
+Unmatched emergency=yes
+Pender Memorial Hospital (0.00)
+	507 East Freemont Street Burgaw 28425
+Unmatched emergency=yes
+Vidant Duplin Hospital (0.00)
+	401 North Main Street Kenansville 28349
+Unmatched emergency=yes
+Lenoir Memorial Hospital (0.00)
+	100 Airport Road Kinston 28501
+Unmatched emergency=yes
+Wayne County Memorial Hospital (0.00)
+	2700 Wayne Memorial Drive Goldsboro 27534
+Unmatched emergency=yes
 Wilson Medical Center (0.00)
 	1705 Tarboro Street West Wilson 27893
 Unmatched emergency=yes
-FirstHealth Moore Regional Hospital-Hoke Campus (1.05)
+Vidant Medical Center (0.00)
+	2100 Stantonsburg Road Greenville 27835
+Unmatched emergency=yes
+Vidant Beaufort Hospital (0.00)
+	628 East 12th Street Washington 27889
+Unmatched emergency=yes
+Martin General Hospital (0.00)
+	310 South McCaskey Road Williamston 27892
+Unmatched emergency=yes
+Vidant Bertie Hospital (0.00)
+	1403 South King Street Windsor 27983
+Unmatched emergency=yes
+Vidant Chowan Hospital (0.00)
+	211 Virginia Road Edenton 27932
+Unmatched emergency=yes
+Vidant Roanoke-Chowan Hospital (0.00)
+	500 South Academy Street Ahoskie 27910
+Unmatched emergency=yes
+Our Community Hospital (0.00)
+	921 Jr High School Road Scotland Neck 27874
+Unmatched emergency=yes
+Vidant Edgecombe Hospital (0.00)
+	111 Hospital Drive Tarboro 27886
+Unmatched emergency=yes
+Granville Health System (0.00)
+	1010 College Street Oxford 27565
+Unmatched emergency=yes
+Duke Regional Hospital (0.00)
+	3643 North Roxboro Road Durham 27704
+Unmatched emergency=yes
+The Outer Banks Hospital (0.00)
+	4800 South Croatan Highway Nags Head 27959
+Unmatched emergency=yes
+FirstHealth Moore Regional Hospital-Hoke Campus (0.00)
 	6408 Fayetteville Road Raeford 28376
+Unmatched emergency=yes
+Cape Fear Valley Health Hoke Hospital (0.00)
+	210 Medical Pavilion Drive Raeford 28376
+Unmatched emergency=yes
+Halifax Regional Medical Center (0.00)
+	250 Smith Church Road Roanoke Rapids 27870
+Unmatched emergency=yes
+Carolinas HealthCare System University (0.00)
+	8800 North Tryon Street Charlotte 28262
+Unmatched emergency=yes
+Sentara Albemarle Medical Center (0.00)
+	1144 North Road Street Elizabeth City 27909
+Unmatched emergency=yes
+Carolinas HealthCare System Blue Ridge - Morganton (0.00)
+	2201 South Sterling Street Morganton 28655
 Unmatched emergency=yes
 UNC Hospitals Hillsborough Campus (0.00)
 	430 Waterstone Drive Hillsborough 27278
 Unmatched emergency=yes
-Cherokee Indian Hospital (2.76)
+Scotland Memorial Hospital (0.00)
+	500 Lauchwood Drive Laurinburg 28352
+Unmatched emergency=yes
+Mission Hospital McDowell (0.00)
+	430 Rankin Drive Marion 28752
+Unmatched emergency=yes
+Firsthealth Moore Regional Hospital (0.00)
+	155 Memorial Drive Pinehurst 28374
+Unmatched emergency=yes
+Cherokee Indian Hospital (0.00)
 	1 Hospital Road Cherokee 28719
+Unmatched emergency=yes
+Chatham Hospital (0.00)
+	457 Progress Boulevard Siler City 27344
+Unmatched emergency=yes
+Highlands-Cashiers Hospital (0.00)
+	190 Hospital Drive Highlands 28741
+Unmatched emergency=yes
+Ashe Memorial Hospital (0.00)
+	200 Hospital Avenue Jefferson 28640
 Unmatched emergency=yes
 Central Harnett Hospital (0.00)
 	215 Brightwater Drive Lillington 27546
+Unmatched emergency=yes
+Angel Medical Center (0.00)
+	120 Riverview Street Franklin 28734
 Unmatched emergency=yes
 -- (0.00)
 	- - - -
@@ -244,6 +354,9 @@ Unmatched emergency=yes
 First Health Richmond Hospital (0.00)
 	925 South Long Drive Rockingham 28379
 Unmatched emergency=yes
-UNC Medical Center (3.03)
+Atrium Health Cleveland (0.00)
+	201 East Grover Street Shelby 28150
+Unmatched emergency=yes
+UNC Medical Center (0.00)
 	101 Manning Drive Chapel Hill 27514
-Found 40 unmatched emergency.
+Found 119 unmatched emergency.

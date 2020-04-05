@@ -1,91 +1,68 @@
-33
-26
-1. Kanakanak Hospital
-	P O Box 130 Dillingham 99576 (CMS:yes)
-	3.00 Kanakanak Hospital
-	 6000 Kanakanak Road Dillingham 99576
-2. Petersburg Medical Center
-	Po Box 589 Petersburg 99833 (CMS:yes)
-	3.03 Petersburg Medical Center
-	 103 Fram Street Petersburg 99833
-3. Bassett Ach (Fort Wainwright)
-	4076 Neely Road Fort Wainwright 99703 (CMS:yes)
-	0.89 Fairbanks Memorial Hospital
-	 1650 Cowles Street Fairbanks 99701
-4. North Star Hospital
-	2530 Debarr Rd Anchorage 99508 (CMS:yes)
-	2.90 Alaska Regional Hospital
-	 2801 Debarr Road Anchorage 99508
-5. Maniilaq Health Center
-	Po Box 43 Kotzebue 99752 (CMS:yes)
-	2.63 Maniilaq Medical Center
-	 436 5th Avenue Kotzeblue 99752
-6. Yukon Kuskokwim Delta Reg Hospital
-	Po Box 287 Bethel 99559 (CMS:yes)
-	2.83 Yukon-Kuskokwim Delta Regional Hospital
-	 900 Chief Eddie Hoffman Highway Bethel 99559
-7. Sitka Community Hospital
-	209 Moller Drive Sitka 99835 (CMS:yes)
-	2.62 Mt. Edgecumbe Hospital
-	 222 Tongass Drive Sitka 99835
-8. 673Rd Medical Group (Joint Base Elmendorf-Richardson)
-	673 Mdg 5955 Zeamer Ave Jber 99506 (CMS:yes)
-	0.83 Alaska Regional Hospital
-	 2801 Debarr Road Anchorage 99508
-9. Samuel Simmonds Memorial Hospital
-	7000 Uula St Barrow 99723 (CMS:yes)
-	2.75 Samuel Simmonds Memorial Hospital
-	 7000 Uula Street Utkiagvik 99723
-10. Providence Seward Hospital
-	417 First Avenue, Po Box 365 Seward 99664 (CMS:yes)
-	2.91 Providence Seward Medical Center
-	 417 1st Avenue Seward 99664
-11. Providence Kodiak Island Medical Ctr
-	1915 East Rezanof Drive Kodiak 99615 (CMS:yes)
-	1.43 Providence Alaska Medical Center
-	 3200 Providence Drive Anchorage 99515
-12. Alaska Native Medical Center
-	4315 Diplomacy Dr Anchorage 99508 (CMS:yes)
-	2.30 Alaska Regional Hospital
-	 2801 Debarr Road Anchorage 99508
-13. Providence Valdez Medical Center
-	Po Box 550 Valdez 99686 (CMS:yes)
-	3.02 Providence Valdez Medical Center
-	 911 Meals Avenue Valdez 99686
-Searhc Wrangell Medical Center-Cah
-	 310 Bennett Street Wrangell 99929
-	 Emergency Mismatch (CMS:no)
-	 Wrangell Medical Center
-14. Alaska Psychiatric Institute
-	3700 Piper Street Anchorage 99508 (CMS:no)
-	2.40 St. Elias
-	 4800 Cordova Street Anchorage 99508
-Found 14 issues.
+33 OSM hospitals
+0 Medicare hospitals
+Found 0 issues.
+
 Unmatched emergency=yes
-Petersburg Medical Center (3.03)
-	 103 Fram Street Petersburg 99833
+Petersburg Medical Center (0.00)
+	103 Fram Street Petersburg 99833
 Unmatched emergency=yes
-Maniilaq Medical Center (2.63)
-	 436 5th Avenue Kotzeblue 99752
+Maniilaq Medical Center (0.00)
+	436 5th Avenue Kotzeblue 99752
 Unmatched emergency=yes
-Providence Valdez Medical Center (3.02)
-	 911 Meals Avenue Valdez 99686
+Providence Valdez Medical Center (0.00)
+	911 Meals Avenue Valdez 99686
 Unmatched emergency=yes
-Yukon-Kuskokwim Delta Regional Hospital (2.83)
-	 900 Chief Eddie Hoffman Highway Bethel 99559
+Central Peninsula Hospital (0.00)
+	250 Hospital Place Soldotna 99669
 Unmatched emergency=yes
-Samuel Simmonds Memorial Hospital (2.75)
-	 7000 Uula Street Utkiagvik 99723
+Mt. Edgecumbe Hospital (0.00)
+	222 Tongass Drive Sitka 99835
 Unmatched emergency=yes
-Providence Seward Medical Center (2.91)
-	 417 1st Avenue Seward 99664
+Mat-Su Regional Medical Center (0.00)
+	2500 South Woodworth Loop Palmer 99645
 Unmatched emergency=yes
-Kanakanak Hospital (3.00)
-	 6000 Kanakanak Road Dillingham 99576
+Fairbanks Memorial Hospital (0.00)
+	1650 Cowles Street Fairbanks 99701
+Unmatched emergency=yes
+Bartlett Regional Hospital (0.00)
+	3260 Hospital Drive Juneau 99801
+Unmatched emergency=yes
+Yukon-Kuskokwim Delta Regional Hospital (0.00)
+	900 Chief Eddie Hoffman Highway Bethel 99559
+Unmatched emergency=yes
+Norton Sound Regional Hospital (0.00)
+	1000 Greg Kruschek Avenue Nome 99762
+Unmatched emergency=yes
+Providence Alaska Medical Center (0.00)
+	3200 Providence Drive Anchorage 99515
+Unmatched emergency=yes
+Alaska Regional Hospital (0.00)
+	2801 Debarr Road Anchorage 99508
+Unmatched emergency=yes
+Samuel Simmonds Memorial Hospital (0.00)
+	7000 Uula Street Utkiagvik 99723
+Unmatched emergency=yes
+PeaceHealth Ketchikan Medical Center (0.00)
+	3100 Tongass Avenue Ketchikan 99901
+Unmatched emergency=yes
+South Peninsula Hospital (0.00)
+	4300 Bartlett Street Homer 99603
+Unmatched emergency=yes
+Cordova Community Medical Center (0.00)
+	602 Chase Avenue Cordova 99574
+Unmatched emergency=yes
+Providence Seward Medical Center (0.00)
+	417 1st Avenue Seward 99664
+Unmatched emergency=yes
+Wrangell Medical Center (0.00)
+	310 Bennett Street Wrangell 99929
+Unmatched emergency=yes
+Kanakanak Hospital (0.00)
+	6000 Kanakanak Road Dillingham 99576
 Unmatched emergency=yes
 Alaska Native Medical Center Health Campus (0.00)
-	 - - - -
+	- - - -
 Unmatched emergency=yes
 King Cove Clinic (0.00)
-	 238 Slocum Drive King Cove 99612
-Found 9 unmatched emergency.
+	238 Slocum Drive King Cove 99612
+Found 21 unmatched emergency.

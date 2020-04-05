@@ -1,150 +1,178 @@
 154 OSM hospitals
-130 Medicare hospitals
-1. Jefferson County Hospital
-	Intersection Hyws 81 & 70 Waurika 73573 (CMS:yes)
-	3.07 Jefferson County Hospital
-	- US Highway 70 & 81 Waurika 73573
-2. Parkside, Inc
-	1619 East 13Th Street Tulsa 74120 (CMS:yes)
-	2.07 Oklahoma State University Medical Center
-	744 West 9th Street Tulsa 74127
-3. Integris Community Hospital - Council Crossing
-	9417 N Council Road Oklahoma City 73162 (CMS:yes)
-	2.13 Mercy Hospital Oklahoma City
-	4300 West Memorial Road Oklahoma City 73120
-4. Northwest Center For Behavioral Health (Ncbh)
-	1 Mile East Us Highway 270 Fort Supply 73841 (CMS:no)
-	0.95 INTEGRIS Mental Health Spencer
-	2601 North Spencer Road Spencer 73084
-5. Carl Albert Community Mental Health Center
-	1101 East Monroe Mcalester 74501 (CMS:no)
-	3.02 Carl Albert Community Mental Health Center
-	1100 East Monroe Avenue McAlester 74502
-6. Seiling Municipal Hospital
-	809 Ne Highway 60 Seiling 73663 (CMS:yes)
-	2.57 Seiling Regional Medical Center
-	809 US 60 Seiling 73663
-7. Ssm Health Saint Anthony Hospital - Oklahoma City
-	1000 North Lee Avenue Oklahoma City 73101 (CMS:yes)
-	3.02 Saint Anthony Hospital
-	1000 North Lee Avenue Oklahoma City 73102
-Onecore Health
-	1044 Southwest 44th Street Oklahoma City 73109
-	 Emergency Mismatch (CMS:yes)
-	OneCore Health
-8. Mary Hurley Hospital
-	6 North Covington Coalgate 74538 (CMS:yes)
-	3.03 Coal County General Hospital
-	6 North Covington Street Coalgate 74538
-9. Cedar Ridge Behavioral Hospital
-	6501 Northeast 50Th Street Oklahoma City 73141 (CMS:no)
-	2.34 OU Medical Center
-	700 Northeast 13th Street Oklahoma City 73104
-10. Ssm Health Saint Anthony Hospital - Shawnee
-	1102 W Macarthur Shawnee 74804 (CMS:yes)
-	2.80 St. Anthony Shawnee Hospital
-	1102 West McArthur Road Shawnee 74804
-11. Weatherford Regional Hospital, Inc Of Weatherford
-	3701 E Main Weatherford 73096 (CMS:yes)
-	3.03 Weatherford Regional Hospital
-	3701 East Main Street Weatherford 73096
-12. Norman Regional
-	901 N Porter Norman 73070 (CMS:yes)
-	2.70 Norman Regional Hospital
-	901 North Porter Avenue Norman 73071
-13. Griffin Memorial Hospital
-	900 East Main Street Norman 73070 (CMS:no)
-	2.43 Robinson Medical Plaza
-	701 East Robinson Street Norman 73071
-Oklahoma Surgical Hospital, Llc
-	2408 East 81st Street Tulsa 74137
-	 Emergency Mismatch (CMS:yes)
-	Oklahoma Surgical Hospital
-Lakeside Women's Hospital, A Member Of Integris He
-	11200 North Portland Avenue Oklahoma City 73120
-	 Emergency Mismatch (CMS:yes)
-	Lakeside Women's Hospital
-14. Rolling Hills Hospital, Llc
-	1000 Rolling Hills Lane Ada 74820 (CMS:no)
-	2.29 Mercy Hospital Ada
-	430 North Monte Vista Street Ada 74820
-15. Sequoyah County-City Of Sallisaw Hospital Authorit
-	213 East Redwood Sallisaw 74955 (CMS:yes)
-	3.01 Sequoyah Memorial Hospital
-	213 East Redwood Avenue Sallisaw 74955
-16. Stillwater Medical - Perry
-	501 N 14Th St Perry 73077 (CMS:yes)
-	2.54 Perry Memorial Hospital
-	501 North 14th Street Perry 73077
-17. Brookhaven Hospital, Inc
-	201 South Garnett Road Tulsa 74128 (CMS:no)
-	2.01 Tulsa Spine & Specialty Hospital
-	6901 South Olympia Avenue Tulsa 74132
-18. Shadow Mountain Behavioral Health System
-	6262 South Sheridan Road Tulsa 74133 (CMS:yes)
-	2.29 Southwestern Regional Medical Center
-	10109 East 79th Street Tulsa 74133
-19. Oakwood Springs, Llc
-	13101 Memorial Springs Ct Oklahoma City 73114 (CMS:no)
-	2.15 McBride Orthopedic Hospital
-	9600 Broadway Extension Oklahoma City 73114
-20. Saint John Sapulpa, Inc
-	1004 East Bryan Sapulpa 74066 (CMS:yes)
-	2.79 Saint John Sapulpa
-	1004 East Bryan Avenue Sapulpa 74010
-21. Laureate Psychiatric Clinic And Hospital, Inc
-	6655 South Yale Avenue Tulsa 74136 (CMS:no)
-	3.03 Saint Francis Hospital
-	6161 South Yale Avenue Tulsa 74136
-22. Jim Taliaferro Comm Mental Health Ctr
-	602 Southwest 38Th Street Lawton 73505 (CMS:no)
-	2.89 Southwestern Behavioral Health
-	1602 Southwest 82nd Street Lawton 73505
-Tulsa Spine & Specialty Hospital
-	6901 South Olympia Avenue Tulsa 74132
-	 Emergency Mismatch (CMS:yes)
-	Tulsa Spine & Specialty Hospital
-Found 22 issues.
+0 Medicare hospitals
+Found 0 issues.
 
 Unmatched emergency=yes
 Jack C. Montgomery VA Medical Center (0.00)
 	1011 Honor Heights Drive Muskogee 74401
 Unmatched emergency=yes
-Saint Anthony Hospital (3.02)
+Saint Anthony Hospital (0.00)
 	1000 North Lee Avenue Oklahoma City 73102
+Unmatched emergency=yes
+Great Plains Regional Medical Center (0.00)
+	1801 West 3rd Street Elk City 73644
 Unmatched emergency=yes
 The Children's Hospital at OU Medical Center (0.00)
 	1200 North Childrens Avenue Oklahoma City 73104
 Unmatched emergency=yes
-Norman Regional Hospital (2.70)
+OU Medical Center (0.00)
+	700 Northeast 13th Street Oklahoma City 73104
+Unmatched emergency=yes
+AllianceHealth Ponca City (0.00)
+	1900 North 14th Street Ponca City 74601
+Unmatched emergency=yes
+Saint Francis Hospital Muskogee (0.00)
+	300 Rockefeller Drive Muskogee 74401
+Unmatched emergency=yes
+Jane Phillips Medical Center (0.00)
+	3500 Southeast Frank Phillips Boulevard Bartlesville 74006
+Unmatched emergency=yes
+Mercy Hospital Ada (0.00)
+	430 North Monte Vista Street Ada 74820
+Unmatched emergency=yes
+Duncan Regional Hospital (0.00)
+	1407 North Whisenant Drive Duncan 73533
+Unmatched emergency=yes
+Cimarron Memorial Hospital and Nursing Home (0.00)
+	100 South Ellis Avenue Boise City 73933
+Unmatched emergency=yes
+Memorial Hospital of Texas County (0.00)
+	520 Medical Drive Guymon 73942
+Unmatched emergency=yes
+Saint Francis Hospital Vinita (0.00)
+	735 North Foreman Street Vinita 74301
+Unmatched emergency=yes
+Pushmataha Hospital (0.00)
+	510 East Main Street Antlers 74523
+Unmatched emergency=yes
+Norman Regional Hospital (0.00)
 	901 North Porter Avenue Norman 73071
 Unmatched emergency=yes
-Jefferson County Hospital (3.07)
+Beaver County Memorial Hospital (0.00)
+	212 East 8th Street Beaver 73932
+Unmatched emergency=yes
+Hillcrest Hospital Pryor (0.00)
+	111 North Bailey Street Pryor 74361
+Unmatched emergency=yes
+Stillwater Medical Center (0.00)
+	1323 West 6th Avenue Stillwater 74074
+Unmatched emergency=yes
+Southwestern Medical Center (0.00)
+	5602 Southwest Lee Boulevard Lawton 73505
+Unmatched emergency=yes
+Comanche County Memorial Hospital (0.00)
+	3401 West Gore Boulevard Lawton 73505
+Unmatched emergency=yes
+Lawton Indian Hospital (0.00)
+	1515 Northeast Lawrie Tatum Road Lawton 73505
+Unmatched emergency=yes
+Roger Mills Memorial Hospital (0.00)
+	501 South L.L. Mills Avenue Cheyenne 73628
+Unmatched emergency=yes
+Mercy Hospital Watonga (0.00)
+	500 North Clarence Nash Boulevard Watonga 73772
+Unmatched emergency=yes
+Saint Mary's Regional Medical Center (0.00)
+	305 South 5th Street Enid 73701
+Unmatched emergency=yes
+INTEGRIS Bass Baptist Health Center (0.00)
+	600 South Monroe Street Enid 73701
+Unmatched emergency=yes
+Jefferson County Hospital (0.00)
 	- US Highway 70 & 81 Waurika 73573
 Unmatched emergency=yes
-Perry Memorial Hospital (2.54)
+AllianceHealth Durant (0.00)
+	1800 West University Boulevard Durant 74701
+Unmatched emergency=yes
+INTEGRIS Miami Hospital (0.00)
+	200 2nd Avenue Southwest Miami 74354
+Unmatched emergency=yes
+Choctaw Nation Health Care Center (0.00)
+	1 Choctaw Way Talihina 74571
+Unmatched emergency=yes
+Perry Memorial Hospital (0.00)
 	501 North 14th Street Perry 73077
 Unmatched emergency=yes
-Coal County General Hospital (3.03)
+Atoka County Medical Center (0.00)
+	1200 West Liberty Road Atoka 74525
+Unmatched emergency=yes
+Coal County General Hospital (0.00)
 	6 North Covington Street Coalgate 74538
+Unmatched emergency=yes
+Arbuckle Memorial Hospital (0.00)
+	2011 West Broadway Avenue Sulphur 73086
 Unmatched emergency=yes
 Pauls Valley General Hospital (0.00)
 	100 Valley Drive Pauls Valley 73075
 Unmatched emergency=yes
+Grady Memorial Hospital (0.00)
+	2220 West Iowa Avenue Chickasha 73018
+Unmatched emergency=yes
 Latimer County General Hospital (0.00)
 	806 State Highway 2 North Wilburton 74578
 Unmatched emergency=yes
-Saint John Sapulpa (2.79)
+Haskell County Community Hospital (0.00)
+	401 Northwest H Street Stigler 74462
+Unmatched emergency=yes
+Creek Nation Community Hospital (0.00)
+	1800 East Coplin Street Okemah 74859
+Unmatched emergency=yes
+Bristow Medical Center (0.00)
+	700 West 7th Street Bristow 74010
+Unmatched emergency=yes
+Saint John Sapulpa (0.00)
 	1004 East Bryan Avenue Sapulpa 74010
+Unmatched emergency=yes
+Hillcrest Hospital South (0.00)
+	8801 South 101st Avenue East Tulsa 74133
+Unmatched emergency=yes
+Saint Francis Hospital South (0.00)
+	10501 East 91st Street South Tulsa 74133
+Unmatched emergency=yes
+Oklahoma State University Medical Center (0.00)
+	744 West 9th Street Tulsa 74127
+Unmatched emergency=yes
+Hillcrest Medical Center (0.00)
+	1120 South Utica Avenue Tulsa 74104
+Unmatched emergency=yes
+Mercy Hospital Logan County (0.00)
+	200 South Academy Road Guthrie 73044
 Unmatched emergency=yes
 Norman Regional Moore (0.00)
 	700 South Telephone Road Moore 73160
 Unmatched emergency=yes
+INTEGRIS Health Edmond (0.00)
+	4801 INTEGRIS Parkway Edmond 73034
+Unmatched emergency=yes
 OU Medical Center (0.00)
 	1 South Bryant Avenue Edmond 73034
 Unmatched emergency=yes
+Mercy Hospital Oklahoma City (0.00)
+	4300 West Memorial Road Oklahoma City 73120
+Unmatched emergency=yes
+Oklahoma Heart Hospital - North Campus (0.00)
+	4050 West Memorial Road Oklahoma City 73120
+Unmatched emergency=yes
+INTEGRIS Canadian Valley Hospital (0.00)
+	1201 Health Center Parkway East Yukon 73099
+Unmatched emergency=yes
+INTEGRIS Baptist Medical Center (0.00)
+	3300 Northwest Expressway Oklahoma City 73112
+Unmatched emergency=yes
 AllianceHealth Deaconess (0.00)
 	5501 North Portland Avenue Oklahoma City 73112
+Unmatched emergency=yes
+INTEGRIS Southwest Medical Center (0.00)
+	4401 South Western Avenue Oklahoma City 73109
+Unmatched emergency=yes
+Northwest Surgical Hospital (0.00)
+	9204 North May Avenue Oklahoma City 73120
+Unmatched emergency=yes
+Saint John's Broken Arrow (0.00)
+	1000 West Boise Cicle Broken Arrow 74012
+Unmatched emergency=yes
+Mercy Hospital Tishomingo (0.00)
+	1000 South Byrd Street Tishomingo 73460
 Unmatched emergency=yes
 Mercy Hospital El Reno (0.00)
 	2115 Parkview Drive El Reno 73036
@@ -152,21 +180,195 @@ Unmatched emergency=yes
 Epic Medical Center (0.00)
 	1 Hospital Drive Eufaula 74432
 Unmatched emergency=yes
-St. Anthony Shawnee Hospital (2.80)
+Oklahoma Heart Hospital - South Campus (0.00)
+	5200 East Interstate Highway 240 Service Road Oklahoma City 73135
+Unmatched emergency=yes
+Surgical Hospital of Oklahoma (0.00)
+	100 Southeast 59th Street Oklahoma City 73129
+Unmatched emergency=yes
+St. Anthony Shawnee Hospital (0.00)
 	1102 West McArthur Road Shawnee 74804
 Unmatched emergency=yes
 Saint Anthony Hospital (0.00)
 	1000 North Lee Avenue Oklahoma City 73102
 Unmatched emergency=yes
-Sequoyah Memorial Hospital (3.01)
+INTEGRIS Grove Hospital (0.00)
+	1001 East 18th Street Grove 74344
+Unmatched emergency=yes
+Pawhuska Hospital (0.00)
+	1101 East 15th Street Pawhuska 74056
+Unmatched emergency=yes
+Bailey Medical Center (0.00)
+	10512 North 110th East Avenue Owasso 74055
+Unmatched emergency=yes
+Ascension Saint John Owasso (0.00)
+	12451 East 100th Street North Owasso 74055
+Unmatched emergency=yes
+McBride Orthopedic Hospital (0.00)
+	9600 Broadway Extension Oklahoma City 73114
+Unmatched emergency=yes
+Stroud Regional Medical Center (0.00)
+	2308 Highway 66 West Stroud 74079
+Unmatched emergency=yes
+AllianceHealth Woodward (0.00)
+	900 17th Street Woodward 73801
+Unmatched emergency=yes
+Jackson County Memorial Hospital (0.00)
+	1200 East Pecan Street Altus 73521
+Unmatched emergency=yes
+AllianceHealth Clinton (0.00)
+	100 North 30th Street Clinton 73601
+Unmatched emergency=yes
+Blackwell Regional Hospital (0.00)
+	710 South 13th Street Blackwell 74631
+Unmatched emergency=yes
+Hillcrest Hospital Claremore (0.00)
+	1202 North Muskogee Place Claremore 74017
+Unmatched emergency=yes
+Mercy Hospital Ardmore (0.00)
+	1011 14th Avenue Northwest Ardmore 73401
+Unmatched emergency=yes
+McCurtain Memorial Hospital (0.00)
+	1301 East Lincoln Road Idabel 74745
+Unmatched emergency=yes
+Share Medical Center (0.00)
+	800 Share Drive Alva 73717
+Unmatched emergency=yes
+Cherokee Nation W. W. Hastings Hospital (0.00)
+	100 South Bliss Avenue Tahlequah 74464
+Unmatched emergency=yes
+Northeastern Health System (0.00)
+	1400 East Downing Street Tahlequah 74464
+Unmatched emergency=yes
+Hillcrest Hospital Cushing (0.00)
+	1027 East Cherry Street Cushing 74023
+Unmatched emergency=yes
+Purcell Municipal Hospital (0.00)
+	1500 North Green Avenue Purcell 73080
+Unmatched emergency=yes
+Saint Francis Hospital (0.00)
+	6161 South Yale Avenue Tulsa 74136
+Unmatched emergency=yes
+Choctaw Memorial Hospital (0.00)
+	1405 East Kirk Street Hugo 74743
+Unmatched emergency=yes
+Sequoyah Memorial Hospital (0.00)
 	213 East Redwood Avenue Sallisaw 74955
 Unmatched emergency=yes
-Weatherford Regional Hospital (3.03)
+Elkview General Hospital (0.00)
+	429 West Elm Street Hobart 73651
+Unmatched emergency=yes
+Wagoner Community Hospital (0.00)
+	1200 West Cherokee Street Wagoner 74467
+Unmatched emergency=yes
+Claremore Indian Hospital (0.00)
+	101 South Moore Avenue Claremore 74017
+Unmatched emergency=yes
+Memorial Hospital (0.00)
+	1401 West Locust Street Stilwell 74960
+Unmatched emergency=yes
+Chickasaw Nation Medical Center (0.00)
+	1921 Stonecipher Boulevard Ada 74820
+Unmatched emergency=yes
+Hillcrest Hospital Henryetta (0.00)
+	2401 West Main Street Henryetta 74437
+Unmatched emergency=yes
+Summit Medical Center (0.00)
+	1800 Renaissance Boulevard Edmond 73013
+Unmatched emergency=yes
+Southwestern Regional Medical Center (0.00)
+	10109 East 79th Street Tulsa 74133
+Unmatched emergency=yes
+Community Hospital (0.00)
+	3100 Southwest 89th Street Oklahoma City 73159
+Unmatched emergency=yes
+Oklahoma Spine Hospital (0.00)
+	14101 Parkway Commons Drive Oklahoma City 73134
+Unmatched emergency=yes
+Lindsay Municipal Hospital (0.00)
+	1305 West Cherokee Place Lindsay 73052
+Unmatched emergency=yes
+AllianceHealth Seminole (0.00)
+	2401 Wrangler Boulevard Seminole 74868
+Unmatched emergency=yes
+Harmon Memorial Hospital (0.00)
+	400 East Chestnut Street Hollis 73550
+Unmatched emergency=yes
+Prague Community Hospital (0.00)
+	1322 Klabzuba Avenue Prague 74864
+Unmatched emergency=yes
+Jane Phillips Medical Center (0.00)
+	237 South Locust Street Nowata 74048
+Unmatched emergency=yes
+Mercy Health Love County (0.00)
+	300 Wanda Street Marietta 73448
+Unmatched emergency=yes
+Mercy Hospital Healdton (0.00)
+	3462 Hospital Road Healdton 73438
+Unmatched emergency=yes
+Mercy Hospital Kingfisher (0.00)
+	1000 Kingfisher Hospital Drive Kingfisher 73750
+Unmatched emergency=yes
+The Physicians' Hospital In Anadarko (0.00)
+	1002 East Central Boulevard Anadarko 73005
+Unmatched emergency=yes
+Fairfax Community Hospital (0.00)
+	40 Hospital Road Fairfax 74637
+Unmatched emergency=yes
+Cleveland Area Hospital (0.00)
+	1401 West Pawnee Street Cleveland 74020
+Unmatched emergency=yes
+Holdenville General Hospital (0.00)
+	100 McDougal Drive Holdenville 74848
+Unmatched emergency=yes
+Weatherford Regional Hospital (0.00)
 	3701 East Main Street Weatherford 73096
 Unmatched emergency=yes
-Seiling Regional Medical Center (2.57)
+Harper County Community Hospital (0.00)
+	1003 US 64 North Buffalo 73834
+Unmatched emergency=yes
+Cordell Memorial Hospital (0.00)
+	1220 North Glenn L English Street Cordell 73632
+Unmatched emergency=yes
+AllianceHealth Madill (0.00)
+	901 South 5th Avenue Madill 73446
+Unmatched emergency=yes
+Okeene Municipal Hospital (0.00)
+	207 East F Street Okeene 73763
+Unmatched emergency=yes
+Fairview Regional Medical Center (0.00)
+	523 East State Road Fairview 73737
+Unmatched emergency=yes
+Eastern Oklahoma Medical Center (0.00)
+	105 South Wall Street Poteau 74953
+Unmatched emergency=yes
+Mangum Regional Medical Center (0.00)
+	1 Wickersham Drive Mangum 73554
+Unmatched emergency=yes
+Drumright Regional Hospital (0.00)
+	610 West Truck Bypass Drumright 74030
+Unmatched emergency=yes
+Newman Memorial Hospital (0.00)
+	905 South Main Street Shattuck 73858
+Unmatched emergency=yes
+Seiling Regional Medical Center (0.00)
 	809 US 60 Seiling 73663
+Unmatched emergency=yes
+Carnegie Tri-County Municipal Hospital (0.00)
+	102 North Broadway Carnegie 73015
+Unmatched emergency=yes
+McAlester Regional Health Center (0.00)
+	1 Clark Bass Boulevard McAlester 74501
+Unmatched emergency=yes
+AllianceHealth Midwest (0.00)
+	2825 Parklawn Drive Midwest City 73110
+Unmatched emergency=yes
+Muscogee (Creek) Nation Medical Center (0.00)
+	1401 Morris Drive Okmulgee 74447
+Unmatched emergency=yes
+Ascension Saint John Medical Center (0.00)
+	1923 South Utica Avenue Tulsa 74104
 Unmatched emergency=yes
 Norman Regional HealthPlex (0.00)
 	3300 HealthPlex Parkway Norman 73072
-Found 21 unmatched emergency.
+Found 123 unmatched emergency.

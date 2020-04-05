@@ -1,47 +1,89 @@
 40 OSM hospitals
-29 Medicare hospitals
-1. Cody Regional Health
-	707 Sheridan Avenue Cody 82414 (CMS:yes)
-	3.04 West Park Hospital
-	707 Sheridan Avenue Cody 82414
-Summit Medical Center
-	6350 East 2nd Street Casper 82609
-	 Emergency Mismatch (CMS:no)
-	Summit Medical Center
-2. Crook County Hospital
-	713 Oak Street Sundance 82729 (CMS:yes)
-	3.01 Crook County Medical Services District
-	713 East Oak Street Sundance 82729
-3. Wyoming State Hospital
-	831 Hwy 150 South Evanston 82931 (CMS:no)
-	2.01 Evanston Regional Hospital
-	190 Arrowhead Drive Evanston 82930
-4. Niobrara Health & Life Center
-	921 South Ballancee Avenue Lusk 82225 (CMS:yes)
-	2.92 Niobrara County Memorial Hospital
-	921 South Ballancee Lusk 82225
-5. Johnson County Healthcare Center
-	497 West Lott Buffalo 82834 (CMS:yes)
-	3.01 Johnson County Memorial Hospital
-	497 West Lott Street Buffalo 82834
-Found 5 issues.
+0 Medicare hospitals
+Found 0 issues.
 
 Unmatched emergency=yes
-West Park Hospital (3.04)
+Wyoming Medical Center (0.00)
+	1233 East 2nd Street Casper 82601
+Unmatched emergency=yes
+Powell Hospital (0.00)
+	777 Avenue H Powell 82435
+Unmatched emergency=yes
+Ivinson Memorial Hospital (0.00)
+	255 North 30th Street Laramie 82072
+Unmatched emergency=yes
+Cheyenne Regional Medical Center (0.00)
+	214 East 23rd Street Cheyenne 82001
+Unmatched emergency=yes
+West Park Hospital (0.00)
 	707 Sheridan Avenue Cody 82414
 Unmatched emergency=yes
-Niobrara County Memorial Hospital (2.92)
+Memorial Hospital of Converse County (0.00)
+	111 South 5th Street Douglas 82633
+Unmatched emergency=yes
+Saint John's Medical Center (0.00)
+	625 Broadway Jackson 83001
+Unmatched emergency=yes
+Community Hospital (0.00)
+	2000 Campbell Drive Torrington 82240
+Unmatched emergency=yes
+Platte County Memorial Hospital (0.00)
+	201 14th Street Wheatland 82201
+Unmatched emergency=yes
+Niobrara County Memorial Hospital (0.00)
 	921 South Ballancee Lusk 82225
+Unmatched emergency=yes
+Memorial Hospital of Carbon County (0.00)
+	2221 West Elm Street Rawlins 82301
 Unmatched emergency=yes
 SageWest Health Care – Lander (0.00)
 	1320 Bishop Randall Drive Lander 82520
 Unmatched emergency=yes
-Johnson County Memorial Hospital (3.01)
+Johnson County Memorial Hospital (0.00)
 	497 West Lott Street Buffalo 82834
 Unmatched emergency=yes
-Crook County Medical Services District (3.01)
+Weston County Health Services (0.00)
+	1124 Washington Boulevard Newcastle 82701
+Unmatched emergency=yes
+Crook County Medical Services District (0.00)
 	713 East Oak Street Sundance 82729
+Unmatched emergency=yes
+South Lincoln Medical Center (0.00)
+	711 Onyx Street Kemmerer 83101
+Unmatched emergency=yes
+Star Valley Medical Center (0.00)
+	901 Adams Street Afton 83110
+Unmatched emergency=yes
+Hot Springs County Memorial Hospital (0.00)
+	150 East Arapahoe Street Thermopolis 82443
+Unmatched emergency=yes
+Sheridan Memorial Hospital (0.00)
+	1401 West 5th Street Sheridan 82801
+Unmatched emergency=yes
+SageWest Health Care (0.00)
+	2100 West Sunset Drive Riverton 82501
+Unmatched emergency=yes
+Washakie Medical Center (0.00)
+	400 South 15th Street Worland 82401
+Unmatched emergency=yes
+North Big Horn Hospital (0.00)
+	1115 Lane 12 Lovell 82431
+Unmatched emergency=yes
+South Big Horn County Hospital (0.00)
+	388 US 20 South Basin 82410
+Unmatched emergency=yes
+Campbell County Health (0.00)
+	501 South Burma Avenue Gillette 82716
+Unmatched emergency=yes
+Memorial Hospital of Sweetwater County (0.00)
+	1200 College Drive Rock Springs 82901
+Unmatched emergency=yes
+Evanston Regional Hospital (0.00)
+	190 Arrowhead Drive Evanston 82930
+Unmatched emergency=yes
+Summit Medical Center (0.00)
+	6350 East 2nd Street Casper 82609
 Unmatched emergency=yes
 Big Piney Marbleton Clinic (0.00)
 	103 3rd Street Marbleton 83113
-Found 6 unmatched emergency.
+Found 28 unmatched emergency.

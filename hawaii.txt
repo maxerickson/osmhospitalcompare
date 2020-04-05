@@ -1,40 +1,77 @@
-26
-25
-1. Kaiser Foundation Hospital
-	3288 Moanalua Rd Honolulu 96819 (CMS:yes)
-	2.99 Kaiser Permanente Moanalua Medical Center
-	 3288 Moanalua Road Honolulu 96819
-2. Kahi Mohala
-	91-2301 Fort Weaver Road Ewa Beach 96706 (CMS:no)
-	2.85 The Queen's Medical Center - West Oahu
-	 91-2141 Fort Weaver Road Ewa Beach 96706
-3. Tripler Amc (Fort Shafter)
-	1 Jarrett White Rd Honolulu 96859 (CMS:yes)
-	1.82 Kaiser Permanente Moanalua Medical Center
-	 3288 Moanalua Road Honolulu 96819
-Maui Memorial Medical Center
-	 221 Mahalani Street Wailuku 96793
-	 Emergency Mismatch (CMS:no)
-	 Maui Memorial Medical Center
-4. Shriners Hospital For Children
-	1310 Punahou Street Honolulu 96826 (CMS:no)
-	3.09 Kapi'olani Medical Center for Women and Children
-	 1319 Punahou Street Honolulu 96826
-5. Adventist Health Castle
-	640 Ulukahiki St Kailua 96734 (CMS:yes)
-	2.86 Castle Medical Center
-	 640 Ulukahiki Street Kailua 96734
-Found 5 issues.
+26 OSM hospitals
+0 Medicare hospitals
+Found 0 issues.
+
 Unmatched emergency=yes
-Kaiser Permanente Moanalua Medical Center (1.82)
-	 3288 Moanalua Road Honolulu 96819
+Kuakini Medical Center (0.00)
+	347 North Kuakini Street Honolulu 96817
+Unmatched emergency=yes
+Kaiser Permanente Moanalua Medical Center (0.00)
+	3288 Moanalua Road Honolulu 96819
+Unmatched emergency=yes
+Kohala Hospital (0.00)
+	54-383 Hospital Road Kapaau 96755
+Unmatched emergency=yes
+Pali Momi Medical Center (0.00)
+	98-1079 Moanalua Road Aiea 96701
 Unmatched emergency=yes
 Hana Health (0.00)
-	 - - - -
+	- - - -
 Unmatched emergency=yes
-Castle Medical Center (2.86)
-	 640 Ulukahiki Street Kailua 96734
+The Queen's Medical Center (0.00)
+	1301 Punchbowl Street Honolulu 96813
 Unmatched emergency=yes
-The Queen's Medical Center - West Oahu (2.85)
-	 91-2141 Fort Weaver Road Ewa Beach 96706
-Found 4 unmatched emergency.
+Straub Clinic and Hospital (0.00)
+	888 South King Street Honolulu 96813
+Unmatched emergency=yes
+North Hawaii Community Hospital (0.00)
+	67-1125 Mamalahoa Highway Kamuela 96743
+Unmatched emergency=yes
+Kauai Veterans Memorial Hospital (0.00)
+	4643 Waimea Canyon Drive Waimea 96796
+Unmatched emergency=yes
+Kapi'olani Medical Center for Women and Children (0.00)
+	1319 Punahou Street Honolulu 96826
+Unmatched emergency=yes
+Kona Community Hospital (0.00)
+	79-1019 Haukapila Street Kealakekua 96750
+Unmatched emergency=yes
+Hilo Medical Center (0.00)
+	1190 Waianuenue Avenue Hilo 96720
+Unmatched emergency=yes
+Wilcox Medical Center (0.00)
+	3-3420 Kuhio Highway Lihue 96766
+Unmatched emergency=yes
+Mahelona Medical Center (0.00)
+	4800 Kawaihau Road Kapaa 96746
+Unmatched emergency=yes
+Lanai Community Hospital (0.00)
+	628 7th Street Lanai City 96763
+Unmatched emergency=yes
+Hale Ho’ola Hamakua (0.00)
+	45-547 Plumeria Street Honokaa 96727
+Unmatched emergency=yes
+Castle Medical Center (0.00)
+	640 Ulukahiki Street Kailua 96734
+Unmatched emergency=yes
+Wahiawa General Hospital (0.00)
+	128 Lehua Street Wahiawa 96786
+Unmatched emergency=yes
+The Queen's Medical Center - West Oahu (0.00)
+	91-2141 Fort Weaver Road Ewa Beach 96706
+Unmatched emergency=yes
+Maui Memorial Medical Center (0.00)
+	221 Mahalani Street Wailuku 96793
+Unmatched emergency=yes
+Ka'u Hospital (0.00)
+	1 Kamani Street Pahala 96777
+Unmatched emergency=yes
+Molokai General Hospital (0.00)
+	280 Home Olu Place Kaunakakai 96748
+Unmatched emergency=yes
+Kahuku Medical Center (0.00)
+	56-1171 Pualalea Street Kahuku 96731
+Unmatched emergency=yes
+Kula Hospital (0.00)
+	100 Keokea Place Kula 96790
+Found 24 unmatched emergency.

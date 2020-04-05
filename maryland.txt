@@ -1,73 +1,149 @@
-85
-56
-1. Eastern Shore Hospital Center
-	Post Office Box 800 Cambridge 21613 (CMS:no)
-	3.03 Eastern Shore Hospital Center
-	 5262 Woods Road Cambridge 21613
-2. Adventist Healthcare White Oak Medical Center
-	12100 Plum Orchard Drive Silver Spring 20904 (CMS:yes)
-	1.80 Holy Cross Hospital Health Center at Montomery College
-	 1500 Forest Glen Road Silver Spring 20910
-3. Umd Shore Medical Center At Easton
-	219 South Washington Street Easton 21601 (CMS:yes)
-	2.97 University of Maryland Shore Medical Center at Easton
-	 219 South Washington Street Easton 21629
-4. Thomas B Finan Center
-	10102 Country Club Road, Post Office Box 1722 Cumberland 21502 (CMS:no)
-	2.30 Western Maryland Regional Medical Center
-	 12500 Willowbrook Road Cumberland 21502
-5. Springfield Hospital Center
-	6655 Sykesville Road Sykesville 21784 (CMS:no)
-	3.01 Springfield Hospital Center
-	 - - Sykesville 21784
-Kennedy Krieger Institute
-	 707 North Broadway Baltimore 21205
-	 Emergency Mismatch (CMS:yes)
-	 Kennedy Krieger Institute Hospital & Research Center
-6. Brook Lane Health Services
-	13215 Brook Lane Drive Hagerstown 21742 (CMS:no)
-	2.93 Brook Lane
-	 13121 Brook Lane Hagerstown 21742
-Medstar Harbor Hospital
-	 3001 South Hanover Street Baltimore 21225
-	 Emergency Mismatch (CMS:no)
-	 MedStar Harbor Hospital
-Union Hospital Of Cecil County
-	 106 Bow Street Elkton 21921
-	 Emergency Mismatch (CMS:no)
-	 Union Hospital
-7. University Of Maryland Medical Center
-	22 South Greene Street Baltimore 21201 (CMS:yes)
-	2.33 UM Medical Center Midtown Campus (UMMC)
-	 827 Linden Avenue Baltimore 21201
-8. Walter Reed National Military Med Cen
-	8901 Rockville Pike Bethesda 20889 (CMS:yes)
-	1.46 Suburban Hospital
-	 86000 Old Georgetown Road Bethesda 20814
-9. Greater Baltimore Medical Center
-	6701 North Charles Street Baltimore 21204 (CMS:yes)
-	3.02 Greater Baltimore Medical Center
-	 6701 North Charles Street Towson 21204
-Found 9 issues.
+85 OSM hospitals
+0 Medicare hospitals
+Found 0 issues.
+
 Unmatched emergency=yes
 Upper Chesapeake Hospital (0.00)
-	 - - - -
+	- - - -
+Unmatched emergency=yes
+MedStar Franklin Square Medical Center (0.00)
+	9000 Franklin Square Drive Baltimore 21237
+Unmatched emergency=yes
+Holy Cross Hospital (0.00)
+	1500 Forest Glen Road Silver Spring 20910
+Unmatched emergency=yes
+Medstar Montgomery Medical Center (0.00)
+	18101 Prince Philip Drive Olney 20932
+Unmatched emergency=yes
+MedStar Good Samaritan Hospital (0.00)
+	5601 Loch Raven Boulevard Baltimore 21239
+Unmatched emergency=yes
+Johns Hopkins Bayview Medical Center (0.00)
+	4940 Eastern Avenue Baltimore 21224
 Unmatched emergency=yes
 Malcolm Grow Medical Clinics and Surgery Center (0.00)
-	 1050 West Perimeter Road Camp Springs -
+	1050 West Perimeter Road Camp Springs -
 Unmatched emergency=yes
-Greater Baltimore Medical Center (3.02)
-	 6701 North Charles Street Towson 21204
+Anne Arundel Medical Center (0.00)
+	2001 Medical Parkway Annapolis 21401
 Unmatched emergency=yes
-University of Maryland Shore Medical Center at Easton (2.97)
-	 219 South Washington Street Easton 21629
+Mercy Medical Center (0.00)
+	345 Saint Paul Place Baltimore 21202
+Unmatched emergency=yes
+Johns Hopkins Hospital (0.00)
+	1800 Orleans Street Baltimore 21287
+Unmatched emergency=yes
+University of Maryland Harford Memorial Hospital (0.00)
+	501 South Union Avenue Havre de Grace 21078
+Unmatched emergency=yes
+Laurel Regional Hospital (0.00)
+	7300 Van Dusen Road Laurel 20707
+Unmatched emergency=yes
+Howard County General Hospital (0.00)
+	5755 Cedar Lane Columbia 21044
+Unmatched emergency=yes
+Greater Baltimore Medical Center (0.00)
+	6701 North Charles Street Towson 21204
+Unmatched emergency=yes
+University of Maryland St. Joseph Medical Center (0.00)
+	7601 Osler Drive Towson 21204
+Unmatched emergency=yes
+Sinai Hospital of Baltimore (0.00)
+	2401 West Belvedere Avenue Baltimore 21215
+Unmatched emergency=yes
+Northwest Hospital (0.00)
+	5401 Old Court Road Randallstown 21133
+Unmatched emergency=yes
+Doctors Community Hospital (0.00)
+	8118 Good Luck Road Lanham 20706
+Unmatched emergency=yes
+UM Medical Center Midtown Campus (UMMC) (0.00)
+	827 Linden Avenue Baltimore 21201
+Unmatched emergency=yes
+Saint Agnes Hospital (0.00)
+	900 South Caton Avenue Baltimore 21229
+Unmatched emergency=yes
+MedStar Harbor Hospital (0.00)
+	3001 South Hanover Street Baltimore 21225
+Unmatched emergency=yes
+CalvertHealth Medical Center (0.00)
+	100 Hospital Road Prince Frederick 20678
+Unmatched emergency=yes
+Fort Washington Medical Center (0.00)
+	11711 Livingston Road Fort Washington 20744
+Unmatched emergency=yes
+Atlantic General Hospital (0.00)
+	9733 Healthway Drive Berlin 21804
+Unmatched emergency=yes
+Garrett County Memorial Hospital (0.00)
+	251 North 4th Street Oakland 21550
+Unmatched emergency=yes
+University of Maryland Upper Chesapeake Medical Center (0.00)
+	500 Upper Chesapeake Drive Bel Air 21014
+Unmatched emergency=yes
+Prince George's Hospital Center (0.00)
+	3001 Hospital Drive Cheverly 20785
+Unmatched emergency=yes
+Peninsula Regional Medical Center (0.00)
+	100 East Carroll Street Salisbury 21801
+Unmatched emergency=yes
+Western Maryland Regional Medical Center (0.00)
+	12500 Willowbrook Road Cumberland 21502
+Unmatched emergency=yes
+Union Hospital (0.00)
+	106 Bow Street Elkton 21921
+Unmatched emergency=yes
+University of Maryland Shore Medical Center at Chestertown (0.00)
+	100 Brown Street Chestertown 21620
+Unmatched emergency=yes
+University of Maryland Shore Medical Center at Easton (0.00)
+	219 South Washington Street Easton 21629
 Unmatched emergency=yes
 University of Maryland Medical Center at Dorchester (0.00)
-	 300 Byrne Street Cambridge 21613
+	300 Byrne Street Cambridge 21613
+Unmatched emergency=yes
+MedStar Saint Mary's Hospital (0.00)
+	22500 Point Lookout Road Leonardtown 20650
+Unmatched emergency=yes
+MedStar Southern Maryland Hospital Center (0.00)
+	7503 Surratts Road Clinton 20735
+Unmatched emergency=yes
+Adventist HealthCare Shady Grove Medical Center (0.00)
+	9901 Medical Center Drive Rockville 20850
+Unmatched emergency=yes
+Holy Cross Germantown Hospital (0.00)
+	19801 Observation Drive Germantown 20876
+Unmatched emergency=yes
+Frederick Memorial Hospital (0.00)
+	400 West 7th Street Frederick 21701
+Unmatched emergency=yes
+Suburban Hospital (0.00)
+	86000 Old Georgetown Road Bethesda 20814
 Unmatched emergency=yes
 Adventist HealthCare Takoma Park (0.00)
-	 7600 Carroll Avenue Takoma Park 20912
+	7600 Carroll Avenue Takoma Park 20912
+Unmatched emergency=yes
+Baltimore Washington Medical Center (0.00)
+	301 Hospital Drive Glen Burnie 21061
+Unmatched emergency=yes
+Medstar Union Memorial Hospital (0.00)
+	201 East University Parkway Baltimore 21218
+Unmatched emergency=yes
+Bon Secours Hospital (0.00)
+	2000 West Baltimore Street Baltimore 21223
+Unmatched emergency=yes
+Edward W. McCready Memorial Hospital (0.00)
+	201 Hall Highway Crisfield 21817
+Unmatched emergency=yes
+University of Maryland Charles Regional Medical Center (0.00)
+	5 Garrett Avenue La Plata 20646
+Unmatched emergency=yes
+Meritus Medical Center (0.00)
+	11116 Medical Campus Road Hagerstown 21740
+Unmatched emergency=yes
+Carroll Hospital (0.00)
+	200 Memorial Avenue Westminster 21157
 Unmatched emergency=yes
 Bowie Health Center (0.00)
-	 15001 Health Center Drive Bowie 20716
-Found 7 unmatched emergency.
+	15001 Health Center Drive Bowie 20716
+Found 48 unmatched emergency.

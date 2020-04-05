@@ -1,479 +1,713 @@
-354
-211
-1. Suncoast Behavioral Health Center
-	4480 51St St W Bradenton 34210 (CMS:no)
-	2.05 Blake Medical Center
-	 2020 59th Street West Bradenton 34209
-2. Adventhealth Lake Wales
-	410 S 11Th St Lake Wales 33853 (CMS:yes)
-	2.67 Lake Wales Medical Center
-	 410 South 11th Street Lake Wales 33853
-3. Willough At Naples, The
-	9001 Tamiami Trail East Naples 34113 (CMS:no)
-	1.95 North Naples Hospital
-	 11190 Health Park Boulevard Naples 34110
-4. Bayfront Health Seven Rivers
-	6201 N Suncoast Blvd Crystal River 34428 (CMS:yes)
-	2.84 Seven Rivers Regional Medical Center
-	 6201 Suncoast Boulevard Crystal River 34428
-5. Ascension Sacred Heart Gulf
-	3801 E Hwy 98 Port Saint Joe 32456 (CMS:yes)
-	2.94 Sacred Heart Hospital on the Gulf
-	 3801 East Highway 98 Port Saint Joe 32456
-Morton Plant North Bay Hospital
-	 6600 Madison Street New Port Richey 34652
-	 Emergency Mismatch (CMS:no)
-	 Morton Plant North Bay Hospital
-6. Steward Sebastian River Medical Center
-	13695 Us Hwy 1 Sebastian 32978 (CMS:yes)
-	2.70 Sebastian River Medical Center
-	 13695 US 1 Sebastian 34958
-7. Adventhealth New Smyrna Beach
-	401 Palmetto St New Smyrna Beach 32170 (CMS:yes)
-	2.02 Florida Hospital New Smyrna
-	 401 Palmetto Street New Smyrna 32168
-8. Adventhealth Orlando
-	601 E Rollins St Orlando 32803 (CMS:yes)
-	2.97 Florida Hospital Orlando
-	 601 East Rollins Street Orlando 32803
-9. Saint Josephs Hospital
-	3001 W Martin Luther King Jr Blvd Tampa 33677 (CMS:yes)
-	3.03 Saint Joseph's Hospital
-	 3001 West Dr. Martin Luther King Jr Boulevard Tampa 33603
-The Jerome Golden Center For Behavioral Health, In
-	 1041 45th Street West Palm Beach 33407
-	 Emergency Mismatch (CMS:yes)
-	 The Jerome Golden Center for Behavioral Health
-South Lake Hospital
-	 1900 Don Wickham Drive Clermont 34711
-	 Emergency Mismatch (CMS:no)
-	 South Lake Hospital
-10. Cleveland Clinic Indian River Hospital
-	1000 36Th St Vero Beach 32960 (CMS:yes)
-	2.50 Indian River Medical Center
-	 1000 36th Street Vero Beach 34960
-11. River Point Behavioral Health
-	6300 Beach Blvd Jacksonville 32216 (CMS:no)
-	2.77 Ten Broeck Hospital Jacksonville
-	 6700 Beach Boulevard Jacksonville 32216
-12. Larkin Community Hospital Behavioral Health Srvs
-	1201 N 37Th Ave Hollywood 33021 (CMS:no)
-	2.21 Memorial Regional Hospital
-	 3501 Johnson Street Hollywood 33021
-13. Ascension Sacred Heart Pensacola
-	5151 N 9Th Ave Pensacola 32504 (CMS:yes)
-	3.00 Sacred Heart Hospital of Pensacola
-	 5151 North 9th Avenue Pensacola 32504
-14. Aspire Health Partners
-	1800 Mercy Dr Orlando 32808 (CMS:no)
-	1.91 Winnie Palmer Hospital for Women & Babies
-	 83 West Miller Street Orlando 32806
-15. Centerstone Of Florida
-	2020 26Th Ave E Bradenton 34208 (CMS:no)
-	2.31 Manatee Healthcare System
-	 206 2nd Street East Bradenton 34208
-16. West Boca Medical Center
-	21644 State Rd 7 Boca Raton 33428 (CMS:yes)
-	3.06 West Boca Medical Center
-	 21644 State Road 7 West Boca 33428
-17. Saint Anthonys Hospital
-	1200 Seventh Ave N Saint Petersburg 33705 (CMS:yes)
-	2.35 St. Anthony's Hospital
-	 1200 7th Avenue North St. Petersburg 33713
-18. Larkin Community Hospital
-	7031 Sw 62Nd Ave South Miami 33143 (CMS:yes)
-	3.01 Larkin General Hospital
-	 7031 Southwest 62nd Avenue South Miami 33143
-19. Southern Winds
-	4225 W 20Th Ave Hialeah 33012 (CMS:no)
-	2.25 Larkin Community Hospital Palm Springs Campus
-	 1475 West 49th Place Hialeah 33012
-20. Adventhealth Palm Coast
-	60 Memorial Medical Pkwy Palm Coast 32164 (CMS:yes)
-	2.97 Florida Hospital Flagler
-	 60 Memorial Medical Parkway Palm Coast 32164
-21. North Tampa Behavioral Health
-	29910 Sr 56 Wesley Chapel 33543 (CMS:yes)
-	1.79 AdventHealth Wesley Chapel
-	 2600 Bruce B Downs Boulevard Wesley Chapel 33544
-22. Oak Hill Hospital
-	11375 Cortez Blvd Brooksville 34613 (CMS:yes)
-	2.89 Oak Hill Hospital
-	 11375 Cortez Boulevard Spring Hill 34613
-23. Cleveland Clinic Hospital
-	3100 Weston Rd Weston 33331 (CMS:yes)
-	3.05 Cleveland Clinic Hospital
-	 2950 Cleveland Clinc Boulevard Weston 33331
-Broward Health Imperial Point
-	 6401 North Federal Highway Fort Lauderdale 33308
-	 Emergency Mismatch (CMS:no)
-	 Broward Health Imperial Point
-24. Naples Community Hospital
-	350 7Th St N Naples 34102 (CMS:yes)
-	2.69 NCH Baker Hospital Downtown
-	 350 7th Street North Naples 34102
-25. Adventhealth Daytona Beach
-	301 Memorial Medical Parkway Daytona Beach 32117 (CMS:no)
-	3.03 Florida Hospital Memorial Medical Center
-	 301 Memorial Medical Parkway Daytona Beach 32117
-26. Springbrook Hospital
-	7007 Grove Rd Brooksville 34609 (CMS:no)
-	2.99 Springbrook Hospital
-	 7007 Grove Road Spring Hill 34609
-27. Steward Rockledge Hospital
-	110 Longwood Ave Rockledge 32955 (CMS:yes)
-	3.03 Rockledge Regional Medical Center
-	 110 Longwood Avenue Rockledge 32955
-28. Ascension Sacred Heart Bay
-	615 N Bonita Ave Panama City 32401 (CMS:yes)
-	2.72 Bay Medical Center
-	 615 North Bonita Avenue Panama City 32401
-29. Blackberry Center
-	91 Beehive Cir Saint Cloud 34769 (CMS:no)
-	2.22 Saint Cloud Regional Medical Center
-	 2906 17th Street Saint Cloud 34769
-30. Ascension Saint Vincent's Clay County
-	1670 St Vincents Way Middleburg 32068 (CMS:yes)
-	2.62 Saint Vincent’s Medical Center Clay County
-	 1670 Saint Vincent's Way Middleburg 32073
-Port Saint Lucie Hospital
-	 2250 Southeast Walton Road Port Saint Lucie 34952
-	 Emergency Mismatch (CMS:yes)
-	 Port Saint Lucie Hospital
-31. Bethesda Hospital East
-	2815 S Seacrest Blvd Boynton Beach 33435 (CMS:yes)
-	2.98 Bethesda Hospital East
-	 2815 South Seacrest Boulevard Delray Beach 33435
-32. Adventhealth Wauchula
-	735 S 5Th Ave Wauchula 33873 (CMS:yes)
-	2.94 Advent Hospital
-	 735 5th Ave Wauchula 33873
-Memorial Regional Hospital
-	 3501 Johnson Street Hollywood 33021
-	 Emergency Mismatch (CMS:no)
-	 Memorial Regional Hospital
-33. Fort Lauderdale Behavioral Health Center
-	5757 N Dixie Hwy Oakland Park 33334 (CMS:no)
-	1.12 Westside Regional Medical Center
-	 8201 West Broward Boulevard Plantation 33324
-Westside Regional Medical Center
-	 8201 West Broward Boulevard Plantation 33324
-	 Emergency Mismatch (CMS:no)
-	 Westside Regional Medical Center
-34. Lifestream Behavioral Center
-	2020 Tally Rd Leesburg 34748 (CMS:no)
-	2.37 Leesburg Regional Medical Center
-	 600 East Dixie Avenue Leesburg 34748
-Doctors Memorial Hospital
-	 2600 Hospital Drive Bonifay 32425
-	 Emergency Mismatch (CMS:no)
-	 Doctor's Memorial Hospital
-35. Cleveland Clinic Martin North Hospital
-	200 Se Hospital Ave Stuart 34995 (CMS:yes)
-	2.74 Martin Medical Center
-	 200 Southeast Hospital Avenue Stuart 34995
-36. Lakewood Ranch Medical Center
-	8330 Lakewood Ranch Blvd Bradenton 34202 (CMS:yes)
-	2.89 Lakewood Ranch Medical Center
-	 8330 Lakewood Ranch Boulevard Lakewood Ranch 34202
-37. 96Th Medical Group (Eglin Afb)
-	96 Mdg 307 Boatner Rd Suite 114 Eglin Afb 32542 (CMS:yes)
-	2.15 96th Medical Group
-	 307 Boatner Road Eglin Air Force Base 32542
-38. Eastside Psychiatric Hospital
-	2634B Capital Circle Ne, 2Nd Flr Tallahassee 32308 (CMS:no)
-	2.56 Apalachee Behavioral Health Center
-	 2634 Capital Circle Northeast Tallahassee 32308
-39. Adventhealth Heart Of Florida
-	40100 Hwy 27 Davenport 33837 (CMS:yes)
-	2.81 Heart of Florida Regional Medical Center
-	 40100 US Highway 27 Davenport 33837
-40. Palm Point Behavioral Health
-	2355 Truman Scarborough Way Titusville 32796 (CMS:no)
-	2.22 Parrish Medical Center
-	 951 North Washington Avenue Titusville 32796
-41. Manatee Memorial Hospital
-	206 2Nd St E Bradenton 34208 (CMS:yes)
-	2.66 Manatee Healthcare System
-	 206 2nd Street East Bradenton 34208
-Adventhealth Sebring
-	 4200 Sun 'N Lake Boulevard Sebring 33872
-	 Emergency Mismatch (CMS:no)
-	 AdventHealth Sebring
-42. Wekiva Springs
-	3947 Salisbury Rd Jacksonville 32216 (CMS:no)
-	2.29 Memorial Hospital
-	 3625 University Boulevard South Jacksonville 32216
-43. Broward Health North
-	201 E Sample Rd Pompano Beach 33064 (CMS:yes)
-	2.92 Broward Health North
-	 201 East Sample Road Deerfield Beach 33064
-44. Adventhealth Deland
-	701 W Plymouth Ave Deland 32720 (CMS:yes)
-	2.70 Florida Hospital Deland
-	 701 West Plymouth Avenue DeLand 32720
-South Florida State Hospital
-	 800 East Cypress Drive Pembroke Pines 33025
-	 Emergency Mismatch (CMS:yes)
-	 South Florida State Hospital
-45. Adventhealth Waterman
-	1000 Waterman Way Tavares 32778 (CMS:no)
-	2.96 Florida Hospital Waterman
-	 1000 Waterman Way Tavares 34778
-Found 45 issues.
+354 OSM hospitals
+0 Medicare hospitals
+Found 0 issues.
+
+Unmatched emergency=yes
+JFK Medical Center (0.00)
+	5301 South Congress Avenue Atlantis 33462
 Unmatched emergency=yes
 Bert Martin's Champions for Children Emergency Department & Trauma Center (0.00)
-	 92 West Miller Street Orlando 32806
+	92 West Miller Street Orlando 32806
 Unmatched emergency=yes
 Sanatorio de COMEF (0.00)
-	 - - - -
+	- - - -
+Unmatched emergency=yes
+Poinciana Medical Center (0.00)
+	325 Cypress Parkway Kissimmee 34758
 Unmatched emergency=yes
 Golisano Children's Hospital of Southwest Florida (0.00)
-	 9981 South Healthpark Drive Fort Myers 33908
+	9981 South Healthpark Drive Fort Myers 33908
 Unmatched emergency=yes
 Baptist Children's Hospital (0.00)
-	 8900 North Kendall Drive Miami 33176
+	8900 North Kendall Drive Miami 33176
 Unmatched emergency=yes
 Birth Suites (0.00)
-	 - - - -
+	- - - -
 Unmatched emergency=yes
 Urgent Care Okeechobee (0.00)
-	 305 Northeast Park St Okeechobee 34972
-Unmatched emergency=yes
-Florida Hospital Orlando (2.97)
-	 601 East Rollins Street Orlando 32803
-Unmatched emergency=yes
-Florida Hospital Orlando Emergency Room (0.00)
-	 - - - -
-Unmatched emergency=yes
-Arnold Palmer Hospital for Children (0.00)
-	 92 West Miller Street Orlando 32806
-Unmatched emergency=yes
-St. Joseph's Hospital-North (0.00)
-	 4211 Van Dyke Road Lutz 33558
-Unmatched emergency=yes
-Martin Hospital South (0.00)
-	 2100 Southeast Salerno Road Stuart 34997
-Unmatched emergency=yes
-Martin Medical Center (2.74)
-	 200 Southeast Hospital Avenue Stuart 34995
-Unmatched emergency=yes
-Cleveland Clinic Hospital (3.05)
-	 2950 Cleveland Clinc Boulevard Weston 33331
-Unmatched emergency=yes
-Bascom Palmer Eye Institute/Anne Bates Leach Eye Hospital (0.00)
-	 900 Northwest 17th Street Miami 33136
-Unmatched emergency=yes
-West Palm Beach Veterans Administration Medical Center (0.00)
-	 7305 North Military Trail West Palm Beach 33410
-Unmatched emergency=yes
-Lakewood Ranch Medical Center (2.89)
-	 8330 Lakewood Ranch Boulevard Lakewood Ranch 34202
-Unmatched emergency=yes
-Heart of Florida Regional Medical Center (2.81)
-	 40100 US Highway 27 Davenport 33837
-Unmatched emergency=yes
-Sacred Heart Hospital of Pensacola (3.00)
-	 5151 North 9th Avenue Pensacola 32504
-Unmatched emergency=yes
-Broward Health North (2.92)
-	 201 East Sample Road Deerfield Beach 33064
-Unmatched emergency=yes
-Jackson South Medical Center (0.00)
-	 9333 Southwest 152nd Street Miami 33157
-Unmatched emergency=yes
-Florida Medical Center Hospital (0.00)
-	 5000 West Oakland Park Boulevard Lauderdale Lakes 33313
-Unmatched emergency=yes
-Rockledge Regional Medical Center (3.03)
-	 110 Longwood Avenue Rockledge 32955
-Unmatched emergency=yes
-UF Health Shands Cancer Hospital (0.00)
-	 1515 Southwest Archer Road Gainesville 32608
-Unmatched emergency=yes
-96th Medical Group (2.15)
-	 307 Boatner Road Eglin Air Force Base 32542
-Unmatched emergency=yes
-Dr. P. Phillips Hospital (0.00)
-	 9400 Turkey Lake Road Orlando 32819
-Unmatched emergency=yes
-Baptist Medical Center South (0.00)
-	 14550 Old Saint Augustine Road Jacksonville 32258
-Unmatched emergency=yes
-West Marion Community Hospital (0.00)
-	 4600 Southwest 46th Court Ocala 34474
-Unmatched emergency=yes
-Bethesda Hospital West (0.00)
-	 9655 West Boynton Beach Boulevard Boynton Beach 33472
-Unmatched emergency=yes
-Florida Hospital Heartland Medical Center at Lake Placid (0.00)
-	 1210 US Highway 27 North Lake Placid 33852
-Unmatched emergency=yes
-Emergency Center - Northeast (0.00)
-	 1260 Metropolitan Boulevard Tallahassee 32308
-Unmatched emergency=yes
-Baptist Clay Medical Campus (0.00)
-	 1771 Village Square Parkway Fleming Island 32003
-Unmatched emergency=yes
-Jackson North Medical Center (0.00)
-	 160 Northwest 170th Street North Miami Beach 33169
-Unmatched emergency=yes
-Lake Wales Medical Center (2.67)
-	 410 South 11th Street Lake Wales 33853
-Unmatched emergency=yes
-Florida Hospital Celebration Health (0.00)
-	 400 Celebration Place Kissimmee 34747
-Unmatched emergency=yes
-Florida Hospital freestanding emergency Hospital (0.00)
-	 305 East Brandon Boulevard brandon 33511
-Unmatched emergency=yes
-Bay Medical Center (2.72)
-	 615 North Bonita Avenue Panama City 32401
-Unmatched emergency=yes
-Baptist Emergency at Town Center (0.00)
-	 4085 Town Center Parkway Jacksonville 32246
-Unmatched emergency=yes
-HealthPark Medical Center (0.00)
-	 9981 South Healthpark Drive Fort Myers 33908
-Unmatched emergency=yes
-Florida Hospital Apopka (0.00)
-	 201 N Park Avenue Apopka 32703
-Unmatched emergency=yes
-Sacred Heart Hospital on the Gulf (2.94)
-	 3801 East Highway 98 Port Saint Joe 32456
-Unmatched emergency=yes
-Campbellton-Graceville Hospital (0.00)
-	 5429 College Drive Graceville 32440
-Unmatched emergency=yes
-Lake City VA Medical Center (0.00)
-	 619 South Marion Avenue Lake City 32025
-Unmatched emergency=yes
-Saint Vincent’s Medical Center Clay County (2.62)
-	 1670 Saint Vincent's Way Middleburg 32073
-Unmatched emergency=yes
-Florida Hospital Flagler (2.97)
-	 60 Memorial Medical Parkway Palm Coast 32164
-Unmatched emergency=yes
-Florida Hospital Oceanside (0.00)
-	 264 South Atlantic Avenue Ormond Beach 32176
-Unmatched emergency=yes
-Florida Hospital Memorial Medical Center (3.03)
-	 301 Memorial Medical Parkway Daytona Beach 32117
-Unmatched emergency=yes
-Malcom Randall Veterans Administration Medical Center (0.00)
-	 1601 Southwest Archer Road Gainesville 32608
-Unmatched emergency=yes
-Larkin General Hospital (3.01)
-	 7031 Southwest 62nd Avenue South Miami 33143
-Unmatched emergency=yes
-University of Miami Hospital (0.00)
-	 1400 Northwest 12th Avenue Miami 33136
-Unmatched emergency=yes
-Miami Veterans Affairs Medical Center (0.00)
-	 1201 Northwest 16th Street Miami 33125
-Unmatched emergency=yes
-Mercy Hospital (0.00)
-	 3663 South Miami Avenue Miami 33133
-Unmatched emergency=yes
-West Boca Medical Center (3.06)
-	 21644 State Road 7 West Boca 33428
-Unmatched emergency=yes
-Bethesda Hospital East (2.98)
-	 2815 South Seacrest Boulevard Delray Beach 33435
-Unmatched emergency=yes
-JFK Medical Center North Campus (0.00)
-	 2201 45th Street West Palm Beach 33407
-Unmatched emergency=yes
-Indian River Medical Center (2.50)
-	 1000 36th Street Vero Beach 34960
-Unmatched emergency=yes
-Sebastian River Medical Center (2.70)
-	 13695 US 1 Sebastian 34958
-Unmatched emergency=yes
-Florida Hospital New Smyrna (2.02)
-	 401 Palmetto Street New Smyrna 32168
-Unmatched emergency=yes
-Florida Hospital Deland (2.70)
-	 701 West Plymouth Avenue DeLand 32720
-Unmatched emergency=yes
-Physicians Regional Medical Center- Collier Boulevard (0.00)
-	 8300 Collier Boulevard Naples 34114
-Unmatched emergency=yes
-NCH Baker Hospital Downtown (2.69)
-	 350 7th Street North Naples 34102
-Unmatched emergency=yes
-North Naples Hospital (1.95)
-	 11190 Health Park Boulevard Naples 34110
-Unmatched emergency=yes
-Florida Hospital Wauchula (0.00)
-	 533 Carlton Street Wauchula 33873
-Unmatched emergency=yes
-Manatee Healthcare System (2.66)
-	 206 2nd Street East Bradenton 34208
-Unmatched emergency=yes
-Seven Rivers Regional Medical Center (2.84)
-	 6201 Suncoast Boulevard Crystal River 34428
-Unmatched emergency=yes
-Florida Hospital Waterman (2.96)
-	 1000 Waterman Way Tavares 34778
-Unmatched emergency=yes
-South Seminole Hospital (0.00)
-	 555 West State Road 434 Longwood 32750
-Unmatched emergency=yes
-Florida Hospital Altamonte (0.00)
-	 601 East Altamonte Drive Altamonte Springs 32701
-Unmatched emergency=yes
-Florida Hospital East Orlando (0.00)
-	 7727 Lake Underhill Road Orlando 32822
-Unmatched emergency=yes
-Winter Park Memorial Hospital (0.00)
-	 201 North Edinburgh Drive Winter Park 32792
-Unmatched emergency=yes
-Florida Hospital Kissimmee (0.00)
-	 2450 North Orange Blossom Trail Kissimmee 34744
-Unmatched emergency=yes
-Oak Hill Hospital (2.89)
-	 11375 Cortez Boulevard Spring Hill 34613
-Unmatched emergency=yes
-Bayfront Health Spring Hill (0.00)
-	 10461 Quality Drive Spring Hill 34609
-Unmatched emergency=yes
-St. Joseph's Hospital-South (0.00)
-	 6901 Simmons Loop Riverview 33578
-Unmatched emergency=yes
-James A. Haley Veterans' Hospital (0.00)
-	 13000 Bruce B Downs Boulevard Tampa 33612
-Unmatched emergency=yes
-Saint Joseph's Hospital (3.03)
-	 3001 West Dr. Martin Luther King Jr Boulevard Tampa 33603
-Unmatched emergency=yes
-Tampa Community Hospital (0.00)
-	 6001 Webb Road Tampa 33615
-Unmatched emergency=yes
-Largo Medical Center Indian Rocks Road Campus (0.00)
-	 2025 Indian Rocks Road Largo 33774
-Unmatched emergency=yes
-C.W. Bill Young VA Medical Center (0.00)
-	 10000 Bay Pines Boulevard North Bay Pines 33744
-Unmatched emergency=yes
-St. Anthony's Hospital (2.35)
-	 1200 7th Avenue North St. Petersburg 33713
-Unmatched emergency=yes
-TGH Brandon Healthplex (0.00)
-	 10740 Palm River Road Tampa 33619
-Unmatched emergency=yes
-Charlotte Behavioral Health Care (0.00)
-	 1700 Education Avenue Punta Gorda -
-Unmatched emergency=yes
-Park West ER (0.00)
-	 6477 103rd ST Jacksonville 32210
-Unmatched emergency=yes
-Largo Medical Center Clearwater ER (0.00)
-	 2339 Gulf to Bay Boulevard Clearwater 33765
-Unmatched emergency=yes
-Destin ER (0.00)
-	 200 Tequesta Drive Destin 32541
+	305 Northeast Park St Okeechobee 34972
 Unmatched emergency=yes
 Florida Hospital Orlando (0.00)
-	 601 East Rollins Street Orlando 32803
-Found 85 unmatched emergency.
+	601 East Rollins Street Orlando 32803
+Unmatched emergency=yes
+Florida Hospital Orlando Emergency Room (0.00)
+	- - - -
+Unmatched emergency=yes
+Arnold Palmer Hospital for Children (0.00)
+	92 West Miller Street Orlando 32806
+Unmatched emergency=yes
+Lower Keys Medical Center (0.00)
+	5900 College Road Key West 33040
+Unmatched emergency=yes
+St. Joseph's Hospital-North (0.00)
+	4211 Van Dyke Road Lutz 33558
+Unmatched emergency=yes
+Martin Hospital South (0.00)
+	2100 Southeast Salerno Road Stuart 34997
+Unmatched emergency=yes
+Martin Medical Center (0.00)
+	200 Southeast Hospital Avenue Stuart 34995
+Unmatched emergency=yes
+Physicians Regional Medical Center - Pine Ridge (0.00)
+	6101 Pine Ridge Road Naples 34119
+Unmatched emergency=yes
+Cleveland Clinic Hospital (0.00)
+	2950 Cleveland Clinc Boulevard Weston 33331
+Unmatched emergency=yes
+Bascom Palmer Eye Institute/Anne Bates Leach Eye Hospital (0.00)
+	900 Northwest 17th Street Miami 33136
+Unmatched emergency=yes
+Palm Beach Gardens Medical Center (0.00)
+	3360 Burns Road Palm Beach Gardens 33410
+Unmatched emergency=yes
+West Palm Beach Veterans Administration Medical Center (0.00)
+	7305 North Military Trail West Palm Beach 33410
+Unmatched emergency=yes
+Winter Haven Hospital (0.00)
+	200 Avenue F Northeast Winter Haven 33881
+Unmatched emergency=yes
+Baptist Medical Center Beaches (0.00)
+	1350 13th Avenue South Jacksonville Beach 32250
+Unmatched emergency=yes
+Mayo Clinic Jacksonville Campus (0.00)
+	4500 San Pablo Road Jacksonville 32224
+Unmatched emergency=yes
+Lawnwood Regional Medical Center and Heart Institute (0.00)
+	1700 South 23rd Street Fort Pierce 34950
+Unmatched emergency=yes
+Gulf Breeze Hospital (0.00)
+	1110 Gulf Breeze Hospital Gulf Breeze 32561
+Unmatched emergency=yes
+Saint Mary's Medical Center (0.00)
+	401 45th Street West Palm Beach 33407
+Unmatched emergency=yes
+Tallahassee Memorial HealthCare (0.00)
+	1300 Miccosukee Road Tallahassee 32308
+Unmatched emergency=yes
+Holmes Regional Medical Center (0.00)
+	1350 South Hickory Street Melbourne 32901
+Unmatched emergency=yes
+Memorial Hospital Miramar (0.00)
+	1901 Southwest 172nd Avenue Miramar 33020
+Unmatched emergency=yes
+Lakewood Ranch Medical Center (0.00)
+	8330 Lakewood Ranch Boulevard Lakewood Ranch 34202
+Unmatched emergency=yes
+Heart of Florida Regional Medical Center (0.00)
+	40100 US Highway 27 Davenport 33837
+Unmatched emergency=yes
+Santa Rosa Medical Center (0.00)
+	6002 Berryhill Road Milton 32570
+Unmatched emergency=yes
+West Florida Hospital (0.00)
+	8383 North Davis Highway Pensacola 32514
+Unmatched emergency=yes
+Sacred Heart Hospital of Pensacola (0.00)
+	5151 North 9th Avenue Pensacola 32504
+Unmatched emergency=yes
+Baptist Hospital (0.00)
+	1000 West Moreno Street Pensacola 32501
+Unmatched emergency=yes
+North Okaloosa Medical Center (0.00)
+	151 East Redstone Avenue Crestview 32539
+Unmatched emergency=yes
+Broward Health North (0.00)
+	201 East Sample Road Deerfield Beach 33064
+Unmatched emergency=yes
+Memorial Hospital West (0.00)
+	703 North Flamingo Road Pembroke Pines 33028
+Unmatched emergency=yes
+Jackson South Medical Center (0.00)
+	9333 Southwest 152nd Street Miami 33157
+Unmatched emergency=yes
+Florida Medical Center Hospital (0.00)
+	5000 West Oakland Park Boulevard Lauderdale Lakes 33313
+Unmatched emergency=yes
+Rockledge Regional Medical Center (0.00)
+	110 Longwood Avenue Rockledge 32955
+Unmatched emergency=yes
+West Kendall Baptist Hospital (0.00)
+	9555 Southwest 162nd Avenue Miami 33156
+Unmatched emergency=yes
+Palmetto General Hospital (0.00)
+	2001 West 68th Street Hialeah 33015
+Unmatched emergency=yes
+Fishermen's Community Hospital (0.00)
+	5701 Overseas Highway Marathon 33050
+Unmatched emergency=yes
+UF Health Shands Cancer Hospital (0.00)
+	1515 Southwest Archer Road Gainesville 32608
+Unmatched emergency=yes
+Osceola Regional Medical Center (0.00)
+	700 West Oak Street Kissimmee 34741
+Unmatched emergency=yes
+George E. Weems Memorial Hospital (0.00)
+	135 Avenue G Apalachicola 32320
+Unmatched emergency=yes
+96th Medical Group (0.00)
+	307 Boatner Road Eglin Air Force Base 32542
+Unmatched emergency=yes
+Palms of Pasadena Hospital (0.00)
+	1501 Pasadena Avenue South St. Petersburg 33707
+Unmatched emergency=yes
+Aventura Hospital and Medical Center (0.00)
+	20900 Biscayne Boulevard Aventura 33180
+Unmatched emergency=yes
+Holy Cross Hospital (0.00)
+	4725 Federal Highway Fort Lauderdale 33308
+Unmatched emergency=yes
+Broward Health Imperial Point (0.00)
+	6401 North Federal Highway Fort Lauderdale 33308
+Unmatched emergency=yes
+Broward Health Medical Center (0.00)
+	1600 South Andrews Avenue Fort Lauderdale 33316
+Unmatched emergency=yes
+Mount Sinai Medical Center (0.00)
+	4300 Alton Road Miami Beach 33140
+Unmatched emergency=yes
+Delray Medical Center (0.00)
+	5352 Linton Boulevard Delray Beach 33484
+Unmatched emergency=yes
+Good Samaritan Hospital (0.00)
+	1309 North Flagler Drive West Palm Beach 33401
+Unmatched emergency=yes
+Flagler Hospital (0.00)
+	400 Health Park Boulevard Saint Augustine 32086
+Unmatched emergency=yes
+Wellington Regional Medical Center (0.00)
+	10101 Forest Hill Boulevard Wellington 33414
+Unmatched emergency=yes
+Dr. P. Phillips Hospital (0.00)
+	9400 Turkey Lake Road Orlando 32819
+Unmatched emergency=yes
+Baptist Medical Center South (0.00)
+	14550 Old Saint Augustine Road Jacksonville 32258
+Unmatched emergency=yes
+Melbourne Regional Medical Center (0.00)
+	250 North Wickham Road Melbourne 32935
+Unmatched emergency=yes
+Baptist Medical Center Jacksonville (0.00)
+	800 Prudential Drive Jacksonville 32207
+Unmatched emergency=yes
+Boca Raton Regional Hospital (0.00)
+	800 Meadows Road Boca Raton 33486
+Unmatched emergency=yes
+Halifax Health Medical Center (0.00)
+	303 North Clyde Morris Boulevard Daytona Beach 32114
+Unmatched emergency=yes
+Jay Hospital (0.00)
+	14114 South Alabama Street Jay 32565
+Unmatched emergency=yes
+Healthmark Regional Medical Center (0.00)
+	4413 US Highway 331 South DeFuniak Springs 32435
+Unmatched emergency=yes
+West Marion Community Hospital (0.00)
+	4600 Southwest 46th Court Ocala 34474
+Unmatched emergency=yes
+Bethesda Hospital West (0.00)
+	9655 West Boynton Beach Boulevard Boynton Beach 33472
+Unmatched emergency=yes
+South Florida Baptist Hospital (0.00)
+	301 North Alexander Street Plant City 33563
+Unmatched emergency=yes
+Florida Hospital Heartland Medical Center at Lake Placid (0.00)
+	1210 US Highway 27 North Lake Placid 33852
+Unmatched emergency=yes
+AdventHealth Sebring (0.00)
+	4200 Sun 'N Lake Boulevard Sebring 33872
+Unmatched emergency=yes
+Regional General Hospital Williston (0.00)
+	125 Southwest 7th Street Williston 32696
+Unmatched emergency=yes
+Emergency Center - Northeast (0.00)
+	1260 Metropolitan Boulevard Tallahassee 32308
+Unmatched emergency=yes
+Baptist Clay Medical Campus (0.00)
+	1771 Village Square Parkway Fleming Island 32003
+Unmatched emergency=yes
+Jackson North Medical Center (0.00)
+	160 Northwest 170th Street North Miami Beach 33169
+Unmatched emergency=yes
+Palms West Hospital (0.00)
+	13001 Southern Boulevard Loxahatchee 33470
+Unmatched emergency=yes
+Venice Regional Bayfront Health (0.00)
+	540 The Rialto Venice 34285
+Unmatched emergency=yes
+Brandon Regional Hospital (0.00)
+	119 Oakfield Drive Brandon 33511
+Unmatched emergency=yes
+Lake Wales Medical Center (0.00)
+	410 South 11th Street Lake Wales 33853
+Unmatched emergency=yes
+Florida Hospital Celebration Health (0.00)
+	400 Celebration Place Kissimmee 34747
+Unmatched emergency=yes
+Florida Hospital freestanding emergency Hospital (0.00)
+	305 East Brandon Boulevard brandon 33511
+Unmatched emergency=yes
+Bay Medical Center (0.00)
+	615 North Bonita Avenue Panama City 32401
+Unmatched emergency=yes
+Baptist Emergency at Town Center (0.00)
+	4085 Town Center Parkway Jacksonville 32246
+Unmatched emergency=yes
+HealthPark Medical Center (0.00)
+	9981 South Healthpark Drive Fort Myers 33908
+Unmatched emergency=yes
+Broward Health Coral Springs (0.00)
+	3000 Coral Hills Drive Coral Springs 33065
+Unmatched emergency=yes
+Memorial Hospital (0.00)
+	3625 University Boulevard South Jacksonville 32216
+Unmatched emergency=yes
+Florida Hospital Apopka (0.00)
+	201 N Park Avenue Apopka 32703
+Unmatched emergency=yes
+AdventHealth Wesley Chapel (0.00)
+	2600 Bruce B Downs Boulevard Wesley Chapel 33544
+Unmatched emergency=yes
+Northside Hospital (0.00)
+	6000 49th Street North Saint Petersburg 33709
+Unmatched emergency=yes
+Lakeland Regional Health Medical Center (0.00)
+	1324 Lakeland Hills Boulevard Lakeland 33805
+Unmatched emergency=yes
+Jupiter Medical Center (0.00)
+	1210 South Old Dixie Highway Jupiter 33458
+Unmatched emergency=yes
+Fort Walton Beach Medical Center (0.00)
+	1000 Mar Walt Drive Fort Walton Beach 32547
+Unmatched emergency=yes
+Twin Cities Hospital (0.00)
+	2190 Highway 85 North Niceville 32578
+Unmatched emergency=yes
+Sacred Heart Hospital on the Emerald Coast (0.00)
+	7800 US Highway 98 West Miramar Beach 32550
+Unmatched emergency=yes
+Gulf Coast Medical Center (0.00)
+	449 West 23rd Street Panama City 32405
+Unmatched emergency=yes
+Sacred Heart Hospital on the Gulf (0.00)
+	3801 East Highway 98 Port Saint Joe 32456
+Unmatched emergency=yes
+Northwest Florida Community Hospital (0.00)
+	1360 Brickyard Road Chipley 32428
+Unmatched emergency=yes
+Campbellton-Graceville Hospital (0.00)
+	5429 College Drive Graceville 32440
+Unmatched emergency=yes
+Jackson Hospital (0.00)
+	4250 Hospital Drive Marianna 32446
+Unmatched emergency=yes
+Calhoun Liberty Hospital (0.00)
+	20370 Burns Avenue Blountstown 32424
+Unmatched emergency=yes
+Capital Regional Medical Center (0.00)
+	2626 Capital Medical Boulevard Tallahassee 32308
+Unmatched emergency=yes
+Doctors' Memorial Hospital (0.00)
+	333 North Byron Butler Parkway Perry 32347
+Unmatched emergency=yes
+Madison County Memorial Hospital (0.00)
+	224 Northwest Crane Avenue Madison 32340
+Unmatched emergency=yes
+Shands Live Oak Regional Medical Center (0.00)
+	1100 Southwest 11th Street Live Oak 32064
+Unmatched emergency=yes
+Lake City VA Medical Center (0.00)
+	619 South Marion Avenue Lake City 32025
+Unmatched emergency=yes
+Shands Lake Shore Regional Medical Center (0.00)
+	368 Northeast Franklin Street Lake City 32055
+Unmatched emergency=yes
+Lake City Medical Center (0.00)
+	340 Northwest Commerce Drive Lake City 32055
+Unmatched emergency=yes
+Lake Butler Hospital (0.00)
+	850 East Main Street Lake Butler 32054
+Unmatched emergency=yes
+Shands Starke Regional Medical Center (0.00)
+	922 East Call Street Starke 32091
+Unmatched emergency=yes
+Ed Fraser Memorial Hospital (0.00)
+	159 North 3rd Street Macclenny 32063
+Unmatched emergency=yes
+Baptist Medical Center Nassau (0.00)
+	1250 South 18th Street Fernandina Beach 32034
+Unmatched emergency=yes
+Saint Vincent’s Medical Center Southside (0.00)
+	4201 Belfort Road Jacksonville 32216
+Unmatched emergency=yes
+Saint Vincent's Medical Center Riverside (0.00)
+	1 Shircliff Way Jacksonville 32204
+Unmatched emergency=yes
+UF Health Jacksonville (0.00)
+	655 West 8th Street Jacksonville 32209
+Unmatched emergency=yes
+Naval Hospital Jacksonville (0.00)
+	2080 Child Street Jacksonville 32214
+Unmatched emergency=yes
+Orange Park Medical Center (0.00)
+	2001 Kingsley Avenue Orange Park 32073
+Unmatched emergency=yes
+Saint Vincent’s Medical Center Clay County (0.00)
+	1670 Saint Vincent's Way Middleburg 32073
+Unmatched emergency=yes
+Putnam Community Medical Center (0.00)
+	611 Zeagler Drive Palatka 32177
+Unmatched emergency=yes
+Florida Hospital Flagler (0.00)
+	60 Memorial Medical Parkway Palm Coast 32164
+Unmatched emergency=yes
+Florida Hospital Oceanside (0.00)
+	264 South Atlantic Avenue Ormond Beach 32176
+Unmatched emergency=yes
+Florida Hospital Memorial Medical Center (0.00)
+	301 Memorial Medical Parkway Daytona Beach 32117
+Unmatched emergency=yes
+UF Health Shands Hospital (0.00)
+	1600 Southwest Archer Road Gainesville 32608
+Unmatched emergency=yes
+Malcom Randall Veterans Administration Medical Center (0.00)
+	1601 Southwest Archer Road Gainesville 32608
+Unmatched emergency=yes
+North Florida Regional Medical Center (0.00)
+	6500 West Newberry Road Gainesville 32605
+Unmatched emergency=yes
+AdventHealth Ocala (0.00)
+	1500 Southwest 1st Avenue Ocala 34471
+Unmatched emergency=yes
+Ocala Regional Medical Center (0.00)
+	1431 Southwest 1st Avenue Ocala 34471
+Unmatched emergency=yes
+Mariners Hospital (0.00)
+	91500 Overseas Highway Tavernier 33070
+Unmatched emergency=yes
+Homestead Hospital (0.00)
+	975 Baptist Way Homestead 33033
+Unmatched emergency=yes
+Baptist Hospital of Miami (0.00)
+	8900 North Kendall Drive Miami 33176
+Unmatched emergency=yes
+Larkin General Hospital (0.00)
+	7031 Southwest 62nd Avenue South Miami 33143
+Unmatched emergency=yes
+South Miami Hospital (0.00)
+	6200 Southwest 73rd Street South Miami 33143
+Unmatched emergency=yes
+Kendall Regional Medical Center (0.00)
+	11750 Southwest 40th Street Miami 33175
+Unmatched emergency=yes
+Doctors Hospital (0.00)
+	5000 University Drive Coral Gables 33146
+Unmatched emergency=yes
+Nicklaus Children's Hospital (0.00)
+	3100 Southwest 62nd Avenue Miami 33155
+Unmatched emergency=yes
+Westchester General Hospital (0.00)
+	2500 Southwest 75th Avenue Miami 33155
+Unmatched emergency=yes
+University of Miami Hospital (0.00)
+	1400 Northwest 12th Avenue Miami 33136
+Unmatched emergency=yes
+Miami Veterans Affairs Medical Center (0.00)
+	1201 Northwest 16th Street Miami 33125
+Unmatched emergency=yes
+Jackson Memorial Hospital (0.00)
+	1611 Northwest 12th Avenue Miami 33136
+Unmatched emergency=yes
+Mercy Hospital (0.00)
+	3663 South Miami Avenue Miami 33133
+Unmatched emergency=yes
+Coral Gables Hospital (0.00)
+	3100 Douglas Road Coral Gables 33134
+Unmatched emergency=yes
+Larkin Community Hospital Palm Springs Campus (0.00)
+	1475 West 49th Place Hialeah 33012
+Unmatched emergency=yes
+North Shore Medical Center (0.00)
+	1100 Northwest 95th Street Miami 33150
+Unmatched emergency=yes
+Hialeah Hospital (0.00)
+	651 East 25th Street Hialeah 33013
+Unmatched emergency=yes
+Memorial Regional Hospital (0.00)
+	3501 Johnson Street Hollywood 33021
+Unmatched emergency=yes
+Memorial Hospital Pembroke (0.00)
+	7800 Sheridan Street Pembroke Pines 33024
+Unmatched emergency=yes
+Westside Regional Medical Center (0.00)
+	8201 West Broward Boulevard Plantation 33324
+Unmatched emergency=yes
+Plantation General Hospital (0.00)
+	401 Northwest 42nd Avenue Plantation 33317
+Unmatched emergency=yes
+University Hospital and Medical Center (0.00)
+	7201 North University Drive Tamarac 33321
+Unmatched emergency=yes
+Northwest Medical Center (0.00)
+	2801 North State Road 7 Margate 33063
+Unmatched emergency=yes
+West Boca Medical Center (0.00)
+	21644 State Road 7 West Boca 33428
+Unmatched emergency=yes
+Bethesda Hospital East (0.00)
+	2815 South Seacrest Boulevard Delray Beach 33435
+Unmatched emergency=yes
+JFK Medical Center North Campus (0.00)
+	2201 45th Street West Palm Beach 33407
+Unmatched emergency=yes
+Saint Lucie Medical Center (0.00)
+	1800 Southeast Tiffany Avenue Port Saint Lucie 34952
+Unmatched emergency=yes
+Indian River Medical Center (0.00)
+	1000 36th Street Vero Beach 34960
+Unmatched emergency=yes
+Sebastian River Medical Center (0.00)
+	13695 US 1 Sebastian 34958
+Unmatched emergency=yes
+Raulerson Hospital (0.00)
+	1796 Highway 441 North Okeechobee 34972
+Unmatched emergency=yes
+Hendry Regional Medical Center (0.00)
+	524 West Sagamore Avenue Clewiston 33440
+Unmatched emergency=yes
+Lakeside Medical Center (0.00)
+	39200 Hooker Highway Belle Glade 33430
+Unmatched emergency=yes
+Palm Bay Hospital (0.00)
+	1425 Malabar Palm Bay 32907
+Unmatched emergency=yes
+Viera Hospital (0.00)
+	8745 North Wickham Road Melbourne 32940
+Unmatched emergency=yes
+Cape Canaveral Hospital (0.00)
+	701 West Cocoa Beach Causeway Cocoa Beach 32931
+Unmatched emergency=yes
+Parrish Medical Center (0.00)
+	951 North Washington Avenue Titusville 32796
+Unmatched emergency=yes
+Florida Hospital New Smyrna (0.00)
+	401 Palmetto Street New Smyrna 32168
+Unmatched emergency=yes
+Florida Hospital Deland (0.00)
+	701 West Plymouth Avenue DeLand 32720
+Unmatched emergency=yes
+Florida Hospital Fish Memorial (0.00)
+	1055 Saxon Boulevard Orange City 32763
+Unmatched emergency=yes
+Central Florida Regional Hospital (0.00)
+	1401 West Seminole Boulevard Sanford 32771
+Unmatched emergency=yes
+Physicians Regional Medical Center- Collier Boulevard (0.00)
+	8300 Collier Boulevard Naples 34114
+Unmatched emergency=yes
+NCH Baker Hospital Downtown (0.00)
+	350 7th Street North Naples 34102
+Unmatched emergency=yes
+North Naples Hospital (0.00)
+	11190 Health Park Boulevard Naples 34110
+Unmatched emergency=yes
+Gulf Coast Medical Center (0.00)
+	13681 Doctor's Way Fort Myers 33912
+Unmatched emergency=yes
+Lehigh Regional Medical Center (0.00)
+	1500 Lee Boulevard Lehigh Acres 33936
+Unmatched emergency=yes
+Cape Coral Hospital (0.00)
+	636 Del Prado Boulevard South Cape Coral 33990
+Unmatched emergency=yes
+Bayfront Health Punta Gorda (0.00)
+	809 East Marion Avenue Punta Gorda 33950
+Unmatched emergency=yes
+Bayfront Health - Port Charlotte (0.00)
+	2500 Harbor Boulevard Port Charlotte 33952
+Unmatched emergency=yes
+Fawcett Memorial Hospital (0.00)
+	21298 Olean Boulevard Port Charlotte 33952
+Unmatched emergency=yes
+Englewood Community Hospital (0.00)
+	700 Medical Boulevard Englewood 34223
+Unmatched emergency=yes
+DeSoto Memorial Hospital (0.00)
+	900 North Roberts Avenue Arcadia 34266
+Unmatched emergency=yes
+Highlands Regional Medical Center (0.00)
+	3600 South Highlands Avenue Sebring 33870
+Unmatched emergency=yes
+Florida Hospital Wauchula (0.00)
+	533 Carlton Street Wauchula 33873
+Unmatched emergency=yes
+Doctors Hospital of Sarasota (0.00)
+	5731 Bee Ridge Road Sarasota 34233
+Unmatched emergency=yes
+Sarasota Memorial Hospital (0.00)
+	1700 South Tamiami Trail Sarasota 34239
+Unmatched emergency=yes
+Blake Medical Center (0.00)
+	2020 59th Street West Bradenton 34209
+Unmatched emergency=yes
+Manatee Healthcare System (0.00)
+	206 2nd Street East Bradenton 34208
+Unmatched emergency=yes
+Seven Rivers Regional Medical Center (0.00)
+	6201 Suncoast Boulevard Crystal River 34428
+Unmatched emergency=yes
+Citrus Memorial Hospital (0.00)
+	502 West Highland Boulevard Inverness 34452
+Unmatched emergency=yes
+The Villages Regional Hospital (0.00)
+	1451 El Camino Real The Villages 32159
+Unmatched emergency=yes
+Leesburg Regional Medical Center (0.00)
+	600 East Dixie Avenue Leesburg 34748
+Unmatched emergency=yes
+Florida Hospital Waterman (0.00)
+	1000 Waterman Way Tavares 34778
+Unmatched emergency=yes
+South Seminole Hospital (0.00)
+	555 West State Road 434 Longwood 32750
+Unmatched emergency=yes
+Florida Hospital Altamonte (0.00)
+	601 East Altamonte Drive Altamonte Springs 32701
+Unmatched emergency=yes
+South Lake Hospital (0.00)
+	1900 Don Wickham Drive Clermont 34711
+Unmatched emergency=yes
+Florida Hospital East Orlando (0.00)
+	7727 Lake Underhill Road Orlando 32822
+Unmatched emergency=yes
+Winter Park Memorial Hospital (0.00)
+	201 North Edinburgh Drive Winter Park 32792
+Unmatched emergency=yes
+Saint Cloud Regional Medical Center (0.00)
+	2906 17th Street Saint Cloud 34769
+Unmatched emergency=yes
+Florida Hospital Kissimmee (0.00)
+	2450 North Orange Blossom Trail Kissimmee 34744
+Unmatched emergency=yes
+Bartow Regional Medical Center (0.00)
+	2200 Osprey Boulevard Bartow 33830
+Unmatched emergency=yes
+AdventHealth Zephyrhills (0.00)
+	7050 Gall Boulevard Zephyhills 33541
+Unmatched emergency=yes
+AdventHealth Dade City (0.00)
+	13100 Fort King Road Dade City 33525
+Unmatched emergency=yes
+Bayfront Health - Brooksville (0.00)
+	17240 Cortez Boulevard Brooksville 34601
+Unmatched emergency=yes
+Oak Hill Hospital (0.00)
+	11375 Cortez Boulevard Spring Hill 34613
+Unmatched emergency=yes
+Bayfront Health Spring Hill (0.00)
+	10461 Quality Drive Spring Hill 34609
+Unmatched emergency=yes
+Regional Medical Center Bayonet Point (0.00)
+	14000 Fivay Road Hudson 34667
+Unmatched emergency=yes
+Morton Plant North Bay Hospital (0.00)
+	6600 Madison Street New Port Richey 34652
+Unmatched emergency=yes
+Medical Center of Trinity (0.00)
+	9330 FL 54 Trinity 34655
+Unmatched emergency=yes
+AdventHealth North Pinellas (0.00)
+	1395 South Pinellas Avenue Tarpon Springs 34689
+Unmatched emergency=yes
+South Bay Hospital (0.00)
+	4016 Sun City Center Boulevard Sun City Center 33573
+Unmatched emergency=yes
+St. Joseph's Hospital-South (0.00)
+	6901 Simmons Loop Riverview 33578
+Unmatched emergency=yes
+AdventHealth Tampa (0.00)
+	3100 East Fletcher Avenue Tampa 33613
+Unmatched emergency=yes
+James A. Haley Veterans' Hospital (0.00)
+	13000 Bruce B Downs Boulevard Tampa 33612
+Unmatched emergency=yes
+Memorial Hospital of Tampa (0.00)
+	2901 West Swann Avenue Tampa 33609
+Unmatched emergency=yes
+Saint Joseph's Hospital (0.00)
+	3001 West Dr. Martin Luther King Jr Boulevard Tampa 33603
+Unmatched emergency=yes
+AdventHealth Carrollwood (0.00)
+	7171 North Dale Mabry Highway Tampa 33614
+Unmatched emergency=yes
+Tampa Community Hospital (0.00)
+	6001 Webb Road Tampa 33615
+Unmatched emergency=yes
+Mease Countryside Hospital (0.00)
+	3231 North McMullen Booth Road Safety Harbor 34695
+Unmatched emergency=yes
+Mease Dunedin Hospital (0.00)
+	601 Main Street Dunedin 34698
+Unmatched emergency=yes
+Morton Plant Hospital (0.00)
+	300 Pinellas Street Clearwater 33756
+Unmatched emergency=yes
+Largo Medical Center (0.00)
+	201 14th Street Northwest Largo 33770
+Unmatched emergency=yes
+Largo Medical Center Indian Rocks Road Campus (0.00)
+	2025 Indian Rocks Road Largo 33774
+Unmatched emergency=yes
+Saint Petersburg General Hospital (0.00)
+	6500 38th Avenue North Saint Petersburg 33710
+Unmatched emergency=yes
+C.W. Bill Young VA Medical Center (0.00)
+	10000 Bay Pines Boulevard North Bay Pines 33744
+Unmatched emergency=yes
+Johns Hopkins All Children's Hospital (0.00)
+	501 6th Avenue South St. Petersburg 33701
+Unmatched emergency=yes
+Bayfront Health Saint Petersburg (0.00)
+	701 6th Street South St. Petersburg 33701
+Unmatched emergency=yes
+St. Anthony's Hospital (0.00)
+	1200 7th Avenue North St. Petersburg 33713
+Unmatched emergency=yes
+Doctor's Memorial Hospital (0.00)
+	2600 Hospital Drive Bonifay 32425
+Unmatched emergency=yes
+Nemours Children's Hospital (0.00)
+	13535 Nemours Parkway Orlando 32827
+Unmatched emergency=yes
+TGH Brandon Healthplex (0.00)
+	10740 Palm River Road Tampa 33619
+Unmatched emergency=yes
+Lee Memorial Hospital (0.00)
+	2776 Cleveland Avenue Fort Myers 33901
+Unmatched emergency=yes
+Oviedo Medical Center (0.00)
+	8300 Red Bug Lake Road Oviedo 32765
+Unmatched emergency=yes
+Charlotte Behavioral Health Care (0.00)
+	1700 Education Avenue Punta Gorda -
+Unmatched emergency=yes
+Park West ER (0.00)
+	6477 103rd ST Jacksonville 32210
+Unmatched emergency=yes
+Largo Medical Center Clearwater ER (0.00)
+	2339 Gulf to Bay Boulevard Clearwater 33765
+Unmatched emergency=yes
+Destin ER (0.00)
+	200 Tequesta Drive Destin 32541
+Unmatched emergency=yes
+Florida Hospital Orlando (0.00)
+	601 East Rollins Street Orlando 32803
+Unmatched emergency=yes
+Orlando Regional Medical Center (0.00)
+	52 West Underwood Street Orlando 32806
+Unmatched emergency=yes
+Health Central Hospital (0.00)
+	10000 West Colonial Drive Ocoee 34761
+Unmatched emergency=yes
+Tampa General Hospital (0.00)
+	1 Tampa General Circle Tampa 33606
+Found 236 unmatched emergency.

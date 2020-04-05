@@ -1,202 +1,260 @@
-131
-94
-1. Sage Memorial Hospital
-	State Route 264 South 191 Ganado 86505 (CMS:no)
-	3.01 Sage Memorial Hospital
-	 - - Ganado 86505
-2. Oro Valley Hospital
-	1551 East Tangerine Road Oro Valley 85755 (CMS:yes)
-	3.02 Oro Valley Hospital
-	 1551 East Tangerine Road Tucson 85755
-3. Chinle Comprehensive Health Care Facility
-	Us Hwy 191, Hospital Road Chinle 86503 (CMS:yes)
-	3.01 Chinle Comprehensive Health Care Facility
-	 - - Chinle 86503
-4. Parker Indian Health Center
-	12033 Agency Road Parker 85344 (CMS:yes)
-	2.88 Parker Indian Hospital
-	 12033 West Agency Avenue Parker 85344
-5. Cornerstone Behavioral Health El Dorado
-	1400 North Wilmot Road Tucson 85712 (CMS:no)
-	2.46 Saint Joseph's Hospital
-	 350 North Wilmot Road Tucson 85711
-6. Fort Defiance Indian Hospital
-	Po Box 649 Fort Defiance 86504 (CMS:yes)
-	2.17 Tséhootsooí Medical Center
-	 - - Fort Defiance 86504
-7. Guidance Center, The
-	2187 North Vickey Street Flagstaff 86004 (CMS:no)
-	2.30 Flagstaff Medical Center: Children's Health Center
-	 1215 North Beaver Street Flagstaff 86001
-Saint Luke's Medical Center
-	 1800 East Van Buren Street Phoenix 85006
-	 Emergency Mismatch (CMS:yes)
-	 Saint Lukes Behavioral Health Center
-Banner Baywood Medical Center
-	 6644 East Baywood Avenue Mesa 85206
-	 Emergency Mismatch (CMS:no)
-	 Banner Baywood Medical Center
-8. Hopi Health Care Center
-	Highway 264, Milepost 388 Polacca 86042 (CMS:no)
-	3.01 Hopi Health Care Center
-	 - - Polacca 86042
-Whiteriver Phs Indian Hospital
-	 200 West Hospital Drive Whiteriver 85941
-	 Emergency Mismatch (CMS:no)
-	 Whiteriver Indian Hospital
-9. Oasis Behavioral Health Hospital
-	2190 North Grace Boulevard Chandler 85225 (CMS:no)
-	2.03 Dignity Health Arizona Specialty Hospital
-	 2905 W Warner Rd Suite 1, Chandler, AZ 85224 Chandler 85224
-10. Sonora Behavioral Health Hospital
-	6050 North Corona Road Tucson 85704 (CMS:yes)
-	2.12 Northwest Medical Center
-	 6020 North la Cholla Boulevard Tucson 85741
-11. Tuba City Regional Health Care Corporation
-	Po Box 600 Tuba City 86045 (CMS:no)
-	2.67 Tuba City Regional Heath Care
-	 167 North Main Street Tuba City 86045
-Dignity Health - Arizona General Hospital
-	 7171 South 51st Avenue Laveen 85339
-	 Emergency Mismatch (CMS:no)
-	 Arizona General Hospital
-12. Sells Hospital
-	Highway 86, At Topawa Road Sells 85634 (CMS:yes)
-	2.65 Sells Indian Hospital
-	 - - Sells 85634
-13. Scottsdale Thompson Peak Medical Center
-	7400 East Thompson Peak Parkway Scottsdale 85255 (CMS:yes)
-	2.82 HonorHealth Scottsdale Thompson Peak Medical Center
-	 7400 North 73rd Street Scottsdale 85255
-14. Arizona State Hospital
-	2500 East Van Buren Street Phoenix 85008 (CMS:no)
-	2.66 OASIS Hospital
-	 750 North 40th Street Phoenix 85008
-15. Windhaven Psychiatric Hospital
-	3347 North Windsong Drive Prescott Valley 86314 (CMS:no)
-	2.14 Yavapai Regional Medical Center
-	 7700 East Florentine Road Prescott Valley 86314
-16. Palo Verde Behavioral Health
-	2695 North Craycroft Road Tucson 85712 (CMS:yes)
-	2.45 Tucson Medical Center
-	 5301 East Grant Road Tucson 85712
-17. Banner Payson Medical Center
-	807 South Ponderosa Drive Payson 85541 (CMS:no)
-	2.90 Banner Payson Medical Center
-	 807 South Ponderosa Street Payson 85072
-18. Valley Hospital
-	3550 East Pinchot Avenue Phoenix 85018 (CMS:yes)
-	3.00 Valley Hospital
-	 3550 East Pinchot Avenue Phoenix -
-San Carlos Apache Healthcare
-	 103 Medicine Way Road Peridot 85542
-	 Emergency Mismatch (CMS:no)
-	 San Carlos Apache Healthcare Corporation
-Phoenix Children's Hospital
-	 1919 East Thomas Road Phoenix 85016
-	 Emergency Mismatch (CMS:no)
-	 Phoenix Children's Hospital
-19. Aurora Behavioral Health System
-	6015 West Peoria Avenue Glendale 85302 (CMS:no)
-	2.57 Corebella Addiction Treatment & Suboxone Clinic
-	 5700 West Olive Avenue Glendale 85302
-20. Quail Run Behavioral Health
-	2545 West Quail Avenue Phoenix 85027 (CMS:no)
-	2.32 HonorHealth Deer Valley Medical Center
-	 19829 North 27th Avenue Phoenix 85027
-Phoenix Indian Medical Center
-	 4212 North 16th Street Phoenix 85016
-	 Emergency Mismatch (CMS:no)
-	 Phoenix Indian Medical Center
-21. Dignity Health Arizona General Hospital
-	9130 East Elliot Road Mesa 85212 (CMS:yes)
-	2.07 Arizona Spine & Joint Hospital
-	 4620 East Baseline Road Mesa 85206
-22. Changepoint Psychiatric Hospital
-	1920 West Commerce Drive Lakeside 85929 (CMS:yes)
-	1.16 Hacienda Children’s Hospital
-	 610 West Jerome Avenue Mesa 85210
-23. Copper Springs Hospital, Llc
-	10550 West Mcdowell Road Avondale 85392 (CMS:yes)
-	1.42 Abrazo West Campus
-	 13677 West McDowell Road Goodyear 85395
-Found 23 issues.
+131 OSM hospitals
+0 Medicare hospitals
+Found 0 issues.
+
 Unmatched emergency=yes
-Sage Memorial Hospital (3.01)
-	 - - Ganado 86505
+Sage Memorial Hospital (0.00)
+	- - Ganado 86505
+Unmatched emergency=yes
+Yuma Regional Medical Center (0.00)
+	2400 South Avenue A Yuma 85364
+Unmatched emergency=yes
+White Mountain Regional Medical Center (0.00)
+	118 South Mountain Avenue Springerville 85938
 Unmatched emergency=yes
 Banner Children’s at Cardon Children’s Medical Center (0.00)
-	 - - - -
+	- - - -
 Unmatched emergency=yes
 Abrazo Buckeye Emergency Center (0.00)
-	 525 South Watson Road Buckeye 85326
+	525 South Watson Road Buckeye 85326
 Unmatched emergency=yes
 Northwest Medical Emergency Center (0.00)
-	 - - - -
+	- - - -
 Unmatched emergency=yes
-Corebella Addiction Treatment & Suboxone Clinic (2.57)
-	 5700 West Olive Avenue Glendale 85302
+Corebella Addiction Treatment & Suboxone Clinic (0.00)
+	5700 West Olive Avenue Glendale 85302
+Unmatched emergency=yes
+Chandler Regional Medical Center (0.00)
+	1955 West Frye Road Chandler 85224
+Unmatched emergency=yes
+Banner Desert Medical Center (0.00)
+	1400 South Dobson Mesa 85202
+Unmatched emergency=yes
+Saint Mary's Hospital (0.00)
+	1601 West Saint Mary's Road Tucson 85745
+Unmatched emergency=yes
+Tucson Medical Center (0.00)
+	5301 East Grant Road Tucson 85712
 Unmatched emergency=yes
 Southern Arizona VA Health Care System (0.00)
-	 3601 South 6th Avenue Tucson 85723
+	3601 South 6th Avenue Tucson 85723
+Unmatched emergency=yes
+Banner Boswell Medical Center (0.00)
+	10401 West Thunderbird Boulevard Sun City 85351
 Unmatched emergency=yes
 Verde Valley Medical Center - Sedona Campus (0.00)
-	 3700 West State Route 89A Sedona 86336
+	3700 West State Route 89A Sedona 86336
 Unmatched emergency=yes
-Tséhootsooí Medical Center (2.17)
-	 - - Fort Defiance 86504
+Little Colorado Medical Center (0.00)
+	1501 North Williamson Avenue Winslow 86047
+Unmatched emergency=yes
+HonorHealth Scottsdale Osborn Medical Center (0.00)
+	7400 East Osborn Road Scottsdale 85251
+Unmatched emergency=yes
+Valley View Medical Center (0.00)
+	5330 South Highway 95 Fort Mohave 86426
+Unmatched emergency=yes
+Tséhootsooí Medical Center (0.00)
+	- - Fort Defiance 86504
+Unmatched emergency=yes
+Dignity Health St Joseph's Hospital and Medical Center (0.00)
+	350 West Thomas Road Phoenix 85013
 Unmatched emergency=yes
 HonorHealth Scottsdale Shea Medical Center (0.00)
-	 - - Scottsdale -
+	- - Scottsdale -
+Unmatched emergency=yes
+Mayo Clinic Hospital (0.00)
+	5777 East Mayo Boulevard Phoenix 85054
+Unmatched emergency=yes
+Banner Casa Grande Medical Center (0.00)
+	1800 East Florence Boulevard Casa Grande 85122
+Unmatched emergency=yes
+HonorHealth Deer Valley Medical Center (0.00)
+	19829 North 27th Avenue Phoenix 85027
+Unmatched emergency=yes
+Dignity Health Mercy Gilbert Medical Center (0.00)
+	3555 South Val Vista Drive Gilbert 85297
+Unmatched emergency=yes
+Kingman Regional Medical Center (0.00)
+	3269 Stockton Hill Road Kingman 86409
+Unmatched emergency=yes
+Abrazo Central Campus (0.00)
+	2000 West Bethany Home Road Phoenix 85015
 Unmatched emergency=yes
 Valleywise Health (0.00)
-	 5102 West Campbell Avenue Phoenix 85031
+	5102 West Campbell Avenue Phoenix 85031
 Unmatched emergency=yes
-HonorHealth Scottsdale Thompson Peak Medical Center (2.82)
-	 7400 North 73rd Street Scottsdale 85255
+Mountain Vista Medical Center (0.00)
+	1301 South Crimson Road Mesa 85209
+Unmatched emergency=yes
+Abrazo Arrowhead Campus (0.00)
+	18701 North 67th Avenue Glendale 85308
+Unmatched emergency=yes
+Banner Ironwood Medical Center (0.00)
+	37000 North Gantzel Road Queen Creek 85140
+Unmatched emergency=yes
+Abrazo West Campus (0.00)
+	13677 West McDowell Road Goodyear 85395
+Unmatched emergency=yes
+Banner Del E. Webb Medical Center (0.00)
+	14502 West Meeker Boulevard Sun City West 85375
+Unmatched emergency=yes
+Abrazo Scottsdale Campus (0.00)
+	3811 East Bell Road Phoenix 85032
+Unmatched emergency=yes
+HonorHealth Scottsdale Thompson Peak Medical Center (0.00)
+	7400 North 73rd Street Scottsdale 85255
+Unmatched emergency=yes
+HonorHealth John C. Lincoln Medical Center (0.00)
+	250 East Dunlap Avenue Phoenix 85020
+Unmatched emergency=yes
+Phoenix Indian Medical Center (0.00)
+	4212 North 16th Street Phoenix 85016
 Unmatched emergency=yes
 St Luke's Behavioral Health Center (0.00)
-	 1800 East Van Buren Street Phoenix 85006
+	1800 East Van Buren Street Phoenix 85006
+Unmatched emergency=yes
+Banner Baywood Medical Center (0.00)
+	6644 East Baywood Avenue Mesa 85206
+Unmatched emergency=yes
+Banner Goldfield Medical Center (0.00)
+	2050 West Southern Avenue Apache Junction 85120
+Unmatched emergency=yes
+Banner Gateway Medical Center (0.00)
+	1900 North Higley Road Gilbert 85234
+Unmatched emergency=yes
+Banner Thunderbird Medical Center (0.00)
+	5555 West Thunderbird Road Glendale 85306
+Unmatched emergency=yes
+Canyon Vista Medical Center (0.00)
+	5700 East Highway 90 Sierra Vista 85635
+Unmatched emergency=yes
+Phoenix Children's Hospital (0.00)
+	1919 East Thomas Road Phoenix 85016
 Unmatched emergency=yes
 Arizona Heart Hospital (0.00)
-	 1930 East Thomas Road Phoenix 85016
+	1930 East Thomas Road Phoenix 85016
+Unmatched emergency=yes
+Banner Estrella Medical Center (0.00)
+	9201 West Thomas Road Phoenix 85037
 Unmatched emergency=yes
 Carl T. Hayden Veterans Affairs Medical Center (0.00)
-	 650 East Indian School Road Phoenix 85012
+	650 East Indian School Road Phoenix 85012
 Unmatched emergency=yes
 Dignity Health St. Joseph's Westgate Medical Center (0.00)
-	 7300 North 99th Avenue Glendale 85307
+	7300 North 99th Avenue Glendale 85307
 Unmatched emergency=yes
-Chinle Comprehensive Health Care Facility (3.01)
-	 - - Chinle 86503
+Banner University Medical Center Phoenix (0.00)
+	1111 East McDowell Road Phoenix 85006
 Unmatched emergency=yes
-Hopi Health Care Center (3.01)
-	 - - Polacca 86042
+Banner University Medical Center Tucson (0.00)
+	1501 North Campbell Avenue Tucson 85724
 Unmatched emergency=yes
-Tuba City Regional Heath Care (2.67)
-	 167 North Main Street Tuba City 86045
+Page Hospital (0.00)
+	501 North Navajo Drive Page 86040
 Unmatched emergency=yes
-Parker Indian Hospital (2.88)
-	 12033 West Agency Avenue Parker 85344
+Chinle Comprehensive Health Care Facility (0.00)
+	- - Chinle 86503
 Unmatched emergency=yes
-Sells Indian Hospital (2.65)
-	 - - Sells 85634
+Hopi Health Care Center (0.00)
+	- - Polacca 86042
 Unmatched emergency=yes
-Banner Payson Medical Center (2.90)
-	 807 South Ponderosa Street Payson 85072
+Tuba City Regional Heath Care (0.00)
+	167 North Main Street Tuba City 86045
+Unmatched emergency=yes
+Parker Indian Hospital (0.00)
+	12033 West Agency Avenue Parker 85344
+Unmatched emergency=yes
+La Paz Regional Hospital (0.00)
+	1200 West Mohave Road Parker 85344
+Unmatched emergency=yes
+Sells Indian Hospital (0.00)
+	- - Sells 85634
+Unmatched emergency=yes
+Copper Queen Community Hospital (0.00)
+	101 Cole Avenue Bisbee 85603
+Unmatched emergency=yes
+Mount Graham Regional Medical Center (0.00)
+	1600 South 20th Avenue Safford 85546
+Unmatched emergency=yes
+Benson Hospital (0.00)
+	450 South Ocotillo Avenue Benson 85602
+Unmatched emergency=yes
+Northern Cochise Community Hospital (0.00)
+	901 West Rex Allen Drive Willcox 85643
+Unmatched emergency=yes
+Summit Healthcare Regional Medical Center (0.00)
+	2200 East Show Low Lake Road Show Low 85901
+Unmatched emergency=yes
+Banner Payson Medical Center (0.00)
+	807 South Ponderosa Street Payson 85072
+Unmatched emergency=yes
+Verde Valley Medical Center (0.00)
+	- South Candy Lane Cottonwood 86326
 Unmatched emergency=yes
 Northern Arizona VA Health Care System (0.00)
-	 500 Highway 89 North Prescott 86313
+	500 Highway 89 North Prescott 86313
 Unmatched emergency=yes
-Yavapai Regional Medical Center (2.14)
-	 7700 East Florentine Road Prescott Valley 86314
+Yavapai Regional Medical Center (0.00)
+	1003 Willow Creek Road Prescott 86301
+Unmatched emergency=yes
+Yavapai Regional Medical Center (0.00)
+	7700 East Florentine Road Prescott Valley 86314
+Unmatched emergency=yes
+Wickenburg Community Hospital (0.00)
+	520 Rose Lane Wickenburg 85390
+Unmatched emergency=yes
+Cobre Valley Regional Medical Center (0.00)
+	5880 South Hospital Drive Globe 85501
+Unmatched emergency=yes
+San Carlos Apache Healthcare Corporation (0.00)
+	103 Medicine Way Road Peridot 85542
+Unmatched emergency=yes
+Northwest Medical Center (0.00)
+	6020 North la Cholla Boulevard Tucson 85741
+Unmatched emergency=yes
+Banner - University Medical Center South (0.00)
+	2800 East Ajo Way Tucson 85713
+Unmatched emergency=yes
+Saint Joseph's Hospital (0.00)
+	350 North Wilmot Road Tucson 85711
+Unmatched emergency=yes
+Hu Hu Kam Memorial Hospital (0.00)
+	438 West Seed Farm Road Sacaton 85147
 Unmatched emergency=yes
 Tempe St. Luke Hospital (0.00)
-	 1500 South Mill Avenue Tempe 85281
+	1500 South Mill Avenue Tempe 85281
 Unmatched emergency=yes
-Oro Valley Hospital (3.02)
-	 1551 East Tangerine Road Tucson 85755
+Maricopa Medical Center (0.00)
+	2601 East Roosevelt Street Phoenix 85008
+Unmatched emergency=yes
+Oro Valley Hospital (0.00)
+	1551 East Tangerine Road Tucson 85755
+Unmatched emergency=yes
+Green Valley Hospital (0.00)
+	4455 South I-19 Frontage Road Green Valley 85614
+Unmatched emergency=yes
+Havasu Regional Medical Center (0.00)
+	101 Civic Center Lane Lake Havasu City 86403
+Unmatched emergency=yes
+Western Arizona Regional Medical Center (0.00)
+	2735 Silver Creek Road Bullhead City 86442
+Unmatched emergency=yes
+Whiteriver Indian Hospital (0.00)
+	200 West Hospital Drive Whiteriver 85941
+Unmatched emergency=yes
+Arizona General Hospital (0.00)
+	7171 South 51st Avenue Laveen 85339
 Unmatched emergency=yes
 Florence Hospital at Anthem (0.00)
-	 4545 North Hunt Highway Florence 85132
-Found 26 unmatched emergency.
+	4545 North Hunt Highway Florence 85132
+Unmatched emergency=yes
+Holy Cross Hospital (0.00)
+	1171 West Target Range Road Nogales 85621
+Unmatched emergency=yes
+HonorHealth Scottsdale Shea Medical Center (0.00)
+	9003 East Shea Boulevard Scottsdale 85260
+Unmatched emergency=yes
+Flagstaff Medical Center (0.00)
+	1200 North Beaver Street Flagstaff 86001
+Found 85 unmatched emergency.

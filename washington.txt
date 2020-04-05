@@ -1,100 +1,79 @@
 130 OSM hospitals
-101 Medicare hospitals
-1. Nh Oak Harbor
-	3475 North Saratoga Street Oak Harbor 98277 (CMS:no)
-	1.19 PeaceHealth Peace Island Medical Center
-	1117 Spring Street Friday Harbor 98250
-2. Smokey Point Behavioral Hospital
-	3955 156Th St Ne Marysville 98271 (CMS:no)
-	1.10 Island Hospital
-	1211 24th Street Anacortes 98221
-Kaiser Permanente Central Hospital
-	201 16th Avenue East Seattle 98112
-	 Emergency Mismatch (CMS:yes)
-	Kaiser Permanente Capitol Hill Campus
-3. Virginia Mason Medical Center
-	925 Seneca St Seattle 98101 (CMS:yes)
-	2.65 Virginia Mason Hospital & Seattle Medical Center
-	1100 9th Avenue Seattle 98101
-4. Mary Bridge Children's Hospital
-	317 Martin Luther King Jr W Box 5299 Tacoma 98415 (CMS:yes)
-	3.05 Mary Bridge Children's Hospital
-	317 Martin Luther King Jr Way Tacoma 98403
-5. Tacoma General Allenmore Hospital
-	315 S Mlk Jr Way Tacoma 98405 (CMS:yes)
-	2.59 MultiCare Allenmore Hospital
-	1901 South Union Avenue Tacoma 98405
-6. Lourdes Counseling Center
-	1175 Carondelet Drive Richland 99352 (CMS:no)
-	2.23 Kadlec Regional Medical Center
-	888 Swift Boulevard Richland 99352
-7. Multicare Valley Hospital
-	12606 East Mission Avenue Spokane 99216 (CMS:yes)
-	3.01 Valley Hospital
-	12606 East Mission Avenue Spokane Valley 99216
-8. Inland Northwest Behavioral Health
-	104 W 5Th Ave Spokane 99204 (CMS:no)
-	2.45 Providence Sacred Heart Medical Center and Children's Hospital
-	101 West 8th Avenue Spokane 99204
-Dayton General Hospital
-	1012 South 3rd Street Dayton 99328
-	 Emergency Mismatch (CMS:no)
-	Dayton General Hospital
-9. Astria Toppenish Hospital
-	502 W Fourth Ave Toppenish 98948 (CMS:yes)
-	2.93 Toppenish Community Hospital
-	502 West 4th Avenue Toppenish 98948
-10. Evergreenhealth Medical Center
-	12040 Ne 128Th Street Kirkland 98034 (CMS:yes)
-	3.06 EvergreenHealth Kirkland
-	12040 Northeast 128th Street Kirkland 98034
-11. Navos
-	2600 Southwest Holden Seattle 98126 (CMS:no)
-	2.85 Navos West Seattle Campus
-	2600 Southwest Holden Street Seattle 98126
-12. Providence Regional Medical Center Everett
-	1321 Colby Avenue Everett 98201 (CMS:yes)
-	3.09 Providence Regional Medical Center Everett
-	1700 13th Street Everett 98201
-13. Whitman Hospital And Medical Center
-	1200 West Fairview Colfax 99111 (CMS:yes)
-	3.09 Whitman Hospital
-	1200 West Fairview Street Colfax 99111
-14. Trios
-	900 South Auburn Street Kennewick 99336 (CMS:yes)
-	3.06 Trios Women's and Children's Hospital
-	900 South Auburn Street Kennewick 99336
-15. Nh Bremerton
-	1 Boone Road Bremerton Bremerton 98312 (CMS:no)
-	2.22 Harrison Bremerton
-	2520 Cherry Avenue Bremerton 98310
-16. Skagit Valley Hospital
-	1415 Kincaid Street Mount Vernon 98274 (CMS:yes)
-	3.04 Skagit Valley Hospital
-	300 Hospital Parkway Mount Vernon 98274
-Found 16 issues.
+0 Medicare hospitals
+Found 0 issues.
 
 Unmatched emergency=yes
-Mary Bridge Children's Hospital (3.05)
+St. Francis Hospital (0.00)
+	34515 9th Avenue South Federal Way 98003
+Unmatched emergency=yes
+Mary Bridge Children's Hospital (0.00)
 	317 Martin Luther King Jr Way Tacoma 98403
 Unmatched emergency=yes
-MultiCare Allenmore Hospital (2.59)
+Saint Joseph Medical Center (0.00)
+	1717 South J Street Tacoma 98405
+Unmatched emergency=yes
+MultiCare Allenmore Hospital (0.00)
 	1901 South Union Avenue Tacoma 98405
+Unmatched emergency=yes
+Saint Clare Hospital (0.00)
+	11315 Bridgeport Way Southwest Lakewood 98499
+Unmatched emergency=yes
+MultiCare Good Samaritan Hospital (0.00)
+	401 15th Avenue Southeast Puyallup 98372
+Unmatched emergency=yes
+Central Washington Hospital (0.00)
+	1201 South Miller Street Wenatchee 98801
+Unmatched emergency=yes
+Northwest Hospital & Medical Center (0.00)
+	1550 North 115th Street Seattle 98133
+Unmatched emergency=yes
+Madigan Army Medical Center (0.00)
+	9040 Jackson Avenue Tacoma 98431
 Unmatched emergency=yes
 VA Medical Center - Seattle (0.00)
 	1660 South Columbian Way Seattle 98108
 Unmatched emergency=yes
+Mason General Hospital (0.00)
+	901 Mountain View Drive Shelton 98584
+Unmatched emergency=yes
+MultiCare Deaconess Hospital (0.00)
+	800 West 5th Avenue Spokane 99204
+Unmatched emergency=yes
 Swedish Hospital (0.00)
 	18100 Northeast Union Hill Road Redmond 98052
 Unmatched emergency=yes
-Whitman Hospital (3.09)
+Whitman Hospital (0.00)
 	1200 West Fairview Street Colfax 99111
+Unmatched emergency=yes
+Legacy Salmon Creek Medical Center (0.00)
+	2211 Northeast 139th Street Vancouver 98686
+Unmatched emergency=yes
+Harborview Medical Center (0.00)
+	325 9th Avenue Seattle 98104
+Unmatched emergency=yes
+Highline Medical Center (0.00)
+	16251 Sylvester Road Southwest Burien 98166
+Unmatched emergency=yes
+Providence Saint Mary Medical Center (0.00)
+	401 West Poplar Street Walla Walla 99362
 Unmatched emergency=yes
 Walla Walla General Hospital (0.00)
 	1025 South 2nd Avenue Walla Walla 99362
 Unmatched emergency=yes
-Providence Regional Medical Center Everett (3.09)
+Providence Regional Medical Center Everett (0.00)
 	1700 13th Street Everett 98201
+Unmatched emergency=yes
+Lourdes Medical Center (0.00)
+	420 North 4th Avenue Pasco 99301
+Unmatched emergency=yes
+University of Washington Medical Center (0.00)
+	1959 Northeast Pacific Street Seattle 98195
+Unmatched emergency=yes
+Saint Anthony Hospital (0.00)
+	11567 Canterwood Boulevard Northwest Gig Harbor 98332
+Unmatched emergency=yes
+Virginia Mason Memorial (0.00)
+	2811 Tieton Drive Yakima 98902
 Unmatched emergency=yes
 MultiCare Tacoma General Hospital (0.00)
 	315 Martin Luther King Jr Way Tacoma 98403
@@ -102,27 +81,213 @@ Unmatched emergency=yes
 Swedish Medical Center Ballard Campus (0.00)
 	5300 Tallman Avenue Northwest Seattle 98107
 Unmatched emergency=yes
-Virginia Mason Hospital & Seattle Medical Center (2.65)
+Virginia Mason Hospital & Seattle Medical Center (0.00)
 	1100 9th Avenue Seattle 98101
 Unmatched emergency=yes
-Skagit Valley Hospital (3.04)
+PeaceHealth St. Joseph Medical Center (0.00)
+	2901 Squalicum Parkway Bellingham 98225
+Unmatched emergency=yes
+Island Hospital (0.00)
+	1211 24th Street Anacortes 98221
+Unmatched emergency=yes
+Skagit Valley Hospital (0.00)
 	300 Hospital Parkway Mount Vernon 98274
+Unmatched emergency=yes
+Swedish Medical Center Cherry Hill Campus (0.00)
+	500 17th Avenue Seattle 98122
+Unmatched emergency=yes
+Swedish First Hill Medical Center (0.00)
+	747 Broadway Seattle 98122
+Unmatched emergency=yes
+Olympic Medical Center (0.00)
+	939 Caroline Street Port Angeles 98362
+Unmatched emergency=yes
+PeaceHealth Southwest Medical Center (0.00)
+	400 Northeast Mother Joseph Place Vancouver 98664
+Unmatched emergency=yes
+PeaceHealth St. John Medical Center (0.00)
+	1615 Delaware Street Longview 98632
+Unmatched emergency=yes
+Swedish Issaquah (0.00)
+	751 Northeast Blakely Drive Issaquah 98029
+Unmatched emergency=yes
+Overlake Medical Center (0.00)
+	1035 116th Avenue Northeast Bellevue 98004
+Unmatched emergency=yes
+Multicare Auburn Medical Center (0.00)
+	202 North Division Street Auburn 98001
+Unmatched emergency=yes
+PeaceHealth Peace Island Medical Center (0.00)
+	1117 Spring Street Friday Harbor 98250
 Unmatched emergency=yes
 Trios Southridge Hospital (0.00)
 	3810 Plaza Way Kennewick 99336
 Unmatched emergency=yes
+MultiCare Covington Medical Center (0.00)
+	17700 Southeast 272nd Street Covington 98042
+Unmatched emergency=yes
+Skyline Hospital (0.00)
+	211 Skyline Drive White Salmon 98672
+Unmatched emergency=yes
+Klickitat Valley Hospital (0.00)
+	310 South Roosevelt Avenue Goldendale 98620
+Unmatched emergency=yes
+Arbor Health Morton Hospital (0.00)
+	521 Adams Avenue Morton 98356
+Unmatched emergency=yes
+Providence Centralia Hospital (0.00)
+	914 South Scheuber Road Centralia 98331
+Unmatched emergency=yes
+Ocean Beach Hospital (0.00)
+	174 1st Avenue North Ilwaco 98624
+Unmatched emergency=yes
+Willapa Harbor Hospital (0.00)
+	800 Alder Street South Bend 98586
+Unmatched emergency=yes
+Grays Harbor Community Hospital (0.00)
+	915 Anderson Drive Aberdeen 98520
+Unmatched emergency=yes
+Summit Pacific Medical Center (0.00)
+	600 East Main Street Elma 98541
+Unmatched emergency=yes
+Forks Community Hospital (0.00)
+	530 Bogachiel Way Forks 98331
+Unmatched emergency=yes
+Jefferson Healthcare Hospital (0.00)
+	834 Sheridan Street Port Townsend 98368
+Unmatched emergency=yes
+WhidbeyHealth Medical Center (0.00)
+	101 North MainStreet Coupeville 98239
+Unmatched emergency=yes
+PeaceHealth United General Medical Center (0.00)
+	2000 Hospital Drive Sedro Woolley 98284
+Unmatched emergency=yes
+Cascade Valley Hospital (0.00)
+	330 South Stillaguamish Avenue Arlington 98223
+Unmatched emergency=yes
 Swedish Medical Center - Mill Creek (0.00)
 	13020 Meridian Avenue South Everett 98208
 Unmatched emergency=yes
-EvergreenHealth Kirkland (3.06)
+EvergreenHealth Monroe (0.00)
+	14701 179th Avenue Southeast Monroe 98272
+Unmatched emergency=yes
+Swedish Medical Center Edmonds Campus (0.00)
+	21601 76th Avenue West Edmonds 98026
+Unmatched emergency=yes
+EvergreenHealth Kirkland (0.00)
 	12040 Northeast 128th Street Kirkland 98034
+Unmatched emergency=yes
+Valley Medical Center (0.00)
+	400 South 43rd Street Renton 98055
+Unmatched emergency=yes
+Snoqualmie Valley Hospital (0.00)
+	9801 Frontier Avenue Southeast Snoqualmie 98065
 Unmatched emergency=yes
 Harrison Medical Center (0.00)
 	1800 Northwest Myhre Road Silverdale 98383
 Unmatched emergency=yes
-Toppenish Community Hospital (2.93)
+Capital Medical Center (0.00)
+	3900 Capital Mall Drive Southwest Olympia 98502
+Unmatched emergency=yes
+Providence St. Peter Hospital (0.00)
+	413 Lilly Road Northeast Olympia 98506
+Unmatched emergency=yes
+St. Elizabeth Hospital (0.00)
+	1455 Battersby Avenue Enumclaw 98022
+Unmatched emergency=yes
+Kittitas Valley Community Hospital (0.00)
+	603 South Chestnut Street Ellensburg 98926
+Unmatched emergency=yes
+Yakima Regional Medical & Cardiac Center (0.00)
+	110 South 9th Avenue Yakima 98902
+Unmatched emergency=yes
+Toppenish Community Hospital (0.00)
 	502 West 4th Avenue Toppenish 98948
 Unmatched emergency=yes
-Valley Hospital (3.01)
+Sunnyside Community Hospital (0.00)
+	1016 Tacoma Avenue Sunnyside 98944
+Unmatched emergency=yes
+Kadlec Regional Medical Center (0.00)
+	888 Swift Boulevard Richland 99352
+Unmatched emergency=yes
+Dayton General Hospital (0.00)
+	1012 South 3rd Street Dayton 99328
+Unmatched emergency=yes
+Tri-State Memorial Hospital (0.00)
+	1221 Highland Avenue Clarkston 99403
+Unmatched emergency=yes
+Valley Hospital (0.00)
 	12606 East Mission Avenue Spokane Valley 99216
-Found 17 unmatched emergency.
+Unmatched emergency=yes
+Providence Holy Family Hospital (0.00)
+	5633 North Lidgerwood Street Spokane 99208
+Unmatched emergency=yes
+Newport Hospital & Health Services (0.00)
+	714 West Pine Street Newport 99156
+Unmatched emergency=yes
+Providence Saint Joseph's Hospital (0.00)
+	500 East Webster Avenue Chewelah 99109
+Unmatched emergency=yes
+Providence Mount Carmel Hospital (0.00)
+	982 East Columbia Avenue Colville 99114
+Unmatched emergency=yes
+Ferry County Memorial Hospital (0.00)
+	36 North Klondike Road Republic 99166
+Unmatched emergency=yes
+North Valley Hospital (0.00)
+	203 South Western Avenue Tonasket 98855
+Unmatched emergency=yes
+Mid Valley Hospital (0.00)
+	810 Jasmine Street Omak 98841
+Unmatched emergency=yes
+Three Rivers Hospital (0.00)
+	507 Hospital Way Brewster 98812
+Unmatched emergency=yes
+Lake Chelan Community Hospital (0.00)
+	503 East Highland Avenue Chelan 98816
+Unmatched emergency=yes
+Quincy Valley Medical Center (0.00)
+	908 10th Avenue Southwest Quincy 98848
+Unmatched emergency=yes
+Columbia Basin Hospital (0.00)
+	200 Nat Washington Way Ephrata 98823
+Unmatched emergency=yes
+Coulee Medical Center (0.00)
+	411 Fortuyn Boulevard Grand Coulee 99133
+Unmatched emergency=yes
+Lincoln Hospital (0.00)
+	10 Nichols Street Davenport 99122
+Unmatched emergency=yes
+East Adams Rural Healthcare (0.00)
+	903 South Adams Street Ritzville 99169
+Unmatched emergency=yes
+Othello Community Hospital (0.00)
+	315 North 14th Avenue Othello 99344
+Unmatched emergency=yes
+Odessa Memorial Healthcare Center (0.00)
+	502 East Amende Street Odessa 99159
+Unmatched emergency=yes
+Cascade Medical Center (0.00)
+	817 Commercial Street Leavenworth 98826
+Unmatched emergency=yes
+Pullman Regional Hospital (0.00)
+	835 Southeast Bishop Boulevard Pullman 99163
+Unmatched emergency=yes
+Samaritan Hospital (0.00)
+	801 East Wheeler Road Moses Lake 98837
+Unmatched emergency=yes
+Garfield County Public Hospital (0.00)
+	66 North 6th Street Pomeroy 99347
+Unmatched emergency=yes
+Prosser Memorial Hospital (0.00)
+	723 Memorial Street Prosser 99350
+Unmatched emergency=yes
+Harrison Bremerton (0.00)
+	2520 Cherry Avenue Bremerton 98310
+Unmatched emergency=yes
+Providence Sacred Heart Medical Center and Children's Hospital (0.00)
+	101 West 8th Avenue Spokane 99204
+Unmatched emergency=yes
+Seattle Children's Hospital (0.00)
+	4800 Sand Point Way Northeast Seattle 98105
+Found 96 unmatched emergency.

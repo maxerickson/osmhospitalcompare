@@ -1,50 +1,7 @@
 60 OSM hospitals
-45 Medicare hospitals
-1. Incline Village Health Center
-	880 Alder Street Incline Village 89451 (CMS:yes)
-	2.93 Incline Village Community Hospital
-	880 Alder Avenue Incline Village 89451
-2. Southern Nevada Adult Mental Health Services
-	6161 W Charleston Blvd Las Vegas 89146 (CMS:yes)
-	2.22 Kindred Hospital Las Vegas - Sahara
-	5110 West Sahara Avenue Las Vegas 89146
-3. Spring Mountain Treatment Center
-	7000 West Spring Mountain Road Las Vegas 89117 (CMS:no)
-	2.14 St. Rose Dominican San Martín Campus
-	8280 West Warm Springs Road Las Vegas 89113
-4. Seven Hills Behavioral Institute
-	3021 W Horizon Ridge Pkwy Henderson 89052 (CMS:no)
-	2.45 Saint Rose Dominican Hospital Siena Campus
-	3001 Saint Rose Parkway Henderson 89052
-5. Humboldt General Hospital
-	118 East Haskell Street Winnemucca 89445 (CMS:yes)
-	1.44 Mount Grant General Hospital
-	200 South A Street Hawthorne 89415
-6. Spring Valley Hospital Medical Center
-	5400 South Rainbow Blvd Las Vegas 89118 (CMS:yes)
-	2.16 Sunrise Hospital & Medical Center
-	3186 South Maryland Parkway Las Vegas 89109
-7. Dignity Health Saint Rose Dominican N L V Campus
-	1550 W Craig Ranch North Las Vegas 89031 (CMS:yes)
-	1.83 North Vista Hospital
-	1409 East Lake Mead Boulevard North Las Vegas 89030
-8. 99Th Medical Group (Nellis Afb)
-	99 Mdg 4700 Las Vegas Blvd Nellis Afb 89191 (CMS:yes)
-	1.82 Mike O'Callaghan Military Medical Center
-	4700 Las Vegas Boulevard North Nellis Air Force Base 89191
-9. Dini-Townsend Hospital At Nnmh
-	480 Galletti Way Sparks 89431 (CMS:no)
-	3.09 Northern Nevada Adult Mental Health Services
-	480 Galletti Way Sparks 89431
-10. Spring Mountain Sahara
-	5460 West Sahara Las Vegas 89146 (CMS:yes)
-	2.69 Kindred Hospital Las Vegas - Sahara
-	5110 West Sahara Avenue Las Vegas 89146
-11. Valley Hospital Medical Center
-	620 Shadow Lane Las Vegas 89106 (CMS:yes)
-	2.38 Sunrise Hospital & Medical Center
-	3186 South Maryland Parkway Las Vegas 89109
-Found 11 issues.
+0 Medicare hospitals
+Found 0 issues.
+
 Unmatched emergency=yes
 Sunrise Children's Hospital (0.00)
 	3186 South Maryland Parkway Las Vegas 89109
@@ -52,21 +9,108 @@ Unmatched emergency=yes
 UMC Trauma Center (0.00)
 	- - - -
 Unmatched emergency=yes
+St. Rose Dominican San Martín Campus (0.00)
+	8280 West Warm Springs Road Las Vegas 89113
+Unmatched emergency=yes
+Southern Hills Hospital (0.00)
+	9300 West Sunset Road Las Vegas 89148
+Unmatched emergency=yes
+Desert Springs Hospital (0.00)
+	2075 East Flamingo Road Las Vegas 89119
+Unmatched emergency=yes
 VA Sierra Nevada Health Care System (0.00)
 	975 Kirman Avenue Reno 89502
+Unmatched emergency=yes
+Renown South Meadows Medical Center (0.00)
+	10101 Double R Boulevard Reno 89521
+Unmatched emergency=yes
+Centennial Hospital (0.00)
+	6900 North Durango Drive Las Vegas 89149
+Unmatched emergency=yes
+North Vista Hospital (0.00)
+	1409 East Lake Mead Boulevard North Las Vegas 89030
+Unmatched emergency=yes
+University Medical Center (0.00)
+	1800 West Charleston Boulevard Las Vegas 89102
+Unmatched emergency=yes
+Sunrise Hospital & Medical Center (0.00)
+	3186 South Maryland Parkway Las Vegas 89109
+Unmatched emergency=yes
+South Lyon Medical Center (0.00)
+	213 South Whitacre Street Yerington 89447
+Unmatched emergency=yes
+Boulder City Hospital (0.00)
+	901 Adams Boulevard Boulder City 89005
+Unmatched emergency=yes
+William Bee Ririe Hospital (0.00)
+	1500 Avenue H Ely 89301
+Unmatched emergency=yes
+Saint Rose Dominican hospitals - Rose-De Lima Campus (0.00)
+	102 East Lake Mead Parkway Henderson 89015
+Unmatched emergency=yes
+MountainView Hospital (0.00)
+	3100 North Tenaya Way Las Vegas 89128
 Unmatched emergency=yes
 Carson-Tahoe Regional Medical Center (0.00)
 	- - - -
 Unmatched emergency=yes
+Saint Mary's Regional Medical Center (0.00)
+	235 West 6th Street Reno 89503
+Unmatched emergency=yes
+Summerlin Hospital (0.00)
+	657 North Town Center Drive Las Vegas 89144
+Unmatched emergency=yes
 Owyhee Community Health Facility (0.00)
 	- - Owyhee 89832
 Unmatched emergency=yes
-Incline Village Community Hospital (2.93)
+Northeastern Nevada Regional Hospital (0.00)
+	2001 Errecart Boulevard Elko 89801
+Unmatched emergency=yes
+Battle Mountain General Hospital (0.00)
+	535 South Humboldt Street Battle Mountain 89820
+Unmatched emergency=yes
+Pershing General Hospital (0.00)
+	855 6th Street Lovelock 89419
+Unmatched emergency=yes
+Banner Churchill Community Hospital (0.00)
+	801 East Williams Avenue Fallon 89406
+Unmatched emergency=yes
+Renown Regional Medical Center (0.00)
+	1155 Mill Street Reno 89502
+Unmatched emergency=yes
+Northern Nevada Medical Center (0.00)
+	2375 East Prater Way Sparks 89434
+Unmatched emergency=yes
+Incline Village Community Hospital (0.00)
 	880 Alder Avenue Incline Village 89451
+Unmatched emergency=yes
+Carson Tahoe Regional Medical Center (0.00)
+	1600 Medical Parkway Carson City 89703
+Unmatched emergency=yes
+Mount Grant General Hospital (0.00)
+	200 South A Street Hawthorne 89415
+Unmatched emergency=yes
+Grover C Dils Medical Center (0.00)
+	700 North Spring Street Caliente 89008
+Unmatched emergency=yes
+Mesa View Regional Hospital (0.00)
+	1200 Bertha Howe Avenue Mesquite 89027
+Unmatched emergency=yes
+Saint Rose Dominican Hospital Siena Campus (0.00)
+	3001 Saint Rose Parkway Henderson 89052
 Unmatched emergency=yes
 North Las Vegas VA Medical Center (0.00)
 	6900 North Pecos Road North Las Vegas 89086
 Unmatched emergency=yes
-Mike O'Callaghan Military Medical Center (1.82)
+Mike O'Callaghan Military Medical Center (0.00)
 	4700 Las Vegas Boulevard North Nellis Air Force Base 89191
-Found 8 unmatched emergency.
+Unmatched emergency=yes
+Henderson Hospital (0.00)
+	1050 West Galleria Drive Henderson 89011
+Unmatched emergency=yes
+Carson Valley Medical Center (0.00)
+	1107 US 395 Gardnerville 89410
+Unmatched emergency=yes
+Desert View Hospital (0.00)
+	360 South Lola Lane Pahrump 89048
+Found 37 unmatched emergency.

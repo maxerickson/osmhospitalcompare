@@ -1,26 +1,43 @@
 83 OSM hospitals
-62 Medicare hospitals
-Providence Milwaukie Hospital
-	10150 Southeast 32nd Avenue Milwaukie 97222
-	 Emergency Mismatch (CMS:no)
-	Providence Milwaukie Hospital
-1. Adventist Health Tillamook
-	1000 Third Street Tillamook 97141 (CMS:yes)
-	2.86 Tillamook Regional Medical Center
-	1000 3rd Street Tillamook 97141
-2. Cedar Hills Hospital
-	10300 Sw Eastridge Street Portland 97225 (CMS:no)
-	2.40 Providence Saint Vincent Hospital
-	9205 Southwest Barnes Road Portland 97225
-3. Ohsu Hospital And Clinics
-	3181 Sw Sam Jackson Park Road Portland 97239 (CMS:yes)
-	3.07 Shriners Hospitals for Children
-	3101 Southwest Sam Jackson Park Road Portland 97239
-Found 3 issues.
+0 Medicare hospitals
+Found 0 issues.
 
 Unmatched emergency=yes
 Roseburg VA Medical Center (0.00)
 	913 Northwest Garden Valley Boulevard Roseburg 97471
+Unmatched emergency=yes
+Tuality Community Hospital (0.00)
+	335 Southeast 8th Avenue Hillsboro 97123
+Unmatched emergency=yes
+Legacy Good Samaritan Medical Center (0.00)
+	1015 Northwest 22nd Avenue Portland 97210
+Unmatched emergency=yes
+Kaiser Permanente Westside Medical Center (0.00)
+	2875 Northeast Stucki Avenue Hillsboro 97124
+Unmatched emergency=yes
+Good Samaritan Regional Medical Center (0.00)
+	3600 Northwest Samaritan Drive Corvallis 97330
+Unmatched emergency=yes
+Providence Medford Medical Center (0.00)
+	1111 Crater Lake Avenue Medford 97504
+Unmatched emergency=yes
+Sky Lakes Medical Center (0.00)
+	2865 Daggett Avenue Klamath Falls 97601
+Unmatched emergency=yes
+Legacy Emanuel Medical Center (0.00)
+	2801 North Gantenbein Avenue Portland 97227
+Unmatched emergency=yes
+McKenzie-Willamette Medical Center (0.00)
+	1460 G Street Springfield 97477
+Unmatched emergency=yes
+Samaritan Lebanon Community Hospital (0.00)
+	525 North Santiam Highway Lebanon 97355
+Unmatched emergency=yes
+Columbia Memorial Hospital (0.00)
+	2111 Exchange Street Astoria 97103
+Unmatched emergency=yes
+Providence Portland Medical Center (0.00)
+	4805 Northeast Glisan Street Portland 97213
 Unmatched emergency=yes
 OHSU - Doernbecher Emergency (0.00)
 	3251 Southwest Sam Jackson Park Road Portland 97239
@@ -28,9 +45,147 @@ Unmatched emergency=yes
 Portland VA Medical Center (0.00)
 	- - - -
 Unmatched emergency=yes
-Tillamook Regional Medical Center (2.86)
+CHI Mercy Health Mercy Medical Center (0.00)
+	2700 Northwest Stewart Parkway Roseburg 97471
+Unmatched emergency=yes
+Samaritan North Lincoln Hospital (0.00)
+	3043 Northeast 28th Street Lincoln City 97367
+Unmatched emergency=yes
+Tillamook Regional Medical Center (0.00)
 	1000 3rd Street Tillamook 97141
+Unmatched emergency=yes
+Saint Alphonsus Medical Center (0.00)
+	351 Southwest 9th Street Ontario 97914
+Unmatched emergency=yes
+Providence Newberg Medical Center (0.00)
+	1001 Providence Drive Newberg 97132
+Unmatched emergency=yes
+Legacy Meridian Park Medical Center (0.00)
+	19300 Southwest 65th Avenue Tualatin 97062
+Unmatched emergency=yes
+Providence Seaside Hospital (0.00)
+	725 South Wahanna Road Seaside 97138
+Unmatched emergency=yes
+Saint Charles Medical Center (0.00)
+	470 Northeast A Street Madras 97741
+Unmatched emergency=yes
+Saint Charles Medical Center (0.00)
+	2500 Northeast Neff Road Bend 97701
+Unmatched emergency=yes
+Saint Charles Medical Center Redmond (0.00)
+	1253 Northwest Canal Boulevard Redmond 97756
+Unmatched emergency=yes
+Adventist Medical Center (0.00)
+	10123 Southeast Market Street Portland 97216
+Unmatched emergency=yes
+Providence Hood River Memorial Hospital (0.00)
+	810 12th Street Hood River 97031
+Unmatched emergency=yes
+Lake District Hospital (0.00)
+	700 South J Street Lakeview 97630
+Unmatched emergency=yes
+Wallowa Memorial Hospital (0.00)
+	601 Medical Parkway Enterprise 97828
+Unmatched emergency=yes
+Saint Alphonsus Medical Center - Baker City (0.00)
+	3325 Pocahontas Road Baker City 97814
+Unmatched emergency=yes
+Grande Ronde Hospital (0.00)
+	900 Sunset Drive La Grande 97850
+Unmatched emergency=yes
+Blue Mountain Hospital (0.00)
+	170 Ford Road John Day 97845
+Unmatched emergency=yes
+CHI Saint Anthony Hospital (0.00)
+	2801 Saint Anthony Way Pendelton 97801
+Unmatched emergency=yes
+Good Shepherd Medical Center (0.00)
+	610 Northwest 11th Street Hermiston 97838
+Unmatched emergency=yes
+Saint Charles Prineville (0.00)
+	384 Southeast Combs Flat Road Prineville 97754
+Unmatched emergency=yes
+Mid Columbia Medical Center (0.00)
+	1700 East 19th Street The Dalles 97058
+Unmatched emergency=yes
+Coquille Valley Hospital (0.00)
+	940 East 5th Street Coquille 97423
+Unmatched emergency=yes
+Asante Ashland Community Hospital (0.00)
+	280 Maple Street Ashland 97520
+Unmatched emergency=yes
+Asante Rogue Regional Medical Center (0.00)
+	2825 East Barnett Road Medford 97504
+Unmatched emergency=yes
+Asante Three Rivers Medical Center (0.00)
+	500 Southwest Ramsey Avenue Grants Pass 97527
+Unmatched emergency=yes
+Peace Health Medical Center University District (0.00)
+	1255 Hilyard Street Eugene 97401
+Unmatched emergency=yes
+Santiam Hospital (0.00)
+	1401 North 10th Avenue Stayton 97383
+Unmatched emergency=yes
+Salem Health West Valley (0.00)
+	525 Southeast Washington Street Dallas 97338
+Unmatched emergency=yes
+Willamette Valley Medical Center (0.00)
+	2700 Southeast Stratus Avenue McMinnville 97128
 Unmatched emergency=yes
 Tuality Forest Grove Hospital (0.00)
 	1809 Maple Street Forest Grove 97116
-Found 5 unmatched emergency.
+Unmatched emergency=yes
+Providence Saint Vincent Hospital (0.00)
+	9205 Southwest Barnes Road Portland 97225
+Unmatched emergency=yes
+Providence Willamette Falls Medical Center (0.00)
+	1500 Division Street Oregon City 97045
+Unmatched emergency=yes
+Kaiser Sunnyside Medical Center (0.00)
+	10180 Southeast Sunnyside Road Clackamas 97015
+Unmatched emergency=yes
+Samaritan Pacific Communities Hospital (0.00)
+	930 Southwest Abbey Street Newport 97365
+Unmatched emergency=yes
+PeaceHealth Peace Harbor Medical Center (0.00)
+	400 9th Street Florence 97439
+Unmatched emergency=yes
+Lower Umpqua Hospital (0.00)
+	600 Ranch Road Reedsport 97467
+Unmatched emergency=yes
+Pioneer Memorial Hospital (0.00)
+	564 East Pioneer Drive Heppner 97836
+Unmatched emergency=yes
+Salem Hospital (0.00)
+	890 Oak Street Southeast Salem 97301
+Unmatched emergency=yes
+Legacy Mount Hood Medical Center (0.00)
+	24800 Southeast Stark Street Gresham 97030
+Unmatched emergency=yes
+Harney District Hospital (0.00)
+	557 West Washington Street Burns 97720
+Unmatched emergency=yes
+Legacy Silverton Medical Center (0.00)
+	342 Fairview Street Silverton 97381
+Unmatched emergency=yes
+Samaritan Albany General Hospital (0.00)
+	1046 6th Avenue Southwest Albany 97321
+Unmatched emergency=yes
+Cottage Grove Community Medical Center (0.00)
+	1515 Village Drive Cottage Grove 97424
+Unmatched emergency=yes
+Sacred Heart Medical Center at Riverbend (0.00)
+	3333 Riverbend Drive Springfield 97477
+Unmatched emergency=yes
+Providence Milwaukie Hospital (0.00)
+	10150 Southeast 32nd Avenue Milwaukie 97222
+Unmatched emergency=yes
+Bay Area Hospital (0.00)
+	1775 Thompson Road Coos Bay 97420
+Unmatched emergency=yes
+Curry General Hospital (0.00)
+	94220 4th Street Gold Beach 97444
+Unmatched emergency=yes
+Southern Coos Hospital & Health Center (0.00)
+	900 11th Street Southeast Bandon 97411
+Found 62 unmatched emergency.

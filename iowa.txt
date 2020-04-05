@@ -1,119 +1,380 @@
-136
-118
-1. Compass Memorial Healthcare
-	300 W May St Marengo 52301 (CMS:yes)
-	2.89 Marengo Memorial Hospital
-	 300 West May Street Marengo 52301
-2. Hancock County Health System
-	532 1St St Nw Britt 50423 (CMS:yes)
-	2.82 Hancock County Memorial Hospital
-	 532 1st Street Northwest Britt 50423
-3. Mercy Medical Center - Cedar Rapids
-	701 10Th Street Se Cedar Rapids 52403 (CMS:yes)
-	3.08 Mercy Medical Center
-	 701 10th Street Northeast Cedar Rapids 52403
-4. Genesis Medical Center-Dewitt
-	1118 11Th Street Dewitt 52742 (CMS:yes)
-	2.89 Genesis Medical Center, DeWitt Campus
-	 1118 11th Avenue DeWitt 52742
-5. Unitypoint Health-Marshalltown
-	3 S 4Th Ave Marshalltown 50158 (CMS:yes)
-	2.65 Central Iowa Healthcare
-	 3 South 4th Avenue Marshalltown 50158
-6. Mercyone Clinton Medical Center
-	1410 North 4Th Street Clinton 52732 (CMS:yes)
-	1.45 Lucas County Health Center
-	 1200 North 7th Street Chariton 50049
-7. Avera Merrill Pioneer Hospital
-	1100 S 10Th Ave Rock Rapids 51246 (CMS:yes)
-	2.25 Sanford Rock Rapids Medical Center
-	 801 South Green Street Rock Rapids 51246
-Mental Health Institute
-	 1251 West Cedar Loop Cherokee 51012
-	 Emergency Mismatch (CMS:yes)
-	 Cherokee Mental Health Institute
-8. Mercy Medical Center-North Iowa
-	1000 Fourth Street Sw Mason City 50401 (CMS:yes)
-	2.93 MercyOne North Iowa Medical Center
-	 1000 4th Street Southwest Mason City 50401
-9. Saint Lukes Regional Medical Center
-	2720 Stone Park Boulevard Sioux City 51104 (CMS:yes)
-	3.08 UnityPoint Health | St. Luke's
-	 2720 Stone Park Boulevard Sioux City 51104
-10. Sioux Center Health
-	1101 9Th Street Se Sioux Center 51250 (CMS:yes)
-	3.03 Sioux Center Community Hospital
-	 1101 9th Street Southeast Sioux Center 51250
-11. Mercyone Dyersville Medical Center
-	1111 3Rd Street Sw Dyersville 52040 (CMS:yes)
-	2.98 Mercy Medical Center - Dyersville
-	 1111 3rd Street Southwest Dyersville 52040
-12. Unitypoint Health - Keokuk
-	1600 Morgan Street Keokuk 52632 (CMS:yes)
-	3.07 Keokuk Area Hospital
-	 1600 Morgan Street Keokuk 52632
-Found 12 issues.
+136 OSM hospitals
+0 Medicare hospitals
+Found 0 issues.
+
 Unmatched emergency=yes
 Emergency Department (0.00)
-	 1221 South Gear Avenue Burlington 52655
+	1221 South Gear Avenue Burlington 52655
 Unmatched emergency=yes
-Mercy Medical Center (3.08)
-	 701 10th Street Northeast Cedar Rapids 52403
+Saint Luke's Hospital (0.00)
+	1026 A Avenue Northeast Cedar Rapids 52402
+Unmatched emergency=yes
+Mercy Medical Center (0.00)
+	701 10th Street Northeast Cedar Rapids 52403
 Unmatched emergency=yes
 Methodist West Hospital (0.00)
-	 1660 Westown Parkway West Des Moines 50266
+	1660 Westown Parkway West Des Moines 50266
+Unmatched emergency=yes
+Mercy Medical Center (0.00)
+	1111 6th Avenue Des Moines 50314
+Unmatched emergency=yes
+Iowa Methodist Medical Center (0.00)
+	1200 Pleasant Street Des Moines 50309
 Unmatched emergency=yes
 Genesis Medical Center (0.00)
-	 1401 West Central Park Avenue Davenport 52804
+	1401 West Central Park Avenue Davenport 52804
 Unmatched emergency=yes
 VA Medical Center (0.00)
-	 3600 30th Street Des Moines 50310
+	3600 30th Street Des Moines 50310
 Unmatched emergency=yes
-Central Iowa Healthcare (2.65)
-	 3 South 4th Avenue Marshalltown 50158
+Waverly Health Center (0.00)
+	312 9th Street Southwest Waverly 50677
+Unmatched emergency=yes
+Mary Greeley Medical Center (0.00)
+	1111 Duff Avenue Ames 50019
+Unmatched emergency=yes
+Broadlawns Medical Center (0.00)
+	1801 Hickman Road Des Moines 50314
+Unmatched emergency=yes
+Central Iowa Healthcare (0.00)
+	3 South 4th Avenue Marshalltown 50158
 Unmatched emergency=yes
 University of Iowa Stead Family Children’s Hospital (0.00)
-	 200 Hawkins Drive Iowa City 52242
+	200 Hawkins Drive Iowa City 52242
 Unmatched emergency=yes
-UnityPoint Health | St. Luke's (3.08)
-	 2720 Stone Park Boulevard Sioux City 51104
+MercyOne Cedar Falls Medical Center (0.00)
+	515 College Street Cedar Falls 50613
+Unmatched emergency=yes
+UnityPoint Health | St. Luke's (0.00)
+	2720 Stone Park Boulevard Sioux City 51104
+Unmatched emergency=yes
+Great River Medical Center Campus (0.00)
+	1221 South Gear Avenue West Burlington 52655
+Unmatched emergency=yes
+MercyOne Dubuque Medical Center (0.00)
+	250 Mercy Drive Dubuque 52001
+Unmatched emergency=yes
+Iowa Lutheran Hospital (0.00)
+	700 East University Avenue Des Moines 50316
 Unmatched emergency=yes
 Mercy Medical Center-West Lakes (0.00)
-	 1755 59th Place West Des Moines 50266
+	1755 59th Place West Des Moines 50266
 Unmatched emergency=yes
-Keokuk Area Hospital (3.07)
-	 1600 Morgan Street Keokuk 52632
+Decatur County Hospital (0.00)
+	1405 Northwest Church Street Leon 50144
 Unmatched emergency=yes
-Mercy Medical Center - Dyersville (2.98)
-	 1111 3rd Street Southwest Dyersville 52040
+Genesis Medical Center (0.00)
+	1227 East Rusholme Street Davenport 52803
+Unmatched emergency=yes
+Keokuk Area Hospital (0.00)
+	1600 Morgan Street Keokuk 52632
+Unmatched emergency=yes
+St. Anthony Regional Hospital (0.00)
+	311 South Clark Street Carroll 51401
+Unmatched emergency=yes
+Hansen Family Hospital (0.00)
+	920 South Oak Street Iowa Falls 50126
+Unmatched emergency=yes
+Finley Hospital (0.00)
+	350 North Grandview Avenue Dubuque 52001
+Unmatched emergency=yes
+Mercy Medical Center - Dyersville (0.00)
+	1111 3rd Street Southwest Dyersville 52040
+Unmatched emergency=yes
+Jackson County Regional Health Center (0.00)
+	7000 West Grove Street Maquoketa 52060
 Unmatched emergency=yes
 MercyOne (0.00)
-	 - - - -
+	- - - -
+Unmatched emergency=yes
+Guttenberg Municipal Hospital (0.00)
+	200 Main Street Guttenberg 52052
+Unmatched emergency=yes
+MercyOne Elkader Medical Center (0.00)
+	901 Davidson Street Elkader 52043
+Unmatched emergency=yes
+Veterans Memorial Hospital (0.00)
+	40 1st Street Southeast Waukon 52172
+Unmatched emergency=yes
+Trinity Bettendorf (0.00)
+	4500 Utica Ridge Road Bettendorf 52722
+Unmatched emergency=yes
+Trinity Muscatine Hospital (0.00)
+	1518 Mulberry Street Muscatine 52761
+Unmatched emergency=yes
+Fort Madison Community Hospital (0.00)
+	5445 Avenue O Fort Madison 52627
 Unmatched emergency=yes
 Iowa City VA Health Care System (0.00)
-	 601 Highway 6 West Iowa City 52246
+	601 Highway 6 West Iowa City 52246
 Unmatched emergency=yes
-MercyOne North Iowa Medical Center (2.93)
-	 1000 4th Street Southwest Mason City 50401
+University of Iowa Hospitals & Clinics (0.00)
+	200 Hawkins Drive Iowa City 52245
 Unmatched emergency=yes
-Marengo Memorial Hospital (2.89)
-	 300 West May Street Marengo 52301
+Mercy Iowa City (0.00)
+	500 East Market Street Iowa City 52245
 Unmatched emergency=yes
-Sioux Center Community Hospital (3.03)
-	 1101 9th Street Southeast Sioux Center 51250
+Jones Regional Medical Center (0.00)
+	1795 Highway 64 East Anamosa 52205
 Unmatched emergency=yes
-Sanford Rock Rapids Medical Center (2.25)
-	 801 South Green Street Rock Rapids 51246
+Regional Medical Center (0.00)
+	709 West Main Street Manchester 52057
 Unmatched emergency=yes
-Hancock County Memorial Hospital (2.82)
-	 532 1st Street Northwest Britt 50423
+MercyOne North Iowa Medical Center (0.00)
+	1000 4th Street Southwest Mason City 50401
 Unmatched emergency=yes
-Genesis Medical Center, DeWitt Campus (2.89)
-	 1118 11th Avenue DeWitt 52742
+Winneshiek Medical Center (0.00)
+	901 Montgomery Street Decorah 52101
+Unmatched emergency=yes
+Gundersen Palmer Lutheran Hospital (0.00)
+	112 Jefferson Street West Union 52175
+Unmatched emergency=yes
+Regional Health Services of Howard County (0.00)
+	235 8th Avenue West Cresco 52136
+Unmatched emergency=yes
+MercyOne Oelwein Medical Center (0.00)
+	201 8th Avenue Southeast Oelwein 50662
+Unmatched emergency=yes
+Buchanan County Health Center (0.00)
+	1600 1st Street East Independence 50644
+Unmatched emergency=yes
+Virginia Gay Hospital (0.00)
+	502 North 9th Avenue Vinton 52349
+Unmatched emergency=yes
+Washington County Hospital (0.00)
+	400 East Polk Street Washington 52353
+Unmatched emergency=yes
+Henry County Health Center (0.00)
+	407 South White Street Mount Pleasant 52641
+Unmatched emergency=yes
+Van Buren County Hospital (0.00)
+	3-4 Franklin Street Keosauqua 52565
+Unmatched emergency=yes
+Davis County Hospital (0.00)
+	509 North Madison Street Bloomfield 52537
 Unmatched emergency=yes
 Jefferson County Health Center (0.00)
-	 2000 South Main Street Fairfield 52556
+	2000 South Main Street Fairfield 52556
+Unmatched emergency=yes
+Ottumwa Regional Health Center (0.00)
+	1001 Pennsylvania Avenue Ottumwa 52501
+Unmatched emergency=yes
+Keokuk County Health Center (0.00)
+	23019 IA 149 Sigourney 52591
+Unmatched emergency=yes
+Marengo Memorial Hospital (0.00)
+	300 West May Street Marengo 52301
+Unmatched emergency=yes
+Allen Hospital (0.00)
+	1825 Logan Avenue Waterloo 50703
+Unmatched emergency=yes
+MercyOne Waterloo Medical Center (0.00)
+	3421 West 9th Street Waterloo 50702
+Unmatched emergency=yes
+Community Memorial Hospital (0.00)
+	909 West 1st Street Sumner 50674
+Unmatched emergency=yes
+MercyOne New Hampton Medical Center (0.00)
+	308 North Maple Avenue New Hampton 50659
+Unmatched emergency=yes
+Floyd County Medical Center (0.00)
+	800 11th Street Charles City 50616
+Unmatched emergency=yes
+Grinnell Regional Medical Center (0.00)
+	210 4th Avenue Grinnell 50112
+Unmatched emergency=yes
+Pella Regional Health Center (0.00)
+	404 Jefferson Street Pella 50219
+Unmatched emergency=yes
+Mahaska Health Partnership (0.00)
+	1229 C Avenue East Oskaloosa 52577
+Unmatched emergency=yes
+Monroe County Hospital (0.00)
+	6580 165 Street Albia 52531
+Unmatched emergency=yes
+Mercy Medical Center (0.00)
+	1 Saint Joseph Drive Centerville 52544
+Unmatched emergency=yes
+Wayne County Hospital (0.00)
+	417 East South Street Corydon 50060
+Unmatched emergency=yes
+Lucas County Health Center (0.00)
+	1200 North 7th Street Chariton 50049
+Unmatched emergency=yes
+Clarke County Hospital (0.00)
+	800 South Fillmore Street Osceola 50213
+Unmatched emergency=yes
+Greater Regional Medical Center (0.00)
+	1700 West Townline Street Creston 50801
+Unmatched emergency=yes
+Ringgold County Hospital (0.00)
+	504 North Cleveland Street Mount Ayr 50854
+Unmatched emergency=yes
+CHI Health Mercy Corning (0.00)
+	603 Rosary Drive Corning 50841
+Unmatched emergency=yes
+Clarinda Regional Health Center (0.00)
+	220 Essie Davison Drive Clarinda 51632
+Unmatched emergency=yes
+Montgomery County Memorial Hospital (0.00)
+	2301 Eastern Avenue Red Oak 51566
+Unmatched emergency=yes
+Shenandoah Medical Center (0.00)
+	300 Pershing Avenue Shenandoah 51601
+Unmatched emergency=yes
+George C. Grape Community Hospital (0.00)
+	2959 US 275 Hamburg 51640
+Unmatched emergency=yes
+Methodist Jennie Edmundson Hospital (0.00)
+	933 East Pierce Street Council Bluffs 51503
+Unmatched emergency=yes
+CHI Health Mercy Council Bluffs (0.00)
+	800 Mercy Road Council Bluffs 51503
+Unmatched emergency=yes
+CHI Health Missouri Valley (0.00)
+	631 North 8th Street Missouri Valley 51555
+Unmatched emergency=yes
+Burgess Health Center (0.00)
+	1600 Diamond Street Onawa 51040
+Unmatched emergency=yes
+Mercy Medical Center (0.00)
+	801 5th Street Sioux City 51101
+Unmatched emergency=yes
+Floyd Valley Healthcare (0.00)
+	714 Lincoln Street Northeast Le Mars 51031
+Unmatched emergency=yes
+Hawarden Community Hospital (0.00)
+	1111 11th Street Hawarden 51023
+Unmatched emergency=yes
+Sioux Center Community Hospital (0.00)
+	1101 9th Street Southeast Sioux Center 51250
+Unmatched emergency=yes
+Sanford Rock Rapids Medical Center (0.00)
+	801 South Green Street Rock Rapids 51246
+Unmatched emergency=yes
+Osceola Community Hospital (0.00)
+	600 9th Avenue North Sibley 51249
+Unmatched emergency=yes
+Sanford Sheldon Medical Center (0.00)
+	118 North 7th Avenue Sheldon 51201
+Unmatched emergency=yes
+Orange City Hospital (0.00)
+	1000 Lincoln Circle Southeast Orange City 51041
+Unmatched emergency=yes
+Cherokee Regional Medical Center (0.00)
+	300 Sioux Valley Drive Cherokee 51012
+Unmatched emergency=yes
+Baum Hamon Mercy Hospital (0.00)
+	255 North Welch Avenue Primghar 51245
+Unmatched emergency=yes
+Spencer Hospital (0.00)
+	1200 1st Avenue East Spencer 51301
+Unmatched emergency=yes
+Lakes Regional Healthcare (0.00)
+	- Highway 71 South Spirit Lake 51360
+Unmatched emergency=yes
+Avera Holy Family Hospital (0.00)
+	826 North 8th Street Estherville 51334
+Unmatched emergency=yes
+Palo Alto County Hospital (0.00)
+	3201 1st Street Emmetsburg 50536
+Unmatched emergency=yes
+Buena Vista Regional Medical Center (0.00)
+	1525 West 5th Street Storm Lake 50588
+Unmatched emergency=yes
+Pocahontas Community Hospital (0.00)
+	606 Northwest 7th Street Pocahontas 50574
+Unmatched emergency=yes
+Humboldt County Memorial Hospital (0.00)
+	1000 North 15th Street Humboldt 50548
+Unmatched emergency=yes
+Kossuth Regional Health Center (0.00)
+	1515 South Phillips Street Algona 50511
+Unmatched emergency=yes
+Hancock County Memorial Hospital (0.00)
+	532 1st Street Northwest Britt 50423
+Unmatched emergency=yes
+Mitchell County Regional Health Center - Osage (0.00)
+	616 North 8th Street Osage 50461
+Unmatched emergency=yes
+Iowa Specialty Hospital - Belmond (0.00)
+	403 1st Street Southeast Belmond 50421
+Unmatched emergency=yes
+Iowa Specialty Hospital - Clarion (0.00)
+	1316 South Main Street Clarion 50525
+Unmatched emergency=yes
+Franklin General Hospital (0.00)
+	1720 Central Avenue East Hampton 50441
+Unmatched emergency=yes
+Grundy County Memorial Hospital (0.00)
+	201 East J Avenue Grundy Center 50638
+Unmatched emergency=yes
+Story County Medical Center (0.00)
+	640 South 19th Street Nevada 50201
+Unmatched emergency=yes
+Skiff Medical Center (0.00)
+	205 North 4th Avenue East Newton 50208
+Unmatched emergency=yes
+Knoxville Hospital (0.00)
+	1002 South Lincoln Street Knoxville 50138
+Unmatched emergency=yes
+Madison County Memorial Hospital (0.00)
+	300 West Hutchings Street Winterset 50273
+Unmatched emergency=yes
+Adair County Memorial Hospital (0.00)
+	609 Southeast Kent Street Greenfield 50849
+Unmatched emergency=yes
+Cass County Memorial Hospital (0.00)
+	1510 East 10th Street Atlantic 50022
+Unmatched emergency=yes
+Dallas County Hospital (0.00)
+	610 10th Street Perry 50220
+Unmatched emergency=yes
+Van Diest Medical Center (0.00)
+	2350 Hospital Drive Webster City 50595
+Unmatched emergency=yes
+Trinity Regional Medical Center (0.00)
+	802 Kenyon Road Fort Dodge 50501
+Unmatched emergency=yes
+Boone County Hospital (0.00)
+	1015 Union Street Boone 50036
+Unmatched emergency=yes
+Greene County Medical Center (0.00)
+	1000 West Lincolnway Street Jefferson 50129
+Unmatched emergency=yes
+Guthrie County Hospital (0.00)
+	710 North 12th Street Guthrie Center 50115
+Unmatched emergency=yes
+Audubon County Memorial Hospital (0.00)
+	515 Pacific Avenue Audubon 50025
+Unmatched emergency=yes
+Myrtue Memorial Hospital (0.00)
+	1213 Garfield Avenue Harlan 51537
+Unmatched emergency=yes
+Manning Regional Healthcare Center (0.00)
+	1550 6th Street Manning 51455
+Unmatched emergency=yes
+Crawford County Memorial Hospital (0.00)
+	100 Medical Parkway Denison 51442
+Unmatched emergency=yes
+Stewart Memorial Community Hospital (0.00)
+	1301 West Main Street Lake City 51449
+Unmatched emergency=yes
+Loring Hospital (0.00)
+	211 Highland Avenue Sac City 50583
+Unmatched emergency=yes
+Horn Memorial Hospital (0.00)
+	701 East 2nd Street Ida Grove 51445
+Unmatched emergency=yes
+Genesis Medical Center, DeWitt Campus (0.00)
+	1118 11th Avenue DeWitt 52742
+Unmatched emergency=yes
+Jefferson County Health Center (0.00)
+	2000 South Main Street Fairfield 52556
+Unmatched emergency=yes
+Hegg Memorial Health Center (0.00)
+	1202 21st Avenue Rock Valley 51247
 Unmatched emergency=yes
 Great River Medical Center (0.00)
-	 1221 South Gear Avenue Burlington 52655
-Found 21 unmatched emergency.
+	1221 South Gear Avenue Burlington 52655
+Found 125 unmatched emergency.

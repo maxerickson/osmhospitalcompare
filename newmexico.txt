@@ -1,71 +1,10 @@
 71 OSM hospitals
-46 Medicare hospitals
-1. Gallup Indian Medical Center
-	516 E Nizhoni Blvd Gallup 87301 (CMS:yes)
-	3.01 Gallup Indian Medical Center
-	- - Gallup 87301
-2. Crownpoint Healthcare Facility
-	Junction Of Hwy 371 Crownpoint 87313 (CMS:yes)
-	2.42 Crownpoint Service Unit
-	- - Crownpoint 87313
-3. Mimbres Memorial Hospital
-	900 W Ash Deming 88031 (CMS:yes)
-	3.05 Mimbres Memorial Hospital
-	900 West Ash Street Deming 88030
-Presbyterian Santa Fe Medical Center
-	4801 Beckner Road Santa Fe 87507
-	 Emergency Mismatch (CMS:no)
-	Presbyterian Santa Fe Medical Center
-4. Dhhs Usphs Indian Health Services
-	Exit #102 Off I-40 1/2 Mile South San Fidel 87049 (CMS:yes)
-	1.14 Santa Fe Indian Hospital
-	1700 Cerrillos Road Santa Fe 87501
-5. Haven Behavioral Hospital Of Albuquerque
-	5400 Gibson Boulevard Se, 4Th Floor Box# 8 Albuquerque 87108 (CMS:no)
-	2.27 Raymond G. Murphy VA Medical Center
-	1501 San Pedro Boulevard Southeast Albuquerque 87108
-Carlsbad Medical Center
-	2430 West Pierce Street Carlsbad 88220
-	 Emergency Mismatch (CMS:no)
-	Carlsbad Medical Center
-6. Zuni Comprehensive Community Health Center
-	Route 301 North B Street Zuni 87327 (CMS:yes)
-	2.87 Zuni Comprehensive Health Center
-	21 B Avenue Zuni 87327
-7. Peak Behavioral Health Services, Llc
-	5065 Mcnutt Road (Bldg'S B, C & D) Santa Teresa 88008 (CMS:no)
-	2.89 Peak Behavioral Health
-	5055 McNutt Road Santa Teresa 88008
-8. Northern Navajo Medical Center
-	Us Hwy 491 North Shiprock 87420 (CMS:yes)
-	3.01 Northern Navajo Medical Center
-	- - Shiprock 87420
-9. Bhc Mesilla Valley Hospital, Llc
-	3751 Del Rey Boulevard Las Cruces 88012 (CMS:no)
-	2.70 Mesilla Valley Hospital
-	3751 Del Rey Boulevard - 88012
-10. Mescalero Phs Indian Hospital
-	P O Box 210 Mescalero 88340 (CMS:no)
-	2.35 Mescalero Service Unit
-	318 Abalone Loop Mescalero 88340
-11. Nor-Lea Hospital District
-	1600 North Main Ave Lovington 88260 (CMS:yes)
-	3.06 Nor Lea General Hospital
-	1600 North Main Street Lovington 88260
-12. Unm Hospital
-	2211 Lomas Boulevard Ne Albuquerque 87106 (CMS:yes)
-	2.72 UNM Carrie Tingley Hospital
-	1127 University Boulevard Northeast Albuquerque 87106
-13. Sierra Vista Hospital
-	800 East 9Th Avenue T Or C 87901 (CMS:yes)
-	3.03 Sierra Vista Hospital
-	800 East 9th Avenue Truth or Consequences 87901
-14. Central Desert Behavioral Health Center
-	1525 N Renaissance Blvd Ne Albuquerque 87107 (CMS:no)
-	1.97 Raymond G. Murphy VA Medical Center
-	1501 San Pedro Boulevard Southeast Albuquerque 87108
-Found 14 issues.
+0 Medicare hospitals
+Found 0 issues.
 
+Unmatched emergency=yes
+Lovelace Women's Hopsital (0.00)
+	4701 Montgomery Boulevard Northeast Albuquerque 87109
 Unmatched emergency=yes
 Pine Hill Health Center (0.00)
 	7 Indian Service Rt 140 Pine Hill 87357
@@ -73,25 +12,109 @@ Unmatched emergency=yes
 -- (0.00)
 	- - - -
 Unmatched emergency=yes
-Raymond G. Murphy VA Medical Center (1.97)
+Raymond G. Murphy VA Medical Center (0.00)
 	1501 San Pedro Boulevard Southeast Albuquerque 87108
 Unmatched emergency=yes
-Gallup Indian Medical Center (3.01)
+Mountain View Regional Medical Center (0.00)
+	4311 East Lohman Avenue Las Cruces 88011
+Unmatched emergency=yes
+Memorial Medical Center (0.00)
+	2450 South Telshor Boulevard Las Cruces 88011
+Unmatched emergency=yes
+Lincoln County Medical Center (0.00)
+	211 Sudderth Drive Ruidoso 88345
+Unmatched emergency=yes
+Lovelace Westside Hospital (0.00)
+	10501 Golf Course Road Northwest Albuquerque 87114
+Unmatched emergency=yes
+Carlsbad Medical Center (0.00)
+	2430 West Pierce Street Carlsbad 88220
+Unmatched emergency=yes
+Dr Dan C Trigg Memorial Hospital (0.00)
+	301 East Miel de Luna Avenue Tucumcari, NM 88401
+Unmatched emergency=yes
+Alta Vista Regional Hospital (0.00)
+	104 Legion Drive Las Vegas 87701
+Unmatched emergency=yes
+Rehoboth McKinley Christian Health Care Services (0.00)
+	1900 Red Rock Drive Gallup 87301
+Unmatched emergency=yes
+Gallup Indian Medical Center (0.00)
 	- - Gallup 87301
 Unmatched emergency=yes
-Northern Navajo Medical Center (3.01)
+Northern Navajo Medical Center (0.00)
 	- - Shiprock 87420
 Unmatched emergency=yes
-Mimbres Memorial Hospital (3.05)
+San Juan Regional Medical Center (0.00)
+	801 West Maple Street Farmington 87401
+Unmatched emergency=yes
+Cibola General Hospital (0.00)
+	1016 East Roosevelt Avenue Grants 87020
+Unmatched emergency=yes
+Mimbres Memorial Hospital (0.00)
 	900 West Ash Street Deming 88030
 Unmatched emergency=yes
-Nor Lea General Hospital (3.06)
+Gila Regional Medical Center (0.00)
+	1313 East 32nd Street Silver City 88061
+Unmatched emergency=yes
+Gerald Champion Regional Medical Center (0.00)
+	2669 North Scenic Drive Alamogordo 88310
+Unmatched emergency=yes
+Lea Regional Medical Center (0.00)
+	5419 North Lovington Highway Hobbs 88240
+Unmatched emergency=yes
+Nor Lea General Hospital (0.00)
 	1600 North Main Street Lovington 88260
+Unmatched emergency=yes
+Artesia General Hospital (0.00)
+	702 North 13th Street Artesia 88210
+Unmatched emergency=yes
+Eastern New Mexico Medical Center (0.00)
+	405 West Country Club Road Roswell 88201
+Unmatched emergency=yes
+Roosevelt General Hospital (0.00)
+	42121 US 70 Portales 88130
+Unmatched emergency=yes
+Plains Regional Medical Center (0.00)
+	2100 North Dr Martin Luther King Jr Boulevard Clovis 88101
+Unmatched emergency=yes
+Guadalupe County Hospital (0.00)
+	117 Camino de Vida Santa Rosa 88435
+Unmatched emergency=yes
+Union County General Hospital (0.00)
+	300 Wilson Street Clayton 88415
+Unmatched emergency=yes
+Miners Colfax Medical Center (0.00)
+	203 Hospital Drive Raton 87740
+Unmatched emergency=yes
+Holy Cross Hospital (0.00)
+	1397 Weimer Road Taos 87571
+Unmatched emergency=yes
+Los Alamos Medical Center (0.00)
+	3917 West Road Los Alamos 87544
+Unmatched emergency=yes
+Española Hospital (0.00)
+	1010 Spruce Street Espanola 87532
+Unmatched emergency=yes
+Christus Saint Vincent Regional Medical Center (0.00)
+	455 Saint Michaels Drive Santa Fe 87505
+Unmatched emergency=yes
+UNM Sandoval Regional Medical Center (0.00)
+	3001 Broadmoor Boulevard Northeast Rio Rancho 87144
 Unmatched emergency=yes
 Presbyterian Kaseman Hospital (0.00)
 	8300 Constitution Avenue Northeast Albuquerque 87110
 Unmatched emergency=yes
-Sierra Vista Hospital (3.03)
+Presbyterian Hospital (0.00)
+	1100 Central Avenue Southeast Albuquerque 87106
+Unmatched emergency=yes
+Lovelace Medical Center (0.00)
+	601 Doctor Martin Luther King Junior Avenue Northeast Albuquerque 87102
+Unmatched emergency=yes
+Socorro General Hospital (0.00)
+	1202 US-60 Socorro 87801
+Unmatched emergency=yes
+Sierra Vista Hospital (0.00)
 	800 East 9th Avenue Truth or Consequences 87901
 Unmatched emergency=yes
 Presbyterian Rust Medical Center (0.00)
@@ -100,15 +123,21 @@ Unmatched emergency=yes
 University of New Mexico Hospital (0.00)
 	- - Albuquerque 87131
 Unmatched emergency=yes
-Zuni Comprehensive Health Center (2.87)
+Zuni Comprehensive Health Center (0.00)
 	21 B Avenue Zuni 87327
 Unmatched emergency=yes
-Crownpoint Service Unit (2.42)
+Crownpoint Service Unit (0.00)
 	- - Crownpoint 87313
+Unmatched emergency=yes
+Lovelace Regional Hospital - Roswell (0.00)
+	117 East 19th Street Roswell 88201
 Unmatched emergency=yes
 Acoma-Canoncito-Laguna Service Unit (0.00)
 	80B Veterans Boulevard Acoma 87034
 Unmatched emergency=yes
 Cuba Health Center (0.00)
 	6349 US 550 Cuba 87013
-Found 15 unmatched emergency.
+Unmatched emergency=yes
+Presbyterian Santa Fe Medical Center (0.00)
+	4801 Beckner Road Santa Fe 87507
+Found 46 unmatched emergency.

@@ -1,96 +1,308 @@
-128
-102
-1. Norton Hospital / Norton Healthcare Pavilion / Nor
-	200 East Chestnut Street Louisville 40202 (CMS:yes)
-	2.29 University of Louisville Hospital
-	 530 South Jackson Street Louisville 40202
-2. Blanchfield Ach (Fort Campbell)
-	650 Joel Drive Fort Campbell 42223 (CMS:yes)
-	0.87 Central State Hospital
-	 10510 La Grange Road Louisville 40223
-3. Lincoln Trail Behavioral Health System
-	3909 S Wilson Road Radcliff 40160 (CMS:no)
-	1.04 KentuckyOne Health Medical Center Jewish South
-	 1903 West Hebron Lane Hillview 40165
-4. Arh Our Lady Of The Way
-	11203 Main Street Martin 41649 (CMS:yes)
-	3.02 Saint Joseph Martin
-	 11203 Main Street Martin 41649
-5. University Of Kentucky Hospital
-	800 Rose Street Lexington 40536 (CMS:yes)
-	2.23 UK Healthcare
-	 1000 South Limestone Lexington 40536
-6. Breckinridge Memorial Hospital
-	1011 Old Highway 60 Hardinsburg 40143 (CMS:yes)
-	2.88 Breckinridge Health
-	 1011 Old US 60 East Hardinsburg 40143
-7. Sun Behavioral Health
-	820 Dolwick Drive Erlanger 41018 (CMS:no)
-	1.15 Fleming County Hospital
-	 55 Foundation Drive Flemingsburg 41041
-8. The Medical Center At Franklin
-	1100 Brookhaven Road Franklin 42135 (CMS:yes)
-	2.99 The Medical Center
-	 - Brookhaven Road Franklin 42134
-9. Georgetown Community Hospital
-	1140 Lexington Road Georgetown 40324 (CMS:yes)
-	1.22 Marshall County Hospital
-	 615 Old Symsonia Road Benton 42025
-10. The Brook Hospital - Kmi
-	8521 Lagrange Road Louisville 40242 (CMS:yes)
-	2.41 Central State Hospital
-	 10510 La Grange Road Louisville 40223
-11. Rivendell Behavioral Health Services
-	1035 Porter Pike Bowling Green 42103 (CMS:no)
-	1.94 TriStar Greenview Regional Hospital
-	 1801 Ashley Circle Bowling Green 42101
-Found 11 issues.
+128 OSM hospitals
+0 Medicare hospitals
+Found 0 issues.
+
 Unmatched emergency=yes
-UK Healthcare (2.23)
-	 1000 South Limestone Lexington 40536
+McDowell ARH Hospital (0.00)
+	- Route 122 McDowell 41647
 Unmatched emergency=yes
-Saint Joseph Martin (3.02)
-	 11203 Main Street Martin 41649
+UK Healthcare (0.00)
+	1000 South Limestone Lexington 40536
+Unmatched emergency=yes
+Saint Joseph Martin (0.00)
+	11203 Main Street Martin 41649
 Unmatched emergency=yes
 Good Samaritan Hospital (0.00)
-	 310 South Limestone Lexington 40508
+	310 South Limestone Lexington 40508
+Unmatched emergency=yes
+Saint Elizabeth Fort Thomas (0.00)
+	85 North Grand Avenue Fort Thomas 41075
+Unmatched emergency=yes
+Saint Elizabeth Medical Center Florence (0.00)
+	4900 Houston Road Florence 41042
+Unmatched emergency=yes
+Baptist Health (0.00)
+	1740 Nicholasville Road Lexington 40503
 Unmatched emergency=yes
 Lexington VA Medical Center (0.00)
-	 1101 Veterans Drive Lexington 40536
+	1101 Veterans Drive Lexington 40536
+Unmatched emergency=yes
+Saint Elizabeth Medical Center Edgewood (0.00)
+	1 Medical Village Drive Edgewood 41017
+Unmatched emergency=yes
+James B. Haggin Memorial Hospital (0.00)
+	464 Linden Avenue Harrodsburg 40330
+Unmatched emergency=yes
+Clark County Medical Center (0.00)
+	175 Hospital Drive Winchester 40391
+Unmatched emergency=yes
+Bluegrass Community Hospital (0.00)
+	360 Amsden Avenue Versailles 40383
+Unmatched emergency=yes
+Methodist Hospital (0.00)
+	1305 North Elm Street Henderson 42420
 Unmatched emergency=yes
 Norton Audubon Hospital (0.00)
-	 1 Audubon Plaza Drive Louisville 40217
+	1 Audubon Plaza Drive Louisville 40217
 Unmatched emergency=yes
 Norton Hospital Campus (0.00)
-	 - - - -
+	- - - -
 Unmatched emergency=yes
 Saint Elizabeth Covington (0.00)
-	 - - - -
+	- - - -
+Unmatched emergency=yes
+Saint Joseph Hospital (0.00)
+	1 Saint Joseph Drive Lexington 40504
+Unmatched emergency=yes
+Baptist Health Louisville (0.00)
+	4000 Kresge Way Louisville 40207
 Unmatched emergency=yes
 Norton Women's and Children's Hospital (0.00)
-	 4001 Dutchmans Lane St Matthews 40207
+	4001 Dutchmans Lane St Matthews 40207
 Unmatched emergency=yes
 Medical Center Jewish Southwest (0.00)
-	 - - - -
+	- - - -
 Unmatched emergency=yes
-The Medical Center (2.99)
-	 - Brookhaven Road Franklin 42134
+Jewish Hospital (0.00)
+	200 Abraham Flexner Way Louisville 40202
+Unmatched emergency=yes
+The Medical Center (0.00)
+	- Brookhaven Road Franklin 42134
+Unmatched emergency=yes
+Saint Joseph Mount Sterling (0.00)
+	225 Falcon Drive Mount Sterling 40353
+Unmatched emergency=yes
+Spring View Hospital (0.00)
+	320 Loretto Road Lebanon 40033
+Unmatched emergency=yes
+TriStar Greenview Regional Hospital (0.00)
+	1801 Ashley Circle Bowling Green 42101
+Unmatched emergency=yes
+The Medical Center at Bowling Green (0.00)
+	250 Park Street Bowling Green 42101
+Unmatched emergency=yes
+Tug Valley ARH Regional Medical Center (0.00)
+	260 Hospital Drive South Williamson 41503
+Unmatched emergency=yes
+Trigg County Hospital (0.00)
+	254 Main Street Cadiz 42211
+Unmatched emergency=yes
+Jennie Stuart Medical Center (0.00)
+	320 West 18th Street Hopkinsville 42240
+Unmatched emergency=yes
+Baptist Health Madisonville (0.00)
+	900 Hospital Drive Madisonville 42431
+Unmatched emergency=yes
+The Medical Center at Caverna (0.00)
+	1501 South Dixie Street Horse Cave 42749
+Unmatched emergency=yes
+Hardin Memorial Health (0.00)
+	913 North Dixie Avenue Elizabethtown 42701
+Unmatched emergency=yes
+Meadowview Regional Medical Center (0.00)
+	989 Medical Park Drive Maysville 41056
+Unmatched emergency=yes
+Our Lady of Bellefonte Hospital (0.00)
+	1000 Saint Christopher Drive Ashland 41101
+Unmatched emergency=yes
+Baptist Health Richmond (0.00)
+	801 Eastern Bypass Richmond 40475
+Unmatched emergency=yes
+Saint Joseph East (0.00)
+	150 North Eagle Creek Drive Lexington 40509
+Unmatched emergency=yes
+Jewish Hospital Shelbyville (0.00)
+	727 Hospital Drive Shelbyville 40065
+Unmatched emergency=yes
+Baptist Health La Grange (0.00)
+	1025 New Moody Lane La Grange 40031
 Unmatched emergency=yes
 Norton Children’s Medical Center (0.00)
-	 4910 Chamberlain Lane Louisville 40241
+	4910 Chamberlain Lane Louisville 40241
 Unmatched emergency=yes
 Norton Brownsboro Hospital (0.00)
-	 4960 Norton Healthcare Boulevard Louisville 40241
+	4960 Norton Healthcare Boulevard Louisville 40241
 Unmatched emergency=yes
 Robley Rex VA Medical Center (0.00)
-	 800 Zorn Avenue Louisville 40206
+	800 Zorn Avenue Louisville 40206
 Unmatched emergency=yes
 Saints Mary and Elizabeth Hospital (0.00)
-	 - - - -
+	- - - -
 Unmatched emergency=yes
-KentuckyOne Health Medical Center Jewish South (1.04)
-	 1903 West Hebron Lane Hillview 40165
+Lake Cumberland Regional Hospital (0.00)
+	305 Langdon Street Somerset 42501
 Unmatched emergency=yes
-Breckinridge Health (2.88)
-	 1011 Old US 60 East Hardinsburg 40143
-Found 16 unmatched emergency.
+Saint Joseph London (0.00)
+	1001 Saint Joseph Drive London 40741
+Unmatched emergency=yes
+Manchester Memorial Hospital (0.00)
+	210 Marie Langdon Drive Manchester 40962
+Unmatched emergency=yes
+Mary Breckinridge ARH Hospital (0.00)
+	130 Kate Ireland Drive Hyden 41749
+Unmatched emergency=yes
+Saint Claire Regional Medical Center (0.00)
+	222 Medical Circle Morehead 40351
+Unmatched emergency=yes
+Morgan County ARH Hospital (0.00)
+	476 Liberty Road West Liberty 41472
+Unmatched emergency=yes
+Pikeville Medical Center (0.00)
+	911 Bypass Road Pikeville 41501
+Unmatched emergency=yes
+Three Rivers Medical Center (0.00)
+	2485 Highway 644 Louisa 41230
+Unmatched emergency=yes
+Highlands Regional Medical Center (0.00)
+	5000 Route 321 Prestonsburg 41653
+Unmatched emergency=yes
+Paul B. Hall Regional Medical Center (0.00)
+	625 James S Trimble Boulevard Paintsville 41240
+Unmatched emergency=yes
+Owensboro Health Regional Hospital (0.00)
+	1201 Pleasant Valley Road Owensboro 42303
+Unmatched emergency=yes
+Logan Memorial Hospital (0.00)
+	1625 Nashville Street Russellville 42276
+Unmatched emergency=yes
+Lourdes Hospital (0.00)
+	1530 Lone Oak Road Paducah 42003
+Unmatched emergency=yes
+Baptist Health Corbin (0.00)
+	1 Trillium Way Corbin 40701
+Unmatched emergency=yes
+KentuckyOne Health Medical Center Jewish South (0.00)
+	1903 West Hebron Lane Hillview 40165
+Unmatched emergency=yes
+King's Daughters (0.00)
+	2201 Lexington Avenue Ashland 41101
+Unmatched emergency=yes
+Baptist Health Paducah (0.00)
+	2501 Kentucky Avenue Paducah 42003
+Unmatched emergency=yes
+Barbourville ARH Hospital (0.00)
+	80 Hospital Drive Barbourville 40906
+Unmatched emergency=yes
+Saint Joseph Berea (0.00)
+	305 Estill Street Berea 40403
+Unmatched emergency=yes
+Ephraim McDowell Regional Medical Center (0.00)
+	217 South 3rd Street Danville 40422
+Unmatched emergency=yes
+TJ Health Columbia (0.00)
+	901 Westlake Drive Columbia 42728
+Unmatched emergency=yes
+Flaget Memorial Hospital (0.00)
+	4305 New Shepherdsville Road Bardstown 40004
+Unmatched emergency=yes
+Breckinridge Health (0.00)
+	1011 Old US 60 East Hardinsburg 40143
+Unmatched emergency=yes
+Marshall County Hospital (0.00)
+	615 Old Symsonia Road Benton 42025
+Unmatched emergency=yes
+Jackson Purchase Medical Center (0.00)
+	1099 Medical Center Circle Mayfield 42066
+Unmatched emergency=yes
+Whitesburg ARH Hospital (0.00)
+	240 Hospital Road Whitesburg 41858
+Unmatched emergency=yes
+Owensboro Health Muhlenberg Community Hospital (0.00)
+	440 Hopkinsville Street Greenville 42345
+Unmatched emergency=yes
+T.J. Samson Community Hospital (0.00)
+	1301 North Race Street Glasgow 42141
+Unmatched emergency=yes
+Middlesboro ARH Hospital (0.00)
+	3600 West Cumberland Avenue Middlesboro 40965
+Unmatched emergency=yes
+Pineville Community Hospital (0.00)
+	850 Riverview Avenue Pineville 40977
+Unmatched emergency=yes
+Murray-Calloway County Hospital. (0.00)
+	803 Poplar Street Murray 42071
+Unmatched emergency=yes
+Hazard ARH Regional Medical Center (0.00)
+	100 Medical Center Drive Hazard 41701
+Unmatched emergency=yes
+Bourbon Community Hospital (0.00)
+	9 Linville Drive Paris 40361
+Unmatched emergency=yes
+Harlan ARH Hospital (0.00)
+	81 Ball Park Road Harlan 40831
+Unmatched emergency=yes
+Fleming County Hospital (0.00)
+	55 Foundation Drive Flemingsburg 41041
+Unmatched emergency=yes
+Twin Lakes Regional Medical Center (0.00)
+	910 Wallace Avenue Leitchfield 42754
+Unmatched emergency=yes
+Harrison Memorial Hospital (0.00)
+	1210 Kentucky Highway 36 East Cynthiana 41031
+Unmatched emergency=yes
+Taylor Regional Hospital (0.00)
+	1700 Old Lebanon Road Campbellsville 42718
+Unmatched emergency=yes
+Crittenden Health Systems (0.00)
+	520 West Gum Street Marion 42064
+Unmatched emergency=yes
+Monroe County Medical Center (0.00)
+	529 Capp Harlan Road Tompkinsville 42167
+Unmatched emergency=yes
+The Medical Center at Albany (0.00)
+	723 Burkesville Road Albany 42602
+Unmatched emergency=yes
+Rockcastle Regional Hospital (0.00)
+	145 Newcomb Avenue Mount Vernon 40456
+Unmatched emergency=yes
+Frankfort Regional Medical Center (0.00)
+	299 Kings Daughters Drive Frankfort 40601
+Unmatched emergency=yes
+Kentucky River Medical Center (0.00)
+	540 Jett Drive Jackson 41339
+Unmatched emergency=yes
+University of Louisville Hospital (0.00)
+	530 South Jackson Street Louisville 40202
+Unmatched emergency=yes
+Marcum & Wallace Memorial Hospital (0.00)
+	60 Mercy Court Irvine 40336
+Unmatched emergency=yes
+Methodist Hospital Union County Campus (0.00)
+	4604 US Highway 60 West Morganfield 42437
+Unmatched emergency=yes
+Casey County Hospital (0.00)
+	187 Wolford Avenue Liberty 42539
+Unmatched emergency=yes
+Carroll County Memorial Hospital (0.00)
+	309 11th Street Carrollton 41008
+Unmatched emergency=yes
+Saint Elizabeth Grant (0.00)
+	238 Barnes Road Williamstown 41097
+Unmatched emergency=yes
+Ephraim McDowell Fort Logan Hospital (0.00)
+	110 Metker Trail Stanford 40484
+Unmatched emergency=yes
+Cumberland County Hospital (0.00)
+	299 Glasgow Road Burkesville 42717
+Unmatched emergency=yes
+Livingston Hospital and Healthcare Services (0.00)
+	131 Hospital Drive Salem 42078
+Unmatched emergency=yes
+Wayne County Hospital (0.00)
+	166 Hospital Street Monticello 42633
+Unmatched emergency=yes
+Caldwell Medical Center (0.00)
+	100 Medical Center Drive Princeton 42445
+Unmatched emergency=yes
+Ohio County Hospital (0.00)
+	1211 Old Main Street Hartford 42347
+Unmatched emergency=yes
+The Medical Center at Scottsville (0.00)
+	456 Burnley Road Scottsville 42164
+Unmatched emergency=yes
+Jane Todd Crawford Hospital (0.00)
+	202-206 Milby Street Greensburg 42743
+Unmatched emergency=yes
+Russell County Hospital (0.00)
+	153 Dowell Road Russell Springs 42642
+Found 101 unmatched emergency.

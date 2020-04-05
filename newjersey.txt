@@ -1,145 +1,196 @@
 108 OSM hospitals
-80 Medicare hospitals
-1. Hudson County Meadowview Psychiatric H
-	595 County Avenue Secaucus 07094 (CMS:no)
-	2.16 Meadowlands Hospital Medical Center
-	55 Meadowlands Parkway Secaucus 07094
-Capital Health Medical Center - Hopewell
-	1 Capital Way Pennington 08534
-	 Emergency Mismatch (CMS:no)
-	Capital Health Medical Center - Hopewell
-2. University Behavioral Health Care
-	671 Hoes Lane West Piscataway 08854 (CMS:no)
-	1.26 Princeton House Behavioral Health
-	905 Herrontown Road Princeton 08540
-3. Hackensack Meridian Health Carrier Clinic
-	252 Route 601 Belle Mead 08502 (CMS:no)
-	2.73 Carrier Clinic
-	252 County Road 601 Belle Mead 08502
-4. Children's Specialized Hospital
-	200 Somerset Street New Brunswick 08901 (CMS:no)
-	2.40 Saint Peter's University Hospital
-	254 Easton Avenue New Brunswick 08901
-5. Ramapo Ridge Psych Hosp
-	301 Sicomac Ave Wyckoff 07481 (CMS:no)
-	0.83 Dover General Hospital
-	400 West Blackwell Street Dover 07801
-6. Aspen Hills Healthcare Center
-	600 Pemberton-Browns Mills Road Pemberton 08068 (CMS:no)
-	2.66 Buttonwood Behavioral Health Hospital
-	600 Pemberton - Browns Mill Road Pemberton 08064
-7. Trenton Psychiatric Hosp
-	Station A Trenton 08625 (CMS:yes)
-	2.17 Trenton Psychiatric Hospital
-	- Sullivan Way West Trenton 08628
-8. Bayshore Medical Center
-	727 N Beers St Holmdel 07733 (CMS:yes)
-	2.88 Bayshore Community Hospital
-	727 North Beers Street Holmdel 07733
-9. Virtua Willingboro Hospital
-	218A Sunset Road Willingboro 08046 (CMS:yes)
-	3.02 Lourdes Medical Center of Burlington County
-	218 Sunset Road Willingboro 08046
-10. Ancora Psych Hosp
-	Ancora Branch Hammonton 08037 (CMS:no)
-	2.63 Ancora Psychiatric Hospital
-	301 Spring Garden Road Hammonton 08037
-11. Essex County Hospital Center
-	204 Grove Avenue Cedar Grove 07009 (CMS:yes)
-	1.33 Hoboken University Medical Center
-	308 Willow Avenue Hoboken 07030
-Saint Michael's Medical Center
-	111 Central Avenue Newark 07102
-	 Emergency Mismatch (CMS:no)
-	Saint Michael's Medical Center
-12. Hudson Regional Hospital
-	55 Meadowlands Pkwy Secaucus 07094 (CMS:yes)
-	3.00 Meadowlands Hospital Medical Center
-	55 Meadowlands Parkway Secaucus 07094
-13. Greystone Park Psych Hosp
-	59 Koch Avenue Greystone Park 07950 (CMS:yes)
-	2.83 Greystone Park Psychiatric Hospital
-	59 Koch Avenue Morris Plains 07950
-14. Penn Medicine Princeton Medical Center
-	One - Five Plainsboro Road Plainsboro 08536 (CMS:yes)
-	2.35 University Medical Center of Princeton at Plainsboro
-	1 Plainsboro Road Plainsboro 08537
-15. Capital Health System-Fuld Campus
-	750 Brunswick Ave Trenton 08638 (CMS:yes)
-	1.98 Capital Health Regional Medical Center
-	750 Brunswick Avenue Trenton city 08629
-16. University Hospital
-	150 Bergen St Newark 07101 (CMS:yes)
-	3.07 University Hospital Helipad
-	150 Bergen Street Newark 07103
-17. Hampton Behavioral Health System
-	650 Rancocas Road Westampton 08060 (CMS:no)
-	1.57 Buttonwood Behavioral Health Hospital
-	600 Pemberton - Browns Mill Road Pemberton 08064
-18. Northbrook Behavioral Health Hospital
-	425 Woodbury Turnersville Road Blackwood 08012 (CMS:no)
-	1.41 Jefferson Washington Township Hospital
-	435 Hurffville Crosskeys Road Turnersville 08012
-19. Hackensack-Umc Mountainside
-	Bay And Highland Ave Montclair 07042 (CMS:yes)
-	2.44 Mountainside Hospital
-	1 Bay Avenue Montclair 07042
-Weisman Childrens Rehabilitation Hospital
-	92 Brick Road Marlton 08053
-	 Emergency Mismatch (CMS:yes)
-	Weisman Children's Rehabilitation Hospital
-Virtua Memorial Hospital Of Burlington County
-	175 Madison Avenue Mount Holly 08060
-	 Emergency Mismatch (CMS:no)
-	Virtua Memorial Hospital Of Burlington County
-20. Saint Barnabas Behavioral Health Center
-	1691 Highway 9 - Cn2025 Toms River 08755 (CMS:no)
-	2.49 Community Medical Center
-	99 Highway 37 West Toms River 08755
-Found 20 issues.
+0 Medicare hospitals
+Found 0 issues.
 
+Unmatched emergency=yes
+Hoboken University Medical Center (0.00)
+	308 Willow Avenue Hoboken 07030
 Unmatched emergency=yes
 AtlantiCare Regional Medical Center (0.00)
 	65 West Jimmie Leeds Road Pomona 08240
 Unmatched emergency=yes
-Lourdes Medical Center of Burlington County (3.02)
+Southern Ocean Medical Center (0.00)
+	1140 Route 72 West Manahawkin 08050
+Unmatched emergency=yes
+Shore Medical Center (0.00)
+	100 Medical Center Way Somers Point 08244
+Unmatched emergency=yes
+Our Lady of Lourdes Medical Center (0.00)
+	1600 Haddon Avenue Camden 08103
+Unmatched emergency=yes
+Lourdes Medical Center of Burlington County (0.00)
 	218 Sunset Road Willingboro 08046
 Unmatched emergency=yes
-University Medical Center of Princeton at Plainsboro (2.35)
+Cape Regional Medical Center (0.00)
+	2 Stone Harbor Boulevard Cape May Court House 08210
+Unmatched emergency=yes
+Inspira Medical Center Vineland (0.00)
+	1505 West Sherman Avenue Vineland 08360
+Unmatched emergency=yes
+Newton Medical Center (0.00)
+	175 High Street Newton 07860
+Unmatched emergency=yes
+The Valley Hospital (0.00)
+	223 North Van Dien Ridgewood 07450
+Unmatched emergency=yes
+University Medical Center of Princeton at Plainsboro (0.00)
 	1 Plainsboro Road Plainsboro 08537
 Unmatched emergency=yes
-Jefferson Washington Township Hospital (1.41)
+Monmouth Medical Center, Southern Campus (0.00)
+	600 River Avenue Lakewood 08701
+Unmatched emergency=yes
+Jefferson Washington Township Hospital (0.00)
 	435 Hurffville Crosskeys Road Turnersville 08012
 Unmatched emergency=yes
 Jefferson Cherry Hill Hospital (0.00)
 	2201 Chapel Avenue West Cherry Hill 08002
 Unmatched emergency=yes
+Jefferson Stratford Hospital (0.00)
+	18 East Laurel Road Stratford 08084
+Unmatched emergency=yes
+Atlanticare Regional Medical Center (0.00)
+	1925 Pacific Avenue Atlantic City 08401
+Unmatched emergency=yes
+Hackensack University Medical Center (0.00)
+	30 Prospect Avenue Hackensack 07601
+Unmatched emergency=yes
+Holy Name Medical Center (0.00)
+	718 Teaneck Road Teaneck 07666
+Unmatched emergency=yes
+Englewood Hospital Medical Center (0.00)
+	350 Engle Street Englewood 07631
+Unmatched emergency=yes
+St. Joseph’s Regional Medical Center (0.00)
+	703 Main Street Paterson 07503
+Unmatched emergency=yes
+Robert Wood Johnson University Hospital (0.00)
+	1 Robert Wood Johnson Place New Brunswick 08901
+Unmatched emergency=yes
 Virtua Health & Wellness Center - Camden (0.00)
 	1000 Atlantic Avenue Camden 08103
+Unmatched emergency=yes
+Overlook Medical Center (0.00)
+	99 Beauvoir Avenue Summit 07901
+Unmatched emergency=yes
+Hackettstown Medical Center (0.00)
+	651 Willow Grove Street Hackettstown 07840
+Unmatched emergency=yes
+Cooper University Hospital (0.00)
+	1 Cooper Plaza Camden 08103
+Unmatched emergency=yes
+Jersey City Medical Center (0.00)
+	355 Grand Street Jersey City 07302
+Unmatched emergency=yes
+Morristown Medical Center (0.00)
+	100 Madison Avenue Morristown 07960
+Unmatched emergency=yes
+Saint Michael's Medical Center (0.00)
+	111 Central Avenue Newark 07102
 Unmatched emergency=yes
 VA New Jersey Health Care System (0.00)
 	385 Tremont Avenue East Orange 07018
 Unmatched emergency=yes
-Meadowlands Hospital Medical Center (3.00)
+Newark Beth Israel Medical Center (0.00)
+	201 Lyons Avenue Newark 07112
+Unmatched emergency=yes
+Clara Maass Medical Center (0.00)
+	1 Clara Maass Drive Belleville 07109
+Unmatched emergency=yes
+Meadowlands Hospital Medical Center (0.00)
 	55 Meadowlands Parkway Secaucus 07094
 Unmatched emergency=yes
-Bayshore Community Hospital (2.88)
+Palisades Medical Center (0.00)
+	7600 River Road North Bergen 07047
+Unmatched emergency=yes
+Trinitas Regional Medical Center Williamson Campus (0.00)
+	225 Williamson Street Elizabeth 07202
+Unmatched emergency=yes
+Bayshore Community Hospital (0.00)
 	727 North Beers Street Holmdel 07733
 Unmatched emergency=yes
-Dover General Hospital (0.83)
+St. Luke's Hospital - Warren Campus (0.00)
+	185 Roseberry Street Phillipsburg 08865
+Unmatched emergency=yes
+Hunterdon Medical Center (0.00)
+	2100 Wescott Drive Flemington 08822
+Unmatched emergency=yes
+Dover General Hospital (0.00)
 	400 West Blackwell Street Dover 07801
+Unmatched emergency=yes
+Chilton Medical Center (0.00)
+	97 West Parkway Pompton Plains 07444
 Unmatched emergency=yes
 St. Joseph's Wayne Hospital (0.00)
 	224 Paterson-Hamburg Turnpike Wayne 07470
 Unmatched emergency=yes
-Mountainside Hospital (2.44)
+New Bridge Medical Center (0.00)
+	230 East Ridgewood Avenue Paramus 07652
+Unmatched emergency=yes
+Hackensack University Medical Center at Pascack Valley (0.00)
+	250 Old Hook Road Westwood 07675
+Unmatched emergency=yes
+St. Mary's General Hospital (0.00)
+	350 Boulevard Passaic 07055
+Unmatched emergency=yes
+Mountainside Hospital (0.00)
 	1 Bay Avenue Montclair 07042
 Unmatched emergency=yes
-Capital Health Regional Medical Center (1.98)
+Christ Hospital (0.00)
+	176 Palisade Avenue Jersey City 07306
+Unmatched emergency=yes
+East Orange General Hospital (0.00)
+	300 Central Avenue East Orange 07018
+Unmatched emergency=yes
+Saint Barnabas Medical Center (0.00)
+	94 Old Short Hills Road Livingston 07039
+Unmatched emergency=yes
+Bayonne Medical Center (0.00)
+	29 East 29th Street Bayonne 07002
+Unmatched emergency=yes
+Robert Wood Johnson University Hospital At Rahway (0.00)
+	865 Stone Street Rahway 07065
+Unmatched emergency=yes
+JFK Medical Center (0.00)
+	65 James Street Edison 08818
+Unmatched emergency=yes
+Hackensack Meridian Health - Raritan Bay Medical Center (0.00)
+	530 New Brunswick Avenue Perth Amboy 08861
+Unmatched emergency=yes
+Saint Peter's University Hospital (0.00)
+	254 Easton Avenue New Brunswick 08901
+Unmatched emergency=yes
+Robert Wood Johnson University Hospital Somerset (0.00)
+	110 Rehill Avenue Somerville 08876
+Unmatched emergency=yes
+Saint Francis Medical Center (0.00)
+	601 Hamilton Avenue Trenton 08629
+Unmatched emergency=yes
+Capital Health Regional Medical Center (0.00)
 	750 Brunswick Avenue Trenton city 08629
 Unmatched emergency=yes
 Raritan Bay Medical Center (0.00)
 	1 Hospital Plaza Old Bridge 08857
+Unmatched emergency=yes
+Riverview Medical Center (0.00)
+	1 Riverview Plaza Red Bank 07701
+Unmatched emergency=yes
+Monmouth Medical Center (0.00)
+	300 2nd Avenue Long Branch 07740
+Unmatched emergency=yes
+Jersey Shore University Medical Center (0.00)
+	1945 Route 33 Neptune 07753
+Unmatched emergency=yes
+CentraState Medical Center (0.00)
+	901 West Main Street Freehold 07728
+Unmatched emergency=yes
+Community Medical Center (0.00)
+	99 Highway 37 West Toms River 08755
+Unmatched emergency=yes
+Inspira Medical Center Elmer (0.00)
+	501 West Front Street Elmer 08318
+Unmatched emergency=yes
+Inspira Medical Center Woodbury (0.00)
+	509 North Broad Street Woodbury 08096
 Unmatched emergency=yes
 Virtua Marlton Hospital (0.00)
 	90 Brick Road Marlton 08053
@@ -147,9 +198,30 @@ Unmatched emergency=yes
 Virtua Health & Wellness Center - Berlin (0.00)
 	100 Townsend Avenue Berlin 08009
 Unmatched emergency=yes
-University Hospital Helipad (3.07)
+Capital Health Medical Center - Hopewell (0.00)
+	1 Capital Way Pennington 08534
+Unmatched emergency=yes
+Robert Wood Johnson University Hospital Hamilton (0.00)
+	1 Hamilton Health Place Hamilton 08690
+Unmatched emergency=yes
+Saint Clare's Hospital (0.00)
+	25 Pocono Road Denville 07834
+Unmatched emergency=yes
+Ocean Medical Center (0.00)
+	425 Jack Martin Boulevard Brick 08724
+Unmatched emergency=yes
+Virtua Memorial Hospital Of Burlington County (0.00)
+	175 Madison Avenue Mount Holly 08060
+Unmatched emergency=yes
+Memorial Hospital Of Salem County (0.00)
+	310 Woodstown Road Salem 08079
+Unmatched emergency=yes
+University Hospital Helipad (0.00)
 	150 Bergen Street Newark 07103
 Unmatched emergency=yes
 The Bristol-Meyers Squibb Children's Hospital (0.00)
 	200 Somerset Street - 08901
-Found 18 unmatched emergency.
+Unmatched emergency=yes
+Virtua Voorhees Hospital (0.00)
+	100 Bowman Drive Voorhees 08043
+Found 74 unmatched emergency.
