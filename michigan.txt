@@ -7,215 +7,205 @@
   Medicare emergency services: no
   OSM Emergency: yes
 2. Unmatched medicare hospital
-  Medicare name: The Behavioral Center Of Michigan
-  Medicare address: 4050 E 12 Mile Road Warren 48092
-  Medicare emergency services: no
-  Best OSM Match: 2.38 Saint John Macomb-Oakland Hospital, Warren
-  OSM Address: 11800 East 12 Mile Road Warren 48093
-3. Unmatched medicare hospital
   Medicare name: Ascension River District Hospital
   Medicare address: 4100 River Rd East China 48054
   Medicare emergency services: no
   Best OSM Match: 3.04 Saint John River District Hospital
   OSM Address: 4100 River Road East China Township 48054
-4. Emergency services mismatch
+3. Emergency services mismatch
   Medicare name: Munson Healthcare Otsego Memorial Hospital
   OSM name: Otsego Memorial Hospital
   OSM Address: 825 North Center Avenue Gaylord 49735
   Medicare emergency services: no
   OSM Emergency: yes
-5. Unmatched medicare hospital
+4. Unmatched medicare hospital
   Medicare name: Caro Center
   Medicare address: 2000 Chambers, Box A Caro 48723
   Medicare emergency services: yes
   Best OSM Match: 2.30 Caro Community Hospital
   OSM Address: 401 North Hooper Street Caro 48723
-6. Unmatched medicare hospital
+5. Unmatched medicare hospital
   Medicare name: Ascension Providence Hospital
   Medicare address: 16001 W Nine Mile Rd Southfield 48075
   Medicare emergency services: yes
   Best OSM Match: 2.84 Providence-Providence Park Hospital, Southfield Campus
   OSM Address: 16001 West 9 Mile Road Southfield 48075
-7. Emergency services mismatch
+6. Emergency services mismatch
   Medicare name: Healthsource Saginaw
   OSM name: HealthSource Saginaw
   OSM Address: 3340 Hospital Road Saginaw 48603
   Medicare emergency services: yes
   OSM Emergency: no
-8. Emergency services mismatch
+7. Emergency services mismatch
   Medicare name: Spectrum Health Zeeland Community Hospital
   OSM name: Spectrum Health Zeeland Community Hospital
   OSM Address: 8333 Felch Street Zeeland 49464
   Medicare emergency services: no
   OSM Emergency: yes
-9. Unmatched medicare hospital
+8. Unmatched medicare hospital
   Medicare name: Ascension Borgess Lee Hospital
   Medicare address: 420 W High St Dowagiac 49047
   Medicare emergency services: yes
   Best OSM Match: 3.08 Borgess Lee Memorial Hospital
   OSM Address: 420 West High Street Dowagiac 49047
-10. Unmatched medicare hospital
+9. Unmatched medicare hospital
   Medicare name: Cedar Creek Hospital
   Medicare address: 101 West Townsend Road Saint Johns 48879
   Medicare emergency services: no
   Best OSM Match: 2.42 Sparrow Clinton Hospital
   OSM Address: 805 South Oakland Street Saint Johns 48879
-11. Unmatched medicare hospital
+10. Unmatched medicare hospital
   Medicare name: Saint Joseph Mercy Hospital
   Medicare address: 5301 E Huron River Dr Ann Arbor 48106
   Medicare emergency services: yes
   Best OSM Match: 1.84 VA Ann Arbor Healthcare System
   OSM Address: 2215 Fuller Road Ann Arbor 48105
-12. Unmatched medicare hospital
+11. Unmatched medicare hospital
   Medicare name: Covenant Medical Center
   Medicare address: 1447 N Harrison Saginaw 48602
   Medicare emergency services: yes
   Best OSM Match: 2.46 Aleda E. Lutz VA Medical Center
   OSM Address: 1500 Weiss Street Saginaw 48602
-13. Unmatched medicare hospital
+12. Unmatched medicare hospital
   Medicare name: Midmichigan Medical Center - Alpena
   Medicare address: 1501 W Chisholm St Alpena 49707
   Medicare emergency services: yes
   Best OSM Match: 2.97 Alpena Regional Medical Center
   OSM Address: 1501 West Chisholm Street Alpena 49707
-14. Unmatched medicare hospital
+13. Unmatched medicare hospital
   Medicare name: Beaumont Hospital - Trenton
   Medicare address: 5450 Fort Street Trenton 48183
   Medicare emergency services: yes
   Best OSM Match: 3.04 Beaumont Hospital - Trenton
   OSM Address: 5450 Fort Street Trenton 49224
-15. Unmatched medicare hospital
+14. Unmatched medicare hospital
   Medicare name: University Of Michigan Health System
   Medicare address: 1500 E Medical Center Drive, Spc 5474 Ann Arbor 48109
   Medicare emergency services: yes
   Best OSM Match: 2.63 University of Michigan Medical Center
   OSM Address: - - Ann Arbor 48109
-16. Unmatched medicare hospital
+15. Unmatched medicare hospital
   Medicare name: Sparrow Ionia Hospital
   Medicare address: 3565 S State Road Ionia 48846
   Medicare emergency services: yes
   Best OSM Match: 2.96 Sparrow Ionia Hospital
   OSM Address: 3565 South State Road Ionia 49417
-17. Unmatched medicare hospital
+16. Unmatched medicare hospital
   Medicare name: Walter P Reuther Psychiatric Hospital
   Medicare address: 30901 Palmer Rd Westland 48185
   Medicare emergency services: no
   Best OSM Match: 1.11 Henry Ford Health Center - Brownstown
   OSM Address: 23050 West Road Brownstown 48183
-18. Unmatched medicare hospital
+17. Unmatched medicare hospital
   Medicare name: Dickinson County Memorial Hospital
   Medicare address: 1721 S Stephenson Ave Iron Mountain 49801
   Medicare emergency services: yes
   Best OSM Match: 3.05 Dickinson County Healthcare System
   OSM Address: 1721 South Stephenson Avenue Iron Mountain 49801
-19. Unmatched medicare hospital
+18. Unmatched medicare hospital
   Medicare name: Samaritan Behavioral Center
   Medicare address: 5555 Conner Avenue, Suite 3N Detroit 48213
   Medicare emergency services: no
   Best OSM Match: 2.98 Samaritan Center
   OSM Address: 5555 Conner Street Detroit 48213
-20. Unmatched medicare hospital
+19. Unmatched medicare hospital
   Medicare name: Mercy Health Muskegon
   Medicare address: 1700 Clinton Street Muskegon 49442
   Medicare emergency services: yes
   Best OSM Match: 3.08 Mercy Health Hackley Campus
   OSM Address: 1700 Clinton Street Muskegon 49444
-21. Unmatched medicare hospital
+20. Unmatched medicare hospital
   Medicare name: Forest View Psychiatric Hospital
   Medicare address: 1055 Medical Park Se Grand Rapids 49546
   Medicare emergency services: no
   Best OSM Match: 2.06 Blodgett Hospital
   OSM Address: 1840 Wealthy Street Southeast Grand Rapids 49506
-22. Emergency services mismatch
+21. Emergency services mismatch
   Medicare name: Spectrum Health United Hospital
   OSM name: Spectrum Health United Hospital
   OSM Address: 615 South Bower Street Greenville 48838
   Medicare emergency services: no
   OSM Emergency: yes
-23. Emergency services mismatch
+22. Emergency services mismatch
   Medicare name: Three Rivers Health
   OSM name: Three Rivers Health
   OSM Address: 701 South Health Parkway Three Rivers 49093
   Medicare emergency services: no
   OSM Emergency: yes
-24. Unmatched medicare hospital
+23. Unmatched medicare hospital
   Medicare name: Harbor Oaks Hospital
   Medicare address: 35031 23 Mile Rd New Baltimore 48047
   Medicare emergency services: no
   Best OSM Match: 1.34 Beaumont Hospital - Royal Oak
   OSM Address: 3601 West 13 Mile Road Royal Oak 48073
-25. Emergency services mismatch
+24. Emergency services mismatch
   Medicare name: Midmichigan Medical Center-Clare
   OSM name: MidMichigan Medical Center - Clare
   OSM Address: 703 North McEwan Street Clare 48617
   Medicare emergency services: no
   OSM Emergency: yes
-26. Emergency services mismatch
+25. Emergency services mismatch
   Medicare name: Lakeland Hospital Watervliet
   OSM name: Lakeland Hospital, Watervliet
   OSM Address: 400 Medical Park Drive Watervliet 49098
   Medicare emergency services: no
   OSM Emergency: yes
-27. Unmatched medicare hospital
+26. Unmatched medicare hospital
   Medicare name: Surgeons Choice Medical Center
   Medicare address: 22401 Foster Winter Drive Southfield 48075
   Medicare emergency services: no
   Best OSM Match: 3.08 Oakland Regional Hospital
   OSM Address: 22401 Foster Winter Drive Southfield 48075
-28. Unmatched medicare hospital
+27. Unmatched medicare hospital
   Medicare name: The Center For Forensic Psychiatry
   Medicare address: 8303 Platt Road Saline 48176
   Medicare emergency services: no
   Best OSM Match: 1.16 Ascension Brighton Center for Recovery
   OSM Address: 12851 Grand River Road Brighton 48116
-29. Unmatched medicare hospital
+28. Unmatched medicare hospital
   Medicare name: Saint Mary's Health Care
   Medicare address: 200 Jefferson Avenue Se Grand Rapids 49503
   Medicare emergency services: yes
   Best OSM Match: 2.99 Mercy Health Saint Mary's
   OSM Address: 200 Jefferson Avenue Southeast Grand Rapids 49503
-30. Unmatched medicare hospital
+29. Unmatched medicare hospital
   Medicare name: Mclaren Caro Region
   Medicare address: 401 N Hooper St Caro 48723
   Medicare emergency services: yes
   Best OSM Match: 2.73 Caro Community Hospital
   OSM Address: 401 North Hooper Street Caro 48723
-31. Unmatched medicare hospital
+30. Unmatched medicare hospital
   Medicare name: Pine Rest Christian Mental Health Services
   Medicare address: 300 - 68Th Street, Se Grand Rapids 49548
   Medicare emergency services: no
   Best OSM Match: 1.78 Spectrum Health Butterworth Hospital
   OSM Address: 100 Michigan Street Northeast Grand Rapids 49503
-32. Unmatched medicare hospital
+31. Unmatched medicare hospital
   Medicare name: Promedica Coldwater Regional Hospital
   Medicare address: 274 E Chicago St Coldwater 49036
   Medicare emergency services: yes
   Best OSM Match: 2.81 Community Health Center of Branch County
   OSM Address: 274 East Chicago Street Coldwater 49036
-33. Emergency services mismatch
+32. Emergency services mismatch
   Medicare name: Kalamazoo Regional Psychiatric Hospital
   OSM name: Kalamazoo Psychiatric Hospital
   OSM Address: 1312 Oakland Drive Kalamazoo 49008
   Medicare emergency services: yes
   OSM Emergency: no
-34. Unmatched medicare hospital
+33. Unmatched medicare hospital
   Medicare name: Henry Ford Kingswood Hospital
   Medicare address: 10300 W Eight Mile Road Ferndale 48220
   Medicare emergency services: no
   Best OSM Match: 2.67 Henry Ford Kingswood Hospital
   OSM Address: 10300 8 Mile Road Royal Oak Charter Township 48220
-35. Unmatched medicare hospital
+34. Unmatched medicare hospital
   Medicare name: Ascension Genesys Hospital
   Medicare address: One Genesys Parkway Grand Blanc 48439
   Medicare emergency services: yes
   Best OSM Match: 2.44 Genesys Regional Medical Center
   OSM Address: 1 Genesys Parkway Grand Blanc Township 48439
-Found 35 potential issues.
+Found 34 potential issues.
 
-Unmatched emergency=yes in OSM
-  OSM name: Mercy Health Mercy Campus
-  Score of best match: 0.00
-  OSM address: 1500 East Sherman Boulevard Muskegon 49444
 Unmatched emergency=yes in OSM
   OSM name: Mackinac Island Medical Center
   Score of best match: 0.00
@@ -324,6 +314,10 @@ Unmatched emergency=yes in OSM
   OSM name: Borgess-Pipp Hospital
   Score of best match: 0.00
   OSM address: 411 Naomi Street Plainwell 49080
+Unmatched emergency=yes in OSM
+  OSM name: Mercy Health Mercy Campus
+  Score of best match: 0.00
+  OSM address: 1500 East Sherman Boulevard Muskegon 49444
 Unmatched emergency=yes in OSM
   OSM name: Saint Mary Mercy Hospital
   Score of best match: 0.00
